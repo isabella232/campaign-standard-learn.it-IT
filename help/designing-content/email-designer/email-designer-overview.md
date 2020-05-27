@@ -8,9 +8,9 @@ doc-type: feature video
 activity: use
 team: TM
 translation-type: tm+mt
-source-git-commit: 39e7f9fc2a6631ebc5f2555dad651a72464e4344
+source-git-commit: 58fd8bec8adfca14188ea66423c107a14253834e
 workflow-type: tm+mt
-source-wordcount: '158'
+source-wordcount: '151'
 ht-degree: 0%
 
 ---
@@ -39,4 +39,3 @@ Sono disponibili le seguenti esercitazioni dettagliate:
 * [Anteprima del messaggio e-mail](/help/designing-content/email-designer/preview-your-email.md)
 * [Utilizzo del contenuto esistente](/help/designing-content/email-designer/working-with-existing-content.md)
 * [Creazione di contenuti con Adobe Dreamweaver](/help/designing-content/email-designer/dreamweaver-integration.md)
-* [Modificare le immagini con Adobe Creative Cloud SDK](/help/designing-content/email-designer/adobe-creative-cloud-sdk-integration.md)
