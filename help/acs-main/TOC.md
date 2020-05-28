@@ -9,9 +9,9 @@ tutorials-url: https://docs.adobe.com/content/help/en/campaign-standard-learn/tu
 getting-started-title: Documentazione
 getting-started-url: https://docs.adobe.com/content/help/en/campaign-standard/using/campaign-standard-home.html
 translation-type: tm+mt
-source-git-commit: 6aa25917e32ca40af73ef33fbfd51c2b14902b04
+source-git-commit: b6d8914043194c7589859d919c3a62c0035b5497
 workflow-type: tm+mt
-source-wordcount: '522'
+source-wordcount: '488'
 ht-degree: 6%
 
 ---
@@ -99,17 +99,6 @@ ht-degree: 6%
 + Sviluppo {#developing}
    + Custom Resources {#custom-resources-develop}
       + [Creazione di risorse personalizzate](/help/managing-processes-and-data/custom-resources/creating-custom-resources.md)
-+ Integrazione {#integrating}
-   + Connettore Microsoft Dynamics 365 {#microsoft-dynamics365-connector}
-      + [Introduzione](/help/integrating/microsoft-dynamics-365-connector/introduction.md)
-      + [Single Sign On (SSO)](/help/integrating/microsoft-dynamics-365-connector/single-sign-on.md)
-      + [Supporto per URL pagina speculare](/help/integrating/microsoft-dynamics-365-connector/mirror-page-url.md)
-      + [Configurare Microsoft Dynamics 365](/help/integrating/microsoft-dynamics-365-connector/configure-microsoft-dynamics-365.md)
-      + [Configurare Adobe IO](/help/integrating/microsoft-dynamics-365-connector/configure-adobe-io.md)
-      + [Configurare Unifi - Introduzione](/help/integrating/microsoft-dynamics-365-connector/configure-unifi-introduction.md)
-      + [Processi Unifi - Panoramica](/help/integrating/microsoft-dynamics-365-connector/configure-unifi-jobs-overview.md)
-      + [Lavoro Unifi - ingresso e uscita](/help/integrating/microsoft-dynamics-365-connector/configure-unifi-jobs-ingress-egress.md)
-      + [Unifi - operazionalizzazione e monitoraggio](/help/integrating/microsoft-dynamics-365-connector/configure-unifi-operalization-and-monitoring.md)
 + Amministrazione {#administrating}
    + [Gestione dei diritti di accesso degli utenti](/help/administrating/managing-user-access-rights.md)
    + Pannello di controllo Campaign {#control-panel}
