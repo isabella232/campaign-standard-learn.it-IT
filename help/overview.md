@@ -3,7 +3,7 @@ title: Esercitazioni  Adobe Campaign Standard - Panoramica
 description: ' Adobe Campaign fornisce una piattaforma per la progettazione di esperienze cliente multicanale e fornisce un ambiente per l''orchestrazione visiva delle campagne, la gestione delle interazioni in tempo reale e l''esecuzione tra canali. Questa guida utente contiene video ed esercitazioni sulle numerose funzioni e funzionalità di  Adobe Campaign Standard.'
 products: SG_CAMPAIGN/STANDARD
 translation-type: tm+mt
-source-git-commit: 3f3fec14bcd2777146a08a269c298f9b8ca17acd
+source-git-commit: dc7295c80b8c4ef3d641baf885d50ee55d4f5197
 workflow-type: tm+mt
 source-wordcount: '302'
 ht-degree: 4%
@@ -17,15 +17,17 @@ ht-degree: 4%
 
 ## Novità
 
-* **[Pannello di controllo Generazione e installazione dei tasti GPG](/help/administrating/control-panel/generating-and-installing-gpg-keys.md)**   <br>
+* **[Pannello di controllo - Generazione e installazione dei tasti GPG](/help/administrating/control-panel/generating-and-installing-gpg-keys.md)**
+
    *Scoprite come generare e installare una nuova coppia di chiavi GPG pubblica/privata in un&#39;istanza specificata e come importare e installare una chiave pubblica nell&#39;istanza del Adobe Campaign .*
 
-* **[Attività API esterna](/help/managing-processes-and-data/data-management-activities/external-api-activity.md)**   <br>
+* **[Attività API esterna](/help/managing-processes-and-data/data-management-activities/external-api-activity.md)**
+
    *Scoprite come configurare ed eseguire un flusso di lavoro con l&#39;attività API esterna.*
 
-* **[Sostituzione profilo - Verifica dei messaggi e-mail tramite profili di destinazione](/help/communication-channels/email/profile-substitution.md)**   <br>
-   *Scopri come inviare una prova per la revisione con l&#39;esatta rappresentazione del messaggio che il profilo riceverà.*
+* **[Sostituzione profilo - Verifica dei messaggi e-mail tramite profili di destinazione](/help/communication-channels/email/profile-substitution.md)**
 
+   *Scopri come inviare una prova per la revisione con l&#39;esatta rappresentazione del messaggio che il profilo riceverà.*
 
 ## Prezzi del personale
 
