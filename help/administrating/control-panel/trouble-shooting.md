@@ -1,6 +1,6 @@
 ---
 title: Risoluzione dei problemi relativi al Pannello di controllo
-description: Il Pannello di controllo consente di monitorare e gestire l'archiviazione SFTP per istanza e indirizzi IP per la whitelist.
+description: Il Pannello di controllo consente di monitorare e gestire lo storage SFTP per istanza e di consentire indirizzi IP elenco.
 feature: Control Panel
 topics: null
 kt: 2938
@@ -8,10 +8,10 @@ doc-type: article
 activity: use
 team: PM
 translation-type: tm+mt
-source-git-commit: cb5d5bc58137fd374eafe165c6ea13288a60d7db
+source-git-commit: b277b1ad17d9c03b307f8483d776b796e6c0cbef
 workflow-type: tm+mt
-source-wordcount: '335'
-ht-degree: 0%
+source-wordcount: '336'
+ht-degree: 1%
 
 ---
 
@@ -62,8 +62,8 @@ L’amministratore deve aggiungere l’utente al profilo di prodotto `Campaign-x
 
 La connessione ai server SFTP richiede:
 
-* [!UICONTROL Whitelisting] l&#39;indirizzo IP da cui ci si connette al server SFTP
-* Coppia di chiave pubblica/privata che deve essere registrata con Adobe Campaign
+* [!UICONTROL allow listing] l&#39;indirizzo IP da cui ci si connette al server SFTP
+* Coppia di chiave pubblica/privata che deve essere registrata con  Adobe Campaign
 * Se ti connetti direttamente al server SFTP, avrai bisogno anche del software client SFTP
 
 ### Documentazione utile
