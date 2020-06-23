@@ -1,21 +1,24 @@
 ---
-title: Esercitazioni Adobe Campaign Standard - Panoramica
-description: Adobe Campaign offre una piattaforma per la progettazione di esperienze cliente multicanale e fornisce un ambiente per l'orchestrazione visiva delle campagne, la gestione delle interazioni in tempo reale e l'esecuzione su più canali. Questa guida utente contiene video ed esercitazioni sulle numerose funzioni e funzionalità di Adobe Campaign Standard.
+title: Esercitazioni  Adobe Campaign Standard - Panoramica
+description: ' Adobe Campaign fornisce una piattaforma per la progettazione di esperienze cliente multicanale e fornisce un ambiente per l''orchestrazione visiva delle campagne, la gestione delle interazioni in tempo reale e l''esecuzione tra canali. Questa guida utente contiene video ed esercitazioni sulle numerose funzioni e funzionalità di  Adobe Campaign Standard.'
 products: SG_CAMPAIGN/STANDARD
 translation-type: tm+mt
-source-git-commit: 4ef870e79a3479004dae4c22816338e8fe4563dd
+source-git-commit: 3f3fec14bcd2777146a08a269c298f9b8ca17acd
 workflow-type: tm+mt
-source-wordcount: '288'
-ht-degree: 1%
+source-wordcount: '302'
+ht-degree: 4%
 
 ---
 
 
 # Panoramica
 
-Adobe Campaign offre una piattaforma per la progettazione di esperienze cliente multicanale e fornisce un ambiente per l&#39;orchestrazione visiva delle campagne, la gestione delle interazioni in tempo reale e l&#39;esecuzione su più canali. Questa guida utente contiene video ed esercitazioni sulle numerose funzioni e funzionalità di Adobe Campaign Standard.
+ Adobe Campaign fornisce una piattaforma per la progettazione di esperienze cliente multicanale e fornisce un ambiente per l&#39;orchestrazione visiva delle campagne, la gestione delle interazioni in tempo reale e l&#39;esecuzione tra canali. Questa guida utente contiene video ed esercitazioni sulle numerose funzioni e funzionalità di  Adobe Campaign Standard.
 
 ## Novità
+
+* **[Pannello di controllo Generazione e installazione dei tasti GPG](/help/administrating/control-panel/generating-and-installing-gpg-keys.md)**   <br>
+   *Scoprite come generare e installare una nuova coppia di chiavi GPG pubblica/privata in un&#39;istanza specificata e come importare e installare una chiave pubblica nell&#39;istanza del Adobe Campaign .*
 
 * **[Attività API esterna](/help/managing-processes-and-data/data-management-activities/external-api-activity.md)**   <br>
    *Scoprite come configurare ed eseguire un flusso di lavoro con l&#39;attività API esterna.*
@@ -23,27 +26,22 @@ Adobe Campaign offre una piattaforma per la progettazione di esperienze cliente 
 * **[Sostituzione profilo - Verifica dei messaggi e-mail tramite profili di destinazione](/help/communication-channels/email/profile-substitution.md)**   <br>
    *Scopri come inviare una prova per la revisione con l&#39;esatta rappresentazione del messaggio che il profilo riceverà.*
 
-* **[Pannello di controllo - Gestione record Google TXT](/help/administrating/control-panel/google-txt-record-management.md)**   <br>
-   *Scopri come aggiungere il record di verifica del sito Google TXT a tutti i tuoi sottodomini utilizzati per inviare e-mail agli indirizzi GMAIL tramite il Pannello di controllo della campagna.*
-
-* **[Esercitazione: Guida introduttiva alle notifiche push per Android](https://docs.adobe.com/content/help/en/campaign-standard-learn/getting-started-with-push-notifications-android/introduction.html)**   <br>
-   *Questa esercitazione illustra i passaggi necessari per inviare notifiche push da Adobe Campaign e ricevere queste notifiche nell&#39;app Android.*
 
 ## Prezzi del personale
 
 <table>
 <tr>
   <td>
-    <a href="./communication-channels/mobile/in-app/in-app-message-overview.md"> 
-      <img alt="Messaggistica in-app (esercitazione)" src="./assets/in_app_messaging.png"/>
+    <a href="./communication-channels/email/profile-substitution.md"> 
+      <img alt="Sostituzione profilo - Verifica dei messaggi e-mail tramite profili di destinazione (video)" src="./assets/substitution_tab.png"/>
     </a>
     <div>
-      <a href="./communication-channels/mobile/in-app/in-app-message-overview.md">
-    <strong>Messaggistica in-app (esercitazione)</strong>
+      <a href="./communication-channels/email/profile-substitution.md">
+    <strong>Sostituzione profilo - Verifica dei messaggi e-mail tramite profili di destinazione (video)</strong>
     </a>
     </div>
     <p>
-    <em>Messaggistica in-app è un canale che consente di visualizzare un messaggio quando l'utente è attivo all'interno di un'applicazione mobile.</em>
+    <em>Scopri come inviare una prova per la revisione con l'esatta rappresentazione del messaggio che il profilo riceverà.</em>
     <p>
   </td>
    <td>
@@ -60,16 +58,16 @@ Adobe Campaign offre una piattaforma per la progettazione di esperienze cliente 
     <p>
   </td>
   <td>
-    <a href="./designing-content/product-listings-in-transactional-email.md">
-      <img alt="Personalizzare le e-mail mediante blocchi di contenuto dinamici (video)" src="./assets/acs_product_listings.png" />
+    <a href="https://docs.adobe.com/content/help/en/campaign-standard-learn/getting-started-with-push-notifications-android/introduction.html">
+      <img alt="Esercitazione: Guida introduttiva alle notifiche push per Android" src="./assets/push-for-android.png" />
     </a>
     <div>
-      <a href="./designing-content/product-listings-in-transactional-email.md">
-    <strong>Elenco prodotti (esercitazione)</strong>
+      <a href="https://docs.adobe.com/content/help/en/campaign-standard-learn/getting-started-with-push-notifications-android/introduction.html">
+    <strong>Esercitazione: Guida introduttiva alle notifiche push per Android</strong>
     </a>
     </div>
     <p>
-    <em>Crea e-mail transazionali con un elenco di prodotti e offerte. </em>
+    <em>Questa esercitazione illustra i passaggi necessari per inviare notifiche push da  Adobe Campaign e ricevere queste notifiche nell'app Android. </em>
     <p>
   </td>
 </tr>
@@ -77,4 +75,4 @@ Adobe Campaign offre una piattaforma per la progettazione di esperienze cliente 
 
 ## Risorse aggiuntive
 
-* [Documentazione](https://docs.adobe.com/content/help/en/campaign-standard/using/campaign-standard-home.html)
+* [Documentazione](https://docs.adobe.com/content/help/it-IT/campaign-standard/using/campaign-standard-home.html)
