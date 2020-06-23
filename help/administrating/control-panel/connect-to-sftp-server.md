@@ -8,9 +8,9 @@ doc-type: feature video
 activity: use
 team: PM
 translation-type: tm+mt
-source-git-commit: cb5d5bc58137fd374eafe165c6ea13288a60d7db
+source-git-commit: b277b1ad17d9c03b307f8483d776b796e6c0cbef
 workflow-type: tm+mt
-source-wordcount: '165'
+source-wordcount: '166'
 ht-degree: 0%
 
 ---
@@ -33,8 +33,8 @@ Per accedere alla Gestione SFTP nel Pannello di controllo, andate a:
 
 La connessione ai server SFTP richiede:
 
-* [!!UICONTROL Whitelist] dell&#39;indirizzo IP da cui ci si connette al server SFTP
-* Coppia di chiave pubblica/privata che deve essere registrata con Adobe Campaign
+* [!!UICONTROL consente di elencare] l&#39;indirizzo IP da cui si sta effettuando la connessione al server SFTP
+* Coppia di chiave pubblica/privata che deve essere registrata con  Adobe Campaign
 * Se ti connetti direttamente al server SFTP, avrai anche bisogno del software client SFTP
 
 Questo video spiega come connettersi al server SFTP utilizzando un&#39;applicazione SFTP client, utilizzando le chiavi memorizzate nel Pannello di controllo.
