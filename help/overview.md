@@ -3,9 +3,9 @@ title: Esercitazioni  Adobe Campaign Standard - Panoramica
 description: ' Adobe Campaign fornisce una piattaforma per la progettazione di esperienze cliente multicanale e fornisce un ambiente per l''orchestrazione visiva delle campagne, la gestione delle interazioni in tempo reale e l''esecuzione tra canali. Questa guida utente contiene video ed esercitazioni sulle numerose funzioni e funzionalità di  Adobe Campaign Standard.'
 products: SG_CAMPAIGN/STANDARD
 translation-type: tm+mt
-source-git-commit: dc7295c80b8c4ef3d641baf885d50ee55d4f5197
+source-git-commit: 9b1d8c5fb895d84da14a0402ec1f130b90a991b0
 workflow-type: tm+mt
-source-wordcount: '302'
+source-wordcount: '308'
 ht-degree: 4%
 
 ---
@@ -17,9 +17,9 @@ ht-degree: 4%
 
 ## Novità
 
-* **[Pannello di controllo - Generazione e installazione dei tasti GPG](/help/administrating/control-panel/generating-and-installing-gpg-keys.md)**
+* **[Gestione chiavi GPG](/help/administrating/control-panel/gpg-key-management/gpg-key-management-overview.md)**
 
-   *Scoprite come generare e installare una nuova coppia di chiavi GPG pubblica/privata in un&#39;istanza specificata e come importare e installare una chiave pubblica nell&#39;istanza del Adobe Campaign .*
+   *Scopri come generare e installare una coppia di chiavi pubblica/privata in una specifica istanza Campaign per la crittografia dei dati in uscita, nonché come importare e installare una chiave pubblica in un&#39;istanza Campaign per la decrittazione dei dati in ingresso.*
 
 * **[Attività API esterna](/help/managing-processes-and-data/data-management-activities/external-api-activity.md)**
 
