@@ -1,6 +1,6 @@
 ---
 title: Pannello di controllo Campaign
-description: Il Pannello di controllo consente di monitorare e gestire lo storage SFTP per istanza e di consentire indirizzi IP elenco.
+description: Il Pannello di controllo consente di monitorare e gestire lo storage SFTP per istanza e  indirizzi IP del elenco consentiti.
 feature: Control Panel
 topics: Control Panel
 kt: 4696
@@ -8,9 +8,9 @@ doc-type: feature video
 activity: use
 team: PM
 translation-type: tm+mt
-source-git-commit: 4bbe44e592085428d0eaa588aa5e773c925ce3bb
+source-git-commit: db20c4e6aeb10dc04a6c4556fefaa8cd18366c44
 workflow-type: tm+mt
-source-wordcount: '361'
+source-wordcount: '386'
 ht-degree: 5%
 
 ---
@@ -60,7 +60,7 @@ Nel video seguente viene illustrato come aggiungere un amministratore a un&#39;i
 
 * **Gestione dei server SFTP**
 
-   *Scoprite come monitorare la capacità del server, consentire l&#39;elenco di indirizzi IP e aggiungere chiavi SSH*
+   *Scopri come monitorare la capacità del server,  indirizzi IP di elenco consentiti e aggiungere chiavi SSH:*
 
    * [Monitoraggio della capacità del server, abilitazione dell&#39;elenco di indirizzi IP e aggiunta di chiavi SSH](/help/administrating/control-panel/monitoring-server-capacity-allow-listing-adding-ssh-key.md)
    * [Generazione di una chiave SSH](/help/administrating/control-panel/generate-ssh-key.md)
@@ -78,9 +78,13 @@ Nel video seguente viene illustrato come aggiungere un amministratore a un&#39;i
 
    *Scopri come aggiungere il record di verifica del sito Google TXT a tutti i tuoi sottodomini utilizzati per inviare e-mail agli indirizzi GMAIL tramite il Pannello di controllo della campagna.*
 
-* **[Generazione e installazione di chiavi GPG](/help/administrating/control-panel/generating-and-installing-gpg-keys.md)**
+* **Gestione chiavi GPG**
 
-   *Scoprite come generare e installare una nuova coppia di chiavi GPG pubblica/privata in un&#39;istanza specificata e come importare e installare una chiave pubblica nell&#39;istanza del Adobe Campaign .*
+   *Scopri come generare e installare una coppia di chiavi pubblica/privata in una specifica istanza Campaign per la crittografia dei dati in uscita, nonché come importare e installare una chiave pubblica in un&#39;istanza Campaign per la decrittazione dei dati in entrata:*
+
+   * [Generazione e installazione di chiavi GPG per la crittografia dei dati](./gpg-key-management/generating-and-installing-gpg-keys-for-data-encryption.md)
+   * [Utilizzo di una chiave GPG per cifrare i dati](./gpg-key-management/using-a-gpg-key-to-encrypt-data.md)
+   * [Decrittografare i dati](./gpg-key-management/decrypting-data.md)
 
 * **[Risoluzione dei problemi](/help/administrating/control-panel/trouble-shooting.md)**
 
