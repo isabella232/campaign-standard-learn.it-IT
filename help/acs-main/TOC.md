@@ -9,9 +9,9 @@ tutorials-url: https://docs.adobe.com/content/help/en/campaign-standard-learn/tu
 getting-started-title: Documentazione
 getting-started-url: https://docs.adobe.com/content/help/it-IT/campaign-standard/using/campaign-standard-home.html
 translation-type: tm+mt
-source-git-commit: 9b1d8c5fb895d84da14a0402ec1f130b90a991b0
+source-git-commit: 7f43a2a89428bc3b087ebb40a65d610bd9eb3f5b
 workflow-type: tm+mt
-source-wordcount: '514'
+source-wordcount: '503'
 ht-degree: 8%
 
 ---
@@ -57,7 +57,6 @@ ht-degree: 8%
    + Mobile {#mobile}
       + SMS{#sms}
          + [Creazione di una consegna SMS](/help/communication-channels/mobile/sms/sms-delivery.md)
-         + [Creazione di invii di e-mail e SMS multilingue](/help/communication-channels/create-multilingual-deliveries.md)
          + [Conversione di e-mail, SMS o modello esistenti in più lingue](/help/communication-channels/covert-into-multilingual-deliveries.md)
       + Push Notifications {#push}
          + [Creare una notifica push](/help/communication-channels/mobile/push-notifications/creating-a-push-notification.md)
@@ -87,7 +86,6 @@ ht-degree: 8%
    + [Configurare gli elenchi di prodotti nelle e-mail transazionali](/help/designing-content/product-listings-in-transactional-email.md)
 + Gestione di processi e dati {#managing-processes-and-data}
    + [Creare un flusso di lavoro](/help/managing-processes-and-data/create-workflow.md)
-   + [Importazione di profili con un flusso di lavoro](/help/managing-processes-and-data/importing-profiles.md)
    + Execution Activities {#execution-activities}
       + [Attività segnale esterno](/help/managing-processes-and-data/execution-activities/external-signal-activity.md)
    + Data Management Activities {#data-management-activities}
