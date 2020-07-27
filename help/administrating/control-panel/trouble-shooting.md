@@ -8,15 +8,15 @@ doc-type: article
 activity: use
 team: PM
 translation-type: tm+mt
-source-git-commit: b277b1ad17d9c03b307f8483d776b796e6c0cbef
+source-git-commit: 2f0527f3d9e2248eea68079e00855cce7a96fce4
 workflow-type: tm+mt
-source-wordcount: '330'
+source-wordcount: '327'
 ht-degree: 1%
 
 ---
 
 
-# Risoluzione dei problemi relativi al Pannello di controllo Campaign [!UICONTROL}
+# Risoluzione dei problemi [!UICONTROL Control Panel]
 
 Scoprite come risolvere i problemi durante l&#39;utilizzo del Pannello di controllo Campaign.
 
