@@ -1,6 +1,6 @@
 ---
-title: Risoluzione dei problemi relativi al Pannello di controllo
-description: Il Pannello di controllo consente di monitorare e gestire lo storage SFTP per istanza e di consentire indirizzi IP elenco.
+title: Problemi con le riprese del Pannello di controllo Campaign
+description: Il Pannello di controllo Campaign consente di monitorare e gestire lo storage SFTP per istanza e  indirizzi IP del elenco consentiti.
 feature: Control Panel
 topics: null
 kt: 2938
@@ -10,15 +10,15 @@ team: PM
 translation-type: tm+mt
 source-git-commit: b277b1ad17d9c03b307f8483d776b796e6c0cbef
 workflow-type: tm+mt
-source-wordcount: '336'
+source-wordcount: '330'
 ht-degree: 1%
 
 ---
 
 
-# Problema durante la ripresa del [!UICONTROL Pannello di controllo}
+# Risoluzione dei problemi relativi al Pannello di controllo Campaign [!UICONTROL}
 
-Scoprite come risolvere i problemi durante l’utilizzo del Pannello di controllo.
+Scoprite come risolvere i problemi durante l&#39;utilizzo del Pannello di controllo Campaign.
 
 ## Login e homepage
 
@@ -55,8 +55,8 @@ L’amministratore deve aggiungere l’utente al profilo di prodotto `Campaign-x
 
 ### Documentazione utile
 
-* [Scopri il [!UICONTROL Pannello di controllo]](https://helpx.adobe.com/campaign/kb/control-panel-overview.html)
-* [Gestione delle autorizzazioni per il [!UICONTROL Pannello di controllo]](https://helpx.adobe.com/campaign/kb/control-panel-access.html)
+* [Scopri le [!UICONTROL Control Panel]](https://helpx.adobe.com/campaign/kb/control-panel-overview.html)
+* [Gestione delle autorizzazioni per [!UICONTROL Control Panel]](https://helpx.adobe.com/campaign/kb/control-panel-access.html)
 
 ## Connessione al server SFTP (client o API)
 
