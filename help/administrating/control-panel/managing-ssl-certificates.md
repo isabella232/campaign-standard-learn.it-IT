@@ -1,6 +1,6 @@
 ---
 title: Gestione dei certificati SSL
-description: Il Pannello di controllo consente di gestire i sottodomini delegati ad Adobe Campaign. Puoi visualizzare i tuoi sottodomini e richiedere il rinnovo dei loro certificati.
+description: Il Pannello di controllo Campaign consente di gestire i sottodomini che hai delegato a  Adobe Campaign. Puoi visualizzare i tuoi sottodomini e richiedere il rinnovo dei loro certificati.
 feature: Control Panel
 topics: null
 kt: 3379
@@ -18,7 +18,7 @@ ht-degree: 0%
 
 # Gestione dei certificati SSL
 
-Il Pannello di controllo consente di gestire i sottodomini delegati ad Adobe Campaign. Puoi visualizzare i tuoi sottodomini e richiedere il rinnovo dei loro certificati.
+Il Pannello di controllo Campaign consente di gestire i sottodomini che hai delegato a  Adobe Campaign. Puoi visualizzare i tuoi sottodomini e richiedere il rinnovo dei loro certificati.
 
 ## Accesso [!UICONTROL Control Panel] [!UICONTROL Subdomain Management]
 
