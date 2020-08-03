@@ -1,6 +1,6 @@
 ---
 title: Test e pubblicazione di una pagina di destinazione
-description: In questo video viene illustrato come sottoporre a test una pagina di destinazione creata in Adobe Campaign Standard e come pubblicarla.
+description: In questo video viene illustrato come testare una pagina di destinazione integrata  Adobe Campaign Standard e come pubblicarla.
 uuid: 410b8e37-b9b6-4763-988c-31312c1dc8a6
 discoiquuid: b7dd29cf-cb56-4e6b-8050-400293a2e5e5
 feature: Landing Pages
