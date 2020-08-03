@@ -20,18 +20,19 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->Questa funzionalità è attualmente in versione beta e soggetta a frequenti aggiornamenti e modifiche senza preavviso. [!UICONTROL Audience Destinations] è basato su Adobe Experience Platform e richiede una configurazione specifica.
+>Questa funzionalità è attualmente in versione beta e soggetta a frequenti aggiornamenti e modifiche senza preavviso. [!UICONTROL Audience Destinations] è basato su  Adobe Experience Platform e richiede una configurazione specifica.
+>
 >Per [!UICONTROL Adobe Customer Support] implementare questa funzionalità, contattate il vostro riferimento commerciale.
 
-Adobe Campaign Standard consente di creare audience utilizzando i dati del profilo [cliente](https://docs.adobe.com/content/help/en/platform-learn/tutorials/profiles/understanding-the-real-time-customer-profile.html) in tempo reale di Adobe Experience Cloud utilizzando Adobe Experience Platform [!UICONTROL Unified Segment Builder].
+ Adobe Campaign Standard consente di creare audience utilizzando i dati del profilo [cliente Adobe Experience Cloud in tempo](https://docs.adobe.com/content/help/en/platform-learn/tutorials/profiles/understanding-the-real-time-customer-profile.html) reale utilizzando il Adobe Experience Platform di  [!UICONTROL Unified Segment Builder].
 
-Puoi accedere [!UICONTROL Unified Segment Builder] direttamente all&#39;interno di Adobe Campaign Standard tramite il [!UICONTROL Audiences ] modulo. Questo consente di gestire queste audience direttamente nella vista a [!UICONTROL Audiences] elenco, dove puoi modificare o creare un nuovo pubblico Adobe Experience Platform direttamente dall&#39;interfaccia di Adobe Campaign
+È possibile accedere [!UICONTROL Unified Segment Builder] direttamente all&#39;interno  Adobe Campaign Standard tramite il [!UICONTROL Audiences ] modulo. Questo consente di gestire queste audience direttamente nella vista [!UICONTROL Audiences] a elenco, dove è possibile modificare o creare un nuovo pubblico di Adobi Experience Platform  direttamente dall&#39;interfaccia del Adobe Campaign 
 
-Il video seguente illustra come creare un nuovo pubblico utilizzando [!UICONTROL Unified Segment Builder] Adobe Campaign Standard.
+Il video seguente illustra come creare una nuova audience utilizzando [!UICONTROL Unified Segment Builder] Adobe Campaign Standard.
 
 >[!VIDEO](https://video.tv.adobe.com/v/27638?quality=12)
 
-*Come creare un nuovo pubblico in Adobe Campaign Standard utilizzando Unified Segment Builder (Generatore di segmenti unificato) (min 02:47)*
+*Come creare una nuova audience in  Adobe Campaign Standard utilizzando Unified Segment Builder (Generatore segmenti unificato) (min 02:47)*
 
 ## Risorse aggiuntive
 
@@ -43,4 +44,4 @@ Documentazione:
 Risorse video:
 
 * [Attivare i tipi di pubblico AEP in un flusso di lavoro](/help/profiles-and-audiences/audience-destinations/activating-aep-audiences.md)
-* [Modifica della dimensione di targeting di una consegna per un pubblico di piattaforma](/help/profiles-and-audiences/audience-destinations/changing-targeting-dimension.md)
+* [Modifica della dimensione di targeting di una consegna per un pubblico Platform](/help/profiles-and-audiences/audience-destinations/changing-targeting-dimension.md)
