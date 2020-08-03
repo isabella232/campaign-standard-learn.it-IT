@@ -1,6 +1,6 @@
 ---
 title: Configurare un’applicazione mobile mediante l’SDK  Adobe Experience Platform
-description: Per inviare messaggi in-app o notifiche push con un'applicazione SDK Experience Cloud , è necessario impostare un'app mobile  Launch del Adobe Experience Platform e configurarla in  Adobe Campaign
+description: Per inviare messaggi in-app o notifiche push con un'applicazione SDK  Experience Cloud, è necessario impostare un'app mobile in  Adobe Experience Platform Launch e configurarla in  Adobe Campaign
 feature: Mobile SDK V5
 topics: Mobile
 kt: 2501
@@ -25,9 +25,10 @@ I video seguenti mostrano i passaggi necessari per configurare un&#39;app mobile
 >[!VIDEO](https://video.tv.adobe.com/v/26224?quality=12)
 
 >[!NOTE]
+>
 >Consultate [Configurazione dell’applicazione in [!UICONTROL Launch]](https://helpx.adobe.com/campaign/kb/configuring-app-sdk.html#ConfiguringyourapplicationinLaunch) per la documentazione dettagliata e per i modelli di codice utilizzati nel video.
 
 ## Risorse aggiuntive
 
-* [Impostazione di una proprietà mobile (documentazione di Adobe Launch)](https://aep-sdks.gitbook.io/docs/getting-started/create-a-mobile-property)
+* [Impostazione di una proprietà mobile ( documentazione di avvio Adobe)](https://aep-sdks.gitbook.io/docs/getting-started/create-a-mobile-property)
 * [Configurazione di un’applicazione mobile mediante  SDK per Adobi Experience Platform (documentazione)](https://helpx.adobe.com/campaign/kb/configuring-app-sdk.html)
