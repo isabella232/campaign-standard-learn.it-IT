@@ -11,14 +11,14 @@ translation-type: tm+mt
 source-git-commit: a2f194821a9ce06272eaed979ee2d8c62cccac2b
 workflow-type: tm+mt
 source-wordcount: '53'
-ht-degree: 13%
+ht-degree: 16%
 
 ---
 
 
 # Esplorazione dei report
 
-Questo video offre una panoramica delle funzionalità di reporting di Adobe Campaign Standard.
+Questo video offre una panoramica delle funzionalità di reporting  Adobe Campaign Standard.
 
 >[!VIDEO](https://video.tv.adobe.com/v/23021?quality=12)
 
