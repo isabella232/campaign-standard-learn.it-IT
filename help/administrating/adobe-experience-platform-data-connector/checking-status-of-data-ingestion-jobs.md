@@ -11,7 +11,7 @@ translation-type: tm+mt
 source-git-commit: cb5d5bc58137fd374eafe165c6ea13288a60d7db
 workflow-type: tm+mt
 source-wordcount: '120'
-ht-degree: 7%
+ht-degree: 9%
 
 ---
 
@@ -21,9 +21,10 @@ ht-degree: 7%
 >[!NOTE]
 >
 >Questa funzionalità è attualmente in versione beta e soggetta a frequenti aggiornamenti e modifiche senza preavviso.
+>
 >Per [!UICONTROL Adobe Customer Support] implementare questa funzionalità, contattate il vostro riferimento commerciale.
 
-Scopri come verificare lo stato di un processo di assimilazione dei dati e se i dati sono stati trasferiti da Adobe Campaign Standard ad Adobe Experience Platform.
+Scoprite come controllare lo stato di un processo di inserimento dei dati e se i dati sono stati trasferiti da  Adobe Campaign Standard a  Adobe Experience Platform.
 
 >[!VIDEO](https://video.tv.adobe.com/v/27268?quality=12)
 
