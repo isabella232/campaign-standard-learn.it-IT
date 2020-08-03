@@ -1,6 +1,6 @@
 ---
 title: Creare un flusso di lavoro
-description: Questo video illustra come creare e modificare un flusso di lavoro in Adobe Campaign Standard.
+description: Questo video illustra come creare e modificare un flusso di lavoro in  Adobe Campaign Standard.
 feature: Workflows
 topics: null
 kt: 1809
@@ -11,7 +11,7 @@ translation-type: tm+mt
 source-git-commit: a2f194821a9ce06272eaed979ee2d8c62cccac2b
 workflow-type: tm+mt
 source-wordcount: '93'
-ht-degree: 0%
+ht-degree: 2%
 
 ---
 
@@ -25,7 +25,7 @@ I flussi di lavoro possono essere utilizzati in contesti diversi, ad esempio:
 * Importazione di dati nel database Campaign
 * Processi tecnici come pulizia del database, recupero delle informazioni di tracciamento, ecc.
 
-Questo video illustra come creare e modificare un flusso di lavoro in Adobe Campaign Standard.
+Questo video illustra come creare e modificare un flusso di lavoro in  Adobe Campaign Standard.
 
 >[!VIDEO](https://video.tv.adobe.com/v/23937?quality=12)
 
