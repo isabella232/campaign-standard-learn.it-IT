@@ -1,6 +1,6 @@
 ---
 title: Monitoraggio della capacità del server, abilitazione dell'elenco di indirizzi IP e aggiunta di chiavi SSH
-description: Il Pannello di controllo consente di monitorare e gestire lo storage SFTP per istanza e di aggiungere indirizzi IP per consentire l'utilizzo di elenchi.
+description: Il Pannello di controllo Campaign consente di monitorare e gestire lo storage SFTP per istanza e di aggiungere indirizzi IP ai elenchi consentiti .
 feature: Control Panel
 topics: null
 kt: 3266
@@ -18,7 +18,7 @@ ht-degree: 1%
 
 # Monitoraggio della capacità del server, indirizzi [!UICONTROL allow listing] IP e aggiunta di chiavi SSH
 
-Il Pannello di controllo consente di monitorare e gestire lo storage SFTP per istanza e di aggiungere indirizzi [!UICONTROL allow listing]IP.
+Il Pannello di controllo Campaign consente di monitorare e gestire lo storage SFTP per istanza e di aggiungere indirizzi [!UICONTROL allow listing]IP.
 
 ## Accesso a Gestione dei [!UICONTROL Control Panel] sottodomini
 
