@@ -21,6 +21,7 @@ ht-degree: 7%
 >[!NOTE]
 >
 >Questa funzionalità è attualmente in versione beta e soggetta a frequenti aggiornamenti e modifiche senza preavviso.
+>
 >Per [!UICONTROL Adobe Customer Support] implementare questa funzionalità, contattate il vostro riferimento commerciale.
 
 Scopri come mappare [!UICONTROL Experience Events] in  Adobe Experience Platform (AEP).
