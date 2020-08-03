@@ -1,6 +1,6 @@
 ---
 title: Creazione e invio di e-mail tramite un flusso di lavoro
-description: 'Puoi creare un''e-mail da una campagna, dalla home page di Adobe Campaign o nell''elenco delle attività di marketing. Potete anche creare e-mail singole e ricorrenti da un flusso di lavoro. In questo video viene illustrato come creare una consegna per e-mail dalla homepage. '
+description: 'Puoi creare un''e-mail da una campagna, dalla home page del Adobe Campaign  o nell''elenco delle attività di marketing. Potete anche creare e-mail singole e ricorrenti da un flusso di lavoro. In questo video viene illustrato come creare una consegna per e-mail dalla homepage. '
 feature: Email
 topics: null
 kt: 4319
@@ -11,14 +11,14 @@ translation-type: tm+mt
 source-git-commit: a2f194821a9ce06272eaed979ee2d8c62cccac2b
 workflow-type: tm+mt
 source-wordcount: '132'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
 
 # Creazione e invio di e-mail tramite un flusso di lavoro
 
-Puoi creare un&#39;e-mail da una campagna, dalla home page di Adobe Campaign o nell&#39;elenco delle attività di marketing. Potete anche creare e-mail singole e ricorrenti da un flusso di lavoro.
+Puoi creare un&#39;e-mail da una campagna, dalla home page del Adobe Campaign  o nell&#39;elenco delle attività di marketing. Potete anche creare e-mail singole e ricorrenti da un flusso di lavoro.
 
 In questo video viene illustrato come creare e inviare e-mail tramite un flusso di lavoro.
 
