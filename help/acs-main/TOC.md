@@ -1,6 +1,6 @@
 ---
 product: adobe campaign standard
-user-guide-title: Esercitazioni  Adobe Campaign Standard
+user-guide-title: 'Tutorials Adobe Campaign Standard '
 user-guide-url: https://docs.adobe.com/content/help/en/campaign-standard-learn/tutorials/overview.html
 solution-title: Experience League
 solution-hub-url: https://experienceleague.adobe.com/?tag=Campaign+Standard#recommended/solutions/campaign
@@ -11,7 +11,7 @@ getting-started-url: https://docs.adobe.com/content/help/it-IT/campaign-standard
 translation-type: tm+mt
 source-git-commit: 7f43a2a89428bc3b087ebb40a65d610bd9eb3f5b
 workflow-type: tm+mt
-source-wordcount: '503'
+source-wordcount: '529'
 ht-degree: 8%
 
 ---
@@ -49,7 +49,7 @@ ht-degree: 8%
       + [Creare un messaggio e-mail](/help/communication-channels/email/create-email-from-homepage.md)
       + [Inviare un test, preparare e inviare un messaggio e-mail](/help/communication-channels/email/sending-test-preparing-sending-email.md)
       + [Creare un&#39;e-mail o un SMS multilingue](/help/communication-channels/create-multilingual-deliveries.md)
-      + [Conversione di e-mail, SMS o modello esistenti in più lingue](/help/communication-channels/covert-into-multilingual-deliveries.md)
+      + [Conversione di un&#39;e-mail, di un SMS o di un modello esistente in più lingue](/help/communication-channels/covert-into-multilingual-deliveries.md)
       + [Test A/B](/help/communication-channels/email/a-b-testing.md)
       + [Test dei messaggi e-mail mediante i profili di destinazione](/help/communication-channels/email/profile-substitution.md)
       + [Verifica della consegna e dei rapporti tramite e-mail](/help/communication-channels/email/reviewing-personalized-email-delivery-and-reports.md)
@@ -57,7 +57,8 @@ ht-degree: 8%
    + Mobile {#mobile}
       + SMS{#sms}
          + [Creazione di una consegna SMS](/help/communication-channels/mobile/sms/sms-delivery.md)
-         + [Conversione di e-mail, SMS o modello esistenti in più lingue](/help/communication-channels/covert-into-multilingual-deliveries.md)
+         + [Creare un&#39;e-mail o un SMS multilingue](/help/communication-channels/create-multilingual-deliveries.md)
+         + [Conversione di un&#39;e-mail, di un SMS o di un modello esistente in più lingue](/help/communication-channels/covert-into-multilingual-deliveries.md)
       + Push Notifications {#push}
          + [Creare una notifica push](/help/communication-channels/mobile/push-notifications/creating-a-push-notification.md)
          + [Creare una notifica push multilingue](/help/communication-channels/mobile/push-notifications/creating-multilingual-push-notifications.md)
@@ -82,10 +83,11 @@ ht-degree: 8%
       + [Configurare la visualizzazione mobile](/help/designing-content/email-designer/configure-the-mobile-view.md)
       + [Anteprima del messaggio e-mail e analisi anti-spam](/help/designing-content/email-designer/preview-your-email.md)
       + [Utilizzo del contenuto esistente](/help/designing-content/email-designer/working-with-existing-content.md)
-      + [Creazione di contenuti con Adobe Dreamweaver](/help/designing-content/email-designer/dreamweaver-integration.md)
+      + [Creazione di contenuti con  Adobe Dreamweaver](/help/designing-content/email-designer/dreamweaver-integration.md)
    + [Configurare gli elenchi di prodotti nelle e-mail transazionali](/help/designing-content/product-listings-in-transactional-email.md)
 + Gestione di processi e dati {#managing-processes-and-data}
    + [Creare un flusso di lavoro](/help/managing-processes-and-data/create-workflow.md)
+   + [Importazione di profili con un flusso di lavoro](/help/managing-processes-and-data/importing-profiles.md)
    + Execution Activities {#execution-activities}
       + [Attività segnale esterno](/help/managing-processes-and-data/execution-activities/external-signal-activity.md)
    + Data Management Activities {#data-management-activities}
@@ -101,7 +103,7 @@ ht-degree: 8%
 + Amministrazione {#administrating}
    + [Gestione dei diritti di accesso degli utenti](/help/administrating/managing-user-access-rights.md)
    + Pannello di controllo Campaign {#control-panel}
-      + [Panoramica del pannello di controllo](/help/administrating/control-panel/control-panel-overview.md)
+      + [Panoramica Pannello di controllo Campaign](/help/administrating/control-panel/control-panel-overview.md)
       + [Monitoraggio della capacità del server, abilitazione dell&#39;elenco di indirizzi IP e aggiunta di chiavi SSH](/help/administrating/control-panel/monitoring-server-capacity-allow-listing-adding-ssh-key.md)
       + [Generazione di una chiave SSH](/help/administrating/control-panel/generate-ssh-key.md)
       + [Connessione a un server SFTP](/help/administrating/control-panel/connect-to-sftp-server.md)
@@ -131,3 +133,5 @@ ht-degree: 8%
    + [Modifica delle risorse personalizzate per le richieste di privacy](/help/privacy/custom-resources-for-privacy-requests.md)
    + [Creazione e tracciamento manuale delle richieste di privacy](/help/privacy/create-and-track-privacy-requests.md)
    + [Esecuzione di richieste di privacy](/help/privacy/execute-privacy-requests.md)
++ [Guida alle best practice per la realizzazione di  Adobe Campaign](https://docs-stg.corp.adobe.com/content/help/en/campaign-standard-learn/deliverability-best-practice-guide/introduction.html)
+
