@@ -1,6 +1,6 @@
 ---
 title: Creazione di profili e audience - Panoramica
-description: Questo video spiega come navigare nei profili esistenti e come creare profili e audience in Adobe Campaign Standard (ACS).
+description: In questo video viene illustrato come passare ai profili esistenti e come creare profili e audience in  Adobe Campaign Standard (ACS).
 feature: Profiles and Audiences
 topics: null
 kt: 3899
@@ -11,21 +11,21 @@ translation-type: tm+mt
 source-git-commit: a2f194821a9ce06272eaed979ee2d8c62cccac2b
 workflow-type: tm+mt
 source-wordcount: '90'
-ht-degree: 0%
+ht-degree: 2%
 
 ---
 
 
 # Creazione di profili e audience - Panoramica
 
-Adobe Campaign dispone di due tipi o profili:
+ Adobe Campaign ha due tipi o profili:
 
 * Profili identificati
 * Profili di prova
 
 I profili raggruppati in base a uno o più criteri comuni sono denominati **audience**.
 
-Questo video spiega come navigare nei profili esistenti e come creare profili e audience in Adobe Campaign Standard.
+In questo video viene illustrato come passare ai profili esistenti e come creare profili e audience in  Adobe Campaign Standard.
 
 >[!VIDEO](https://video.tv.adobe.com/v/18463/?quality=12)
 
