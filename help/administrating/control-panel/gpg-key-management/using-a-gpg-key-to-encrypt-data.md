@@ -1,6 +1,6 @@
 ---
 title: 'Utilizzo di una chiave GPG per cifrare i dati '
-description: Scoprite come esportare i dati utilizzando un tasto GPG installato nel Pannello di controllo.
+description: Scoprite come esportare i dati utilizzando una chiave GPG installata sul Pannello di controllo Campaign.
 feature: Control Panel
 topics: GPG key Management
 kt: 5688
@@ -19,7 +19,7 @@ ht-degree: 3%
 
 # Utilizzo di una chiave GPG per cifrare i dati
 
-Scoprite come esportare i dati utilizzando un tasto GPG installato nel Pannello di controllo.
+Scoprite come esportare i dati utilizzando una chiave GPG installata sul Pannello di controllo Campaign.
 
 >[!VIDEO](https://video.tv.adobe.com/v/36380?quality=12)
 
