@@ -1,6 +1,6 @@
 ---
 title: Panoramica funzionale
-description: Questo video offre una panoramica della funzionalità Adobe Campaign Standard (ACS).
+description: Questo video offre una panoramica della funzionalità del Adobe Campaign Standard  (ACS).
 feature: Profiles and Audiences
 topics: Getting Started
 kt: 3971
@@ -18,6 +18,6 @@ ht-degree: 0%
 
 # Panoramica funzionale
 
-Questo video offre una panoramica delle funzionalità di Adobe Campaign Standard.
+Questo video offre una panoramica della funzionalità del Adobe Campaign Standard .
 
 >[!VIDEO](https://video.tv.adobe.com/v/29430?quality=12)
