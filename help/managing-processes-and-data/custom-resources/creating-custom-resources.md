@@ -1,6 +1,6 @@
 ---
 title: Creazione di risorse personalizzate
-description: Adobe Campaign Standard consente di estendere le risorse o creare nuove risorse. Questa esercitazione multiparte illustra i passaggi necessari per creare e collegare risorse personalizzate.
+description: ' Adobe Campaign Standard consente di estendere le risorse o creare nuove risorse. Questa esercitazione multiparte illustra i passaggi necessari per creare e collegare risorse personalizzate.'
 feature: Custom Resources
 topics: null
 kt: 2998
@@ -18,7 +18,7 @@ ht-degree: 0%
 
 # Creazione di &#x200B; di risorse personalizzate
 
-Adobe Campaign Standard consente di estendere le risorse o creare nuove risorse. Questa esercitazione multiparte illustra i passaggi necessari per creare e collegare risorse personalizzate. Al termine di questa esercitazione hai appreso le seguenti &#x200B;
+ Adobe Campaign Standard consente di estendere le risorse o creare nuove risorse. Questa esercitazione multiparte illustra i passaggi necessari per creare e collegare risorse personalizzate. Al termine di questa esercitazione hai appreso le seguenti &#x200B;
 
 * Creazione di una risorsa personalizzata
 * Aggiunta di campi alla risorsa personalizzata
