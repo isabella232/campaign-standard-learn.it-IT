@@ -15,7 +15,7 @@ ht-degree: 1%
 
 # Gestione chiave GPG - Panoramica
 
-GPG (GnuPG) codifica i messaggi utilizzando coppie di chiavi singole asimmetriche. Per implementare la crittografia GPG con Campaign, le chiavi GPG devono essere installate e/o generate in un&#39;istanza di marketing da un utente amministratore direttamente dal Pannello di controllo.
+GPG (GnuPG) codifica i messaggi utilizzando coppie di chiavi singole asimmetriche. Per implementare la crittografia GPG con Campaign, le chiavi GPG devono essere installate e/o generate in un&#39;istanza di marketing da un utente amministratore direttamente dal Pannello di controllo Campaign.
 
 Nei video seguenti viene illustrato come generare e installare una coppia di chiavi pubblica/privata in una specifica istanza Campaign per la crittografia dei dati in uscita, nonché come importare e installare una chiave pubblica in un&#39;istanza Campaign per la decrittazione dei dati in ingresso.
 
