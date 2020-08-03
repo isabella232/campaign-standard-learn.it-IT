@@ -1,6 +1,6 @@
 ---
 title: Configurare un elenco
-description: 'In questo video viene illustrato come modificare le colonne visualizzate, l''ordine e l''ordinamento di una visualizzazione a elenco in Adobe Campaign Standard.  '
+description: 'In questo video viene illustrato come modificare le colonne visualizzate, l’ordine e l’ordinamento di una visualizzazione a elenco in  Adobe Campaign Standard.  '
 feature: UI
 topics: null
 kt: 1821
@@ -18,6 +18,6 @@ ht-degree: 0%
 
 # Configurare un elenco
 
-In questo video viene illustrato come modificare le colonne visualizzate, l&#39;ordine e l&#39;ordinamento di una visualizzazione a elenco in Adobe Campaign Standard.
+In questo video viene illustrato come modificare le colonne visualizzate, l’ordine e l’ordinamento di una visualizzazione a elenco in  Adobe Campaign Standard.
 
 >[!VIDEO](https://video.tv.adobe.com/v/25288/?quality=12)
