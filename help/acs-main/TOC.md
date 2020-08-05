@@ -1,6 +1,6 @@
 ---
 product: adobe campaign standard
-user-guide-title: 'Tutorials Adobe Campaign Standard '
+user-guide-title: ' Tutorials Adobe Campaign Standard'
 user-guide-url: https://docs.adobe.com/content/help/en/campaign-standard-learn/tutorials/overview.html
 solution-title: Experience League
 solution-hub-url: https://experienceleague.adobe.com/?tag=Campaign+Standard#recommended/solutions/campaign
@@ -12,7 +12,7 @@ translation-type: tm+mt
 source-git-commit: 7f43a2a89428bc3b087ebb40a65d610bd9eb3f5b
 workflow-type: tm+mt
 source-wordcount: '529'
-ht-degree: 8%
+ht-degree: 11%
 
 ---
 
@@ -22,7 +22,7 @@ ht-degree: 8%
 + [Panoramica](/help/overview.md)
 + Guida introduttiva {#getting-started}
    + [Panoramica](/help/getting-started/getting-started-overview.md)
-   + [Introduzione al Adobe Campaign Standard](/help/getting-started/adobe-campaign-standard-introduction.md)
+   + [Introduzione a  Adobe Campaign Standard](/help/getting-started/adobe-campaign-standard-introduction.md)
    + [Panoramica funzionale](/help/getting-started/functional-overview.md)
    + [Introduzione all’interfaccia](/help/getting-started/getting-started-with-the-ui.md)
    + [Configurare un elenco](/help/getting-started/configure-a-list.md)
@@ -33,24 +33,24 @@ ht-degree: 8%
    + [Introduzione al reporting](/help/getting-started/reporting-with-adobe-campaign-introduction.md)
    + [Marketing mobile con  Adobe Campaign](/help/getting-started/mobile-marketing-with-adobe-campaign.md)
    + [Crescita con  Adobe Campaign](/help/getting-started/growing-with-adobe-campaign.md)
-+ Profili e pubblico {#profiles-and-audiences}
++ Profili e tipi di pubblico {#profiles-and-audiences}
    + [Creazione di profili e audience - Panoramica](/help/profiles-and-audiences/creating-profiles-and-audiences.md)
    + [Creazione di un profilo](/help/profiles-and-audiences/creating-a-profile.md)
    + [Creare un profilo di test](/help/profiles-and-audiences/test-profiles.md)
    + [Importazione di profili con un flusso di lavoro](/help/managing-processes-and-data/importing-profiles.md)
    + [Gestione di servizi e iscrizioni](/help/managing-processes-and-data/services-and-subscriptions.md)
-   + Destinazioni audience (BETA){#audience-destinations}
+   + Audience Destinations (BETA){#audience-destinations}
       + [Panoramica](/help/profiles-and-audiences/audience-destinations/audience-destinations-overview.md)
       + [Creazione di una nuova audience con Unified Segment Builder (Generatore segmenti unificato)](/help/profiles-and-audiences/audience-destinations/creating-audiences-using-segment-builder.md)
-      + [Attivare  pubblico Adobe Experience Platform in un flusso di lavoro](/help/profiles-and-audiences/audience-destinations/activating-aep-audiences.md)
+      + [Attivare i tipi di pubblico Adobe Experience Platform in un flusso di lavoro](/help/profiles-and-audiences/audience-destinations/activating-aep-audiences.md)
       + [Modificare la dimensione di targeting](/help/profiles-and-audiences/audience-destinations/changing-targeting-dimension.md)
 + Canali di comunicazione {#communication-channels}
-   + E-mail {#email}
+   + e-mail {#email}
       + [Creare un messaggio e-mail](/help/communication-channels/email/create-email-from-homepage.md)
       + [Inviare un test, preparare e inviare un messaggio e-mail](/help/communication-channels/email/sending-test-preparing-sending-email.md)
       + [Creare un&#39;e-mail o un SMS multilingue](/help/communication-channels/create-multilingual-deliveries.md)
       + [Conversione di un&#39;e-mail, di un SMS o di un modello esistente in più lingue](/help/communication-channels/covert-into-multilingual-deliveries.md)
-      + [Test A/B](/help/communication-channels/email/a-b-testing.md)
+      + [A/B Testing](/help/communication-channels/email/a-b-testing.md)
       + [Test dei messaggi e-mail mediante i profili di destinazione](/help/communication-channels/email/profile-substitution.md)
       + [Verifica della consegna e dei rapporti tramite e-mail](/help/communication-channels/email/reviewing-personalized-email-delivery-and-reports.md)
       + [Creazione e invio di e-mail tramite un flusso di lavoro](/help/communication-channels/email/create-and-send-emails-via-workflow.md)
@@ -67,17 +67,17 @@ ht-degree: 8%
          + [Introduzione ai messaggi in-app](/help/communication-channels/mobile/in-app/in-app-message-overview.md)
          + [Configurare gli eventi](/help/communication-channels/mobile/in-app/configure-events.md)
          + [Trasmissione di un messaggio in-app](/help/communication-channels/mobile/in-app/broadcast-in-app-message.md)
-         + [Utenti Target in base al profilo Campaign](/help/communication-channels/mobile/in-app/target-users-based-on-campaign-profile.md)
+         + [Esegue il targeting degli utenti in base al relativo profilo Campaign](/help/communication-channels/mobile/in-app/target-users-based-on-campaign-profile.md)
          + [Creare una distribuzione in-app all&#39;interno di un flusso di lavoro](/help/communication-channels/mobile/in-app/in-app-activity.md)
          + [Report sulla consegna in-app](/help/communication-channels/mobile/in-app/in-app-reporting.md)
-      + [Configurare un’applicazione mobile mediante l’SDK  Adobe Experience Platform](/help/communication-channels/mobile/configure-mobile-apps-using-aep-sdk.md)
-   + [Direct mail](/help/communication-channels/direct-mail/directmail.md)
+      + [Configurare un’applicazione mobile utilizzando Adobe Experience Platform SDK](/help/communication-channels/mobile/configure-mobile-apps-using-aep-sdk.md)
+   + [Direct mailing](/help/communication-channels/direct-mail/directmail.md)
    + Pagine di destinazione {#landing-pages}
       + [Creare e modificare una pagina di destinazione](/help/communication-channels/landing-pages/landing-page-create-and-edit.md)
       + [Test e pubblicazione di una pagina di destinazione](/help/communication-channels/landing-pages/landing-page-test-and-publish.md)
       + [Configurare un modello di pagina di destinazione](/help/communication-channels/landing-pages/landing-page-configure-templates.md)
 + Progettazione e personalizzazione dei contenuti {#designing-content}
-   + Email Designer{#email-designer}
+   + Designer e-mail{#email-designer}
       + [Panoramica](/help/designing-content/email-designer/email-designer-overview.md)
       + [Introduzione ai modelli di contenuto e-mail](/help/designing-content/email-designer/email-content-templates.md)
       + [Configurare la visualizzazione mobile](/help/designing-content/email-designer/configure-the-mobile-view.md)
@@ -117,14 +117,14 @@ ht-degree: 8%
          + [Utilizzo di una chiave GPG per cifrare i dati](/help/administrating/control-panel/gpg-key-management/using-a-gpg-key-to-encrypt-data.md)
          + [Decrittografare i dati](/help/administrating/control-panel/gpg-key-management/decrypting-data.md)
       + [Risoluzione dei problemi](/help/administrating/control-panel/trouble-shooting.md)
-   + Connettore dati  Adobe Experience Platform {adobe-experience-platform-data-Connector}
-      + [Informazioni sul connettore dati del Adobe Experience Platform](/help/administrating/adobe-experience-platform-data-connector/understanding-the-adobe-experience-platform-data-connector.md)
+   + Connettore dati Adobe Experience Platform {adobe-experience-platform-data-Connector}
+      + [Informazioni su Adobe Experience Platform Data Connector](/help/administrating/adobe-experience-platform-data-connector/understanding-the-adobe-experience-platform-data-connector.md)
       + [Mappatura di risorse personalizzate](/help/administrating/adobe-experience-platform-data-connector/mapping-custom-resources.md)
       + [Mapping di eventi esperienza](/help/administrating/adobe-experience-platform-data-connector/mapping-experience-events.md)
       + [Mappatura dei dati della tabella seed](/help/administrating/adobe-experience-platform-data-connector/mapping-seed-table-data.md)
       + [Modifica della mappatura dei dati](/help/administrating/adobe-experience-platform-data-connector/modifying-data-mapping.md)
       + [Verifica dello stato di un processo di assimilazione dei dati](/help/administrating/adobe-experience-platform-data-connector/checking-status-of-data-ingestion-jobs.md)
-   + Regole di tipologia{#typology-rules}
+   + Typology Rules{#typology-rules}
       + Fatigue Management{#fatigue-management}
          + [Crea regole di fatica](/help/administrating/typology-rules/fatigue-management/create-fatigue-rules.md)
 + Privacy {#privacy}
@@ -133,5 +133,5 @@ ht-degree: 8%
    + [Modifica delle risorse personalizzate per le richieste di privacy](/help/privacy/custom-resources-for-privacy-requests.md)
    + [Creazione e tracciamento manuale delle richieste di privacy](/help/privacy/create-and-track-privacy-requests.md)
    + [Esecuzione di richieste di privacy](/help/privacy/execute-privacy-requests.md)
-+ [Guida alle best practice per la realizzazione di  Adobe Campaign](https://docs-stg.corp.adobe.com/content/help/en/campaign-standard-learn/deliverability-best-practice-guide/introduction.html)
++ [Guida alle best practice per la distribuzione  Adobe Campaign](https://docs-stg.corp.adobe.com/content/help/en/campaign-standard-learn/deliverability-best-practice-guide/introduction.html)
 
