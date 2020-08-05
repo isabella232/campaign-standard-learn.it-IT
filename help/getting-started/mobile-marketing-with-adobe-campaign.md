@@ -1,6 +1,6 @@
 ---
 title: Marketing mobile con  Adobe Campaign
-description: In questo video vengono illustrate  funzioni di Adobe Campaign Standard che supportano la strategia di marketing mobile.
+description: In questo video vengono illustrate  funzioni Adobe Campaign Standard che supportano la strategia di marketing mobile.
 feature: Mobile
 topics: null
 kt: 3976
@@ -18,7 +18,7 @@ ht-degree: 3%
 
 # Mobile Marketing con  Adobe Campaign
 
-In questo video vengono illustrate  funzioni di Adobe Campaign Standard che supportano la strategia di marketing mobile.
+In questo video vengono illustrate  funzioni Adobe Campaign Standard che supportano la strategia di marketing mobile.
 
 >[!VIDEO](https://video.tv.adobe.com/v/29468?quality=12)
 
