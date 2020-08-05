@@ -1,6 +1,6 @@
 ---
 title: Creare un profilo di test
-description: I profili di test consentono di eseguire il targeting di altri destinatari che non soddisfano i criteri di targeting definiti. Vengono aggiunti al pubblico di un messaggio per rilevare qualsiasi uso fraudolento del database del destinatario o per assicurarsi che le e-mail arrivino nelle caselle in entrata.
+description: I profili di test ti consentono di eseguire il targeting di destinatari aggiuntivi che non soddisfano i criteri di targeting definiti. Vengono aggiunti al pubblico di un messaggio per rilevare eventuali utilizzi fraudolenti del database dei destinatari o per assicurarsi che le e-mail arrivino nelle caselle in entrata.
 feature: Profiles and Audiences
 topic: null
 kt: 1810
@@ -11,14 +11,14 @@ translation-type: tm+mt
 source-git-commit: a2f194821a9ce06272eaed979ee2d8c62cccac2b
 workflow-type: tm+mt
 source-wordcount: '118'
-ht-degree: 1%
+ht-degree: 72%
 
 ---
 
 
 # Creare un profilo di test {#creating-a-test-profile}
 
-I profili di test consentono di eseguire il targeting di altri destinatari che non soddisfano i criteri di targeting definiti. Vengono aggiunti al pubblico di un messaggio per rilevare qualsiasi uso fraudolento del database del destinatario o per assicurarsi che le e-mail arrivino nelle caselle in entrata.
+I profili di test ti consentono di eseguire il targeting di destinatari aggiuntivi che non soddisfano i criteri di targeting definiti. Vengono aggiunti al pubblico di un messaggio per rilevare eventuali utilizzi fraudolenti del database dei destinatari o per assicurarsi che le e-mail arrivino nelle caselle in entrata.
 
 Questo video spiega come creare i profili di prova
 
