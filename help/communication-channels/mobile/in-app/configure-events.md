@@ -1,6 +1,6 @@
 ---
 title: Configurare gli eventi
-description: 'Quando si configura un messaggio in-app negli eventi  Adobe Campaign Standard (ACS), è possibile definire quale azione avviata dall''utente attiverà il messaggio da visualizzare. '
+description: 'Quando si configura un messaggio in-app in  eventi Adobe Campaign Standard (ACS), è possibile definire quale azione avviata dall''utente attiverà il messaggio da visualizzare. '
 feature: In-App
 topics: Mobile
 kt: 2548
@@ -11,7 +11,7 @@ translation-type: tm+mt
 source-git-commit: 82fb2d39dc61a55c0aa20ca1fa215f35a7dd9088
 workflow-type: tm+mt
 source-wordcount: '220'
-ht-degree: 1%
+ht-degree: 2%
 
 ---
 
@@ -37,7 +37,7 @@ Esempi:
 
 ## [!UICONTROL Life Cycle events]  {#life-cycle-events}
 
-[!UICONTROL Lifecycle events] sono pronte [!UICONTROL events]. Sono [!UICONTROL events] disponibili le seguenti opzioni:
+[!UICONTROL Lifecycle events] sono pronte [!UICONTROL events]. The following [!UICONTROL events] are available:
 
 * [!UICONTROL launched]
 * [!UICONTROL upgraded]
@@ -53,13 +53,13 @@ Un esempio può essere un messaggio che introduce nuove funzioni dopo un aggiorn
 
 Le tre categorie seguenti sono supportate a seconda degli strumenti utilizzati nell’app mobile:
 
-*  Adobe Analytics
+* Adobe Analytics
 * [!UICONTROL Context data]
 * [!UICONTROL View state]
 
 >[!NOTE]
 >
->[!UICONTROL Analytics events] richiede una licenza Adobe Analytics . Dopo aver configurato [[!DNL Analytics] l&#39;](https://aep-sdks.gitbook.io/docs/using-mobile-extensions/adobe-analytics#configure-analytics-extension-in-launch) estensione e aggiunto [Analytics all&#39;app](https://aep-sdks.gitbook.io/docs/using-mobile-extensions/adobe-analytics#add-analytics-to-your-app), questi eventi diventano disponibili nella [!UICONTROL In-App] configurazione in ACS.
+>[!UICONTROL Analytics events] richiede una licenza Adobe Analytics . Dopo aver configurato [[!DNL Analytics] l&#39;](https://aep-sdks.gitbook.io/docs/using-mobile-extensions/adobe-analytics#configure-analytics-extension-in-launch) estensione e aver aggiunto [Analytics all&#39;app](https://aep-sdks.gitbook.io/docs/using-mobile-extensions/adobe-analytics#add-analytics-to-your-app), questi eventi diventano disponibili nella [!UICONTROL In-App] configurazione in ACS.
 
 ## Risorse aggiuntive
 
