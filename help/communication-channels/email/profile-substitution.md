@@ -17,7 +17,7 @@ ht-degree: 7%
 ---
 
 
-# [!UICONTROL Profile Substitution] - Verifica dei messaggi e-mail tramite profili di destinazione
+# [!UICONTROL Profile Substitution] - Verifica dei messaggi e-mail tramite profili target
 
 In questo video viene illustrato come verificare i messaggi e-mail mediante [!UICONTROL Profile Substitution]. Vengono trattati i seguenti casi d’uso:
 
