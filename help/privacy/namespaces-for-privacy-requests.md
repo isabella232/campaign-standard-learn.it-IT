@@ -1,6 +1,6 @@
 ---
 title: Creazione di spazi dei nomi per le richieste di privacy in  Adobe Campaign Standard (ACS)
-description: Un prerequisito per poter creare richieste di accesso alla privacy ed eliminare le richieste, come richiesto da GDPR o CCPA, è la definizione dello spazio dei nomi che verrà utilizzato per identificare l'oggetto dati nel database del Adobe Campaign . In questi video viene illustrato come creare spazi dei nomi per le richieste di privacy.
+description: Un prerequisito per poter creare richieste di accesso alla privacy ed eliminare le richieste, come richiesto da GDPR o CCPA, è la definizione dello spazio dei nomi che verrà utilizzato per identificare l'oggetto dati nel database Adobe Campaign . In questi video viene illustrato come creare spazi dei nomi per le richieste di privacy.
 feature: GDPR, CCPA
 topic: null
 kt: 1460
@@ -18,7 +18,7 @@ ht-degree: 1%
 
 # Creazione di spazi dei nomi per le richieste di privacy
 
-Un prerequisito per poter creare richieste di accesso alla privacy ed eliminare le richieste, come richiesto da GDPR o CCPA, è la definizione dello spazio dei nomi che verrà utilizzato per identificare l&#39;oggetto dati nel database del Adobe Campaign .
+Un prerequisito per poter creare richieste di accesso alla privacy ed eliminare le richieste, come richiesto da GDPR o CCPA, è la definizione dello spazio dei nomi che verrà utilizzato per identificare l&#39;oggetto dati nel database Adobe Campaign .
 
 In questi video viene illustrato come creare spazi dei nomi per le richieste di privacy.
 
