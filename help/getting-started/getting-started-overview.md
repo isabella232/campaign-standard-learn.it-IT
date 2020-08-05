@@ -1,6 +1,6 @@
 ---
 title: Guida introduttiva  Adobe Campaign Standard
-description: Questo video offre una panoramica dell’interfaccia utente del Adobe Campaign Standard , delle funzioni chiave e delle funzionalità di base.
+description: Questo video offre una panoramica dell’interfaccia utente  Adobe Campaign Standard e delle funzioni principali e di base.
 feature: User Interface
 topics: null
 kt: null
@@ -11,7 +11,7 @@ translation-type: tm+mt
 source-git-commit: a75ff01a4b3e4550ead4612407e101bef8df3aba
 workflow-type: tm+mt
 source-wordcount: '180'
-ht-degree: 1%
+ht-degree: 2%
 
 ---
 
@@ -22,9 +22,9 @@ ht-degree: 1%
 
 Controlla l&#39;intero processo di creazione, esecuzione e tracciamento delle campagne tra canali, nonché l&#39;invio di messaggi personalizzati in base al profilo, al comportamento, alle preferenze e alle esigenze dei clienti. Puoi orchestrare, modellare e automatizzare facilmente l&#39;intero processo di marketing e integrarti con altre soluzioni  Adobe.
 
-È disponibile una serie di video di esercitazione per iniziare a utilizzare  Adobe Campaign Standard:
+È disponibile una serie di video di esercitazione per iniziare a usare  Adobe Campaign Standard:
 
-* [Introduzione al Adobe Campaign Standard](/help/getting-started/adobe-campaign-standard-introduction.md)
+* [Introduzione a  Adobe Campaign Standard](/help/getting-started/adobe-campaign-standard-introduction.md)
 * [Panoramica funzionale](/help/getting-started/functional-overview.md)
 * [Introduzione all’interfaccia](/help/getting-started/getting-started-with-the-ui.md)
 * [Configurare un elenco](/help/getting-started/configure-a-list.md)
