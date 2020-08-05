@@ -1,6 +1,6 @@
 ---
 title: Guida introduttiva alle notifiche push con app Android
-description: ' Adobe Campaign consente di inviare notifiche push personalizzate e segmentate ai dispositivi mobili iOS e Android. Questi messaggi vengono ricevuti sulle applicazioni mobili configurate in  Adobe Campaign sfruttando l''SDK per dispositivi mobili  Experience Cloud V4 o  l''SDK Experience Platform. Questa esercitazione illustra i passaggi necessari per inviare notifiche push da  Adobe Campaign e ricevere queste notifiche nell''app Android.'
+description: Adobe Campaign ti consente di inviare notifiche push personalizzate e segmentate ai dispositivi mobili iOS e Android. Questi messaggi vengono ricevuti sulle applicazioni mobili configurate in  Adobe Campaign sfruttando l'SDK per dispositivi mobili  Experience Cloud V4 o  Experience Platform SDK per . Questa esercitazione illustra i passaggi necessari per inviare notifiche push da  Adobe Campaign e ricevere queste notifiche nell'app Android.
 feature: Push
 topics: Mobile
 kt: 3846
@@ -11,23 +11,23 @@ translation-type: tm+mt
 source-git-commit: a2f194821a9ce06272eaed979ee2d8c62cccac2b
 workflow-type: tm+mt
 source-wordcount: '242'
-ht-degree: 0%
+ht-degree: 14%
 
 ---
 
 # Guida introduttiva alle notifiche push con app Android
 
- Adobe Campaign consente di inviare notifiche push personalizzate e segmentate ai dispositivi mobili iOS e Android.
-Questi messaggi vengono ricevuti sulle applicazioni mobili configurate in  Adobe Campaign sfruttando l&#39;SDK per dispositivi mobili  Experience Cloud V4 o  l&#39;SDK Experience Platform.
+Adobe Campaign ti consente di inviare notifiche push personalizzate e segmentate ai dispositivi mobili iOS e Android.
+Questi messaggi vengono ricevuti sulle applicazioni mobili configurate in  Adobe Campaign sfruttando l&#39;SDK per dispositivi mobili  Experience Cloud V4 o  Experience Platform SDK per .
 Questa esercitazione illustra i passaggi necessari per inviare notifiche push da  Adobe Campaign e ricevere queste notifiche nell&#39;app Android.
 
 ## Prerequisiti
 
-* La proprietà di avvio deve essere configurata con &#39;estensione di Adobe Campaign Standard. Seguite la guida in linea indicata di seguito.
+* La proprietà di avvio deve essere configurata con  Adobe Campaign Standard Extension. Seguite la guida in linea indicata di seguito.
    * [Esercitazione video](https://video.tv.adobe.com/v/26224?quality=12&captions=ita)
    * [Documentazione](https://docs.adobe.com/content/help/en/campaign-learn/campaign-standard-tutorials/communication-channels/mobile/configure-mobile-apps-using-aep-sdk.html)
 
-* Verificate che lo stato della proprietà corrispondente nel Adobe Campaign Standard  sia impostato su configurato.
+* Verificate che lo stato della proprietà corrispondente in  Adobe Campaign Standard sia impostato su configurato.
 * [Avere un account Google Firebase attivo](https://firebase.google.com)
 * [Installazione dell&#39;ultima versione di Android Studio](https://developer.android.com/studio)
 
