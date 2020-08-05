@@ -1,6 +1,6 @@
 ---
 title: Introduzione al reporting
-description: Questo video offre una panoramica delle funzionalità di reporting  Adobe Campaign Standard
+description: Questo video offre una panoramica delle funzionalità di reporting di  Adobe Campaign Standard
 feature: Dynamic Reports
 topics: null
 kt: 3974
@@ -18,7 +18,7 @@ ht-degree: 3%
 
 # Introduzione al reporting
 
-Questo video offre una panoramica delle funzionalità di reporting  Adobe Campaign Standard
+Questo video offre una panoramica delle funzionalità di reporting di  Adobe Campaign Standard
 
 >[!VIDEO](https://video.tv.adobe.com/v/29461?quality=12)
 
