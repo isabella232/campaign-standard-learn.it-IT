@@ -1,5 +1,5 @@
 ---
-title: Comprendere profili e audience nel  Adobe Campaign Standard
+title: Comprendere profili e audience in  Adobe Campaign Standard
 description: Questo video illustra il concetto di profili e audience e come creare profili e audience in  Adobe Campaign Standard.
 feature: Profiles and Audiences
 topics: null
@@ -16,7 +16,7 @@ ht-degree: 3%
 ---
 
 
-# Comprendere profili e audience nel  Adobe Campaign Standard
+# Comprendere profili e audience in  Adobe Campaign Standard
 
 Questo video illustra il concetto e come creare profili e audience.
 
