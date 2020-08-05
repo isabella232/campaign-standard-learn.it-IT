@@ -1,6 +1,6 @@
 ---
 title: Esecuzione di richieste di privacy
-description: In  Adobe Campaign le richieste di privacy vengono eseguite dai flussi di lavoro. In questo video vengono descritti i flussi di lavoro che consentono di accedere ed eliminare le richieste e cosa accade quando vengono eseguite.
+description: In  le richieste di privacy di Adobe Campaign vengono eseguite dai flussi di lavoro. In questo video vengono descritti i flussi di lavoro che consentono di accedere ed eliminare le richieste e cosa accade quando vengono eseguite.
 feature: GDPR, CCPA
 topic: null
 kt: 1525
@@ -18,7 +18,7 @@ ht-degree: 2%
 
 # Esecuzione di richieste di privacy
 
-In  Adobe Campaign le richieste di privacy vengono eseguite dai flussi di lavoro. In questo video vengono descritti i flussi di lavoro che consentono di accedere ed eliminare le richieste e cosa accade quando vengono eseguite.
+In  le richieste di privacy di Adobe Campaign vengono eseguite dai flussi di lavoro. In questo video vengono descritti i flussi di lavoro che consentono di accedere ed eliminare le richieste e cosa accade quando vengono eseguite.
 
 >[!VIDEO](https://video.tv.adobe.com/v/22770?quality=12)
 
