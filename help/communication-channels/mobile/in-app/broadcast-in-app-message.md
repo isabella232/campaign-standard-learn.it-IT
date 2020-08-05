@@ -18,7 +18,7 @@ ht-degree: 1%
 
 # Trasmissione di un messaggio in-app
 
-Puoi trasmettere un messaggio in-app, indirizzato a tutti gli utenti di un&#39;app mobile, indipendentemente dal fatto che  Adobe Campaign disponga o meno delle informazioni sul profilo. Per trasmettere un messaggio, devi usarlo **[!UICONTROL Target all users of a mobile app template]** per configurare il messaggio in-app.
+Puoi trasmettere un messaggio in-app per tutti gli utenti di un&#39;app mobile, a prescindere  Adobe Campaign disponga o meno delle informazioni sul profilo. Per trasmettere un messaggio, devi usarlo **[!UICONTROL Target all users of a mobile app template]** per configurare il messaggio in-app.
 
 Alcuni dei casi di utilizzo pertinenti in questa categoria sono:
 
