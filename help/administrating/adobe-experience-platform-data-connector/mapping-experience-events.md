@@ -1,6 +1,6 @@
 ---
 title: Mapping di eventi esperienza
-description: Scopri come mappare eventi esperienza in  Adobe Experience Platform (AEP)
+description: Scopri come mappare gli eventi esperienza in Adobe Experience Platform (AEP)
 feature: Adobe Experience Platform Data Connector
 topics: ACoP
 kt: 2832
@@ -24,7 +24,7 @@ ht-degree: 7%
 >
 >Per [!UICONTROL Adobe Customer Support] implementare questa funzionalità, contattate il vostro riferimento commerciale.
 
-Scopri come mappare [!UICONTROL Experience Events] in  Adobe Experience Platform (AEP).
+Scopri come mappare [!UICONTROL Experience Events] in Adobe Experience Platform (AEP).
 
 >[!VIDEO](https://video.tv.adobe.com/v/27265?quality=12)
 
