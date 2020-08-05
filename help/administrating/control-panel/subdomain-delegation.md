@@ -11,7 +11,7 @@ translation-type: tm+mt
 source-git-commit: cb5d5bc58137fd374eafe165c6ea13288a60d7db
 workflow-type: tm+mt
 source-wordcount: '120'
-ht-degree: 18%
+ht-degree: 19%
 
 ---
 
@@ -24,7 +24,7 @@ Adobe Campaign [!UICONTROL Control Panel] allows you to fully delegate a subdoma
 >
 >La delega del sottodominio [!UICONTROL Control Panel] sarà disponibile in versione beta entro la fine di gennaio, e soggetto a frequenti aggiornamenti e modifiche senza preavviso.
 
-## Accesso [!UICONTROL Control Panel] [!UICONTROL Subdomain Management]
+## Accesso a [!UICONTROL Control Panel] [!UICONTROL Subdomain Management]
 
 Per accedere a [[!UICONTROL Subdomain Management] in [!UICONTROL Control Panel], vai a:
 
