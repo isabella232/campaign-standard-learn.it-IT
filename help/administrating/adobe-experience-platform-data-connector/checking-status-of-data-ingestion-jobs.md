@@ -24,7 +24,7 @@ ht-degree: 9%
 >
 >Per [!UICONTROL Adobe Customer Support] implementare questa funzionalità, contattate il vostro riferimento commerciale.
 
-Scoprite come controllare lo stato di un processo di inserimento dei dati e se i dati sono stati trasferiti da  Adobe Campaign Standard a  Adobe Experience Platform.
+Scoprite come verificare lo stato di un processo di inserimento dei dati e se i dati sono stati trasferiti da  Adobe Campaign Standard ad Adobe Experience Platform.
 
 >[!VIDEO](https://video.tv.adobe.com/v/27268?quality=12)
 
@@ -32,4 +32,4 @@ Scoprite come controllare lo stato di un processo di inserimento dei dati e se i
 
 * [Definizione mappature](https://docs.adobe.com/content/help/en/campaign-standard/using/administrating/mapping-campaign-and-aep-data/aep-mapping-definition.html)
 * [Attivazione mappature](https://docs.adobe.com/content/help/en/campaign-standard/using/administrating/mapping-campaign-and-aep-data/aep-mapping-activation.html)
-* [Attivazione dell’assimilazione dei dati tramite API](https://docs.adobe.com/content/help/en/campaign-standard/using/administrating/mapping-campaign-and-aep-data/aep-triggering-data-ingestion.html)
+* [Attivazione dell’acquisizione dati tramite API](https://docs.adobe.com/content/help/en/campaign-standard/using/administrating/mapping-campaign-and-aep-data/aep-triggering-data-ingestion.html)
