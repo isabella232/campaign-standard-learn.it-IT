@@ -19,7 +19,7 @@ ht-degree: 2%
 
 # Decrittografare i dati
 
-L&#39;Pannello di controllo Campaign consente di decrittografare i dati esterni che entrano nelle istanze del Adobe Campaign  utilizzando una coppia di chiavi pubblica/privata.
+L&#39;Pannello di controllo Campaign consente di decrittografare i dati esterni che entrano nelle istanze Adobe Campaign  utilizzando una coppia di chiavi pubblica/privata.
 Scopri come creare una chiave pubblica e importarla e installarla in un&#39;istanza Campaign per la decrittazione dei dati in entrata.
 
 >[!VIDEO](https://video.tv.adobe.com/v/35753?quality=12)
