@@ -1,5 +1,5 @@
 ---
-title: Tutorials Adobe Campaign Standard  - Panoramica
+title: ' Tutorials Adobe Campaign Standard - Panoramica'
 description: ' Adobe Campaign fornisce una piattaforma per la progettazione di esperienze cliente multicanale e fornisce un ambiente per l''orchestrazione visiva delle campagne, la gestione delle interazioni in tempo reale e l''esecuzione tra canali. Questa guida utente contiene video ed esercitazioni sulle numerose funzioni e funzionalità di  Adobe Campaign Standard.'
 products: SG_CAMPAIGN/STANDARD
 translation-type: tm+mt
