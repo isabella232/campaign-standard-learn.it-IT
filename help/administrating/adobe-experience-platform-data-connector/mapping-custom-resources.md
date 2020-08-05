@@ -1,6 +1,6 @@
 ---
 title: 'Mappatura di risorse personalizzate '
-description: Scopri come mappare diversi tipi di dati tra  Adobe Campaign Standard (ACS) e  Adobe Experience Platform (AEP)
+description: Scopri come mappare diversi tipi di dati tra  Adobe Campaign Standard (ACS) e Adobe Experience Platform (AEP)
 feature: Adobe Experience Platform Data Connector
 topics: ACoP
 kt: 2828
@@ -24,7 +24,7 @@ ht-degree: 5%
 >
 >Per [!UICONTROL Adobe Customer Support] implementare questa funzionalità, contattate il vostro riferimento commerciale.
 
-Scoprite come mappare diversi tipi di dati tra  Adobe Campaign Standard e  Adobe Experience Platform.
+Scopri come mappare tipi di dati diversi tra  Adobe Campaign Standard e Adobe Experience Platform.
 
 >[!VIDEO](https://video.tv.adobe.com/v/27231?quality=12)
 
