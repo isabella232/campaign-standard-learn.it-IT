@@ -1,6 +1,6 @@
 ---
 title: Generazione di una chiave SSH
-description: È necessario essere in grado di generare una chiave SSH per poterla aggiungere al Pannello di controllo Campaign di Adobi Campaign . Il video seguente spiega come generare una chiave SSH utilizzando un terminale.
+description: È necessario essere in grado di generare una chiave SSH per poterla aggiungere al Pannello di controllo Campaign Adobe Campaign . Il video seguente spiega come generare una chiave SSH utilizzando un terminale.
 feature: Control Panel
 topics: null
 kt: 2923
