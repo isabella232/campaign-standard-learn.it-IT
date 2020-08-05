@@ -17,7 +17,7 @@ ht-degree: 1%
 
 # Creazione di contenuti con  Adobe Dreamweaver
 
-L&#39;integrazione  Adobe Campaign Standard con  Adobe Dreamweaver consente di modificare il contenuto di un&#39;e-mail direttamente nell&#39;interfaccia Dreamweaver:
+L&#39; integrazione Adobe Campaign Standard con  Adobe Dreamweaver consente di modificare il contenuto di un&#39;e-mail direttamente nell&#39;interfaccia Dreamweaver:
 
 * Sincronizzazione bidirezionale in tempo reale dei contenuti
 * Caricare le immagini locali  Adobe Campaign tramite Dreamweaver
@@ -34,6 +34,6 @@ Il video illustra quanto è necessario per abilitare l&#39;integrazione con Drea
 
 ## Risorse aggiuntive
 
-* [Risoluzione dei problemi relativi all&#39;installazione Dreamweaver del Adobe Campaign](https://helpx.adobe.com/dreamweaver/kb/dreamweaver-campaign-integration-issue.html)
+* [Risoluzione dei problemi relativi all&#39;installazione  Adobe Campaign Dreamweaver](https://helpx.adobe.com/dreamweaver/kb/dreamweaver-campaign-integration-issue.html)
 * [documentazione Adobe Dreamweaver](https://helpx.adobe.com/dreamweaver/using/working-with-dreamweaver-and-campaign.html)
 * [Installare componenti aggiuntivi ed estensioni per  app di Adobe](https://helpx.adobe.com/creative-cloud/kb/installingextensionsandaddons.html)
