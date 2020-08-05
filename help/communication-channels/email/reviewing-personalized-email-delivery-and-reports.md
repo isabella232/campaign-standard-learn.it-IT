@@ -11,20 +11,20 @@ translation-type: tm+mt
 source-git-commit: 82fb2d39dc61a55c0aa20ca1fa215f35a7dd9088
 workflow-type: tm+mt
 source-wordcount: '83'
-ht-degree: 2%
+ht-degree: 12%
 
 ---
 
 
 # Verifica della consegna e dei rapporti tramite e-mail
 
-In questo video viene illustrato come rivedere una distribuzione e-mail personalizzata ed esaminare diversi rapporti disponibili in  Adobe Campaign Standard.
+Questo video spiega come rivedere una distribuzione e-mail personalizzata ed esplora diversi rapporti disponibili in  Adobe Campaign Standard.
 
 >[!VIDEO](https://video.tv.adobe.com/v/21389?quality=12)
 
 ## Risorse aggiuntive
 
 * [Creare un messaggio e-mail dalla pagina principale](/help/communication-channels/email/create-email-from-homepage.md)
-* [Invio di un test, preparazione e invio di un messaggio e-mail](/help/communication-channels/email/sending-test-preparing-sending-email.md)
+* [Invio di un test, preparazione e invio di un e-mail](/help/communication-channels/email/sending-test-preparing-sending-email.md)
 * [Creare un rapporto dinamico](/help/reporting/creating-a-dynamic-report.md)
 * [Creare un rapporto dinamico utilizzando attributi di profilo personalizzati](/help/reporting/custom-profile-attributes-dynamic-reports.md)
