@@ -11,7 +11,7 @@ translation-type: tm+mt
 source-git-commit: f0d95ab02496a9caa6b79a2c536ce9b7090da943
 workflow-type: tm+mt
 source-wordcount: '201'
-ht-degree: 0%
+ht-degree: 8%
 
 ---
 
@@ -35,7 +35,7 @@ Questo video illustra l’utilizzo del [!UICONTROL External API activity].
 
 >[!NOTE]
 >
->L&#39;attività è destinata al recupero di dati a livello di campagna (ultimi set di offerte, punteggi più recenti, ecc.), non al recupero di informazioni specifiche per ciascun profilo, in quanto ciò può comportare il trasferimento di grandi quantità di dati. Se il caso d&#39;uso lo richiede, la raccomandazione è di utilizzare l&#39;attività di trasferimento file.
+>L&#39;attività è destinata al recupero di dati a livello di campagna (ultimi set di offerte, punteggi più recenti, ecc.), non al recupero di informazioni specifiche per ciascun profilo, in quanto ciò può comportare il trasferimento di grandi quantità di dati. Se il caso di utilizzo lo richiede, si consiglia di utilizzare l’attività Transfer file.
 
 ## Risorse aggiuntive
 
