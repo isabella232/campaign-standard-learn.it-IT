@@ -11,17 +11,17 @@ translation-type: tm+mt
 source-git-commit: a2f194821a9ce06272eaed979ee2d8c62cccac2b
 workflow-type: tm+mt
 source-wordcount: '90'
-ht-degree: 2%
+ht-degree: 4%
 
 ---
 
 
 # Creazione di profili e audience - Panoramica
 
- Adobe Campaign ha due tipi o profili:
+ Adobe Campaign dispone di due tipi o profili:
 
 * Profili identificati
-* Profili di prova
+* Profili di test
 
 I profili raggruppati in base a uno o più criteri comuni sono denominati **audience**.
 
