@@ -1,6 +1,6 @@
 ---
 title: Attività segnale esterno - Richiama un flusso di lavoro con i parametri
-description: L'attività Segnale Esterno viene utilizzata per organizzare e orchestrare diversi processi che fanno parte dello stesso percorso del cliente in flussi di lavoro diversi. Consente di avviare un flusso di lavoro da un altro, consentendo di supportare percorsi cliente più complessi e di monitorare e reagire meglio in caso di problemi.
+description: L'attività Segnale Esterno viene utilizzata per organizzare e orchestrare diversi processi che fanno parte dello stesso percorso del cliente in flussi di lavoro diversi. Consente di avviare un flusso di lavoro a partire da un altro, permettendo di supportare customer journey più complessi e al tempo stesso di monitorare e reagire meglio in caso di problemi.
 feature: External Signal Activity
 topics: Workflows
 kt: 2750
@@ -11,16 +11,16 @@ translation-type: tm+mt
 source-git-commit: 9b1d8c5fb895d84da14a0402ec1f130b90a991b0
 workflow-type: tm+mt
 source-wordcount: '332'
-ht-degree: 0%
+ht-degree: 16%
 
 ---
 
 
 # [!UICONTROL External Signal activity ]- Chiama un flusso di lavoro con i parametri
 
-L&#39; [!UICONTROL External Signal activity] applicazione viene utilizzata per organizzare e orchestrare diversi processi che fanno parte dello stesso percorso del cliente in flussi di lavoro diversi. Consente di avviare un flusso di lavoro da un altro, consentendo di supportare percorsi cliente più complessi e di monitorare e reagire meglio in caso di problemi.
+The [!UICONTROL External Signal activity] is used to organize and orchestrate different processes that are part of the same customer journey into different workflows. Consente di avviare un flusso di lavoro a partire da un altro, permettendo di supportare customer journey più complessi e al tempo stesso di monitorare e reagire meglio in caso di problemi.
 
-In ACS 19.2 [!UICONTROL External Signal activity] non solo è possibile chiamare un flusso di lavoro, ma anche trasmettere i parametri al flusso di lavoro (un nome di audience a destinazione, un nome di file da importare, una parte del contenuto del messaggio, ecc.) al flusso di lavoro da un altro flusso di lavoro o da una chiamata REST API per l&#39;integrazione con i sistemi esterni.
+In ACS 19.2 [!UICONTROL External Signal activity] non solo è possibile chiamare un flusso di lavoro, ma anche trasmettere i parametri al flusso di lavoro (un nome di audience a destinazione, un nome di file da importare, una parte del contenuto del messaggio, ecc.) al flusso di lavoro da un altro flusso di lavoro o da una chiamata REST API per l’integrazione con i sistemi esterni.
 
 Questo include anche una nuova attività **Test** in cui è possibile eseguire test su questa funzionalità.
 
