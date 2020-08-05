@@ -1,6 +1,6 @@
 ---
 title: Mappatura dei dati della tabella seed
-description: Scopri come mappare i dati iniziali e come sottoporre a test i profili con il Adobe Experience Platform  (AEP)
+description: Scopri come mappare i dati iniziali e come sottoporre a test i profili con Adobe Experience Platform (AEP)
 feature: Adobe Experience Platform Data Connector
 topics: ACoP
 kt: 2900
@@ -24,7 +24,7 @@ ht-degree: 6%
 >
 >Per [!UICONTROL Adobe Customer Support] implementare questa funzionalità, contattate il vostro riferimento commerciale.
 
-Scopri come mappare i dati iniziali e i profili di test con il Adobe Experience Platform .
+Scopri come mappare i dati iniziali e i profili di test con l’Adobe Experience Platform.
 
 >[!VIDEO](https://video.tv.adobe.com/v/27264?quality=12)
 
