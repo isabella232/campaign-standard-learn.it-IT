@@ -18,7 +18,7 @@ ht-degree: 0%
 
 # Passaggio 3: registra le estensioni con la tua app mobile
 
-In questa parte aggiungeremo il codice per registrare le estensioni Profilo utente, Identità, Ciclo di vita e Segnale. Queste estensioni fanno parte di [[!UICONTROL Mobile Core Extensions]](https://aep-sdks.gitbook.io/docs/using-mobile-extensions/mobile-core). Dovremo anche registrare l&#39;estensione  Adobe Campaign Standard come indicato nel codice seguente.
+In questa parte aggiungeremo il codice per registrare le estensioni Profilo utente, Identità, Ciclo di vita e Segnale. Queste estensioni fanno parte di [[!UICONTROL Mobile Core Extensions]](https://aep-sdks.gitbook.io/docs/using-mobile-extensions/mobile-core). Dovremo anche registrare l&#39;estensione Adobe Campaign Standard  come mostrato nel codice seguente.
 
 Apri il progetto in [!DNL Android] studio. Eliminate l&#39;intero codice nell&#39;app principale **tranne la prima riga dell&#39;istruzione** pacchetto.
 
