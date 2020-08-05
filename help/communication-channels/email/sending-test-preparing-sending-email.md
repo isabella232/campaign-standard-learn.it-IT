@@ -1,6 +1,6 @@
 ---
 title: Inviare un test, preparare e inviare un messaggio e-mail
-description: 'Questo video spiega come inviare un messaggio e-mail di prova, preparare e inviare un messaggio e-mail di consegna in  Adobe Campaign Standard (ACS). '
+description: 'In questo video viene illustrato come inviare un messaggio e-mail di prova, preparare e inviare un messaggio e-mail in  Adobe Campaign Standard (ACS). '
 feature: Email
 topics: null
 kt: 1812
@@ -18,7 +18,7 @@ ht-degree: 2%
 
 # Inviare un test, preparare e inviare un messaggio e-mail
 
-Questo video spiega come inviare un messaggio e-mail di prova, preparare e inviare un messaggio e-mail di consegna in  Adobe Campaign Standard (ACS).
+In questo video viene illustrato come inviare un messaggio e-mail di prova, preparare e inviare un messaggio e-mail in  Adobe Campaign Standard (ACS).
 
 >[!VIDEO](https://video.tv.adobe.com/v/24013/)
 
