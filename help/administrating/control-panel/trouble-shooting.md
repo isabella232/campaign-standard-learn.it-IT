@@ -10,13 +10,13 @@ team: PM
 translation-type: tm+mt
 source-git-commit: 2f0527f3d9e2248eea68079e00855cce7a96fce4
 workflow-type: tm+mt
-source-wordcount: '327'
-ht-degree: 99%
+source-wordcount: '330'
+ht-degree: 100%
 
 ---
 
 
-# Risoluzione dei problemi [!UICONTROL Control Panel]
+# Risoluzione dei problemi relativi al 
 
 Scopri come risolvere i problemi durante l’utilizzo del Pannello di controllo Campaign.
 
