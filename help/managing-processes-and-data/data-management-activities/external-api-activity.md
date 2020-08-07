@@ -1,6 +1,6 @@
 ---
-title: Configurare ed eseguire un flusso di lavoro con l'attività API esterna
-description: L'attività API esterna è un'attività di gestione dei dati. Consente di chiamare un endpoint REST API esterno. Lo scopo di questa attività è quello di ottenere dati di personalizzazione da un sistema di terze parti nella campagna.
+title: Configurare ed eseguire un flusso di lavoro con l’attività External API
+description: L’attività External API è un’attività di gestione dati. Ti consente di chiamare un endpoint API REST esterno. Lo scopo di questa attività è quello di ottenere all’interno della tua campagna i dati di personalizzazione da un sistema di terze parti.
 feature: External API activity
 topics: null
 kt: 2764
@@ -11,23 +11,23 @@ translation-type: tm+mt
 source-git-commit: f0d95ab02496a9caa6b79a2c536ce9b7090da943
 workflow-type: tm+mt
 source-wordcount: '201'
-ht-degree: 8%
+ht-degree: 100%
 
 ---
 
 
-# Configura ed esegui un flusso di lavoro con [!UICONTROL External API activity]
+# Configurare ed eseguire un flusso di lavoro con l’[!UICONTROL External API activity]
 
-La [!UICONTROL External API activity] è una [!UICONTROL Data Management activity]. Consente di chiamare un endpoint REST API esterno. Lo scopo di questa attività è quello di ottenere dati di personalizzazione da un sistema di terze parti nella campagna.
+L’[!UICONTROL External API activity] è un’[!UICONTROL Data Management activity]. Ti consente di chiamare un endpoint API REST esterno. Lo scopo di questa attività è quello di ottenere all’interno della tua campagna i dati di personalizzazione da un sistema di terze parti.
 
-Esempi di utilizzo:
+I casi d’uso di esempio includono:
 
-* Ottenimento dell&#39;ultimo line-up di eventi sportivi per personalizzare i contenuti
-* Ottenimento dell&#39;ultimo set di offerte
+* Ricezione della più recente formazione per un evento sportivo, in modo da personalizzare i contenuti
+* Ricezione dell’insieme di offerte più recente
 * Collegamento a un sistema di generazione di coupon
-* Controllo del tempo nelle regioni locali e utilizzo per personalizzare il contenuto
+* Controllo del meteo nelle regioni locali, da utilizzare per la personalizzazione del contenuto
 
-Questo video illustra l’utilizzo del [!UICONTROL External API activity].
+Il presente video illustra l’utilizzo dell’[!UICONTROL External API activity].
 
 >[!VIDEO](https://video.tv.adobe.com/v/28200/?quality=12)
 
@@ -35,9 +35,9 @@ Questo video illustra l’utilizzo del [!UICONTROL External API activity].
 
 >[!NOTE]
 >
->L&#39;attività è destinata al recupero di dati a livello di campagna (ultimi set di offerte, punteggi più recenti, ecc.), non al recupero di informazioni specifiche per ciascun profilo, in quanto ciò può comportare il trasferimento di grandi quantità di dati. Se il caso di utilizzo lo richiede, si consiglia di utilizzare l’attività Transfer file.
+>L’attività è destinata all’estrazione di dati a livello di campagna (ultimi insiemi di offerte, punteggi più recenti, ecc.) e non al recupero di informazioni specifiche per ciascun profilo, in quanto ciò può comportare il trasferimento di grandi quantità di dati. Se il caso d’uso lo richiede, il consiglio è quello di utilizzare l’attività Transfer File.
 
 ## Risorse aggiuntive
 
-* [API esterna (documentazione)](https://docs.adobe.com/content/help/en/campaign-standard/using/managing-processes-and-data/data-management-activities/external-api.html)
+* [External API (documentazione)](https://docs.adobe.com/content/help/it-IT/campaign-standard/using/managing-processes-and-data/data-management-activities/external-api.html)
 
