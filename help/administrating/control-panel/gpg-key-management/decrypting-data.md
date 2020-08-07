@@ -1,6 +1,6 @@
 ---
-title: Decrittografare i dati
-description: Il video seguente spiega come creare una chiave pubblica e importarla e installarla in un'istanza Campaign per la decrittazione dei dati.
+title: Decrittografia dei dati
+description: Il presente video spiega come creare una chiave pubblica da importare e installare in un’istanza Campaign per la decrittografia dei dati.
 feature: Control Panel
 topics: null
 kt: 5545
@@ -12,19 +12,19 @@ translation-type: tm+mt
 source-git-commit: f0d95ab02496a9caa6b79a2c536ce9b7090da943
 workflow-type: tm+mt
 source-wordcount: '89'
-ht-degree: 2%
+ht-degree: 100%
 
 ---
 
 
-# Decrittografare i dati
+# Decrittografia dei dati
 
-L&#39;Pannello di controllo Campaign consente di decrittografare i dati esterni che entrano nelle istanze Adobe Campaign  utilizzando una coppia di chiavi pubblica/privata.
-Scopri come creare una chiave pubblica e importarla e installarla in un&#39;istanza Campaign per la decrittazione dei dati in entrata.
+Il Pannello di controllo Campaign ti consente di decrittografare i dati esterni che entrano nelle istanze di Adobe Campaign mediante una coppia di chiavi pubblica/privata.
+Scopri come creare una chiave pubblica da importare e installare in un’istanza Campaign per la decrittografia dei dati in entrata.
 
 >[!VIDEO](https://video.tv.adobe.com/v/35753?quality=12)
 
 ## Risorse aggiuntive
 
-* [Gestione delle chiavi GPG (video)](./gpg-key-management-overview.md)
-* [Gestione delle chiavi GPG (documentazione)](https://docs.adobe.com/content/help/en/control-panel/using/instances-settings/gpg-keys-management.html)
+* [Gestione chiave GPG (video)](./gpg-key-management-overview.md)
+* [Gestione chiave GPG (documentazione)](https://docs.adobe.com/content/help/it-IT/control-panel/using/instances-settings/gpg-keys-management.html)
