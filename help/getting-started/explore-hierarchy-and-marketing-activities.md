@@ -1,6 +1,6 @@
 ---
-title: Esplora gerarchia e attività di marketing
-description: Questo video illustra la gerarchia di programmi e campagne in  Adobe Campaign Standard (ACS), come creare un programma di marketing e come creare una campagna di marketing all'interno di un programma.
+title: Esplorare gerarchia e attività di marketing
+description: Il presente video illustra la gerarchia di programmi e campagne all’interno di Adobe Campaign Standard (ACS), le modalità di creazione di un programma di marketing e di una campagna di marketing in un programma.
 feature: managing campaigns
 topics: null
 kt: 3892
@@ -11,17 +11,17 @@ translation-type: tm+mt
 source-git-commit: 9b1d8c5fb895d84da14a0402ec1f130b90a991b0
 workflow-type: tm+mt
 source-wordcount: '80'
-ht-degree: 6%
+ht-degree: 100%
 
 ---
 
 
-# Esplora gerarchia e attività di marketing
+# Esplorare gerarchia e attività di marketing
 
-Questo video illustra la gerarchia di programmi e campagne, come creare un programma di marketing e come creare una campagna di marketing all&#39;interno di un programma.
+Il presente video illustra la gerarchia di programmi e campagne, le modalità di creazione di un programma di marketing e di una campagna di marketing all’interno di un programma.
 
 >[!VIDEO](https://video.tv.adobe.com/v/18465?quality=12)
 
 ## Risorse aggiuntive
 
-* [Programmi e campagne](https://docs.adobe.com/content/help/en/campaign-standard/using/getting-started/marketing-plans/programs-and-campaigns.html)
+* [Programmi e campagne](https://docs.adobe.com/content/help/it-IT/campaign-standard/using/getting-started/marketing-plans/programs-and-campaigns.html)
