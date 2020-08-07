@@ -4,7 +4,7 @@ description: Il presente video illustra come verificare i messaggi e-mail median
 feature: Email
 topics: Channels
 kt: 4667
-thumbnail: 32368.jpg
+thumbnail: 32368
 doc-type: feature video
 activity: use
 team: TM
