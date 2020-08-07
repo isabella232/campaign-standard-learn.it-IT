@@ -5,7 +5,7 @@ products: SG_CAMPAIGN/STANDARD
 translation-type: tm+mt
 source-git-commit: 9b1d8c5fb895d84da14a0402ec1f130b90a991b0
 workflow-type: tm+mt
-source-wordcount: '308'
+source-wordcount: '280'
 ht-degree: 100%
 
 ---
@@ -24,10 +24,6 @@ ht-degree: 100%
 * **[Attività External API](/help/managing-processes-and-data/data-management-activities/external-api-activity.md)**
 
    *Scopri come configurare ed eseguire un flusso di lavoro con l’attività External API.*
-
-* **[Profile Substitution - Verifica dei messaggi e-mail tramite profili di destinazione](/help/communication-channels/email/profile-substitution.md)**
-
-   *Scopri come inviare una prova per la revisione con l’esatta rappresentazione del messaggio che verrà ricevuto dal profilo.*
 
 ## Scelti dallo staff
 
