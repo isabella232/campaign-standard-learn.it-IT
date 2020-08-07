@@ -1,6 +1,6 @@
 ---
-title: 'Guida introduttiva all’interfaccia '
-description: Questo video offre una panoramica dell’interfaccia utente  Adobe Campaign Standard e delle funzioni principali e di base.
+title: 'Introduzione all’interfaccia utente '
+description: Il presente video offre una panoramica dell’interfaccia utente di Adobe Campaign Standard, delle funzioni chiave e delle funzionalità di base.
 feature: User Interface
 topics: Getting started
 kt: 3882
@@ -12,18 +12,18 @@ translation-type: tm+mt
 source-git-commit: 0a37f5949b580490ef03f6884cfba01ed09afe86
 workflow-type: tm+mt
 source-wordcount: '81'
-ht-degree: 8%
+ht-degree: 100%
 
 ---
 
 
-# Guida introduttiva all’interfaccia
+# Introduzione all’interfaccia utente
 
-Questo video offre una panoramica dell’interfaccia utente  Adobe Campaign Standard e spiega come passare alle funzioni chiave e alle funzionalità di base.
+Il presente video offre una panoramica dell’interfaccia utente di Adobe Campaign Standard, illustrando come navigare tra le funzioni chiave e le funzionalità di base.
 
 >[!VIDEO](https://video.tv.adobe.com/v/18469?quality=12)
 
 ## Risorse aggiuntive
 
-* [Informazioni sull’interfaccia](https://docs.adobe.com/content/help/en/campaign-standard/using/getting-started/discovering-the-interface/about-the-interface.html)
-* [Descrizione interfaccia](https://docs.adobe.com/content/help/en/campaign-standard/using/getting-started/discovering-the-interface/interface-description.html)
+* [Informazioni sull’interfaccia](https://docs.adobe.com/content/help/it-IT/campaign-standard/using/getting-started/discovering-the-interface/about-the-interface.html)
+* [Descrizione interfaccia](https://docs.adobe.com/content/help/it-IT/campaign-standard/using/getting-started/discovering-the-interface/interface-description.html)
