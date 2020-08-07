@@ -8,9 +8,9 @@ doc-type: feature video
 activity: use
 team: PM
 translation-type: tm+mt
-source-git-commit: db20c4e6aeb10dc04a6c4556fefaa8cd18366c44
+source-git-commit: 906b1d76e4723b50e2d06f6525763bbd73b98e10
 workflow-type: tm+mt
-source-wordcount: '386'
+source-wordcount: '364'
 ht-degree: 100%
 
 ---
@@ -71,9 +71,7 @@ Nel video seguente viene illustrato come aggiungere un amministratore a un’ist
 * **[Aggiunta di certificati SSL](/help/administrating/control-panel/adding-ssl-certificates.md)**
 
    *Scopri come aggiungere i certificati SSL per proteggere i sottodomini.*
-* **[Gestione dei certificati SSL](/help/administrating/control-panel/managing-ssl-certificates.md)**
 
-   *Scopri come visualizzare lo stato dei certificati SSL dei tuoi sottodomini, nonché come richiedere i rinnovi.*
 * **[Gestione dei record TXT di Google](/help/administrating/control-panel/google-txt-record-management.md)**
 
    *Scopri come aggiungere record TXT di Google per la verifica del sito a tutti i tuoi sottodomini utilizzati per inviare e-mail agli indirizzi GMAIL tramite il Pannello di controllo Campaign.*
