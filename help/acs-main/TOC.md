@@ -9,10 +9,10 @@ tutorials-url: https://docs.adobe.com/content/help/it-IT/campaign-standard-learn
 getting-started-title: Documentazione
 getting-started-url: https://docs.adobe.com/content/help/it-IT/campaign-standard/using/campaign-standard-home.html
 translation-type: tm+mt
-source-git-commit: 32d62f94862f72b43b4e3982b0a754c855d6faac
+source-git-commit: d4819df4d0ed07955881cd157ec4caf7da847e96
 workflow-type: tm+mt
-source-wordcount: '513'
-ht-degree: 97%
+source-wordcount: '519'
+ht-degree: 96%
 
 ---
 
@@ -79,6 +79,7 @@ ht-degree: 97%
 + Progettazione e personalizzazione dei contenuti {#designing-content}
    + E-mail Designer{#email-designer}
       + [Panoramica](/help/designing-content/email-designer/email-designer-overview.md)
+      + [Guida introduttiva a Email Designer](/help/designing-content/email-designer/getting-started-with-the-email-designer.md)
       + [Introduzione ai modelli di contenuto e-mail](/help/designing-content/email-designer/email-content-templates.md)
       + [Configurare la visualizzazione per dispositivi mobili](/help/designing-content/email-designer/configure-the-mobile-view.md)
       + [Anteprima del messaggio e-mail e analisi anti-spam](/help/designing-content/email-designer/preview-your-email.md)
