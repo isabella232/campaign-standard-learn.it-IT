@@ -9,10 +9,10 @@ tutorials-url: https://docs.adobe.com/content/help/it-IT/campaign-standard-learn
 getting-started-title: Documentazione
 getting-started-url: https://docs.adobe.com/content/help/it-IT/campaign-standard/using/campaign-standard-home.html
 translation-type: tm+mt
-source-git-commit: 906b1d76e4723b50e2d06f6525763bbd73b98e10
+source-git-commit: 32d62f94862f72b43b4e3982b0a754c855d6faac
 workflow-type: tm+mt
-source-wordcount: '500'
-ht-degree: 100%
+source-wordcount: '513'
+ht-degree: 97%
 
 ---
 
@@ -29,6 +29,7 @@ ht-degree: 100%
    + [Esplorare gerarchia e attività di marketing](/help/getting-started/explore-hierarchy-and-marketing-activities.md)
    + [Gestire le campagne](/help/getting-started/managing-campaigns.md)
    + [Informazioni su profili e pubblico](/help/getting-started/understanding-profiles-and-audiences.md)
+   + [Creazione ed e-mail](https://docs.adobe.com/content/help/en/campaign-standard-learn/tutorials/communication-channels/email/create-email-from-homepage.html)
    + [Creare un flusso di lavoro](/help/managing-processes-and-data/create-workflow.md)
    + [Introduzione al reporting](/help/getting-started/reporting-with-adobe-campaign-introduction.md)
    + [Mobile marketing con Adobe Campaign](/help/getting-started/mobile-marketing-with-adobe-campaign.md)
