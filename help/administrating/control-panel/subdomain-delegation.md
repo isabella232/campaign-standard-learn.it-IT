@@ -1,6 +1,6 @@
 ---
-title: Delega di sottodomini
-description: ' Pannello di controllo Campaign Adobe Campaign consente di delegare completamente un sottodominio a  Adobe Campaign. Per farlo, segui la procedura indicata di seguito.'
+title: Delega dei sottodomini
+description: Il Pannello di controllo Campaign consente di delegare completamente un sottodominio ad Adobe Campaign. Per farlo, segui la procedura indicata di seguito.
 feature: Control Panel
 topics: null
 kt: 4115
@@ -8,27 +8,27 @@ doc-type: feature video
 activity: use
 team: PM
 translation-type: tm+mt
-source-git-commit: cb5d5bc58137fd374eafe165c6ea13288a60d7db
+source-git-commit: a21fdefdce42ba417ff6b5173d15a0cebe4176ad
 workflow-type: tm+mt
 source-wordcount: '120'
-ht-degree: 19%
+ht-degree: 96%
 
 ---
 
 
-# Delega di sottodomini
+# Delega dei sottodomini
 
-Adobe Campaign [!UICONTROL Control Panel] allows you to fully delegate a subdomain to Adobe Campaign.
+Il [!UICONTROL Control Panel] di Adobe Campaign consente di delegare completamente un sottodominio ad Adobe Campaign.
 
 >[!NOTE]
->
->La delega del sottodominio [!UICONTROL Control Panel] sarà disponibile in versione beta entro la fine di gennaio, e soggetto a frequenti aggiornamenti e modifiche senza preavviso.
+> La delega dei sottodomini dal [!UICONTROL Control Panel] sarà disponibile in versione beta entro la fine di gennaio e sarà soggetta ad
+> aggiornamenti frequenti e modifiche senza preavviso.
 
-## Accesso a [!UICONTROL Control Panel] [!UICONTROL Subdomain Management]
+## Accesso al [!UICONTROL Control Panel] [!UICONTROL Subdomain Management]
 
-Per accedere a [[!UICONTROL Subdomain Management] in [!UICONTROL Control Panel], vai a:
+Per accedere alla [!UICONTROL Subdomain Management] nel [!UICONTROL Control Panel], vai a:
 
-* [Experience Cloud Home](https://experience.adobe.com/#/home) > [!UICONTROL Solution picker]: [!DNL Campaign] > **[!UICONTROL Control Panel]** scheda > **[!UICONTROL Subdomains & Certificates]** scheda
+* [Home di Experience Cloud](https://experience.adobe.com/#/home) > [!UICONTROL Solution picker]: [!DNL Campaign] > scheda **[!UICONTROL Control Panel]** > scheda **[!UICONTROL Subdomains & Certificates]**
 
    o
 * Direttamente dall’URL: [https://experience.adobe.com/#/controlpanel/domain](https://experience.adobe.com/#/controlpanel/domain)
@@ -38,9 +38,9 @@ Per accedere a [[!UICONTROL Subdomain Management] in [!UICONTROL Control Panel],
 Il video seguente illustra come delegare i sottodomini.
 
 >[!VIDEO](https://video.tv.adobe.com/v/31390?quality=12)
-*Delega sottodominio (05:07 min)*
+*Subdomain Delegation (05:07 min)*
 
 ## Risorse aggiuntive
 
-* [Aggiunta di certificato SSL](/help/administrating/control-panel/adding-ssl-certificates.md)
+* [Aggiunta di certificati SSL](/help/administrating/control-panel/adding-ssl-certificates.md)
 * [Sottodomini e certificati](https://docs.adobe.com/content/help/it-IT/control-panel/using/subdomains-and-certificates/renewing-subdomain-certificate.html)
