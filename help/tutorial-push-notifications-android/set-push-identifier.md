@@ -8,9 +8,9 @@ doc-type: tutorial
 activity: use
 team: TM
 translation-type: tm+mt
-source-git-commit: c3ff1a137fb8ee9506a11f82e1a27d010bbd97e6
+source-git-commit: bbe5f985ae791f55e94c7369fbf1aefcfd9d2b76
 workflow-type: tm+mt
-source-wordcount: '207'
+source-wordcount: '206'
 ht-degree: 0%
 
 ---
@@ -19,7 +19,7 @@ ht-degree: 0%
 
 La stringa **[!DNL pushidentifier]** contiene il token dispositivo per [!DNL Push] le notifiche. Si tratta dello stesso token inviato dall’SDK [!DNL Firebase] e passato all’SDK tramite il [!DNL MobileCore.setPushIdentifier] metodo .
 
-Apri il progetto in [!DNL Android ]studio. Eliminate l&#39;intero codice [!DNL MainActivity] tranne la prima riga dell&#39;istruzione **** pacchetto.
+Apri il progetto in [!DNL Android ]studio. Eliminate l&#39;intero codice in [!DNL MainActivity] tranne la prima riga dell&#39;istruzione **** pacchetto.
 
 Incollate il seguente codice in [!DNL MainActivity]:
 
@@ -99,5 +99,6 @@ Spostarsi **[!UICONTROL Administration->Channels->Mobile App(AEP SDK)]**. Aprite
 
 ![abbonati a mobile-application](assets/mobile-application-subscribers.PNG)
 
->[NOTA]
+>[!NOTE]
+>
 >Se non vedete il token di registrazione nella [!UICONTROL Mobile Application Subscribers] scheda STOP qui prima di continuare.
