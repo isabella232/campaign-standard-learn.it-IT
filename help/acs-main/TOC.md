@@ -8,8 +8,9 @@ tutorials-title: Esercitazioni
 tutorials-url: https://docs.adobe.com/content/help/it-IT/campaign-standard-learn/tutorials/overview.html
 getting-started-title: Documentazione
 getting-started-url: https://docs.adobe.com/content/help/it-IT/campaign-standard/using/campaign-standard-home.html
+type: Tutorial
 translation-type: tm+mt
-source-git-commit: d4819df4d0ed07955881cd157ec4caf7da847e96
+source-git-commit: 5d176b2df0da17dd66c6b2990b9da051296fd508
 workflow-type: tm+mt
 source-wordcount: '519'
 ht-degree: 96%
@@ -110,9 +111,9 @@ ht-degree: 96%
       + [Delega di sottodomini](/help/administrating/control-panel/subdomain-delegation.md)
       + [Aggiunta di certificati SSL](/help/administrating/control-panel/adding-ssl-certificates.md)
       + [Gestione dei record TXT di Google](/help/administrating/control-panel/google-txt-record-management.md)
-      + Gestione chiave GPG {#gpg-key-management}
-         + [Gestione chiave GPG - panoramica](/help/administrating/control-panel/gpg-key-management/gpg-key-management-overview.md)
-         + [Generazione e installazione delle chiavi GPG per la crittografia dei dati](/help/administrating/control-panel/gpg-key-management/generating-and-installing-gpg-keys-for-data-encryption.md)
+      + Gestione delle chiavi GPG {#gpg-key-management}
+         + [Gestione delle chiavi GPG - panoramica](/help/administrating/control-panel/gpg-key-management/gpg-key-management-overview.md)
+         + [Generazione e installazione di chiavi GPG per la crittografia dei dati](/help/administrating/control-panel/gpg-key-management/generating-and-installing-gpg-keys-for-data-encryption.md)
          + [Utilizzo di una chiave GPG per crittografare i dati](/help/administrating/control-panel/gpg-key-management/using-a-gpg-key-to-encrypt-data.md)
          + [Decrittografia dei dati](/help/administrating/control-panel/gpg-key-management/decrypting-data.md)
       + [Risoluzione dei problemi](/help/administrating/control-panel/trouble-shooting.md)
