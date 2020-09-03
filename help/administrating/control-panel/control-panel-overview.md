@@ -46,7 +46,7 @@ Prima di iniziare, completa i seguenti prerequisiti:
 Devi conoscere il tuo [!DNL IMS org ID]. Il seguente video descrive le aree in cui puoi ricercare l’[!DNL IMS org ID] della tua istanza.
 
 >[!VIDEO](https://video.tv.adobe.com/v/27183?quality=12)
-*Controllare l’[!DNL IMS Org ID](00:26 min)*
+*Controllare l’[!DNL IMS Org ID] (00:26 min)*
 
 ### Diritti di amministratore
 
@@ -54,7 +54,7 @@ I diritti di amministratore sono necessari per accedere al [!UICONTROL Control P
 Nel video seguente viene illustrato come aggiungere un amministratore a un’istanza di Campaign.
 
 >[!VIDEO](https://video.tv.adobe.com/v/27147?quality=12)
-*Come aggiungere un amministratore al profilo di prodotto “[!UICONTROL Administrators]” per poter utilizzare il[!UICONTROL Control Panel](01:03 min)*
+*Come aggiungere un amministratore al profilo di prodotto “[!UICONTROL Administrators]” per poter utilizzare il [!UICONTROL Control Panel] (01:03 min)*
 
 ## Tutorial del Pannello di controllo Campaign
 
