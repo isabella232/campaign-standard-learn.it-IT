@@ -11,10 +11,10 @@ getting-started-title: Documentazione
 getting-started-url: https://docs.adobe.com/content/help/it-IT/campaign-standard/using/campaign-standard-home.html
 type: Tutorial
 translation-type: tm+mt
-source-git-commit: 94c15068a733b95a41201cd2a451d2adea4b9c29
+source-git-commit: 06a4a418906d4bf74cad5faf809bea086537bbd3
 workflow-type: tm+mt
-source-wordcount: '519'
-ht-degree: 96%
+source-wordcount: '536'
+ht-degree: 93%
 
 ---
 
@@ -51,12 +51,16 @@ ht-degree: 96%
    + E-mail {#email}
       + [Creare un messaggio e-mail](/help/communication-channels/email/create-email-from-homepage.md)
       + [Inviare un test, preparare e spedire un messaggio e-mail](/help/communication-channels/email/sending-test-preparing-sending-email.md)
-      + [Creare un’e-mail o un SMS multilingue](/help/communication-channels/create-multilingual-deliveries.md)
-      + [Convertire e-mail, SMS o modello esistente in una versione multilingue](/help/communication-channels/covert-into-multilingual-deliveries.md)
       + [Test A/B](/help/communication-channels/email/a-b-testing.md)
       + [Test dei messaggi e-mail tramite profili di destinazione](/help/communication-channels/email/profile-substitution.md)
+      + [Aggiunta di un gruppo di controllo a una consegna](/help/communication-channels/email/control-groups.md)
+      + [Creare un’e-mail o un SMS multilingue](/help/communication-channels/create-multilingual-deliveries.md)
+      + [Convertire e-mail, SMS o modello esistente in una versione multilingue](/help/communication-channels/covert-into-multilingual-deliveries.md)
       + [Rivedere un recapito tramite e-mail e i rapporti](/help/communication-channels/email/reviewing-personalized-email-delivery-and-reports.md)
       + [Creare e inviare e-mail tramite un flusso di lavoro](/help/communication-channels/email/create-and-send-emails-via-workflow.md)
+      + E-mail alimentate da AI {#journey-ai}
+         + [Ottimizzazione del tempo di invio predittiva](/help/communication-channels/email/ai-powered-emails/predictive-send-time-optimization.md)
+         + [Predictive Engagement Scoring](/help/communication-channels/email/ai-powered-emails/predictive-engagement-scoring.md)
    + Mobile {#mobile}
       + SMS{#sms}
          + [Creare una consegna SMS](/help/communication-channels/mobile/sms/sms-delivery.md)
