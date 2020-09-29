@@ -11,10 +11,10 @@ getting-started-title: Documentazione
 getting-started-url: https://docs.adobe.com/content/help/it-IT/campaign-standard/using/campaign-standard-home.html
 type: Tutorial
 translation-type: tm+mt
-source-git-commit: 06a4a418906d4bf74cad5faf809bea086537bbd3
+source-git-commit: 6c88336d9c02faa683973d74ec21e38622afdf3f
 workflow-type: tm+mt
 source-wordcount: '536'
-ht-degree: 93%
+ht-degree: 92%
 
 ---
 
@@ -31,13 +31,13 @@ ht-degree: 93%
    + [Esplorare gerarchia e attività di marketing](/help/getting-started/explore-hierarchy-and-marketing-activities.md)
    + [Gestire le campagne](/help/getting-started/managing-campaigns.md)
    + [Informazioni su profili e pubblico](/help/getting-started/understanding-profiles-and-audiences.md)
-   + [Creazione ed e-mail](https://docs.adobe.com/content/help/en/campaign-standard-learn/tutorials/communication-channels/email/create-email-from-homepage.html)
+   + [Creare un messaggio e-mail](https://docs.adobe.com/content/help/en/campaign-standard-learn/tutorials/communication-channels/email/create-email-from-homepage.html)
    + [Creare un flusso di lavoro](/help/managing-processes-and-data/create-workflow.md)
    + [Introduzione al reporting](/help/getting-started/reporting-with-adobe-campaign-introduction.md)
    + [Mobile marketing con Adobe Campaign](/help/getting-started/mobile-marketing-with-adobe-campaign.md)
    + [Crescita con Adobe Campaign](/help/getting-started/growing-with-adobe-campaign.md)
 + Profili e pubblico {#profiles-and-audiences}
-   + [Creare profili e pubblico - Panoramica](/help/profiles-and-audiences/creating-profiles-and-audiences.md)
+   + [Creazione di profili e audience - Panoramica](/help/profiles-and-audiences/creating-profiles-and-audiences.md)
    + [Creare un profilo](/help/profiles-and-audiences/creating-a-profile.md)
    + [Creare un profilo di test](/help/profiles-and-audiences/test-profiles.md)
    + [Importare profili con un flusso di lavoro](/help/managing-processes-and-data/importing-profiles.md)
