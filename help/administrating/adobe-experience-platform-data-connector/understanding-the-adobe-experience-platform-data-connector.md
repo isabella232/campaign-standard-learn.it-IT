@@ -8,15 +8,15 @@ doc-type: feature video
 activity: understand
 team: TM
 translation-type: tm+mt
-source-git-commit: cb5d5bc58137fd374eafe165c6ea13288a60d7db
+source-git-commit: d87971b70bde8de1822f18cbafd8e2d7b4808edc
 workflow-type: tm+mt
 source-wordcount: '343'
-ht-degree: 5%
+ht-degree: 10%
 
 ---
 
 
-# Adobe Experience Platform [!UICONTROL Data Connector]
+# Understanding the Adobe Experience Platform [!UICONTROL Data Connector]
 
 >[!NOTE]
 >
@@ -47,10 +47,10 @@ Adobe Experience Platform [!UICONTROL Data Connector] è destinato agli sviluppa
 Le seguenti esercitazioni descrivono i passaggi chiave per eseguire una mappatura dati tra Campaign Standard e Adobe Experience Platform:
 
 1. [Mappatura delle risorse personalizzate](/help/administrating/adobe-experience-platform-data-connector/mapping-custom-resources.md)
-2. [Mapping di eventi esperienza](/help/administrating/adobe-experience-platform-data-connector/mapping-experience-events.md)
+2. [Mappatura di eventi Experience](/help/administrating/adobe-experience-platform-data-connector/mapping-experience-events.md)
 3. [Mappatura dei dati della tabella dei semi](/help/administrating/adobe-experience-platform-data-connector/mapping-seed-table-data.md)
 4. [Modifica della mappatura dei dati](/help/administrating/adobe-experience-platform-data-connector/modifying-data-mapping.md)
-5. [Verifica dello stato di un processo di assimilazione dei dati](/help/administrating/adobe-experience-platform-data-connector/checking-status-of-data-ingestion-jobs.md)
+5. [Verifica dello stato di un processo di inserimento dei dati](/help/administrating/adobe-experience-platform-data-connector/checking-status-of-data-ingestion-jobs.md)
 
 ## Risorse aggiuntive
 
