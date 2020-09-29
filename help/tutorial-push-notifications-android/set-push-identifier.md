@@ -8,7 +8,7 @@ doc-type: tutorial
 activity: use
 team: TM
 translation-type: tm+mt
-source-git-commit: bbe5f985ae791f55e94c7369fbf1aefcfd9d2b76
+source-git-commit: aa01c2f8fe1560468d0d8f3fae6291bb82f9a21f
 workflow-type: tm+mt
 source-wordcount: '206'
 ht-degree: 0%
@@ -22,6 +22,10 @@ La stringa **[!DNL pushidentifier]** contiene il token dispositivo per [!DNL Pus
 Apri il progetto in [!DNL Android ]studio. Eliminate l&#39;intero codice in [!DNL MainActivity] tranne la prima riga dell&#39;istruzione **** pacchetto.
 
 Incollate il seguente codice in [!DNL MainActivity]:
+
+<!--
+Removed `{.line-numbers}` below
+-->
 
 ```java
 import androidx.annotation.NonNull;
