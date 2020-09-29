@@ -8,10 +8,10 @@ doc-type: feature video
 activity: using
 team: TM
 translation-type: tm+mt
-source-git-commit: cb5d5bc58137fd374eafe165c6ea13288a60d7db
+source-git-commit: d87971b70bde8de1822f18cbafd8e2d7b4808edc
 workflow-type: tm+mt
 source-wordcount: '174'
-ht-degree: 1%
+ht-degree: 10%
 
 ---
 
@@ -33,11 +33,11 @@ Il [!UICONTROL Audiences] modulo all&#39;interno  Adobe Campaign Standard consen
 
 Le seguenti esercitazioni video guidano l’utente attraverso i diversi passaggi:
 
-1. [Creazione di una nuova audience con Unified Segment Builder (Generatore segmenti unificato)](/help/profiles-and-audiences/audience-destinations/creating-audiences-using-segment-builder.md)
+1. [Creare un nuovo pubblico con Unified Segment Builder (Generatore di segmenti unificato)](/help/profiles-and-audiences/audience-destinations/creating-audiences-using-segment-builder.md)
 2. [Attivare i tipi di pubblico AEP in un flusso di lavoro di marketing](/help/profiles-and-audiences/audience-destinations/activating-aep-audiences.md)
-3. [Modifica della dimensione di targeting di una distribuzione per un pubblico piattaforma](/help/profiles-and-audiences/audience-destinations/changing-targeting-dimension.md)
+3. [Modificare la dimensione di targeting di una distribuzione per un pubblico piattaforma](/help/profiles-and-audiences/audience-destinations/changing-targeting-dimension.md)
 
 ## Risorse aggiuntive
 
-*[Informazioni sul connettore dati Adobe Experience Platform](/help/administrating/adobe-experience-platform-data-connector/understanding-the-adobe-experience-platform-data-connector.md)
+*[Informazioni su Adobe Experience Platform Data Connector](/help/administrating/adobe-experience-platform-data-connector/understanding-the-adobe-experience-platform-data-connector.md)
 
