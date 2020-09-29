@@ -8,7 +8,7 @@ doc-type: tutorial
 activity: use
 team: TM
 translation-type: tm+mt
-source-git-commit: c3ff1a137fb8ee9506a11f82e1a27d010bbd97e6
+source-git-commit: 13b4f1d395dfe53f9fc5263e7b06be700e30b986
 workflow-type: tm+mt
 source-wordcount: '154'
 ht-degree: 0%
@@ -26,6 +26,10 @@ Questo è il modo in cui si informa l&#39;utente che qualcosa è accaduto in bac
 * Fate clic con il pulsante destro del mouse sulla cartella del pacchetto ([!DNL com.example.acspushtutorial]) e [!DNL New ->Java Class]
 * Denominate questa classe *[!DNL MyService]* e accertatevi che si estenda [!DNL FirebaseMessagingService]
 * Crea *[!DNL sendNotification]* metodo in questa classe. In questo metodo è necessario impostare il contenuto e il canale della notifica utilizzando un [!DNL NotificationCompat.Builder] oggetto. Per visualizzare la notifica, chiama [!DNL NotificationManagerCompat.notify()]e passa un ID univoco per la notifica e il risultato di [!DNL NotificationCompat.Builder.build()].
+
+<!--
+Removed `{.line-numbers}` below
+-->
 
 ```java
 package com.example.pushmessaging;
@@ -91,6 +95,10 @@ notificationManager.notify(0 /* ID of notification */, notificationBuilder.build
 ## Modifica [!DNL AndroidManifest.xml]
 
 Aggiungete il servizio creato al vostro [!DNL AndroidManifest.xml]. L&#39;ultimo [!DNL AndroidManifest.xml] dovrebbe essere simile al seguente:
+
+<!--
+Removed `{.line-numbers}` below
+-->
 
 ```xml
 <?xml version="1.0" encoding="utf-8"?>
