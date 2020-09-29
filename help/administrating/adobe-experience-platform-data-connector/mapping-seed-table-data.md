@@ -1,5 +1,5 @@
 ---
-title: Mappatura dei dati della tabella seed
+title: Mappatura dei dati della tabella di seeding
 description: Scopri come mappare i dati iniziali e come sottoporre a test i profili con Adobe Experience Platform (AEP)
 feature: Adobe Experience Platform Data Connector
 topics: ACoP
@@ -8,15 +8,15 @@ doc-type: feature video
 activity: use
 team: TM
 translation-type: tm+mt
-source-git-commit: cb5d5bc58137fd374eafe165c6ea13288a60d7db
+source-git-commit: d87971b70bde8de1822f18cbafd8e2d7b4808edc
 workflow-type: tm+mt
 source-wordcount: '92'
-ht-degree: 6%
+ht-degree: 15%
 
 ---
 
 
-# Mappatura dei dati della tabella seed
+# Mappatura dei dati della tabella di seeding
 
 >[!NOTE]
 >
