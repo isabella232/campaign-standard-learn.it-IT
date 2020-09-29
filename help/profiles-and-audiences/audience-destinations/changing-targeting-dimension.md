@@ -8,10 +8,10 @@ doc-type: feature video
 activity: using
 team: TM
 translation-type: tm+mt
-source-git-commit: cb5d5bc58137fd374eafe165c6ea13288a60d7db
+source-git-commit: d87971b70bde8de1822f18cbafd8e2d7b4808edc
 workflow-type: tm+mt
 source-wordcount: '165'
-ht-degree: 4%
+ht-degree: 15%
 
 ---
 
@@ -38,5 +38,5 @@ Documentazione:
 
 Risorse video:
 
-* [Creazione di una nuova audience con Unified Segment Builder (Generatore segmenti unificato)](/help/profiles-and-audiences/audience-destinations/creating-audiences-using-segment-builder.md)
+* [Creare un nuovo pubblico con Unified Segment Builder (Generatore di segmenti unificato)](/help/profiles-and-audiences/audience-destinations/creating-audiences-using-segment-builder.md)
 * [Attivare i tipi di pubblico Adobe Experience Platform in un flusso di lavoro di marketing](/help/profiles-and-audiences/audience-destinations/activating-aep-audiences.md)
