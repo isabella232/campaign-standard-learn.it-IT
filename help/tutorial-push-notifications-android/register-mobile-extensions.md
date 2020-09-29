@@ -8,7 +8,7 @@ doc-type: tutorial
 activity: use
 team: TM
 translation-type: tm+mt
-source-git-commit: c3ff1a137fb8ee9506a11f82e1a27d010bbd97e6
+source-git-commit: 13b4f1d395dfe53f9fc5263e7b06be700e30b986
 workflow-type: tm+mt
 source-wordcount: '122'
 ht-degree: 0%
@@ -23,6 +23,10 @@ In questa parte aggiungeremo il codice per registrare le estensioni Profilo uten
 Apri il progetto in [!DNL Android] studio. Eliminate l&#39;intero codice nell&#39;app principale **tranne la prima riga dell&#39;istruzione** pacchetto.
 
 Incolla il seguente codice in MainApp
+
+<!--
+Removed `{.line-numbers}` below
+-->
 
 ```java
 import [!DNL android].app.Application;
