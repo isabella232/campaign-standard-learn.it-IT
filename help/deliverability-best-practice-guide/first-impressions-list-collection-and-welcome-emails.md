@@ -8,7 +8,7 @@ doc-type: article
 activity: understand
 team: TM
 translation-type: tm+mt
-source-git-commit: f797faaf9189f64eb6fc57b84c5e38d4418d5f51
+source-git-commit: 4acbb9129cfa36f4d7d00e5f8abaa32d006eaeac
 workflow-type: tm+mt
 source-wordcount: '2410'
 ht-degree: 0%
@@ -33,7 +33,7 @@ La forma più comune di registrazione **al** sito Web è &quot;single opt-in&quo
 * Gli indirizzi e-mail non confermati possono contenere errori di battitura o essere danneggiati, non corretti o utilizzati in modo dannoso. Gli errori di battitura e gli indirizzi danneggiati causano elevate percentuali di rimbalzo, che possono e provocano blocchi emessi da ISP o perdita di reputazione IP.
 * La maligna sottomissione di trappole spam conosciute (talvolta chiamata &quot;avvelenamento da elenco&quot;) può causare enormi problemi con la consegna e la reputazione se il proprietario di quella trappola agisce. È impossibile sapere se il destinatario desidera essere aggiunto effettivamente a una lista di marketing senza una conferma. Ciò rende ugualmente impossibile impostare le aspettative del destinatario e può portare a maggiori lamentele di spam—e a volte la blacklist se l&#39;e-mail raccolta si rivela una trappola per spam.
 
-Per informazioni su come minimizzare i problemi presentati sia nel negozio fisico che nella singola opt-in, andate alla sezione [Qualità](#data-quality-and-hygiene) dei dati e igiene in questa guida per i dettagli e i benefici della doppia opt-in.
+Per informazioni su come minimizzare i problemi presentati sia nel negozio fisico che nella singola opt-in, andate alla sezione sulla qualità dei dati e l&#39;igiene in questa guida per i dettagli e i benefici della doppia opt-in.
 
 Gli utenti iscritti spesso utilizzano indirizzi non attivi, indirizzi scaduti o indirizzi che non appartengono a loro per ottenere ciò che desiderano da un sito Web, ma anche per evitare di essere aggiunti agli elenchi di marketing. In questo caso, gli elenchi degli esperti di marketing possono comportare numerosi rimbalzi, elevate percentuali di reclami relativi allo spam e abbonati che non fanno clic, non aprono o si impegnano in modo positivo con le e-mail. Questo può essere visto come un segnale d&#39;allarme per i fornitori di cassette postali e gli ISP.
 
