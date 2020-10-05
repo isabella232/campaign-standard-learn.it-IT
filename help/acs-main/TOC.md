@@ -14,7 +14,7 @@ translation-type: tm+mt
 source-git-commit: a7eeaf46d27110384c7ddb143927f3a4ed06e2eb
 workflow-type: tm+mt
 source-wordcount: '526'
-ht-degree: 91%
+ht-degree: 98%
 
 ---
 
@@ -31,7 +31,7 @@ ht-degree: 91%
    + [Esplorare gerarchia e attività di marketing](/help/getting-started/explore-hierarchy-and-marketing-activities.md)
    + [Gestire le campagne](/help/getting-started/managing-campaigns.md)
    + [Informazioni su profili e pubblico](/help/getting-started/understanding-profiles-and-audiences.md)
-   + [Creare un messaggio e-mail](https://docs.adobe.com/content/help/en/campaign-standard-learn/tutorials/communication-channels/email/create-email-from-homepage.html)
+   + [Creare un messaggio e-mail](https://docs.adobe.com/content/help/it-IT/campaign-standard-learn/tutorials/communication-channels/email/create-email-from-homepage.html)
    + [Creare un flusso di lavoro](/help/managing-processes-and-data/create-workflow.md)
    + [Introduzione al reporting](/help/getting-started/reporting-with-adobe-campaign-introduction.md)
    + [Mobile marketing con Adobe Campaign](/help/getting-started/mobile-marketing-with-adobe-campaign.md)
@@ -58,9 +58,9 @@ ht-degree: 91%
       + [Convertire e-mail, SMS o modello esistente in una versione multilingue](/help/communication-channels/covert-into-multilingual-deliveries.md)
       + [Rivedere un recapito tramite e-mail e i rapporti](/help/communication-channels/email/reviewing-personalized-email-delivery-and-reports.md)
       + [Creare e inviare e-mail tramite un flusso di lavoro](/help/communication-channels/email/create-and-send-emails-via-workflow.md)
-      + E-mail alimentate da AI {#journey-ai}
-         + [Ottimizzazione del tempo di invio predittiva](/help/communication-channels/email/ai-powered-emails/predictive-send-time-optimization.md)
-         + [Predictive Engagement Scoring](/help/communication-channels/email/ai-powered-emails/predictive-engagement-scoring.md)
+      + E-mail basate sull’intelligenza artificiale {#journey-ai}
+         + [Ottimizzazione del tempo di invio predittivo](/help/communication-channels/email/ai-powered-emails/predictive-send-time-optimization.md)
+         + [Punteggio del coinvolgimento predittivo](/help/communication-channels/email/ai-powered-emails/predictive-engagement-scoring.md)
    + Mobile {#mobile}
       + SMS{#sms}
          + [Creare una consegna SMS](/help/communication-channels/mobile/sms/sms-delivery.md)
@@ -84,7 +84,7 @@ ht-degree: 91%
 + Progettazione e personalizzazione dei contenuti {#designing-content}
    + E-mail Designer{#email-designer}
       + [Panoramica](/help/designing-content/email-designer/email-designer-overview.md)
-      + [Guida introduttiva a Email Designer](/help/designing-content/email-designer/getting-started-with-the-email-designer.md)
+      + [Guida introduttiva a E-mail Designer](/help/designing-content/email-designer/getting-started-with-the-email-designer.md)
       + [Introduzione ai modelli di contenuto e-mail](/help/designing-content/email-designer/email-content-templates.md)
       + [Configurare la visualizzazione per dispositivi mobili](/help/designing-content/email-designer/configure-the-mobile-view.md)
       + [Anteprima del messaggio e-mail e analisi anti-spam](/help/designing-content/email-designer/preview-your-email.md)
@@ -112,7 +112,7 @@ ht-degree: 91%
       + [Monitoraggio della capacità del server, aggiunta di indirizzi IP all’elenco Consentiti e aggiunta di chiavi SSH](/help/administrating/control-panel/monitoring-server-capacity-allow-listing-adding-ssh-key.md)
       + [Generazione di una chiave SSH](/help/administrating/control-panel/generate-ssh-key.md)
       + [Connessione a un server SFTP](/help/administrating/control-panel/connect-to-sftp-server.md)
-      + [Delega di sottodomini](/help/administrating/control-panel/subdomain-delegation.md)
+      + [Delega dei sottodomini](/help/administrating/control-panel/subdomain-delegation.md)
       + [Aggiunta di certificati SSL](/help/administrating/control-panel/adding-ssl-certificates.md)
       + [Gestione dei record TXT di Google](/help/administrating/control-panel/google-txt-record-management.md)
       + Gestione delle chiavi GPG {#gpg-key-management}
