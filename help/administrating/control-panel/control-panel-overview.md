@@ -7,9 +7,9 @@ kt: 4696
 doc-type: feature video
 activity: use
 team: PM
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: 906b1d76e4723b50e2d06f6525763bbd73b98e10
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '364'
 ht-degree: 100%
 
@@ -20,13 +20,13 @@ ht-degree: 100%
 
 >[!NOTE]
 >
->I termini “[!UICONTROL whitelist]” e “[!UICONTROL blacklist]” sono stati sostituiti da “[!UICONTROL allow list]” e “[!UICONTROL block list]” nella documentazione di Adobe Campaign. Alcune occorrenze di questi termini possono ancora essere presenti nell’interfaccia utente del prodotto, nei nomi delle opzioni, nel codice interno e nei video tutorial. Tali termini saranno sostituiti nelle prossime versioni del Pannello di controllo Campaign.
+>I termini “[!UICONTROL whitelist]” e “[!UICONTROL blacklist]” sono stati sostituiti da “[!UICONTROL allow list]” e “[!UICONTROL block list]” nella documentazione di Adobe Campaign. Alcune occorrenze di questi termini possono ancora essere presenti nell’interfaccia utente del prodotto, nei nomi delle opzioni, nel codice interno e nei video tutorial. Saranno sostituiti nelle prossime versione del Pannello di controllo Campaign.
 
- Il [!UICONTROL Control Panel] consente agli amministratori di Adobe Campaign di monitorare le risorse chiave ed eseguire attività amministrative, ad esempio la gestione dello storage SFTP per istanza o [!UICONTROL allow list] di indirizzi IP.
+ Il [!UICONTROL Control Panel] di Adobe Campaign consente agli amministratori di monitorare le risorse chiave ed eseguire attività amministrative, ad esempio gestire l’archiviazione SFTP per istanza o [!UICONTROL allow list] gli indirizzi IP.
 
-## Accesso a [!UICONTROL Control Panel]
+## Accesso al [!UICONTROL Control Panel]
 
-Per accedere al Pannello di controllo Campaign, vai alla home di Experience Cloud: [https://experiencecloud.adobe.com](https://experiencecloud.adobe.com):
+Per accedere al Pannello di controllo Campaign, vai alla Home di Experience Cloud: [https://experiencecloud.adobe.com](https://experiencecloud.adobe.com):
 
 * **[!UICONTROL Experience Cloud Home]** > **[!UICONTROL Quick Access]**
 
@@ -41,20 +41,20 @@ Per accedere al Pannello di controllo Campaign, vai alla home di Experience Clou
 
 Prima di iniziare, completa i seguenti prerequisiti:
 
-### Conferma [!DNL IMS Org ID]
+### Conferma l’[!DNL IMS Org ID]
 
-Devi conoscere il tuo [!DNL IMS org ID]. Il seguente video descrive le aree in cui puoi ricercare l’[!DNL IMS org ID] della tua istanza.
+Devi conoscere il tuo [!DNL IMS org ID]. Il video seguente spiega dove puoi trovare l’[!DNL IMS org ID] dell’istanza.
 
->[!VIDEO](https://video.tv.adobe.com/v/27183?quality=12)
-*Controllare l’[!DNL IMS Org ID] (00:26 min)*
+>[!VIDEO](https://video.tv.adobe.com/v/27183?quality=12&captions=ita)
+*Controllare l’[!DNL IMS Org ID](00:26 min)*
 
 ### Diritti di amministratore
 
 I diritti di amministratore sono necessari per accedere al [!UICONTROL Control Panel].
-Nel video seguente viene illustrato come aggiungere un amministratore a un’istanza di Campaign.
+Nel video seguente viene illustrato come aggiungere un amministratore a un’istanza Campaign
 
->[!VIDEO](https://video.tv.adobe.com/v/27147?quality=12)
-*Come aggiungere un amministratore al profilo di prodotto “[!UICONTROL Administrators]” per poter utilizzare il [!UICONTROL Control Panel] (01:03 min)*
+>[!VIDEO](https://video.tv.adobe.com/v/27147?quality=12&captions=ita)
+*Come aggiungere un amministratore al profilo di prodotto “[!UICONTROL Administrators]” per poter utilizzare il[!UICONTROL Control Panel](01:03 min)*
 
 ## Tutorial del Pannello di controllo Campaign
 
@@ -78,9 +78,9 @@ Nel video seguente viene illustrato come aggiungere un amministratore a un’ist
 
 * **Gestione chiave GPG**
 
-   *Scopri come generare e installare una coppia di chiavi pubblica/privata in una specifica istanza di Campaign per la crittografia dei dati in uscita e come importare e installare una chiave pubblica in un’istanza di Campaign per la decrittografia dei dati in entrata:*
+   *Scopri come generare e installare una coppia di chiavi pubblica/privata in una specifica istanza Campaign per la crittografia dei dati in uscita, nonché come importare e installare una chiave pubblica in un’istanza Campaign per la decrittografia dei dati in entrata:*
 
-   * [Generazione e installazione delle chiavi GPG per la crittografia dei dati](./gpg-key-management/generating-and-installing-gpg-keys-for-data-encryption.md)
+   * [Generazione e installazione di chiavi GPG per la crittografia dei dati](./gpg-key-management/generating-and-installing-gpg-keys-for-data-encryption.md)
    * [Utilizzo di una chiave GPG per crittografare i dati](./gpg-key-management/using-a-gpg-key-to-encrypt-data.md)
    * [Decrittografia dei dati](./gpg-key-management/decrypting-data.md)
 
@@ -90,5 +90,5 @@ Nel video seguente viene illustrato come aggiungere un amministratore a un’ist
 
 ## Risorse aggiuntive
 
-* [Centro assistenza del Pannello di controllo Campaign](https://docs.adobe.com/content/help/it-IT/control-panel/using/control-panel-home.html)
+* [Centro assistenza per il Pannello di controllo Campaign](https://docs.adobe.com/content/help/it-IT/control-panel/using/control-panel-home.html)
 
