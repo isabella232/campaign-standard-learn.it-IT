@@ -1,36 +1,36 @@
 ---
-title: Panoramica di Email Designer
-description: Questo video illustra le funzionalità generali di Designer e-mail e come progettare un'e-mail da zero.In questa pagina sono elencati tutti i video delle funzioni disponibili per il progettista  e-mail di Adobe Campaign
+title: Panoramica di E-mail Designer
+description: Questo video illustra le funzionalità generali di E-mail Designer e la progettazione di un messaggio e-mail da zero. In questa pagina sono elencati tutti i video delle funzioni disponibili per E-mail Designer di Adobe Campaign
 feature: Email Designer
 topics: Content Creation
 kt: null
 doc-type: feature video
 activity: use
 team: TM
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: d4819df4d0ed07955881cd157ec4caf7da847e96
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '137'
-ht-degree: 10%
+ht-degree: 100%
 
 ---
 
 
-# [!UICONTROL Email Designer] overview
+# Panoramica di [!UICONTROL Email Designer]
 
-La [!UICONTROL Email Designer] funzione consente di creare rapidamente e senza difficoltà e visivamente e individualmente e-mail personalizzate, senza la necessità di creare uno script su una sola riga di codice per creare e-mail. Consente di creare contenuti e-mail e modelli di contenuto e-mail. È compatibile con e-mail semplici, e-mail transazionali, e-mail di test A/B, e-mail in più lingue ed e-mail ricorrenti.
+[!UICONTROL Email Designer] consente di creare visivamente in modo rapido e semplice e-mail personalizzate in modo individuale, senza la necessità di scrivere una sola riga di codice per ridimensionare la creazione dei messaggi e-mail. Consente di creare contenuti e-mail e modelli per i contenuti e-mail. È compatibile con e-mail semplici, di transazione, di test A/B, in più lingue e ricorrenti.
 
-Questo video offre una panoramica di alto livello sulle funzionalità e sull’utilizzo dell’Adobe Campaign Standard  [!UICONTROL Email Designer].
+Questo video offre una panoramica generale sulle funzionalità e sull’utilizzo di [!UICONTROL Email Designer] di Adobe Campaign Standard.
 
->[!VIDEO](https://video.tv.adobe.com/v/22771?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/22771?quality=12&captions=ita)
 
 ## Esercitazioni
 
 Sono disponibili le seguenti esercitazioni dettagliate:
 
-* [Guida introduttiva a Email Designer](/help/designing-content/email-designer/getting-started-with-the-email-designer.md)
+* [Guida introduttiva a E-mail Designer](/help/designing-content/email-designer/getting-started-with-the-email-designer.md)
 * [Modelli di contenuto](/help/designing-content/email-designer/email-content-templates.md)
 * [Configurare la visualizzazione per dispositivi mobili](/help/designing-content/email-designer/configure-the-mobile-view.md)
-* [Anteprima del messaggio e-mail](/help/designing-content/email-designer/preview-your-email.md)
+* [Visualizzare l’anteprima del messaggio e-mail](/help/designing-content/email-designer/preview-your-email.md)
 * [Operazioni con il contenuto esistente](/help/designing-content/email-designer/working-with-existing-content.md)
 * [Creazione di contenuti con Adobe Dreamweaver](/help/designing-content/email-designer/dreamweaver-integration.md)
