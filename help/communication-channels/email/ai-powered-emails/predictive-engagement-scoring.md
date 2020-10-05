@@ -1,6 +1,6 @@
 ---
-title: Predictive Engagement Scoring
-description: Scoprite come visualizzare i punteggi di coinvolgimento a livello di singolo profilo, utilizzare i punteggi per targeting degli utenti coinvolti e sopprimere gli utenti affaticati e come creare regole di tipologia per gestire l'affaticamento dei clienti.
+title: Punteggio del coinvolgimento predittivo
+description: Scopri come visualizzare i punteggi di coinvolgimento a livello dei singoli profili, utilizzare i punteggi per targetizzare gli utenti interessati ed eliminare gli utenti con calo di interesse e creare regole di tipologia per gestire la "customer fatigue".
 feature: predictive engagement scoring
 topics: null
 kt: 6275
@@ -8,34 +8,34 @@ thumbnail: 40470.jpg
 doc-type: feature video
 activity: use
 team: ACS
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: 06a4a418906d4bf74cad5faf809bea086537bbd3
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '215'
-ht-degree: 1%
+ht-degree: 100%
 
 ---
 
 
-# Predictive Engagement Scoring
+# Punteggio del coinvolgimento predittivo
 
-Grazie a [!UICONTROL Journey AI], [!DNL Adobe Campaign] è possibile analizzare e prevedere i tassi di apertura, i tempi di invio ottimali e il probabile churn in base alle metriche di coinvolgimento storiche.
+Grazie alla tecnologia di [!UICONTROL Journey AI], [!DNL Adobe Campaign] è in grado di analizzare e prevedere i tassi di apertura, i tempi di invio ottimali e i tassi di abbandono probabili in base a metriche di coinvolgimento storiche.
 
 >[!CAUTION]
->Questa funzionalità non è disponibile all&#39;esterno come parte del prodotto. L&#39;attuazione richiede l&#39;intervento  Consulenza del Adobe. Per maggiori informazioni, contattate il vostro rappresentante  Adobe.
+>Questa funzionalità non è disponibile come parte del prodotto pronta all’uso. L’implementazione richiede l’intervento dei servizi di consulenza Adobe. Per maggiori informazioni, contatta il rappresentante Adobe di riferimento.
 
-[!UICONTROL Predictive engagement scoring] prevede la probabilità che un destinatario si impegni con un messaggio e la probabilità che rinunci (annulla sottoscrizione) entro i successivi 7 giorni dall&#39;invio successivo dell&#39;e-mail. Le probabilità sono ulteriormente suddivise in bucce a seconda del rischio specifico di disimpegno, medio o basso. Tra questi il modello fornisce anche il grado percentile di rischio per i clienti per capire dove il grado di un determinato cliente rispetto ad altri.
+[!UICONTROL Predictive engagement scoring] (Punteggio del coinvolgimento predittivo) prevede la probabilità che un destinatario si interessi a un messaggio e la probabilità che lo rifiuti (cancellando la sottoscrizione) entro i 7 giorni successivi al prossimo invio dell’e-mail. Le probabilità sono ulteriormente suddivise in contenitori a seconda del rischio specifico di disinteresse, medio o basso. Tra questi il modello fornisce anche il livello percentile di rischio per i clienti per capire la posizione di un determinato cliente rispetto agli altri.
 
-Scoprite come visualizzare i punteggi di coinvolgimento a livello di singolo profilo, utilizzare i punteggi per targeting degli utenti coinvolti e sopprimere gli utenti affaticati e come creare regole di tipologia per gestire l&#39;affaticamento dei clienti.
+Scopri come visualizzare i punteggi di coinvolgimento a livello dei singoli profili, utilizzare i punteggi per targetizzare gli utenti interessati ed eliminare gli utenti con calo di interesse e creare regole di tipologia per gestire la &quot;customer fatigue&quot;.
 
->[!VIDEO](https://video.tv.adobe.com/v/40470?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/40470?quality=12&captions=ita)
 
 ## Risorse aggiuntive
 
-Tutorial:
+Esercitazioni:
 
-* [Ottimizzazione del tempo di invio predittiva](predictive-send-time-optimization.md)
+* [Ottimizzazione del tempo di invio predittivo](predictive-send-time-optimization.md)
 
 Documentazione:
 
-* [Ottimizzazione della progettazione e della distribuzione con e-mail alimentate dall&#39;intelligenza artificiale](https://docs.adobe.com/help/en/campaign-standard/using/testing-and-sending/preparing-and-testing-messages/predictive.html)
+* [Ottimizzazione della progettazione e della consegna tramite e-mail basate sull’intelligenza artificiale](https://docs.adobe.com/help/it-IT/campaign-standard/using/testing-and-sending/preparing-and-testing-messages/predictive.html)
