@@ -2,11 +2,11 @@
 title: Tutorial di Adobe Campaign Standard - Panoramica
 description: ' Adobe Campaign fornisce una piattaforma per la progettazione di esperienze cliente cross-channel e offre un ambiente per l’orchestrazione visiva delle campagne, la gestione delle interazioni in tempo reale e l’esecuzione cross-channel. La presente guida utente contiene video e tutorial sulle numerose funzioni e capacità di Adobe Campaign Standard.'
 products: SG_CAMPAIGN/STANDARD
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: 106645d51da04a8457c73096865329bd0b87381d
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '318'
-ht-degree: 62%
+ht-degree: 100%
 
 ---
 
@@ -19,15 +19,15 @@ ht-degree: 62%
 
 * **[Aggiunta di gruppi di controllo a una consegna](/help/communication-channels/email/control-groups.md)**
 
-   *Scoprite come creare un[!UICONTROL control group]messaggio per definire il target della distribuzione.*
+   *Scopri come creare un[!UICONTROL control group]quando definisci il target della consegna.*
 
-* **[Ottimizzazione del tempo di invio predittiva](/help/communication-channels/email/ai-powered-emails/predictive-send-time-optimization.md)**
+* **[Ottimizzazione del tempo di invio predittivo](/help/communication-channels/email/ai-powered-emails/predictive-send-time-optimization.md)**
 
-   *Scopri quali flussi di lavoro sono necessari per sincronizzare i dati tra  Adobe Campaign e il modello AI del viaggio. Scoprite come visualizzare i punteggi temporali di invio a livello di singolo profilo e come eseguire le consegne tramite e-mail utilizzando una formula di ora di invio.*
+   *Scopri quali flussi di lavoro sono necessari per sincronizzare i dati tra Adobe Campaign e il modello di Journey AI. Scopri come visualizzare i punteggi del tempo di invio a livello dei singoli profili e come eseguire le consegne e-mail utilizzando una formula del tempo di invio.*
 
-* **[Predictive Engagement Scoring](/help/communication-channels/email/ai-powered-emails/predictive-engagement-scoring.md)**
+* **[Punteggio del coinvolgimento predittivo](/help/communication-channels/email/ai-powered-emails/predictive-engagement-scoring.md)**
 
-   *Scoprite come visualizzare i punteggi di coinvolgimento a livello di singolo profilo, utilizzare i punteggi per targeting degli utenti coinvolti e sopprimere gli utenti affaticati e come creare regole di tipologia per gestire l&#39;affaticamento dei clienti.*
+   *Scopri come visualizzare i punteggi di coinvolgimento a livello dei singoli profili, utilizzare i punteggi per targetizzare gli utenti interessati ed eliminare gli utenti con calo di interesse e creare regole di tipologia per gestire la &quot;customer fatigue&quot;.*
 
 ## Scelti dallo staff
 
@@ -56,7 +56,7 @@ ht-degree: 62%
     </a>
     </div>
     <p>
-    <em> In qualità di amministratore, aumentate l'efficienza gestendo le impostazioni e monitorando gli usi delle istanze con il Pannello di controllo Campaign.</em>
+    <em> In qualità di amministratore, aumenta l’efficienza gestendo le impostazioni e monitorando gli utilizzi delle istanze con il Pannello di controllo Campaign.</em>
     <p>
   </td>
   <td>
