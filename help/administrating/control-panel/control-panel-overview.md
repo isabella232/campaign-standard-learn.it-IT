@@ -47,7 +47,7 @@ Devi conoscere il tuo [!DNL IMS org ID]. Il video seguente spiega dove puoi trov
 
 >[!VIDEO](https://video.tv.adobe.com/v/27183?quality=12)
 
-*Check[!DNL IMS Org ID](00:26 min)*
+*Check [!DNL IMS Org ID] (00:26 min)*
 
 ### Diritti di amministratore
 
@@ -56,7 +56,7 @@ Nel video seguente viene illustrato come aggiungere un amministratore a un’ist
 
 >[!VIDEO](https://video.tv.adobe.com/v/27147?quality=12)
 
-*How to add an administrator to the product profile &quot;[!UICONTROL Administrators]&quot; to be able to use[!UICONTROL Control Panel](01:03 min)*
+*How to add an administrator to the product profile &quot;[!UICONTROL Administrators]&quot; to be able to use [!UICONTROL Control Panel] (01:03 min)*
 
 ## Tutorial del Pannello di controllo Campaign
 
