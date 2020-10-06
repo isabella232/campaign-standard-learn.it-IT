@@ -1,19 +1,19 @@
 ---
 title: Tutorial di Adobe Campaign Standard - Panoramica
-description: ' Adobe Campaign fornisce una piattaforma per la progettazione di esperienze cliente cross-channel e offre un ambiente per l’orchestrazione visiva delle campagne, la gestione delle interazioni in tempo reale e l’esecuzione cross-channel. La presente guida utente contiene video e tutorial sulle numerose funzioni e capacità di Adobe Campaign Standard.'
+description: ' Adobe Campaign fornisce una piattaforma per la progettazione di esperienze cliente cross-channel e offre un ambiente per l’orchestrazione visiva delle campagne, la gestione delle interazioni in tempo reale e l’esecuzione cross-channel. Questa guida utente contiene video ed esercitazioni sulle numerose funzioni e capacità di Adobe Campaign Standard.'
 products: SG_CAMPAIGN/STANDARD
-translation-type: ht
-source-git-commit: 106645d51da04a8457c73096865329bd0b87381d
-workflow-type: ht
-source-wordcount: '318'
-ht-degree: 100%
+translation-type: tm+mt
+source-git-commit: facd23e8d2949f42e4d1126a0e69c33cd49b429b
+workflow-type: tm+mt
+source-wordcount: '321'
+ht-degree: 98%
 
 ---
 
 
-# Panoramica
+#  Adobe Campaign Standard - Panoramica
 
- Adobe Campaign fornisce una piattaforma per la progettazione di esperienze cliente cross-channel e offre un ambiente per l’orchestrazione visiva delle campagne, la gestione delle interazioni in tempo reale e l’esecuzione cross-channel. La presente guida utente contiene video e tutorial sulle numerose funzioni e capacità di Adobe Campaign Standard.
+ Adobe Campaign fornisce una piattaforma per la progettazione di customer experience multicanale e un ambiente per l’orchestrazione visiva delle campagne, la gestione delle interazioni in tempo reale e l’esecuzione su più canali. La presente guida utente contiene video e tutorial sulle numerose funzioni e capacità di Adobe Campaign Standard.
 
 ## Novità
 
