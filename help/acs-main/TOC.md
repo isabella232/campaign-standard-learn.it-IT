@@ -11,10 +11,10 @@ getting-started-title: Documentazione
 getting-started-url: https://docs.adobe.com/content/help/it-IT/campaign-standard/using/campaign-standard-home.html
 type: Tutorial
 translation-type: tm+mt
-source-git-commit: bf087838a03c404d3036f0ad9c36f483dff5d4a4
+source-git-commit: 370c10f0f3c696ce006c4af8d01c80bafa25b50c
 workflow-type: tm+mt
-source-wordcount: '548'
-ht-degree: 94%
+source-wordcount: '524'
+ht-degree: 98%
 
 ---
 
@@ -136,5 +136,3 @@ ht-degree: 94%
    + [Modifica delle risorse personalizzate per le richieste di privacy](/help/privacy/custom-resources-for-privacy-requests.md)
    + [Creazione e tracking manuale delle richieste di privacy](/help/privacy/create-and-track-privacy-requests.md)
    + [Esecuzione di richieste di privacy](/help/privacy/execute-privacy-requests.md)
-+ [Guida alle best practice per la distribuzione  Adobe Campaign](https://docs-stg.corp.adobe.com/content/help/en/campaign-standard-learn/deliverability-best-practice-guide/introduction.html)
-+ [Pannello di controllo Campaign](https://docs-stg.corp.adobe.com/content/help/en/campaign-standard-learn/control-panel/control-panel-overview.html)
