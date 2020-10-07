@@ -9,10 +9,10 @@ doc-type: feature video
 activity: use
 team: TM
 translation-type: tm+mt
-source-git-commit: facd23e8d2949f42e4d1126a0e69c33cd49b429b
+source-git-commit: 9d71fbf2067611c2d3c088d6ed6bc02b2d3ffc1c
 workflow-type: tm+mt
-source-wordcount: '201'
-ht-degree: 68%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -47,7 +47,8 @@ Prima di iniziare, completa i seguenti prerequisiti:
 Devi conoscere il tuo [!DNL IMS org ID]. Il video seguente spiega dove puoi trovare l’[!DNL IMS org ID] dell’istanza.
 
 >[!VIDEO](https://video.tv.adobe.com/v/27183?quality=12)
-*Controllare l’[!DNL IMS Org ID](00:26 min)*
+
+*Check[!DNL IMS Org ID](00:26 min)*
 
 ### Diritti di amministratore
 
