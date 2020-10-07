@@ -8,7 +8,7 @@ doc-type: article
 activity: understand
 team: TM
 translation-type: tm+mt
-source-git-commit: 7aa32d583ac2ea756945a17634fb477d7b94cb7f
+source-git-commit: 6e4824185b84715d514bf21aace9e57c602e970d
 workflow-type: tm+mt
 source-wordcount: '1367'
 ht-degree: 0%
@@ -46,7 +46,8 @@ I rimbalzi morbidi sono errori temporanei che gli ISP generano quando hanno diff
 >[!NOTE]
 >
 >I rimbalzi sono un indicatore chiave di un problema di reputazione perché possono evidenziare un&#39;origine dati non corretta (rimbalzo duro) o un problema di reputazione con un ISP (rimbalzo morbido).
-I rimbalzi contenuti si verificano spesso nell’ambito dell’invio di e-mail e dovrebbero essere risolti durante l’elaborazione dei tentativi prima di essere identificati come un problema di effettiva recapito. Se il tasso di rimbalzo morbido è superiore al 30% per un singolo ISP e non viene risolto entro 24 ore, è consigliabile sollevare un problema con il proprio consulente di recapito  Adobe Campaign.
+>
+>I rimbalzi contenuti si verificano spesso nell’ambito dell’invio di e-mail e dovrebbero essere risolti durante l’elaborazione dei tentativi prima di essere identificati come un problema di effettiva recapito. Se il tasso di rimbalzo morbido è superiore al 30% per un singolo ISP e non viene risolto entro 24 ore, è consigliabile sollevare un problema con il proprio consulente di recapito  Adobe Campaign.
 
 ## Reclami
 
