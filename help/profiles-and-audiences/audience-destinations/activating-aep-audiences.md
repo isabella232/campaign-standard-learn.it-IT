@@ -8,10 +8,10 @@ doc-type: feature video
 activity: using
 team: PM
 translation-type: tm+mt
-source-git-commit: d87971b70bde8de1822f18cbafd8e2d7b4808edc
+source-git-commit: 9d71fbf2067611c2d3c088d6ed6bc02b2d3ffc1c
 workflow-type: tm+mt
-source-wordcount: '147'
-ht-degree: 7%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -27,6 +27,7 @@ ht-degree: 7%
 In questo video viene illustrato come attivare l&#39; [!UICONTROL Data Services Query Audience] interno di un flusso di lavoro utilizzando l&#39; [!UICONTROL Read Audience] attività.
 
 >[!VIDEO](https://video.tv.adobe.com/v/27647?quality=12)
+
 *Attivare un pubblico Adobe Experience Platform in un flusso di lavoro (02:37 min)*
 
 ## Risorse aggiuntive
