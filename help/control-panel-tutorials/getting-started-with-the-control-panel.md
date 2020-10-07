@@ -1,18 +1,19 @@
 ---
 title: Guida introduttiva all’Pannello di controllo Campaign
-description: Il Pannello di controllo Campaign consente  amministratori di Adobe Campaign di monitorare le risorse chiave ed eseguire attività amministrative, ad esempio gestire l'archiviazione SFTP per istanza, gestire le chiavi GPG o i sottodomini e i certificati.
+description: Questo articolo spiega come accedere al Pannello di controllo Campaign e quali prerequisiti devono essere utilizzati con il pannello di controllo.
 feature: Control Panel
 topics: Control Panel
+audience: administrator
 kt: 6385
 thumbnail: kt-6385.jpg
 doc-type: feature video
-activity: use
+activity: setup
 team: TM
 translation-type: tm+mt
-source-git-commit: 9d71fbf2067611c2d3c088d6ed6bc02b2d3ffc1c
+source-git-commit: fcb815eba6f704ae948d98acc0c3fbf9ef778264
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '215'
+ht-degree: 62%
 
 ---
 
@@ -24,6 +25,8 @@ ht-degree: 0%
 >I termini “[!UICONTROL whitelist]” e “[!UICONTROL blacklist]” sono stati sostituiti da “[!UICONTROL allowlist]” e “[!UICONTROL denylist]” nella documentazione di Adobe Campaign. Alcune occorrenze di questi termini potrebbero ancora essere presenti nell’interfaccia utente del prodotto, nei nomi delle opzioni, nel codice interno e nei video delle esercitazioni. Saranno sostituiti nelle prossime versione del Pannello di controllo Campaign.
 
 The [!UICONTROL Control Panel] allows Adobe Campaign administrators to monitor key assets and perform administrative tasks, such as managing the [!DNL SFTP] storage by instance, managing [!DNL GPG] keys, or [!UICONTROL subdomains] and [!UICONTROL certificates].
+
+Questo articolo spiega come accedere al Pannello di controllo Campaign e quali prerequisiti devono essere utilizzati con il pannello di controllo.
 
 ## Accesso al [!UICONTROL Control Panel]
 
@@ -47,8 +50,6 @@ Prima di iniziare, completa i seguenti prerequisiti:
 Devi conoscere il tuo [!DNL IMS org ID]. Il video seguente spiega dove puoi trovare l’[!DNL IMS org ID] dell’istanza.
 
 >[!VIDEO](https://video.tv.adobe.com/v/27183?quality=12)
-
-*Check[!DNL IMS Org ID](00:26 min)*
 
 ### Diritti di amministratore
 
