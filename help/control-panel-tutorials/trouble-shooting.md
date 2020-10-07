@@ -8,15 +8,15 @@ doc-type: article
 activity: use
 team: PM
 translation-type: tm+mt
-source-git-commit: e4cfb5ed1118cda9e545d84e51adb8e5bede324e
+source-git-commit: 9d71fbf2067611c2d3c088d6ed6bc02b2d3ffc1c
 workflow-type: tm+mt
-source-wordcount: '327'
-ht-degree: 99%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
 
-# Risoluzione dei problemi [!UICONTROL Control Panel]
+# Risoluzione dei problemi del [!UICONTROL Control Panel]
 
 Scopri come risolvere i problemi durante l’utilizzo del Pannello di controllo Campaign.
 
@@ -48,9 +48,11 @@ l’amministratore deve aggiungere l’utente al profilo di prodotto `Campaign-x
 ### Video utili
 
 >[!VIDEO](https://video.tv.adobe.com/v/27183?quality=12)
-*Controllare l’[!DNL IMS Org ID](00:26 min)*
+
+*Check[!DNL IMS Org ID](00:26 min)*
 
 >[!VIDEO](https://video.tv.adobe.com/v/27147?quality=12)
+
 *Come aggiungere un amministratore al[!UICONTROL product profile]di *[!DNL administrators]*per poter utilizzare il[!UICONTROL Control Panel](01:03 min)*
 
 ### Documentazione utile
