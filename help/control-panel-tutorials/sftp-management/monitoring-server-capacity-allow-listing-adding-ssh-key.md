@@ -3,13 +3,13 @@ title: Monitoraggio della capacità del server, aggiunta di indirizzi IP all’e
 description: Il Pannello di controllo Campaign ti consente di monitorare e gestire lo storage SFTP per istanza e di aggiungere indirizzi IP agli elenchi Consentiti.
 feature: Control Panel
 topics: null
-audience: administrator
 kt: 3266
 doc-type: feature video
+audience: administrator
 activity: use
 team: PM
 translation-type: tm+mt
-source-git-commit: 05550c50713e65793309e51355a8e31683f81e0b
+source-git-commit: cba7384847a4708764a54cddd77af80f3b760dca
 workflow-type: tm+mt
 source-wordcount: '235'
 ht-degree: 100%
