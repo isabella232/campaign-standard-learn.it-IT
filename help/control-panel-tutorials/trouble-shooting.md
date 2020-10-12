@@ -8,10 +8,10 @@ doc-type: article
 activity: use
 team: PM
 translation-type: tm+mt
-source-git-commit: 9d71fbf2067611c2d3c088d6ed6bc02b2d3ffc1c
+source-git-commit: 747aa1610f29a9a9409091169c7b398523dd1f77
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '327'
+ht-degree: 100%
 
 ---
 
@@ -49,11 +49,11 @@ l’amministratore deve aggiungere l’utente al profilo di prodotto `Campaign-x
 
 >[!VIDEO](https://video.tv.adobe.com/v/27183?quality=12)
 
-*Check[!DNL IMS Org ID](00:26 min)*
+*Check [!DNL IMS Org ID] (00:26 min)*
 
 >[!VIDEO](https://video.tv.adobe.com/v/27147?quality=12)
 
-*Come aggiungere un amministratore al[!UICONTROL product profile]di *[!DNL administrators]*per poter utilizzare il[!UICONTROL Control Panel](01:03 min)*
+*Come aggiungere un amministratore al [!UICONTROL product profile] di [!DNL administrators] per poter utilizzare il [!UICONTROL Control Panel] (01:03 min)*
 
 ### Documentazione utile
 
