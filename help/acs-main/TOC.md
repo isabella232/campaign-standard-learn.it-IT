@@ -11,10 +11,10 @@ getting-started-title: Documentazione
 getting-started-url: https://docs.adobe.com/content/help/it-IT/campaign-standard/using/campaign-standard-home.html
 type: Tutorial
 translation-type: tm+mt
-source-git-commit: 370c10f0f3c696ce006c4af8d01c80bafa25b50c
+source-git-commit: 314fa481c3467ba305c242e6c338caad5a836315
 workflow-type: tm+mt
-source-wordcount: '571'
-ht-degree: 94%
+source-wordcount: '492'
+ht-degree: 96%
 
 ---
 
@@ -106,20 +106,7 @@ ht-degree: 94%
       + [Creazione di risorse personalizzate](/help/managing-processes-and-data/custom-resources/creating-custom-resources.md)
 + Amministrazione {#administrating}
    + [Gestione dei diritti di accesso degli utenti](/help/administrating/managing-user-access-rights.md)
-   + Pannello di controllo Campaign {#control-panel}
-      + [Panoramica del Pannello di controllo Campaign](/help/administrating/control-panel/control-panel-overview.md)
-      + [Monitoraggio della capacità del server, aggiunta di indirizzi IP all’elenco Consentiti e aggiunta di chiavi SSH](/help/administrating/control-panel/monitoring-server-capacity-allow-listing-adding-ssh-key.md)
-      + [Generazione di una chiave SSH](/help/administrating/control-panel/generate-ssh-key.md)
-      + [Connessione a un server SFTP](/help/administrating/control-panel/connect-to-sftp-server.md)
-      + [Delega dei sottodomini](/help/administrating/control-panel/subdomain-delegation.md)
-      + [Aggiunta di certificati SSL](/help/administrating/control-panel/adding-ssl-certificates.md)
-      + [Gestione dei record TXT di Google](/help/administrating/control-panel/google-txt-record-management.md)
-      + Gestione delle chiavi GPG {#gpg-key-management}
-         + [Gestione delle chiavi GPG - panoramica](/help/administrating/control-panel/gpg-key-management/gpg-key-management-overview.md)
-         + [Generazione e installazione di chiavi GPG per la crittografia dei dati](/help/administrating/control-panel/gpg-key-management/generating-and-installing-gpg-keys-for-data-encryption.md)
-         + [Utilizzo di una chiave GPG per crittografare i dati](/help/administrating/control-panel/gpg-key-management/using-a-gpg-key-to-encrypt-data.md)
-         + [Decrittografia dei dati](/help/administrating/control-panel/gpg-key-management/decrypting-data.md)
-      + [Risoluzione dei problemi](/help/administrating/control-panel/trouble-shooting.md)
+   + [Pannello di controllo Campaign] (/help/control-panel-tutorials/control-panel-overview.md)
    + Adobe Experience Platform Data Connector {adobe-experience-platform-data-connector}
       + [Informazioni su Adobe Experience Platform Data Connector](/help/administrating/adobe-experience-platform-data-connector/understanding-the-adobe-experience-platform-data-connector.md)
       + [Mappatura di risorse personalizzate](/help/administrating/adobe-experience-platform-data-connector/mapping-custom-resources.md)
@@ -136,5 +123,3 @@ ht-degree: 94%
    + [Modifica delle risorse personalizzate per le richieste di privacy](/help/privacy/custom-resources-for-privacy-requests.md)
    + [Creazione e tracking manuale delle richieste di privacy](/help/privacy/create-and-track-privacy-requests.md)
    + [Esecuzione di richieste di privacy](/help/privacy/execute-privacy-requests.md)
-+ [Guida alle best practice per la distribuzione  Adobe Campaign](https://docs-stg.corp.adobe.com/content/help/en/campaign-standard-learn/deliverability-best-practice-guide/introduction.html)
-+ [Pannello di controllo Campaign](https://docs-stg.corp.adobe.com/content/help/en/campaign-standard-learn/control-panel/control-panel-overview.html)
