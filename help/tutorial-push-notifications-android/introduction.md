@@ -1,6 +1,6 @@
 ---
 title: Guida introduttiva alle notifiche push con app Android
-description: Questa esercitazione illustra i passaggi necessari per inviare notifiche push da  Adobe Campaign e ricevere queste notifiche nell'app Android.
+description: Questo tutorial illustra i passaggi necessari per inviare notifiche push da Adobe Campaign e riceverle nell’app Android.
 feature: Push
 topics: Mobile
 kt: 3846
@@ -11,7 +11,7 @@ translation-type: tm+mt
 source-git-commit: 6c88336d9c02faa683973d74ec21e38622afdf3f
 workflow-type: tm+mt
 source-wordcount: '199'
-ht-degree: 9%
+ht-degree: 33%
 
 ---
 
@@ -19,7 +19,7 @@ ht-degree: 9%
 
 Adobe Campaign ti consente di inviare notifiche push personalizzate e segmentate ai dispositivi mobili iOS e Android.
 Questi messaggi vengono ricevuti sulle applicazioni mobili configurate in  Adobe Campaign sfruttando l&#39;SDK per dispositivi mobili  Experience Cloud V4 o  Experience Platform SDK per .
-Questa esercitazione illustra i passaggi necessari per inviare notifiche push da  Adobe Campaign e ricevere queste notifiche nell&#39;app Android.
+Questo tutorial illustra i passaggi necessari per inviare notifiche push da Adobe Campaign e riceverle nell’app Android.
 
 ## Prerequisiti
 
