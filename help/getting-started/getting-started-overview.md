@@ -11,16 +11,16 @@ translation-type: tm+mt
 source-git-commit: 4fa09f7aaddffc4ecbcc703e197785e594b6cb65
 workflow-type: tm+mt
 source-wordcount: '191'
-ht-degree: 38%
+ht-degree: 67%
 
 ---
 
 
 # Guida introduttiva  Adobe Campaign Standard
 
- Adobe Campaign Standard è un potente strumento di gestione delle campagne multicanale che consente di allineare le strategie online e offline per creare esperienze cliente personalizzate.
+ Adobe Campaign Standard è un potente strumento di gestione delle campagne cross-channel che consente di allineare le strategie online e offline per creare esperienze cliente personalizzate.
 
-Controlla l&#39;intero processo di creazione, esecuzione e tracciamento delle campagne tra canali, nonché l&#39;invio di messaggi personalizzati in base al profilo, al comportamento, alle preferenze e alle esigenze dei clienti. Puoi orchestrare, modellare e automatizzare facilmente l&#39;intero processo di marketing e integrarti con altre soluzioni  Adobe.
+Controlla l’intero processo di creazione, esecuzione e tracciamento delle campagne multicanale, nonché l’invio di messaggi personalizzati in base al profilo, al comportamento, alle preferenze e alle esigenze dei clienti. Puoi orchestrare, modellare e automatizzare facilmente l&#39;intero processo di marketing e integrarti con altre soluzioni  Adobe.
 
 È disponibile una serie di video di esercitazione per iniziare a usare  Adobe Campaign Standard:
 
