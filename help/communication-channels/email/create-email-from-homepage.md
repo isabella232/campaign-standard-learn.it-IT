@@ -1,6 +1,6 @@
 ---
 title: Creare una consegna tramite e-mail
-description: 'Potete creare un messaggio e-mail da una campagna, dalla home page di Adobe Campaign  o nell''elenco delle attività di marketing. Potete anche creare e-mail singole e ricorrenti da un flusso di lavoro. In questo video viene illustrato come creare una consegna per e-mail dalla homepage. '
+description: 'Puoi creare un’e-mail da una campagna, dalla home page di Adobe Campaign o nell’elenco delle attività di marketing. Puoi anche creare e-mail a invio singolo e ricorrenti da un flusso di lavoro. In questo video viene illustrato come creare una consegna di e-mail dalla home page. '
 feature: Email
 topics: null
 kt: 1807
@@ -11,7 +11,7 @@ translation-type: tm+mt
 source-git-commit: a2f194821a9ce06272eaed979ee2d8c62cccac2b
 workflow-type: tm+mt
 source-wordcount: '134'
-ht-degree: 8%
+ht-degree: 45%
 
 ---
 
@@ -26,6 +26,6 @@ In questo video viene illustrato come creare un messaggio e-mail indipendente da
 
 ## Risorse aggiuntive
 
-* [Creazione e invio di e-mail tramite un flusso di lavoro](/help/communication-channels/email/create-and-send-emails-via-workflow.md)
+* [Creare e inviare e-mail tramite un flusso di lavoro](/help/communication-channels/email/create-and-send-emails-via-workflow.md)
 * [Creazione di un’e-mail (documentazione)](https://docs.adobe.com/content/help/en/campaign-standard/using/communication-channels/email-messages/creating-an-email.html)
 * [Best practice di distribuzione](https://helpx.adobe.com/it/campaign/kb/delivery-best-practices.html)
