@@ -3,10 +3,10 @@ title: Tutorial di Adobe Campaign Standard - Panoramica
 description: ' Adobe Campaign fornisce una piattaforma per la progettazione di esperienze cliente cross-channel e offre un ambiente per l’orchestrazione visiva delle campagne, la gestione delle interazioni in tempo reale e l’esecuzione cross-channel. Questa guida utente contiene video ed esercitazioni sulle numerose funzioni e capacità di Adobe Campaign Standard.'
 products: SG_CAMPAIGN/STANDARD
 translation-type: tm+mt
-source-git-commit: f82963aaa1c1673aaa888a79b6aae11c7ee2de59
+source-git-commit: f25c49f242710f2426f79cc47f46def81dd01cb1
 workflow-type: tm+mt
-source-wordcount: '321'
-ht-degree: 98%
+source-wordcount: '337'
+ht-degree: 94%
 
 ---
 
@@ -47,11 +47,11 @@ ht-degree: 98%
     <p>
   </td>
    <td>
-    <a href="./control-panel-tutorials/control-panel-overview.md">
+    <a href="https://docs.adobe.com/content/help/en/campaign-standard-learn/control-panel/control-panel-overview.html)">
       <img alt="Pannello di controllo Campaign (video)" src="./assets/control-panel.png" />
     </a>
     <div>
-    <a href="./control-panel-tutorials/control-panel-overview.md">
+    <a href="https://docs.adobe.com/content/help/en/campaign-standard-learn/control-panel/control-panel-overview.html">
     <strong>Pannello di controllo Campaign (video)</strong>
     </a>
     </div>
