@@ -10,10 +10,10 @@ doc-type: feature video
 activity: use
 team: PM
 translation-type: tm+mt
-source-git-commit: dd218f7956b3dd487f59424246b81c115829160a
+source-git-commit: f82963aaa1c1673aaa888a79b6aae11c7ee2de59
 workflow-type: tm+mt
-source-wordcount: '120'
-ht-degree: 80%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -41,9 +41,7 @@ Il video seguente illustra come delegare i sottodomini.
 
 >[!VIDEO](https://video.tv.adobe.com/v/31390?quality=12)
 
-*Subdomain Delegation (05:07 min)*
-
 ## Risorse aggiuntive
 
-* [Aggiunta di certificati SSL](/help/administrating/control-panel/adding-ssl-certificates.md)
+* [Aggiunta di certificati SSL](/help/control-panel-tutorials/subdomains-and-certificates/adding-ssl-certificates.md)
 * [Sottodomini e certificati](https://docs.adobe.com/content/help/it-IT/control-panel/using/subdomains-and-certificates/renewing-subdomain-certificate.html)
