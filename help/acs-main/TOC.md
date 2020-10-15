@@ -11,10 +11,10 @@ getting-started-title: Documentazione
 getting-started-url: https://docs.adobe.com/content/help/it-IT/campaign-standard/using/campaign-standard-home.html
 type: Tutorial
 translation-type: tm+mt
-source-git-commit: c1717885f4221f2323c8a580c718c17ffd4269e4
+source-git-commit: f25c49f242710f2426f79cc47f46def81dd01cb1
 workflow-type: tm+mt
-source-wordcount: '489'
-ht-degree: 97%
+source-wordcount: '497'
+ht-degree: 96%
 
 ---
 
@@ -36,7 +36,7 @@ ht-degree: 97%
    + [Mobile marketing con Adobe Campaign](/help/getting-started/mobile-marketing-with-adobe-campaign.md)
    + [Crescita con Adobe Campaign](/help/getting-started/growing-with-adobe-campaign.md)
 + Profili e pubblico {#profiles-and-audiences}
-   + [Creazione di profili e audience - Panoramica](/help/profiles-and-audiences/creating-profiles-and-audiences.md)
+   + [Creating profiles and audiences - Overview](/help/profiles-and-audiences/creating-profiles-and-audiences.md)
    + [Creare un profilo](/help/profiles-and-audiences/creating-a-profile.md)
    + [Creare un profilo di test](/help/profiles-and-audiences/test-profiles.md)
    + [Importazione di profili con un flusso di lavoro](/help/managing-processes-and-data/importing-profiles.md)
@@ -106,7 +106,7 @@ ht-degree: 97%
       + [Creazione di risorse personalizzate](/help/managing-processes-and-data/custom-resources/creating-custom-resources.md)
 + Amministrazione {#administrating}
    + [Gestione dei diritti di accesso degli utenti](/help/administrating/managing-user-access-rights.md)
-   + [Pannello di controllo Campaign](/help/control-panel-tutorials/control-panel-overview.md)
+   + [Pannello di controllo Campaign](https://docs.adobe.com/content/help/en/campaign-standard-learn/control-panel/control-panel-overview.html)
    + Adobe Experience Platform Data Connector {adobe-experience-platform-data-connector}
       + [Informazioni su Adobe Experience Platform Data Connector](/help/administrating/adobe-experience-platform-data-connector/understanding-the-adobe-experience-platform-data-connector.md)
       + [Mappatura di risorse personalizzate](/help/administrating/adobe-experience-platform-data-connector/mapping-custom-resources.md)
