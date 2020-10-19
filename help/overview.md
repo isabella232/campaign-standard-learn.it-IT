@@ -3,31 +3,23 @@ title: Tutorial di Adobe Campaign Standard - Panoramica
 description: ' Adobe Campaign fornisce una piattaforma per la progettazione di esperienze cliente cross-channel e offre un ambiente per l’orchestrazione visiva delle campagne, la gestione delle interazioni in tempo reale e l’esecuzione cross-channel. Questa guida utente contiene video ed esercitazioni sulle numerose funzioni e capacità di Adobe Campaign Standard.'
 products: SG_CAMPAIGN/STANDARD
 translation-type: tm+mt
-source-git-commit: f25c49f242710f2426f79cc47f46def81dd01cb1
+source-git-commit: 98b300b507f4e315e7904f82b004cdc1302b445f
 workflow-type: tm+mt
-source-wordcount: '337'
-ht-degree: 94%
+source-wordcount: '262'
+ht-degree: 85%
 
 ---
 
 
 #  Adobe Campaign Standard - Panoramica
 
- Adobe Campaign fornisce una piattaforma per la progettazione di customer experience multicanale e un ambiente per l’orchestrazione visiva delle campagne, la gestione delle interazioni in tempo reale e l’esecuzione su più canali. La presente guida utente contiene video e tutorial sulle numerose funzioni e capacità di Adobe Campaign Standard.
+Adobe Campaign fornisce una piattaforma per la progettazione di customer experience multicanale e un ambiente per l’orchestrazione visiva delle campagne, la gestione delle interazioni in tempo reale e l’esecuzione su più canali. La presente guida utente contiene video e tutorial sulle numerose funzioni e capacità di Adobe Campaign Standard.
 
 ## Novità
 
-* **[Aggiunta di gruppi di controllo a una consegna](/help/communication-channels/email/control-groups.md)**
+* **[Delega di sottodomini tramite CNAME](/help/control-panel-tutorials/subdomains-and-certificates/delegating-subdomains-using-cname.md)**
 
-   *Scopri come creare un [!UICONTROL control group] quando definisci il target della consegna.*
-
-* **[Ottimizzazione del tempo di invio predittivo](/help/communication-channels/email/ai-powered-emails/predictive-send-time-optimization.md)**
-
-   *Scopri quali flussi di lavoro sono necessari per sincronizzare i dati tra Adobe Campaign e il modello di Journey AI. Scopri come visualizzare i punteggi del tempo di invio a livello dei singoli profili e come eseguire le consegne e-mail utilizzando una formula del tempo di invio.*
-
-* **[Punteggio del coinvolgimento predittivo](/help/communication-channels/email/ai-powered-emails/predictive-engagement-scoring.md)**
-
-   *Scopri come visualizzare i punteggi di coinvolgimento a livello dei singoli profili, utilizzare i punteggi per targetizzare gli utenti interessati ed eliminare gli utenti con calo di interesse e creare regole di tipologia per gestire la &quot;customer fatigue&quot;.*
+   *Scopri come impostare e inviare un sottodominio utilizzando i CNAME nel Pannello di controllo Campaign.*
 
 ## Scelti dallo staff
 
