@@ -6,12 +6,12 @@ translation-type: tm+mt
 source-git-commit: 98b300b507f4e315e7904f82b004cdc1302b445f
 workflow-type: tm+mt
 source-wordcount: '262'
-ht-degree: 85%
+ht-degree: 86%
 
 ---
 
 
-#  Adobe Campaign Standard - Panoramica
+# Panoramica di Adobe Campaign Standard
 
 Adobe Campaign fornisce una piattaforma per la progettazione di customer experience multicanale e un ambiente per l’orchestrazione visiva delle campagne, la gestione delle interazioni in tempo reale e l’esecuzione su più canali. La presente guida utente contiene video e tutorial sulle numerose funzioni e capacità di Adobe Campaign Standard.
 
