@@ -1,36 +1,36 @@
 ---
-title: Modifica delle risorse personalizzate durante la configurazione  Adobe Campaign Standard (ACS) per le richieste di privacy
-description: Quando si configura  Adobe Campaign Standard (ACS) per gestire le richieste di privacy, è necessario assicurarsi che tutti i dati personalizzati collegati a un profilo vengano eliminati quando il profilo viene eliminato. Questo video spiega come modificare le risorse personalizzate per soddisfare questo requisito.
+title: Modifica delle risorse personalizzate durante la configurazione di Adobe Campaign Standard (ACS) per le richieste di accesso a dati personali
+description: Quando si configura Adobe Campaign Standard (ACS) per gestire le richieste di accesso a dati personali, è necessario assicurarsi che tutti i dati personalizzati collegati a un profilo vengano eliminati insieme al profilo. Questo video spiega come modificare le risorse personalizzate per soddisfare questo requisito.
 feature: GDPR, CCPA
 topic: null
 kt: 1243
 doc-type: feature video
 activity: use
 team: TM
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: d87971b70bde8de1822f18cbafd8e2d7b4808edc
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '199'
-ht-degree: 8%
+ht-degree: 100%
 
 ---
 
 
 # Modifica delle risorse personalizzate per le richieste di privacy
 
-Quando si configura  Adobe Campaign Standard per gestire le richieste di privacy, è necessario assicurarsi che tutti i dati personalizzati collegati a un profilo vengano eliminati quando il profilo viene eliminato. Questo video spiega come modificare le risorse personalizzate per soddisfare questo requisito.
+Quando si configura Adobe Campaign Standard per gestire le richieste di accesso a dati personali, è necessario assicurarsi che tutti i dati personalizzati collegati a un profilo vengano eliminati insieme al profilo. Questo video spiega come modificare le risorse personalizzate per soddisfare questo requisito.
 
->[!VIDEO](https://video.tv.adobe.com/v/23326?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/23326?quality=12&captions=ita)
 
 >[!NOTE]
 >
 >**Rinuncia alla vendita di informazioni personali (CCPA)**
 >
->A partire dalla versione 19.4, nell’interfaccia e nell’API della campagna viene fornito un campo di rinuncia CCPA. Per 19.3, per sfruttare queste informazioni, è necessario creare questo campo >in  Adobe Campaign Standard. Per ulteriori informazioni, consulta la documentazione [](https://helpx.adobe.com/campaign/kb/acs-privacy.html#ccpa) dettagliata.
+>A partire dalla versione 19.4, nell’interfaccia e nell’API di Campaign compare un campo di rinuncia CCPA pronto all’uso. Nella la versione 19.3, è necessario creare il campo in Adobe Campaign Standard per sfruttare queste informazioni. Per ulteriori informazioni, consulta la [documentazione dettagliata](https://helpx.adobe.com/it/campaign/kb/acs-privacy.html#ccpa).
 >
-> Puoi controllare la tua versione cliccando sul pulsante ? in alto a destra nell&#39;interfaccia e selezionando Informazioni.
+> Puoi controllare la tua versione cliccando sull’icona ? in alto a destra nell’interfaccia e selezionando Informazioni.
 
 ## Risorse aggiuntive
 
-* [Linee guida generali sulla privacy per le campagne](https://helpx.adobe.com/it/campaign/kb/campaign-privacy-overview.html)
+* [Linee guida generali sulla privacy per Campaign](https://helpx.adobe.com/it/campaign/kb/campaign-privacy-overview.html)
 * [Creazione di risorse personalizzate](/help/managing-processes-and-data/custom-resources/creating-custom-resources.md)
