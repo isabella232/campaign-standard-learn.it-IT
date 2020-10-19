@@ -1,5 +1,5 @@
 ---
-title: Guida introduttiva  Adobe Campaign Standard
+title: Guida introduttiva ad Adobe Campaign Standard
 description: Il presente video offre una panoramica dell’interfaccia utente di Adobe Campaign Standard, delle funzioni chiave e delle funzionalità di base.
 feature: User Interface
 topics: null
@@ -11,18 +11,18 @@ translation-type: tm+mt
 source-git-commit: 4fa09f7aaddffc4ecbcc703e197785e594b6cb65
 workflow-type: tm+mt
 source-wordcount: '191'
-ht-degree: 67%
+ht-degree: 100%
 
 ---
 
 
-# Guida introduttiva  Adobe Campaign Standard
+# Guida introduttiva ad Adobe Campaign Standard
 
  Adobe Campaign Standard è un potente strumento di gestione delle campagne cross-channel che consente di allineare le strategie online e offline per creare esperienze cliente personalizzate.
 
-Controlla l’intero processo di creazione, esecuzione e tracciamento delle campagne multicanale, nonché l’invio di messaggi personalizzati in base al profilo, al comportamento, alle preferenze e alle esigenze dei clienti. Puoi orchestrare, modellare e automatizzare facilmente l&#39;intero processo di marketing e integrarti con altre soluzioni  Adobe.
+Controlla l’intero processo di creazione, esecuzione e tracciamento delle campagne multicanale, nonché l’invio di messaggi personalizzati in base al profilo, al comportamento, alle preferenze e alle esigenze dei clienti. Puoi orchestrare, modellare e automatizzare facilmente l’intero processo di marketing e integrarlo con altre soluzioni Adobe.
 
-È disponibile una serie di video di esercitazione per iniziare a usare  Adobe Campaign Standard:
+È disponibile una serie di video di esercitazione per iniziare a utilizzare Adobe Campaign Standard:
 
 * [Introduzione ad Adobe Campaign Standard](/help/getting-started/adobe-campaign-standard-introduction.md)
 * [Introduzione all’interfaccia utente](/help/getting-started/getting-started-with-the-ui.md)
@@ -38,4 +38,4 @@ Controlla l’intero processo di creazione, esecuzione e tracciamento delle camp
 
 ## Risorse aggiuntive
 
-* [Documentazione - Guida introduttiva  Adobe Campaign Standard](https://docs.adobe.com/content/help/en/campaign-standard/using/getting-started/about-campaign-standard.html)
+* [Documentazione - Introduzione ad Adobe Campaign Standard](https://docs.adobe.com/content/help/it-IT/campaign-standard/using/getting-started/about-campaign-standard.html)
