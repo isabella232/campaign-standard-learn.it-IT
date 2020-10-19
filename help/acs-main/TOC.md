@@ -14,7 +14,7 @@ translation-type: tm+mt
 source-git-commit: f25c49f242710f2426f79cc47f46def81dd01cb1
 workflow-type: tm+mt
 source-wordcount: '497'
-ht-degree: 96%
+ht-degree: 98%
 
 ---
 
@@ -36,7 +36,7 @@ ht-degree: 96%
    + [Mobile marketing con Adobe Campaign](/help/getting-started/mobile-marketing-with-adobe-campaign.md)
    + [Crescita con Adobe Campaign](/help/getting-started/growing-with-adobe-campaign.md)
 + Profili e pubblico {#profiles-and-audiences}
-   + [Creating profiles and audiences - Overview](/help/profiles-and-audiences/creating-profiles-and-audiences.md)
+   + [Creazione di profili e pubblico - Panoramica](/help/profiles-and-audiences/creating-profiles-and-audiences.md)
    + [Creare un profilo](/help/profiles-and-audiences/creating-a-profile.md)
    + [Creare un profilo di test](/help/profiles-and-audiences/test-profiles.md)
    + [Importazione di profili con un flusso di lavoro](/help/managing-processes-and-data/importing-profiles.md)
