@@ -9,7 +9,7 @@ doc-type: feature video
 activity: use
 team: PM
 translation-type: tm+mt
-source-git-commit: 98b300b507f4e315e7904f82b004cdc1302b445f
+source-git-commit: fe305d729e8e1c7113ae1c310b3b8177f3cad093
 workflow-type: tm+mt
 source-wordcount: '95'
 ht-degree: 22%
@@ -27,7 +27,7 @@ Per poter iniziare a inviare e-mail o pubblicare pagine di destinazione con  Ado
 
 Scopri come impostare e inviare un sottodominio utilizzando i CNAME nel Pannello di controllo Campaign.
 
->[!VIDEO](https://video.tv.adobe.com/v/326612?quality=12))
+>[!VIDEO](https://video.tv.adobe.com/v/326612?quality=12)
 
 ## Risorse aggiuntive
 
