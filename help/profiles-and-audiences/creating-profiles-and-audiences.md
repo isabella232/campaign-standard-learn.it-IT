@@ -1,5 +1,5 @@
 ---
-title: Creazione di profili e audience - Panoramica
+title: Creazione di profili e pubblico - Panoramica
 description: Scopri come accedere ai profili esistenti e come creare profili e tipi di pubblico in Adobe Campaign Standard.
 feature: Profiles and Audiences
 topics: null
@@ -10,13 +10,13 @@ team: WWFRE
 translation-type: tm+mt
 source-git-commit: 6c88336d9c02faa683973d74ec21e38622afdf3f
 workflow-type: tm+mt
-source-wordcount: '87'
-ht-degree: 25%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
 
-# Creazione di profili e audience - Panoramica
+# Creazione di profili e pubblico - Panoramica
 
  Adobe Campaign dispone di due tipi o profili:
 
