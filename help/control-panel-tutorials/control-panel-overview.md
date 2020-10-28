@@ -1,6 +1,6 @@
 ---
-title: Pannello di controllo Campaign - Panoramica
-description: Il Pannello di controllo Campaign Adobe Campaign  consente  amministratori di Adobe Campaign di monitorare le risorse chiave ed eseguire attività amministrative, come la gestione dello storage SFTP per istanza, la gestione delle chiavi GPG o dei sottodomini e dei certificati.
+title: Pannello di controllo Campaign  - Panoramica
+description: Il Pannello di controllo di Adobe Campaign consente agli amministratori di monitorare le risorse chiave ed eseguire attività amministrative, ad esempio gestire l’archiviazione SFTP per istanza e le chiavi GPG o i sottodomini e i certificati.
 feature: Control Panel
 topics: Control Panel
 audience: administrator
@@ -9,22 +9,26 @@ doc-type: feature video
 activity: use
 team: PM
 translation-type: tm+mt
-source-git-commit: 98b300b507f4e315e7904f82b004cdc1302b445f
+source-git-commit: 68324e2e234b3c98e9cc2cd8400a03d272306093
 workflow-type: tm+mt
-source-wordcount: '197'
-ht-degree: 18%
+source-wordcount: '209'
+ht-degree: 94%
 
 ---
 
 # Pannello di controllo Campaign - Panoramica
 
-Il Pannello di controllo Campaign Adobe Campaign  consente  amministratori di Adobe Campaign di monitorare le risorse chiave ed eseguire attività amministrative, come la gestione dello storage SFTP per istanza, la gestione delle chiavi GPG o dei sottodomini e dei certificati.
+Il Pannello di controllo di Adobe Campaign consente agli amministratori di monitorare le risorse chiave ed eseguire attività amministrative, ad esempio gestire l’archiviazione SFTP per istanza e le chiavi GPG o i sottodomini e i certificati.
 
 ## Novità
 
-* **[Delega di sottodomini tramite CNAME](/help/control-panel-tutorials/subdomains-and-certificates/delegating-subdomains-using-cname.md)**
+* **[Monitoraggio dei database](/help/control-panel-tutorials/performance-monitoring/monitoring-databases.md)**
 
-   *Scopri come impostare e inviare un sottodominio utilizzando i CNAME nel Pannello di controllo Campaign.*
+   *Scoprite come monitorare l&#39;utilizzo del database delle istanze.*
+
+* **[Delega dei sottodomini tramite CNAME](/help/control-panel-tutorials/subdomains-and-certificates/delegating-subdomains-using-cname.md)**
+
+   *Scopri come impostare e inviare un sottodominio tramite CNAME nel Pannello di controllo Campaign.*
 
 ## Tutorial scelti dal personale
 
@@ -32,11 +36,11 @@ Il Pannello di controllo Campaign Adobe Campaign  consente  amministratori di Ad
 <tr>
   <td>
     <a href="./subdomains-and-certificates/subdomain-delegation.md"> 
-      <img alt="Delega di sottodomini a  Adobe Campaign (video)" src="./assets/31390.jpg"/>
+      <img alt="Delega dei sottodomini ad Adobe Campaign (video)" src="./assets/31390.jpg"/>
     </a>
     <div>
       <a href="./subdomains-and-certificates/subdomain-delegation.md">
-    <strong>Delega di sottodomini a  Adobe Campaign (video)</strong>
+    <strong>Delega dei sottodomini ad Adobe Campaign (video)</strong>
     </a>
     </div>
     <p>
@@ -45,20 +49,20 @@ Il Pannello di controllo Campaign Adobe Campaign  consente  amministratori di Ad
   </td>
    <td>
     <a href="./subdomains-and-certificates/google-txt-record-management.md">
-      <img alt="Gestione record Google TXT (video)" src="./assets/32369.jpg" />
+      <img alt="Gestione dei record TXT di Google (video)" src="./assets/32369.jpg" />
     </a>
     <div>
     <a href="./subdomains-and-certificates/google-txt-record-management.md">
-    <strong>Gestione record Google TXT (video)</strong>
+    <strong>Gestione dei record TXT di Google (video)</strong>
     </a>
     </div>
     <p>
-    <em> Scopri come aggiungere i record di verifica del sito Google TXT a tutti i tuoi sottodomini utilizzati per inviare e-mail agli indirizzi GMAIL con il Pannello di controllo Campaign Campaign.</em>
+    <em> Scopri come aggiungere record TXT di Google per la verifica del sito a tutti i sottodomini utilizzati per inviare e-mail agli indirizzi GMAIL tramite il Pannello di controllo Campaign.</em>
     <p>
   </td>
   <td>
     <a href="./sftp-management/connect-to-sftp-server.md">
-      <img alt="Connessione a un server SFTP" src="./assets/27263.jpg" />
+      <img alt="Connettersi a un server SFTP" src="./assets/27263.jpg" />
     </a>
     <div>
       <a href="./sftp-management/connect-to-sftp-server.md">
@@ -66,7 +70,7 @@ Il Pannello di controllo Campaign Adobe Campaign  consente  amministratori di Ad
     </a>
     </div>
     <p>
-    <em>Scopri come connettersi al server SFTP utilizzando un'applicazione SFTP client, utilizzando le chiavi memorizzate nel Pannello di controllo Campaign. </em>
+    <em>Scopri come è possibile connettersi al server SFTP con un’applicazione client SFTP utilizzando le chiavi memorizzate nel Pannello di controllo Campaign. </em>
     <p>
   </td>
 </tr>
