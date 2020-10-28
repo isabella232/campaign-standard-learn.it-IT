@@ -3,10 +3,10 @@ title: Tutorial di Adobe Campaign Standard - Panoramica
 description: ' Adobe Campaign fornisce una piattaforma per la progettazione di esperienze cliente cross-channel e offre un ambiente per l’orchestrazione visiva delle campagne, la gestione delle interazioni in tempo reale e l’esecuzione cross-channel. Questa guida utente contiene video ed esercitazioni sulle numerose funzioni e capacità di Adobe Campaign Standard.'
 products: SG_CAMPAIGN/STANDARD
 translation-type: tm+mt
-source-git-commit: 98b300b507f4e315e7904f82b004cdc1302b445f
+source-git-commit: a180772da382d4b67070b8efd98446603b340dc6
 workflow-type: tm+mt
-source-wordcount: '262'
-ht-degree: 86%
+source-wordcount: '274'
+ht-degree: 89%
 
 ---
 
@@ -17,11 +17,15 @@ Adobe Campaign fornisce una piattaforma per la progettazione di customer experie
 
 ## Novità
 
-* **[Delega di sottodomini tramite CNAME](/help/control-panel-tutorials/subdomains-and-certificates/delegating-subdomains-using-cname.md)**
+* **[Monitoraggio dei database](/help/control-panel-tutorials/performance-monitoring/monitoring-databases.md)**
 
-   *Scopri come impostare e inviare un sottodominio utilizzando i CNAME nel Pannello di controllo Campaign.*
+   *Scoprite come monitorare l&#39;utilizzo del database delle istanze.*
 
-## Scelti dallo staff
+* **[Delega dei sottodomini tramite CNAME](/help/control-panel-tutorials/subdomains-and-certificates/delegating-subdomains-using-cname.md)**
+
+   *Scopri come impostare e inviare un sottodominio tramite CNAME nel Pannello di controllo Campaign.*
+
+## Tutorial scelti dal personale
 
 <table>
 <tr>
