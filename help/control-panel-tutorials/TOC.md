@@ -10,16 +10,16 @@ tutorials-url: https://docs.adobe.com/content/help/it-IT/campaign-standard-learn
 getting-started-title: Documentazione
 getting-started-url: https://docs.adobe.com/content/help/it-IT/campaign-standard/using/campaign-standard-home.html
 index: true
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: 16cd416f567c8177aadd35e03cfa27d0e0478e6b
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '152'
-ht-degree: 98%
+ht-degree: 100%
 
 ---
 
 
-#  Tutorial sul Pannello di controllo di Adobe Campaign{#control-panel}
+#  Tutorial sul Pannello di controllo di Adobe Campaign {#control-panel}
 
 + [Panoramica del Pannello di controllo Campaign](/help/control-panel-tutorials/control-panel-overview.md)
 + [Guida introduttiva al Pannello di controllo Campaign](/help/control-panel-tutorials/getting-started-with-the-control-panel.md)
