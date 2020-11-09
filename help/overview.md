@@ -2,11 +2,11 @@
 title: Tutorial di Adobe Campaign Standard - Panoramica
 description: ' Adobe Campaign fornisce una piattaforma per la progettazione di esperienze cliente cross-channel e offre un ambiente per l’orchestrazione visiva delle campagne, la gestione delle interazioni in tempo reale e l’esecuzione cross-channel. Questa guida utente contiene video ed esercitazioni sulle numerose funzioni e capacità di Adobe Campaign Standard.'
 products: SG_CAMPAIGN/STANDARD
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: a180772da382d4b67070b8efd98446603b340dc6
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '274'
-ht-degree: 89%
+ht-degree: 100%
 
 ---
 
@@ -19,7 +19,7 @@ Adobe Campaign fornisce una piattaforma per la progettazione di customer experie
 
 * **[Monitoraggio dei database](/help/control-panel-tutorials/performance-monitoring/monitoring-databases.md)**
 
-   *Scoprite come monitorare l&#39;utilizzo del database delle istanze.*
+   *Scopri come monitorare l&#39;utilizzo del database delle istanze.*
 
 * **[Delega dei sottodomini tramite CNAME](/help/control-panel-tutorials/subdomains-and-certificates/delegating-subdomains-using-cname.md)**
 
@@ -43,11 +43,11 @@ Adobe Campaign fornisce una piattaforma per la progettazione di customer experie
     <p>
   </td>
    <td>
-    <a href="https://docs.adobe.com/content/help/en/campaign-standard-learn/control-panel/control-panel-overview.html)">
+    <a href="https://docs.adobe.com/content/help/it-IT/campaign-standard-learn/control-panel/control-panel-overview.html">
       <img alt="Pannello di controllo Campaign (video)" src="./assets/control-panel.png" />
     </a>
     <div>
-    <a href="https://docs.adobe.com/content/help/en/campaign-standard-learn/control-panel/control-panel-overview.html">
+    <a href="https://docs.adobe.com/content/help/it-IT/campaign-standard-learn/control-panel/control-panel-overview.html">
     <strong>Pannello di controllo Campaign (video)</strong>
     </a>
     </div>
