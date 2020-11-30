@@ -10,10 +10,10 @@ tutorials-url: https://docs.adobe.com/content/help/it-IT/campaign-standard-learn
 getting-started-title: Documentazione
 getting-started-url: https://docs.adobe.com/content/help/it-IT/campaign-standard/using/campaign-standard-home.html
 translation-type: tm+mt
-source-git-commit: 40cd637d2b80670b6e24047c39300470e4ffe2f1
+source-git-commit: 99eedbf8c99fc6040dea5061ae4883cd6f0808ae
 workflow-type: tm+mt
-source-wordcount: '495'
-ht-degree: 98%
+source-wordcount: '502'
+ht-degree: 96%
 
 ---
 
@@ -24,13 +24,13 @@ ht-degree: 98%
 + Guida introduttiva {#getting-started}
    + [Panoramica](/help/getting-started/getting-started-overview.md)
    + [Introduzione ad Adobe Campaign Standard](/help/getting-started/adobe-campaign-standard-introduction.md)
-   + [Introduzione all’interfaccia utente](/help/getting-started/getting-started-with-the-ui.md)
+   + [Guida introduttiva all’interfaccia](/help/getting-started/getting-started-with-the-ui.md)
    + [Configurare un elenco](/help/getting-started/configure-a-list.md)
    + [Esplorare gerarchia e attività di marketing](/help/getting-started/explore-hierarchy-and-marketing-activities.md)
    + [Gestire le campagne](/help/getting-started/managing-campaigns.md)
    + [Informazioni su profili e pubblico](/help/getting-started/understanding-profiles-and-audiences.md)
    + [Creare un messaggio e-mail](https://experienceleague.adobe.com/docs/campaign-standard-learn/tutorials/communication-channels/email/create-email-from-homepage.html)
-   + [Creare un flusso di lavoro](/help/managing-processes-and-data/create-workflow.md)
+   + [Creazione di un flusso di lavoro](https://experienceleague.adobe.com/docs/campaign-standard-learn/tutorials/getting-started/creating-a-workflow.html)
    + [Introduzione al reporting](/help/getting-started/reporting-with-adobe-campaign-introduction.md)
    + [Mobile marketing con Adobe Campaign](/help/getting-started/mobile-marketing-with-adobe-campaign.md)
    + [Crescita con Adobe Campaign](/help/getting-started/growing-with-adobe-campaign.md)
@@ -90,7 +90,7 @@ ht-degree: 98%
       + [Creazione di contenuti con Adobe Dreamweaver](/help/designing-content/email-designer/dreamweaver-integration.md)
    + [Configurare gli elenchi di prodotti nelle e-mail transazionali](/help/designing-content/product-listings-in-transactional-email.md)
 + Gestione di processi e dati {#managing-processes-and-data}
-   + [Creare un flusso di lavoro](/help/managing-processes-and-data/create-workflow.md)
+   + [Creazione di un flusso di lavoro](/help/managing-processes-and-data/creating-a-workflow.md)
    + Attività di esecuzione {#execution-activities}
       + [Attività External Signal](/help/managing-processes-and-data/execution-activities/external-signal-activity.md)
    + Attività di gestione dati {#data-management-activities}
