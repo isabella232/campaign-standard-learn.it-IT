@@ -9,9 +9,9 @@ doc-type: feature video
 activity: use
 team: TM
 translation-type: tm+mt
-source-git-commit: 11263e247184ddc6a8e3df6a8ed0899907fbb366
+source-git-commit: 17428b8a45a70790d1e9c40fc1f00313cd1704ee
 workflow-type: tm+mt
-source-wordcount: '199'
+source-wordcount: '196'
 ht-degree: 100%
 
 ---
@@ -34,4 +34,3 @@ Quando si configura Adobe Campaign Standard per gestire le richieste di accesso 
 ## Risorse aggiuntive
 
 * [Linee guida generali sulla privacy per Campaign](https://helpx.adobe.com/it/campaign/kb/campaign-privacy-overview.html)
-* [Creazione di risorse personalizzate](/help/managing-processes-and-data/custom-resources/creating-custom-resources.md)
