@@ -8,10 +8,10 @@ doc-type: null
 activity: understand
 team: TM
 translation-type: tm+mt
-source-git-commit: 99eedbf8c99fc6040dea5061ae4883cd6f0808ae
+source-git-commit: 11263e247184ddc6a8e3df6a8ed0899907fbb366
 workflow-type: tm+mt
-source-wordcount: '191'
-ht-degree: 100%
+source-wordcount: '189'
+ht-degree: 95%
 
 ---
 
@@ -30,7 +30,7 @@ Controlla l’intero processo di creazione, esecuzione e tracciamento delle camp
 * [Esplorare gerarchia e attività di marketing](/help/getting-started/explore-hierarchy-and-marketing-activities.md)
 * [Gestire le campagne](/help/getting-started/managing-campaigns.md)
 * [Informazioni su profili e pubblico](/help/getting-started/understanding-profiles-and-audiences.md)
-* [Creare un messaggio e-mail](https://docs.adobe.com/content/help/it-IT/campaign-standard-learn/tutorials/communication-channels/email/create-email-from-homepage.html)
+* [Creazione di un messaggio e-mail](https://experienceleague.adobe.com/docs/campaign-standard-learn/tutorials/communication-channels/email/create-email-from-homepage.html)
 * [Creazione di un flusso di lavoro](/help/managing-processes-and-data/creating-a-workflow.md)
 * [Introduzione al reporting](/help/getting-started/reporting-with-adobe-campaign-introduction.md)
 * [Mobile marketing con Adobe Campaign](/help/getting-started/mobile-marketing-with-adobe-campaign.md)
