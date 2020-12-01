@@ -1,24 +1,23 @@
 ---
-title: Test e pubblicazione di una pagina di destinazione
+title: Verificare e pubblicare una pagina di destinazione
 description: Questo video illustra come testare una pagina di destinazione integrata  Adobe Campaign Standard e come pubblicarla.
-uuid: 410b8e37-b9b6-4763-988c-31312c1dc8a6
-discoiquuid: b7dd29cf-cb56-4e6b-8050-400293a2e5e5
 feature: Landing Pages
 topics: null
 kt: 1813
+thumbnail: 24992.jpg
 doc-type: feature video
 activity: use
 team: DOC
 translation-type: tm+mt
-source-git-commit: 82fb2d39dc61a55c0aa20ca1fa215f35a7dd9088
+source-git-commit: 11263e247184ddc6a8e3df6a8ed0899907fbb366
 workflow-type: tm+mt
 source-wordcount: '45'
-ht-degree: 0%
+ht-degree: 26%
 
 ---
 
 
-# Test e pubblicazione di una pagina di destinazione
+# Verificare e pubblicare una pagina di destinazione
 
 Questo video illustra come testare una pagina di destinazione e come pubblicarla.
 
