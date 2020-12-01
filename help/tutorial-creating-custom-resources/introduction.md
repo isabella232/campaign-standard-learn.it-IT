@@ -9,7 +9,7 @@ doc-type: feature video
 activity: use
 team: TM
 translation-type: tm+mt
-source-git-commit: a52d19279760efed1ed901610f7cbf146c2c54d4
+source-git-commit: dc9d084e8be1f0b942c6fd9bbefd7fcd3ded3f2d
 workflow-type: tm+mt
 source-wordcount: '233'
 ht-degree: 0%
@@ -42,11 +42,11 @@ Per questo arricchiremo il modello di [!DNL Campaign] dati estendendo le risorse
 
 Questa esercitazione spiega come:
 
-Passaggio 1 - [Creazione di una risorsa](./creating-a-custom-resource)personalizzata Passaggio 2 - [Configurazione di una definizione](./configuring-a-screen-definition-for-a-custom-resource.md)dello schermo Passaggio 3 - [Collegamento di risorse](./linking-custom-resources.md)personalizzate Passo 4 - [Compilazione di risorse personalizzate con i dati](./populate-custom-resources-with-data.md)
+Passaggio 1 - [Creazione di una risorsa](./creating-a-custom-resource.md)personalizzata Passaggio 2 - [Configurazione di una definizione](./configuring-a-screen-definition-for-a-custom-resource.md)dello schermo Passaggio 3 - [Collegamento di risorse](./linking-custom-resources.md)personalizzate Passo 4 - [Compilazione di risorse personalizzate con i dati](./populate-custom-resources-with-data.md)
 
 ## Avviare l&#39;esercitazione
 
-[Creazione di una risorsa personalizzata](./create-a-custom-resource)
+[Creazione di una risorsa personalizzata](./create-a-custom-resourc.md)
 
 ## Risorse aggiuntive
 
