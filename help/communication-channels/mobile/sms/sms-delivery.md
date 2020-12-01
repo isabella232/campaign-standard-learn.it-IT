@@ -1,22 +1,23 @@
 ---
-title: Creazione di una consegna SMS
+title: Creare una consegna SMS
 description: Questo video spiega come creare un SMS in  Adobe Campaign Standard (ACS).
 feature: SMS
-topics: Mobile
+topics: null
 kt: 1819
+thumbnail: 25265.jpg
 doc-type: feature video
 activity: use
 team: DOC
 translation-type: tm+mt
-source-git-commit: a2f194821a9ce06272eaed979ee2d8c62cccac2b
+source-git-commit: 11263e247184ddc6a8e3df6a8ed0899907fbb366
 workflow-type: tm+mt
 source-wordcount: '98'
-ht-degree: 2%
+ht-degree: 10%
 
 ---
 
 
-# Creazione di una consegna SMS{#creating-a-sms-delivery}
+# Creare una consegna SMS{#creating-a-sms-delivery}
 
 In questo video viene illustrato come creare un SMS in  Adobe Campaign Standard. Potete anche configurare l&#39;invio di SMS in un flusso di lavoro utilizzando l&#39;attività di consegna di SMS.
 
