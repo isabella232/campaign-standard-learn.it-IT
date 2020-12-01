@@ -4,14 +4,15 @@ description: ' Adobe Campaign Standard offre 18 modelli e-mail reattivi completa
 feature: Email Designer
 topics: null
 kt: 1442
+thumbnail: 23106.jpg
 doc-type: feature video
 activity: use
 team: TM
 translation-type: tm+mt
-source-git-commit: a2f194821a9ce06272eaed979ee2d8c62cccac2b
+source-git-commit: 11263e247184ddc6a8e3df6a8ed0899907fbb366
 workflow-type: tm+mt
 source-wordcount: '99'
-ht-degree: 0%
+ht-degree: 10%
 
 ---
 
@@ -20,6 +21,6 @@ ht-degree: 0%
 
  Adobe Campaign Standard offre 18 modelli e-mail reattivi completamente personalizzabili. Questi modelli sono stati creati appositamente per  Adobe Campaign Standard e sono facili da manipolare e modificare. Sono un ottimo punto di partenza per la creazione di e-mail.
 
-Questo video illustra i modelli e come creare un modello personale.
+Questo video illustra i modelli e come creare un modello personalizzato.
 
 >[!VIDEO](https://video.tv.adobe.com/v/23106?quality=12)
