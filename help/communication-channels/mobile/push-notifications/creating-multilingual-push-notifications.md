@@ -4,19 +4,20 @@ description: 'Scoprite come creare una notifica push multilingue in  Adobe Campa
 feature: Push
 topics: Mobile
 kt: 1375
+thumbnail: 23304.jpg
 doc-type: feature video
 activity: use
 team: TM
 translation-type: tm+mt
-source-git-commit: a2f194821a9ce06272eaed979ee2d8c62cccac2b
+source-git-commit: 11263e247184ddc6a8e3df6a8ed0899907fbb366
 workflow-type: tm+mt
 source-wordcount: '70'
-ht-degree: 18%
+ht-degree: 34%
 
 ---
 
 
-# Create a multilingual push notification [!UICONTROL push notification]
+# Creare una notifica push multilingue [!UICONTROL push notification]
 
 Scoprite come creare un multilingue [!UICONTROL push notifications] in  Adobe Campaign Standard.
 
