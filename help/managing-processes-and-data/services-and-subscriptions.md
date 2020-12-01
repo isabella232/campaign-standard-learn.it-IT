@@ -1,22 +1,23 @@
 ---
-title: Gestione di servizi e iscrizioni
+title: Gestire servizi e iscrizioni
 description: ' Adobe Campaign consente di creare e gestire newsletter e comunicazioni tra canali attraverso un set di servizi. Questo video illustra come creare un servizio e gestire le relative iscrizioni in  Adobe Campaign Standard (ACS).'
 feature: Subscriptions and Services
 topics: null
 kt: 1815
+thumbnail: 24673.jpg
 doc-type: feature video
 activity: use
 team: DOC
 translation-type: tm+mt
-source-git-commit: 556bff4c94e16d3a94561dee1ccb311bc003b631
+source-git-commit: 11263e247184ddc6a8e3df6a8ed0899907fbb366
 workflow-type: tm+mt
 source-wordcount: '181'
-ht-degree: 27%
+ht-degree: 31%
 
 ---
 
 
-# Manage services and subscriptions{#managing-services-and-subscriptions}
+# Gestire servizi e iscrizioni{#managing-services-and-subscriptions}
 
  Adobe Campaign consente di creare e gestire newsletter e comunicazioni tra canali attraverso un set di servizi. I messaggi possono essere inviati solo ai profili sottoscritti dal servizio (consenso). Questi profili vengono identificati utilizzando un filtro dedicato durante la creazione di un messaggio.
 
