@@ -4,14 +4,15 @@ description: 'Puoi creare un’e-mail da una campagna, dalla home page di Adobe 
 feature: Email
 topics: null
 kt: 1807
+thumbnail: 23721.jpg
 doc-type: feature video
 activity: use
 team: DOC
 translation-type: tm+mt
-source-git-commit: a2f194821a9ce06272eaed979ee2d8c62cccac2b
+source-git-commit: 11263e247184ddc6a8e3df6a8ed0899907fbb366
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '134'
+ht-degree: 47%
 
 ---
 
@@ -28,4 +29,4 @@ In questo video viene illustrato come creare un messaggio e-mail indipendente da
 
 * [Creare e inviare e-mail tramite un flusso di lavoro](/help/communication-channels/email/create-and-send-emails-via-workflow.md)
 * [Creazione di un’e-mail (documentazione)](https://docs.adobe.com/content/help/en/campaign-standard/using/communication-channels/email-messages/creating-an-email.html)
-* [Best practice di distribuzione](https://helpx.adobe.com/it/campaign/kb/delivery-best-practices.html)
+* [Best practice di consegna](https://helpx.adobe.com/it/campaign/kb/delivery-best-practices.html)
