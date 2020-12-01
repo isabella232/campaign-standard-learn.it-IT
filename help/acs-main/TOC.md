@@ -6,14 +6,14 @@ breadcrumb-title: Tutorial di Campaign Standard
 solution-title: Experience League
 solution-hub-url: https://experienceleague.adobe.com/?tag=Campaign+Standard#recommended/solutions/campaign
 tutorials-title: Esercitazioni
-tutorials-url: https://docs.adobe.com/content/help/it-IT/campaign-standard-learn/tutorials/overview.html
+tutorials-url: https://experienceleague.adobe.com/docs/campaign-standard-learn/tutorials/overview.html
 getting-started-title: Documentazione
-getting-started-url: https://docs.adobe.com/content/help/it-IT/campaign-standard/using/campaign-standard-home.html
+getting-started-url: https://experienceleague.adobe.com/docs/campaign-standard/using/campaign-standard-home.html
 translation-type: tm+mt
-source-git-commit: 99eedbf8c99fc6040dea5061ae4883cd6f0808ae
+source-git-commit: 11263e247184ddc6a8e3df6a8ed0899907fbb366
 workflow-type: tm+mt
-source-wordcount: '502'
-ht-degree: 96%
+source-wordcount: '497'
+ht-degree: 89%
 
 ---
 
@@ -27,9 +27,9 @@ ht-degree: 96%
    + [Guida introduttiva all’interfaccia](/help/getting-started/getting-started-with-the-ui.md)
    + [Configurare un elenco](/help/getting-started/configure-a-list.md)
    + [Esplorare gerarchia e attività di marketing](/help/getting-started/explore-hierarchy-and-marketing-activities.md)
-   + [Gestire le campagne](/help/getting-started/managing-campaigns.md)
-   + [Informazioni su profili e pubblico](/help/getting-started/understanding-profiles-and-audiences.md)
-   + [Creare un messaggio e-mail](https://experienceleague.adobe.com/docs/campaign-standard-learn/tutorials/communication-channels/email/create-email-from-homepage.html)
+   + [Gestione delle campagne](/help/getting-started/managing-campaigns.md)
+   + [Informazioni su profili e audience](/help/getting-started/understanding-profiles-and-audiences.md)
+   + [Creazione di un messaggio e-mail](https://experienceleague.adobe.com/docs/campaign-standard-learn/tutorials/communication-channels/email/create-email-from-homepage.html)
    + [Creazione di un flusso di lavoro](https://experienceleague.adobe.com/docs/campaign-standard-learn/tutorials/getting-started/creating-a-workflow.html)
    + [Introduzione al reporting](/help/getting-started/reporting-with-adobe-campaign-introduction.md)
    + [Mobile marketing con Adobe Campaign](/help/getting-started/mobile-marketing-with-adobe-campaign.md)
@@ -65,7 +65,7 @@ ht-degree: 96%
       + Notifiche push {#push}
          + [Creare una notifica push](/help/communication-channels/mobile/push-notifications/creating-a-push-notification.md)
          + [Creare una notifica push multilingue](/help/communication-channels/mobile/push-notifications/creating-multilingual-push-notifications.md)
-         + [Tutorial: guida introduttiva alle notifiche push per Android](https://docs.adobe.com/content/help/it-IT/campaign-standard-learn/getting-started-with-push-notifications-android/introduction.html)
+         + [Tutorial: guida introduttiva alle notifiche push per Android](https://experienceleague.adobe.com/docs/campaign-standard-learn/getting-started-with-push-notifications-android/introduction.html)
       + Messaggi in-app {#in-app}
          + [Introduzione ai messaggi in-app](/help/communication-channels/mobile/in-app/in-app-message-overview.md)
          + [Configurare gli eventi](/help/communication-channels/mobile/in-app/configure-events.md)
@@ -100,12 +100,10 @@ ht-degree: 96%
    + [Creazione di un rapporto dinamico](/help/reporting/creating-a-dynamic-report.md)
    + [Creazione di un rapporto basato su attributi di profilo personalizzati](/help/reporting/custom-profile-attributes-dynamic-reports.md)
    + [Creazione di un report basato sui segmenti del flusso di lavoro](/help/reporting/report-on-workflow-segments.md)
-+ Sviluppo {#developing}
-   + Risorse personalizzate {#custom-resources-develop}
-      + [Creazione di risorse personalizzate](/help/managing-processes-and-data/custom-resources/creating-custom-resources.md)
 + Amministrazione {#administrating}
    + [Gestione dei diritti di accesso degli utenti](/help/administrating/managing-user-access-rights.md)
-   + [Pannello di controllo Campaign](https://docs.adobe.com/content/help/it-IT/campaign-standard-learn/control-panel/control-panel-overview.html)
+   + [Creazione di risorse personalizzate](https://experienceleague.adobe.com/docs/campaign-standard-learn/creating-custom-resources/introduction.html)
+   + [Pannello di controllo Campaign](https://experienceleague.adobe.com/docs/campaign-standard-learn/control-panel/control-panel-overview.html?lang=it)
    + Adobe Experience Platform Data Connector {adobe-experience-platform-data-connector}
       + [Informazioni su Adobe Experience Platform Data Connector](/help/administrating/adobe-experience-platform-data-connector/understanding-the-adobe-experience-platform-data-connector.md)
       + [Mappatura di risorse personalizzate](/help/administrating/adobe-experience-platform-data-connector/mapping-custom-resources.md)
