@@ -4,14 +4,15 @@ description: Un prerequisito per poter creare richieste di accesso alla privacy 
 feature: GDPR, CCPA
 topic: null
 kt: 1460
+thumbnail: 22600.jpg
 doc-type: feature video
 activity: use
 team: TM
 translation-type: tm+mt
-source-git-commit: a2f194821a9ce06272eaed979ee2d8c62cccac2b
+source-git-commit: 11263e247184ddc6a8e3df6a8ed0899907fbb366
 workflow-type: tm+mt
 source-wordcount: '123'
-ht-degree: 1%
+ht-degree: 9%
 
 ---
 
@@ -26,4 +27,4 @@ In questi video viene illustrato come creare spazi dei nomi per le richieste di 
 
 ## Risorse aggiuntive
 
-* [Linee guida generali sulla privacy per la campagna](https://helpx.adobe.com/campaign/kb/campaign-privacy-overview.html)
+* [Linee guida generali sulla privacy per la campagna](https://helpx.adobe.com/it/campaign/kb/campaign-privacy-overview.html)
