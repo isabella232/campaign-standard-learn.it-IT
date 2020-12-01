@@ -4,11 +4,12 @@ description: Adobe Experience Platform Data Connector aiuta i clienti esistenti 
 feature: Adobe Experience Platform Data Connector
 topics: ACoP
 kt: 2826
+thumbnail: 27304.jpg
 doc-type: feature video
 activity: understand
 team: TM
 translation-type: tm+mt
-source-git-commit: d87971b70bde8de1822f18cbafd8e2d7b4808edc
+source-git-commit: 11263e247184ddc6a8e3df6a8ed0899907fbb366
 workflow-type: tm+mt
 source-wordcount: '343'
 ht-degree: 10%
@@ -34,7 +35,7 @@ Adobe Experience Platform [!UICONTROL Data Connector] è destinato agli sviluppa
 
 >[!VIDEO](https://video.tv.adobe.com/v/27304?quality=12)
 
-*Questo video offre una panoramica sull’Adobe Experience Platform[!UICONTROL Data Connector](09:35 min)*
+*Questo video offre una panoramica sull’Adobe Experience Platform [!UICONTROL Data Connector] (09:35 min)*
 
 >[!NOTE]
 >
