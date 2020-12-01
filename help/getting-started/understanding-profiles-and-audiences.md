@@ -1,22 +1,23 @@
 ---
-title: Comprendere profili e audience in  Adobe Campaign Standard
+title: Informazioni su profili e audience in  Adobe Campaign Standard
 description: Questo video illustra il concetto di profili e audience e come creare profili e audience in  Adobe Campaign Standard.
-feature: Profiles and Audiences
+feature: profiles, audiences
 topics: null
 kt: 3893
+thumbnail: 18464.jpg
 doc-type: feature video
 activity: understand
 team: WWFRE
 translation-type: tm+mt
-source-git-commit: a2f194821a9ce06272eaed979ee2d8c62cccac2b
+source-git-commit: 11263e247184ddc6a8e3df6a8ed0899907fbb366
 workflow-type: tm+mt
 source-wordcount: '62'
-ht-degree: 3%
+ht-degree: 22%
 
 ---
 
 
-# Comprendere profili e audience in  Adobe Campaign Standard
+# Informazioni su profili e audience in  Adobe Campaign Standard
 
 Questo video illustra il concetto e come creare profili e audience.
 
@@ -24,6 +25,6 @@ Questo video illustra il concetto e come creare profili e audience.
 
 ## Risorse aggiuntive
 
-* [Creazione di un profilo](/help/profiles-and-audiences/creating-a-profile.md)
+* [Creare un profilo](/help/profiles-and-audiences/creating-a-profile.md)
 * [Creare un profilo di test](/help/profiles-and-audiences/test-profiles.md)
-* [Importazione di profili con un flusso di lavoro](/help/managing-processes-and-data/importing-profiles.md)
+* [Importare profili con un flusso di lavoro](/help/managing-processes-and-data/importing-profiles.md)
