@@ -1,5 +1,5 @@
 ---
-title: Creazione di risorse personalizzate
+title: Creazione di risorse personalizzate - Introduzione
 description: ' Adobe Campaign Standard consente di estendere le risorse o di creare nuove risorse. Questa esercitazione multiparte illustra i passaggi necessari per creare e collegare risorse personalizzate.'
 feature: Custom Resources
 topics: null
@@ -9,15 +9,15 @@ doc-type: feature video
 activity: use
 team: TM
 translation-type: tm+mt
-source-git-commit: 763c7f51e28d025438f873314cc4fd60b96648ca
+source-git-commit: a52d19279760efed1ed901610f7cbf146c2c54d4
 workflow-type: tm+mt
-source-wordcount: '231'
+source-wordcount: '233'
 ht-degree: 0%
 
 ---
 
 
-# Creazione di &#x200B; di risorse personalizzate
+# Creazione di risorse personalizzate &#x200B; - Introduzione
 
 [!DNL Adobe Campaign] viene fornito con un modello dati predefinito, in cui i dati vengono definiti tramite risorse diverse. [!DNL Campaign] consente di estendere le risorse o creare nuove risorse.
 
