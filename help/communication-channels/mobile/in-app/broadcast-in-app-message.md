@@ -4,14 +4,15 @@ description: Il modello di trasmissione di un messaggio in-app consente di esegu
 feature: In-App
 topics: Mobile
 kt: 2497
+thumbnail: 26199.jpg
 doc-type: feature video
 activity: use
 team: TM
 translation-type: tm+mt
-source-git-commit: 9d71fbf2067611c2d3c088d6ed6bc02b2d3ffc1c
+source-git-commit: 11263e247184ddc6a8e3df6a8ed0899907fbb366
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '132'
+ht-degree: 7%
 
 ---
 
