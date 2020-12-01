@@ -4,14 +4,15 @@ description: In  le richieste di privacy di Adobe Campaign vengono eseguite dai 
 feature: GDPR, CCPA
 topic: null
 kt: 1525
+thumbnail: 22770.jpg
 doc-type: feature video
 activity: use
 team: TM
 translation-type: tm+mt
-source-git-commit: a2f194821a9ce06272eaed979ee2d8c62cccac2b
+source-git-commit: 11263e247184ddc6a8e3df6a8ed0899907fbb366
 workflow-type: tm+mt
 source-wordcount: '79'
-ht-degree: 2%
+ht-degree: 30%
 
 ---
 
@@ -24,5 +25,5 @@ In  le richieste di privacy di Adobe Campaign vengono eseguite dai flussi di lav
 
 ## Risorse aggiuntive
 
-* [Linee guida generali sulla privacy per le campagne](https://helpx.adobe.com/campaign/kb/campaign-privacy-overview.html)
-* [CCPA per  Adobe Campaign Standard](https://helpx.adobe.com/campaign/kb/acs-privacy.html#ccpa)
+* [Linee guida generali sulla privacy per Campaign](https://helpx.adobe.com/it/campaign/kb/campaign-privacy-overview.html)
+* [CCPA per  Adobe Campaign Standard](https://helpx.adobe.com/it/campaign/kb/acs-privacy.html#ccpa)
