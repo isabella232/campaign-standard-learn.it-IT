@@ -1,22 +1,23 @@
 ---
-title: Esegue il targeting degli utenti in base al relativo profilo Campaign
+title: Eseguire il targeting degli utenti in base al loro profilo Campaign
 description: Questo modello consente di eseguire il targeting degli utenti noti di app mobili con messaggi personalizzati con gli attributi del profilo CRM disponibili in  Adobe Campaign Standard (ACS).
 feature: In-App
 topics: Channels
 kt: 1796
+thumbnail: 26200.jpg
 doc-type: feature video
 activity: use
 team: TM
 translation-type: tm+mt
-source-git-commit: 39e7f9fc2a6631ebc5f2555dad651a72464e4344
+source-git-commit: 11263e247184ddc6a8e3df6a8ed0899907fbb366
 workflow-type: tm+mt
 source-wordcount: '141'
-ht-degree: 1%
+ht-degree: 6%
 
 ---
 
 
-# Esegue il targeting degli utenti in base al loro [!DNL Campaign] profilo
+# Target users based on their [!DNL Campaign] profile
 
 Puoi eseguire il targeting degli utenti noti di app mobili (quelli che hanno eseguito l&#39;accesso all&#39;app con PII) con messaggi personalizzati con gli attributi del profilo CRM disponibili in  Adobe Campaign Standard. Questo modello è particolarmente utile per supportare i casi di utilizzo di orchestrazione tra canali, in cui hai già eseguito il targeting degli utenti su altri canali come E-mail o Push e in base alla loro risposta, vuoi interagire con loro con un [!UICONTROL In-App] messaggio.
 
