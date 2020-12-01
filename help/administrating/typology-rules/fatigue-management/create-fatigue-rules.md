@@ -4,14 +4,15 @@ description: In questo video viene illustrato come impostare la regola di tipolo
 feature: Fatigue Management
 topics: null
 kt: 3446
+thumbnail: 28450.jpg
 doc-type: feature video
 activity: setup
 team: TM
 translation-type: tm+mt
-source-git-commit: 9d71fbf2067611c2d3c088d6ed6bc02b2d3ffc1c
+source-git-commit: 11263e247184ddc6a8e3df6a8ed0899907fbb366
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '94'
+ht-degree: 24%
 
 ---
 
@@ -23,7 +24,7 @@ To create [!UICONTROL fatigue rules], you need to define a maximum number of mes
 
 >[!VIDEO](https://video.tv.adobe.com/v/28450?quality=12)
 
-*Come creare un[!UICONTROL fatigue rule](04:49 min)*
+*Come creare un [!UICONTROL fatigue rule] (04:49 min)*
 
 ## Risorse aggiuntive
 
