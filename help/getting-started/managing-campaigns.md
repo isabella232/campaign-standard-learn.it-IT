@@ -1,17 +1,18 @@
 ---
 title: Gestione delle campagne
 description: ' Adobe Campaign consente di pianificare campagne marketing in cui creare e gestire diversi tipi di attività. Questo video illustra come creare e gestire le campagne in  Adobe Campaign.'
-feature: managing campaigns
+feature: campaigns
 topics: Getting Started
 kt: 1816
+thumbnail: 24672.jpg
 doc-type: feature video
 activity: USE
 team: DOC
 translation-type: tm+mt
-source-git-commit: a2f194821a9ce06272eaed979ee2d8c62cccac2b
+source-git-commit: 11263e247184ddc6a8e3df6a8ed0899907fbb366
 workflow-type: tm+mt
-source-wordcount: '101'
-ht-degree: 14%
+source-wordcount: '99'
+ht-degree: 15%
 
 ---
 
@@ -24,4 +25,4 @@ Adobe Campaign allows you to plan marketing campaigns in which you can create an
 
 ## Risorse aggiuntive
 
-* [Programmi e campagne](https://docs.adobe.com/content/help/en/campaign-standard/using/getting-started/marketing-plans/programs-and-campaigns.html)
+* [Programmi e campagne](https://experienceleague.adobe.com/docs/campaign-standard/using/getting-started/marketing-plans/programs-and-campaigns.html)
