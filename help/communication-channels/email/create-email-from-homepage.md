@@ -1,6 +1,7 @@
 ---
 title: Creare una consegna tramite e-mail
 description: 'Puoi creare un’e-mail da una campagna, dalla home page di Adobe Campaign o nell’elenco delle attività di marketing. Puoi anche creare e-mail a invio singolo e ricorrenti da un flusso di lavoro. In questo video viene illustrato come creare una consegna di e-mail dalla home page. '
+landing-page-description: This video explains how to create an email delivery from the homepage.
 feature: Email
 topics: null
 kt: 1807
@@ -9,7 +10,7 @@ doc-type: feature video
 activity: use
 team: DOC
 translation-type: tm+mt
-source-git-commit: 11263e247184ddc6a8e3df6a8ed0899907fbb366
+source-git-commit: 8b968e15b78655ff9ae49f812f10683201559722
 workflow-type: tm+mt
 source-wordcount: '134'
 ht-degree: 47%
@@ -17,9 +18,9 @@ ht-degree: 47%
 ---
 
 
-# Create an email delivery {#create-an-email-delivery}
+# Creare una consegna di e-mail {#create-an-email-delivery}
 
-Potete creare una distribuzione di e-mail indipendente da una campagna, dalla home page di Adobe Campaign  o nell’ [!UICONTROL Marketing Activity] elenco. Potete anche creare e inviare e-mail singole e ricorrenti da un flusso di lavoro.
+Potete creare una distribuzione di e-mail indipendente da una campagna, dalla home page di  Adobe Campaign o nell&#39;elenco [!UICONTROL Marketing Activity]. Potete anche creare e inviare e-mail singole e ricorrenti da un flusso di lavoro.
 
 In questo video viene illustrato come creare un messaggio e-mail indipendente dalla homepage.
 
