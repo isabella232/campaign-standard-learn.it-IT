@@ -1,6 +1,6 @@
 ---
-title: Crescita con  Adobe Campaign
-description: Questo video evidenzia i possibili passaggi successivi per una vera orchestrazione tra canali.
+title: Crescere con Adobe Campaign
+description: Questo video evidenzia le possibili evoluzioni del percorso verso una vera orchestrazione cross-channel.
 feature: multi channel orchestration
 topics: null
 kt: 3973
@@ -8,17 +8,17 @@ thumbnail: 29460.jpg
 doc-type: value video
 activity: understand
 team: PMM
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: 11263e247184ddc6a8e3df6a8ed0899907fbb366
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '32'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
 
-# Crescita con  Adobe Campaign
+# Crescere con Adobe Campaign
 
-Questo video evidenzia i possibili passaggi successivi per una vera orchestrazione tra canali.
+Questo video evidenzia le possibili evoluzioni del percorso verso una vera orchestrazione cross-channel.
 
->[!VIDEO](https://video.tv.adobe.com/v/29460?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/29460?quality=12&captions=ita)
