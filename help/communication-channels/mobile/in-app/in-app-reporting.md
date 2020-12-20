@@ -16,9 +16,9 @@ ht-degree: 10%
 
 ---
 
-# Report on your [!UICONTROL In-App] delivery {#in-app-message-reporting}
+# Report sulla [!UICONTROL In-App] consegna {#in-app-message-reporting}
 
-Puoi esaminare i dati relativi alla [!UICONTROL In-App] consegna nel riepilogo della distribuzione aggiungendo metriche [!UICONTROL In-App] specifiche. In alternativa, potete utilizzare il rapporto in-app [out of the box](https://docs.adobe.com/content/help/en/campaign-standard/using/reporting/list-of-reports/in-app-report.html).
+Puoi esaminare i dati relativi alla [!UICONTROL In-App] distribuzione nel riepilogo della distribuzione aggiungendo [!UICONTROL In-App] metriche specifiche. In alternativa, è possibile utilizzare il out of the box [Report in-app](https://docs.adobe.com/content/help/en/campaign-standard/using/reporting/list-of-reports/in-app-report.html).
 
 >[!VIDEO](https://video.tv.adobe.com/v/26412?quality=12)
 
