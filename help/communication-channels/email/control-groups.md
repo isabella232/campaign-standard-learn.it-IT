@@ -8,9 +8,9 @@ thumbnail: 40684.jpg
 doc-type: feature video
 activity: use
 team: PM
-translation-type: ht
+translation-type: tm+mt
 source-git-commit: 06a4a418906d4bf74cad5faf809bea086537bbd3
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '121'
 ht-degree: 100%
 
@@ -25,4 +25,4 @@ L’utilizzo dei [!UICONTROL control groups] consente di misurare l’impatto de
 
 Scopri come definire un [!UICONTROL control group] per la [!UICONTROL delivery] e come estrarre i profili assegnati al [!UICONTROL control group] dopo l’invio della [!UICONTROL delivery].
 
->[!VIDEO](https://video.tv.adobe.com/v/40684?quality=12&captions=ita)
+>[!VIDEO](https://video.tv.adobe.com/v/40684?quality=12)
