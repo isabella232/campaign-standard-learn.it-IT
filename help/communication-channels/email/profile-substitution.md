@@ -4,7 +4,7 @@ description: Il presente video illustra come verificare i messaggi e-mail median
 feature: Email
 topics: Channels
 kt: 4667
-thumbnail: 32368
+thumbnail: 32368.jpg
 doc-type: feature video
 activity: use
 team: TM
@@ -33,6 +33,6 @@ Per ulteriori informazioni, consulta la [documentazione dettagliata del prodotto
 
 ## Risorse aggiuntive
 
-* [Verifica dei messaggi mediante i profili di destinazione (documentazione)](https://docs.adobe.com/content/help/it-IT/campaign-standard/using/testing-and-sending/preparing-and-testing-messages/testing-messages-using-target.html)
+* [Verifica dei messaggi mediante i profili di destinazione (documentazione)](https://docs.adobe.com/content/help/en/campaign-standard/using/testing-and-sending/preparing-and-testing-messages/testing-messages-using-target.html)
 * [Progettazione di un messaggio e-mail per test A/B](/help/communication-channels/email/a-b-testing.md)
 * [Inviare un test, preparare e spedire un messaggio e-mail](/help/communication-channels/email/sending-test-preparing-sending-email.md)
