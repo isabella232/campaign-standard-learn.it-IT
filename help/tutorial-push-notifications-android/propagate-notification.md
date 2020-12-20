@@ -1,5 +1,5 @@
 ---
-title: Passaggio 5 - Propagare Le Notifiche
+title: Passaggio 5 - Propagare le notifiche
 description: In questa parte, diffonderemo il messaggio ricevuto da  Adobe Campaign utilizzando Android Notification Manager.Firebase
 feature: Push
 topics: Mobile
@@ -11,7 +11,7 @@ translation-type: tm+mt
 source-git-commit: 13b4f1d395dfe53f9fc5263e7b06be700e30b986
 workflow-type: tm+mt
 source-wordcount: '154'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
@@ -20,12 +20,12 @@ ht-degree: 0%
 In questa parte, diffonderemo il messaggio ricevuto da  Adobe Campaign utilizzando [!DNL Android Notification Manager]. [!DNL Notification manager] viene utilizzato per notificare all&#39;utente gli eventi che si verificano.
 Questo è il modo in cui si informa l&#39;utente che qualcosa è accaduto in background:
 
-* Launch [!DNL Android Studio]
-* Apri *[!DNL ACSPushTutorial]* progetto
+* Lancio [!DNL Android Studio]
+* Apri progetto *[!DNL ACSPushTutorial]*
 * Espandere la struttura del progetto
-* Fate clic con il pulsante destro del mouse sulla cartella del pacchetto ([!DNL com.example.acspushtutorial]) e [!DNL New ->Java Class]
-* Denominate questa classe *[!DNL MyService]* e accertatevi che si estenda [!DNL FirebaseMessagingService]
-* Crea *[!DNL sendNotification]* metodo in questa classe. In questo metodo è necessario impostare il contenuto e il canale della notifica utilizzando un [!DNL NotificationCompat.Builder] oggetto. Per visualizzare la notifica, chiama [!DNL NotificationManagerCompat.notify()]e passa un ID univoco per la notifica e il risultato di [!DNL NotificationCompat.Builder.build()].
+* Fare clic con il pulsante destro del mouse sulla cartella del pacchetto ([!DNL com.example.acspushtutorial]) e [!DNL New ->Java Class]
+* Assegnare un nome alla classe *[!DNL MyService]* e assicurarsi che estenda [!DNL FirebaseMessagingService]
+* Creare il metodo *[!DNL sendNotification]* in questa classe. In questo metodo è necessario impostare il contenuto e il canale della notifica utilizzando un oggetto [!DNL NotificationCompat.Builder]. Per visualizzare la notifica, chiamate [!DNL NotificationManagerCompat.notify()], trasmettendola un ID univoco per la notifica e il risultato di [!DNL NotificationCompat.Builder.build()].
 
 <!--
 Removed `{.line-numbers}` below
@@ -94,7 +94,7 @@ notificationManager.notify(0 /* ID of notification */, notificationBuilder.build
 
 ## Modifica [!DNL AndroidManifest.xml]
 
-Aggiungete il servizio creato al vostro [!DNL AndroidManifest.xml]. L&#39;ultimo [!DNL AndroidManifest.xml] dovrebbe essere simile al seguente:
+Aggiungi il servizio creato al [!DNL AndroidManifest.xml]. La [!DNL AndroidManifest.xml] finale deve essere simile alla seguente:
 
 <!--
 Removed `{.line-numbers}` below
@@ -138,4 +138,4 @@ Removed `{.line-numbers}` below
 
 ## Eseguire l&#39;app
 
-Eseguite l&#39;app facendo clic sulla freccia **** verde sulla barra degli strumenti o dal [!DNL Run] menu.
+Esegui l&#39;app facendo clic sulla **freccia verde** nella barra degli strumenti o dal menu [!DNL Run].
