@@ -17,15 +17,15 @@ ht-degree: 11%
 ---
 
 
-# Create a [!UICONTROL push notification]
+# Crea un [!UICONTROL push notification]
 
 Scopri come creare un [!UICONTROL push notification] in  Adobe Campaign Standard (ACS):
 
-Adobe Campaign allows you to send personalized and segmented [!UICONTROL push notifications] to iOS and Android mobile devices. Sono disponibili due opzioni:
+ Adobe Campaign consente di inviare [!UICONTROL push notifications] personalizzati e segmentati ai dispositivi mobili iOS e Android. Sono disponibili due opzioni:
 
-* **[!UICONTROL Send push notification to Campaign profiles]**: Consente di eseguire il targeting dei profili Adobe Campaign CRM  che hanno effettuato la sottoscrizione all&#39;applicazione mobile e hanno acconsentito alla ricezione [!UICONTROL push notifications]. Puoi inserire campi di personalizzazione all&#39;interno dell&#39; [!UICONTROL push notification]utente, ad esempio il nome del destinatario.
+* **[!UICONTROL Send push notification to Campaign profiles]**: Consente di eseguire il targeting dei profili Adobe Campaign CRM  che hanno effettuato la sottoscrizione all&#39;applicazione mobile e hanno acconsentito alla ricezione  [!UICONTROL push notifications]. Puoi inserire campi di personalizzazione nella [!UICONTROL push notification], ad esempio il nome del destinatario.
 
-* **[!UICONTROL Send push notification to app subscribers]**: Consente di inviare un messaggio [!UICONTROL push notification] a tutti gli utenti noti e anonimi di applicazioni mobili che hanno acconsentito alla ricezione di notifiche dall’applicazione. Puoi personalizzare questi messaggi con i dati raccolti dall’applicazione mobile.
+* **[!UICONTROL Send push notification to app subscribers]**: Consente di inviare un messaggio  [!UICONTROL push notification] a tutti gli utenti noti e anonimi di applicazioni mobili che hanno acconsentito alla ricezione di notifiche dall’applicazione. Puoi personalizzare questi messaggi con i dati raccolti dall’applicazione mobile.
 
 Il video descrive come inviare un [!DNL push notification to app subscribers].
 
