@@ -21,7 +21,7 @@ ht-degree: 4%
 
 Potete configurare un messaggio e-mail di ritargeting con un elenco di prodotti sconosciuti durante la progettazione del messaggio e-mail. Questi prodotti possono essere aggiunti dal payload in fase di esecuzione. Ad esempio, puoi inviare automaticamente un messaggio e-mail di abbandono del carrello in cui sono elencati tutti i prodotti che si trovavano nel carrello dell&#39;utente prima che questi li abbandonassero, con un&#39;immagine, un prezzo e un collegamento a ciascun prodotto.
 
-I seguenti video illustrano i passaggi necessari per la configurazione [!UICONTROL product listings] in [!UICONTROL transactional emails].
+I seguenti video illustrano i passaggi necessari per configurare [!UICONTROL product listings] in [!UICONTROL transactional emails].
 
 >[!NOTE]
 >
