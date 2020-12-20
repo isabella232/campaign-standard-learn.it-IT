@@ -37,5 +37,5 @@ Il video illustra gli elementi necessari all’abilitazione dell’integrazione 
 ## Risorse aggiuntive
 
 * [Risoluzione dei problemi relativi all’installazione di Adobe Campaign all’interno di Dreamweaver](https://helpx.adobe.com/it/dreamweaver/kb/dreamweaver-campaign-integration-issue.html)
-* [Documentazione di Adobe Dreamweaver](https://helpx.adobe.com/it/dreamweaver/using/working-with-dreamweaver-and-campaign.html)
+* [Documentazione di Adobe Dreamweaver](https://helpx.adobe.com/dreamweaver/using/working-with-dreamweaver-and-campaign.html)
 * [Installare componenti aggiuntivi ed estensioni per le app Adobe](https://helpx.adobe.com/it/creative-cloud/kb/installingextensionsandaddons.html)
