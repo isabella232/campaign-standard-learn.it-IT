@@ -23,9 +23,9 @@ ht-degree: 7%
 >
 >Questa funzionalità è attualmente in versione beta e soggetta a frequenti aggiornamenti e modifiche senza preavviso. [!UICONTROL Audience Destinations] è basato su Adobe Experience Platform e richiede una configurazione specifica.
 >
->Per [!UICONTROL Adobe Customer Support] implementare questa funzionalità, contattate il vostro riferimento commerciale.
+>Per implementare questa funzionalità, contattate [!UICONTROL Adobe Customer Support].
 
-In questo video viene illustrato come attivare l&#39; [!UICONTROL Data Services Query Audience] interno di un flusso di lavoro utilizzando l&#39; [!UICONTROL Read Audience] attività.
+Questo video spiega come attivare la [!UICONTROL Data Services Query Audience] all&#39;interno di un flusso di lavoro utilizzando l&#39;attività [!UICONTROL Read Audience].
 
 >[!VIDEO](https://video.tv.adobe.com/v/27647?quality=12)
 
