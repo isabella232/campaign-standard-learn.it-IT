@@ -24,7 +24,7 @@ ht-degree: 9%
 >
 >Questa funzionalità è attualmente in versione beta e soggetta a frequenti aggiornamenti e modifiche senza preavviso.
 >
->Per [!UICONTROL Adobe Customer Support] implementare questa funzionalità, contattate il vostro riferimento commerciale.
+>Per implementare questa funzionalità, contattate [!UICONTROL Adobe Customer Support].
 
 Scoprite come verificare lo stato di un processo di inserimento dei dati e se i dati sono stati trasferiti da  Adobe Campaign Standard ad Adobe Experience Platform.
 
