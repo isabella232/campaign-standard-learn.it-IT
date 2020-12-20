@@ -17,17 +17,17 @@ ht-degree: 1%
 ---
 
 
-# Create a [!UICONTROL Direct Mail] {#create-a-direct-mail}
+# Creare un [!UICONTROL Direct Mail] {#create-a-direct-mail}
 
-Il [!UICONTROL Direct Mail] canale consente di estrarre un elenco segmentato di destinatari da inviare a un&#39;agenzia o da caricare su un server SFTP.
+Il canale [!UICONTROL Direct Mail] consente di estrarre un elenco segmentato di destinatari da inviare a un&#39;agenzia o da caricare su un server SFTP.
 
 Questo video spiega come configurare una [!UICONTROL Direct Mail] consegna e quali impostazioni sono necessarie per poter aggiungere un profilo a una [!UICONTROL Direct Mail] consegna.
 
 >[!VIDEO](https://video.tv.adobe.com/v/23417?quality=12)
 
-## Creare un [!UICONTROL Direct Mail] flusso di lavoro
+## Creare un [!UICONTROL Direct Mail] all&#39;interno di un flusso di lavoro
 
-Il canale è disponibile dalla home page e nella visualizzazione del flusso di lavoro per definire strategie di marketing combinate tra canali. Il seguente flusso di lavoro di esempio include il [!UICONTROL Direct Mail activity].
+Il canale è disponibile dalla home page e nella visualizzazione del flusso di lavoro per definire strategie di marketing combinate tra canali. Il seguente flusso di lavoro di esempio include [!UICONTROL Direct Mail activity].
 
 ![Immagine flusso di lavoro](/help/assets/direct_mail_examplewf.png)
 
