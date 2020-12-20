@@ -25,12 +25,12 @@ ht-degree: 10%
 >
 >Questa funzionalità è attualmente in versione beta e soggetta a frequenti aggiornamenti e modifiche senza preavviso. [!UICONTROL Audience Destinations] è basato su Adobe Experience Platform e richiede una configurazione specifica.
 >
->Per [!UICONTROL Adobe Customer Support] implementare questa funzionalità, contattate il vostro riferimento commerciale.
+>Per implementare questa funzionalità, contattate [!UICONTROL Adobe Customer Support].
 
 
 Questa esercitazione spiega come sfruttare i dati di profilo centralizzati e consolidati di Adobe Experience Platform per le campagne di marketing in  Adobe Campaign Standard.
 
-Il [!UICONTROL Audiences] modulo all&#39;interno  Adobe Campaign Standard consente di creare segmenti utilizzando i dati di [Adobe Experience Platform - Data Services](https://www.adobe.io/apis/experienceplatform/home/services.html) che si trova nel profilo [cliente](https://docs.adobe.com/content/help/en/platform-learn/tutorials/profiles/understanding-the-real-time-customer-profile.html)in tempo reale.
+Il modulo [!UICONTROL Audiences] all&#39;interno  Adobe Campaign Standard consente di creare segmenti utilizzando i dati di [Adobe Experience Platform - Data Services](https://www.adobe.io/apis/experienceplatform/home/services.html) che risiedono nel [Real-Time Customer Profile](https://docs.adobe.com/content/help/en/platform-learn/tutorials/profiles/understanding-the-real-time-customer-profile.html).
 
 Le seguenti esercitazioni video guidano l’utente attraverso i diversi passaggi:
 
