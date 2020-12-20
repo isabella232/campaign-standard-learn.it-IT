@@ -8,9 +8,9 @@ thumbnail: 29235.jpg
 doc-type: feature video
 activity: use
 team: TM
-translation-type: ht
+translation-type: tm+mt
 source-git-commit: 11263e247184ddc6a8e3df6a8ed0899907fbb366
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '125'
 ht-degree: 100%
 
@@ -23,7 +23,7 @@ ht-degree: 100%
 
 Questi video dimostrano come creare manualmente le richieste di accesso ai dati personali e tenere traccia della loro evoluzione nell’interfaccia utente di Adobe Campaign Standard.
 
->[!VIDEO](https://video.tv.adobe.com/v/29235?quality=12&captions=ita)
+>[!VIDEO](https://video.tv.adobe.com/v/29235?quality=12)
 
 ## Risorse aggiuntive
 
