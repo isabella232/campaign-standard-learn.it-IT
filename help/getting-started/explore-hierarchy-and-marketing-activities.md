@@ -8,9 +8,9 @@ thumbnail: 18465.jpg
 doc-type: feature video
 activity: Understand
 team: WWFRE
-translation-type: ht
+translation-type: tm+mt
 source-git-commit: 11263e247184ddc6a8e3df6a8ed0899907fbb366
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '78'
 ht-degree: 100%
 
@@ -21,7 +21,7 @@ ht-degree: 100%
 
 Il presente video illustra la gerarchia di programmi e campagne, le modalità di creazione di un programma di marketing e di una campagna di marketing all’interno di un programma.
 
->[!VIDEO](https://video.tv.adobe.com/v/18465?quality=12&captions=ita)
+>[!VIDEO](https://video.tv.adobe.com/v/18465?quality=12)
 
 ## Risorse aggiuntive
 
