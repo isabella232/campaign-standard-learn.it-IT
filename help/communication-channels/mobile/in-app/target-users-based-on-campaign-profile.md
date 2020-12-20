@@ -17,9 +17,9 @@ ht-degree: 6%
 ---
 
 
-# Target users based on their [!DNL Campaign] profile
+# Esegue il targeting degli utenti in base al loro profilo [!DNL Campaign]
 
-Puoi eseguire il targeting degli utenti noti di app mobili (quelli che hanno eseguito l&#39;accesso all&#39;app con PII) con messaggi personalizzati con gli attributi del profilo CRM disponibili in  Adobe Campaign Standard. Questo modello è particolarmente utile per supportare i casi di utilizzo di orchestrazione tra canali, in cui hai già eseguito il targeting degli utenti su altri canali come E-mail o Push e in base alla loro risposta, vuoi interagire con loro con un [!UICONTROL In-App] messaggio.
+Puoi eseguire il targeting degli utenti noti di app mobili (quelli che hanno eseguito l&#39;accesso all&#39;app con PII) con messaggi personalizzati con gli attributi del profilo CRM disponibili in  Adobe Campaign Standard. Questo modello è particolarmente utile per supportare i casi di utilizzo di orchestrazione tra canali, in cui hai già eseguito il targeting degli utenti su altri canali come E-mail o Push e in base alla loro risposta, vuoi coinvolgerli con un messaggio [!UICONTROL In-App].
 
 >[!VIDEO](https://video.tv.adobe.com/v/26200?quality=12)
 
