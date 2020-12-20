@@ -19,7 +19,7 @@ ht-degree: 0%
 
 # Compilazione di risorse personalizzate con i dati
 
-Scoprite come compilare risorse personalizzate con i dati di un [!DNL CSV] file tramite un flusso di lavoro.
+Scoprite come compilare risorse personalizzate con i dati provenienti da un file [!DNL CSV] utilizzando un flusso di lavoro.
 
 >[!VIDEO](https://video.tv.adobe.com/v/27714?quality=9)
 
