@@ -18,6 +18,6 @@ ht-degree: 35%
 
 # Configurare un [!UICONTROL landing page template]
 
-In questo video viene illustrato come configurare [!UICONTROL landing page] i modelli.
+Questo video spiega come configurare i modelli [!UICONTROL landing page].
 
 >[!VIDEO](https://video.tv.adobe.com/v/25200/?quality=12)
