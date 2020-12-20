@@ -23,7 +23,7 @@ ht-degree: 15%
 >
 >Questa funzionalità è attualmente in versione beta e soggetta a frequenti aggiornamenti e modifiche senza preavviso.
 >
->Per [!UICONTROL Adobe Customer Support] implementare questa funzionalità, contattate il vostro riferimento commerciale.
+>Per implementare questa funzionalità, contattate [!UICONTROL Adobe Customer Support].
 
 Scopri come mappare i dati iniziali e i profili di test con l’Adobe Experience Platform.
 
