@@ -24,7 +24,7 @@ ht-degree: 35%
 
 ## Accesso alla gestione SFTP del [!UICONTROL Control Panel]
 
-To access the SFTP Management in [!UICONTROL Control Panel], go to:
+Per accedere a SFTP Management in [!UICONTROL Control Panel], vai a:
 
 * [Home di Experience Cloud](https://experience.adobe.com/#/home) > [!UICONTROL Solution picker]: [!UICONTROL Campaign] > scheda **[!UICONTROL Control Panel]** > scheda **SFTP**
 
