@@ -17,7 +17,7 @@ ht-degree: 0%
 ---
 
 
-# Configura la visualizzazione mobile nel pannello [!UICONTROL Email Designer] {#configure-the-mobile-view}
+# Configurare la visualizzazione mobile in [!UICONTROL Email Designer] {#configure-the-mobile-view}
 
 In questo video viene illustrato come ottimizzare il design reattivo di un messaggio e-mail modificando separatamente tutte le opzioni di stile per la visualizzazione mobile.
 
