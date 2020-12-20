@@ -21,11 +21,11 @@ ht-degree: 10%
 
 È possibile raccogliere i dati da un file per elaborarlo e/o importarlo nel database Adobe Campaign .
 
-In questo video viene illustrato come utilizzare le [!UICONTROL Data Management] attività in un flusso di lavoro per importare i dati del profilo.
+Questo video spiega come utilizzare le attività [!UICONTROL Data Management] in un flusso di lavoro per importare i dati del profilo.
 
 >[!VIDEO](https://video.tv.adobe.com/v/24993?quality=12)
 
 ## Risorse aggiuntive
 
 * [Esercitazione dettagliata sull&#39;importazione dei dati](https://docs.adobe.com/content/help/en/campaign-standard/using/managing-processes-and-data/workflow-general-operation/importing-data.html#example--import-workflow-template)
-* [Adobe Campaign Standard - Gestione di processi e dati](https://docs.adobe.com/content/help/en/campaign-standard/using/managing-processes-and-data/about-workflows-and-data-management/discovering-workflows.html)
+* [ Adobe Campaign Standard - Gestione di processi e dati](https://docs.adobe.com/content/help/en/campaign-standard/using/managing-processes-and-data/about-workflows-and-data-management/discovering-workflows.html)
