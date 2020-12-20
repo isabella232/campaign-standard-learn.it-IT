@@ -23,9 +23,9 @@ ht-degree: 15%
 >
 >Questa funzionalità è attualmente in versione beta e soggetta a frequenti aggiornamenti e modifiche senza preavviso. [!UICONTROL Audience Destinations] è basato su Adobe Experience Platform e richiede una configurazione specifica.
 >
->Per [!UICONTROL Adobe Customer Support] implementare questa funzionalità, contattate il vostro riferimento commerciale.
+>Per implementare questa funzionalità, contattate [!UICONTROL Adobe Customer Support].
 
-In questo video viene illustrato come modificare la dimensione di targeting di una distribuzione per un utente [!UICONTROL Platform Audience] esterno alla tabella del profilo principale in  Adobe Campaign Standard.
+In questo video viene illustrato come modificare la dimensione di targeting di una distribuzione per un [!UICONTROL Platform Audience] esterno alla tabella del profilo principale in  Adobe Campaign Standard.
 
 >[!VIDEO](https://video.tv.adobe.com/v/30151?quality=12)
 
