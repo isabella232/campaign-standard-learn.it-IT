@@ -25,7 +25,7 @@ In questo video viene illustrato come recuperare rapidamente il contenuto creati
 
 >[!VIDEO](https://video.tv.adobe.com/v/25926?quality=12)
 
-## Come rendere compatibile il contenuto HTML esistente {#making-existing-html-content-compatible}
+## Come rendere il contenuto HTML esistente compatibile {#making-existing-html-content-compatible}
 
 Designer e-mail richiede tag specifici, che devono essere applicati per rendere i contenuti HTML standard caricati  Adobe Campaign completamente compatibili e modificabili.
 
