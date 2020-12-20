@@ -15,11 +15,11 @@ ht-degree: 0%
 
 ---
 
-# Passaggio 4 - Set [!DNL pushidentifier]
+# Passaggio 4 - Imposta [!DNL pushidentifier]
 
-La stringa **[!DNL pushidentifier]** contiene il token dispositivo per [!DNL Push] le notifiche. Si tratta dello stesso token inviato dall’SDK [!DNL Firebase] e passato all’SDK tramite il [!DNL MobileCore.setPushIdentifier] metodo .
+**[!DNL pushidentifier]** è una stringa che contiene il token dispositivo per le notifiche [!DNL Push]. Si tratta dello stesso token inviato da [!DNL Firebase] e passato all&#39;SDK utilizzando il metodo [!DNL MobileCore.setPushIdentifier].
 
-Apri il progetto in [!DNL Android ]studio. Eliminate l&#39;intero codice in [!DNL MainActivity] tranne la prima riga dell&#39;istruzione **** pacchetto.
+Apri il progetto in [!DNL Android ]studio. Eliminate l&#39;intero codice in [!DNL MainActivity] **tranne la prima riga dell&#39;istruzione del pacchetto**.
 
 Incollate il seguente codice in [!DNL MainActivity]:
 
@@ -90,19 +90,19 @@ MobileCore.lifecyclePause();
 
 Ora è il momento giusto per testare l&#39;app, prima di andare oltre.
 
-* Eseguite l&#39;app facendo clic sulla freccia verde o selezionando **[!DNL Run->Run'app']**.
-* L&#39; [!DNL Android] emulatore dovrebbe iniziare e l&#39;app dovrebbe essere in esecuzione con [!DNL "Hello World" ]testo.
-* Aprite la [!DNL logcat] finestra. Cercate &quot;[!DNL Got]&quot;. Dovresti vedere il token ricevuto da [!DNL Firebase] scritto nel registro come mostrato di seguito. La stringa lunga dopo &quot;[!DNL Got token]&quot; è quella [!DNL pushidentifier ]che viene inviata a  Adobe Campaign.
+* Esegui l&#39;app facendo clic sulla freccia verde o selezionando **[!DNL Run->Run'app']**.
+* L&#39;emulatore [!DNL Android] dovrebbe iniziare e l&#39;app dovrebbe essere in esecuzione con [!DNL "Hello World" ]testo.
+* Aprire la finestra [!DNL logcat]. Cercare &quot;[!DNL Got]&quot;. Dovresti vedere il token ricevuto da [!DNL Firebase] scritto nel registro come mostrato di seguito. La stringa lunga dopo &quot;[!DNL Got token]&quot; è la [!DNL pushidentifier ]inviata a  Adobe Campaign.
 
 ![logcat-token](assets/logcat-got-token.PNG)
 
 ### Controllare gli utenti iscritti all&#39;applicazione mobile
 
 Effettuate il login alla vostra istanza di Adobe Campaign Standard .
-Spostarsi **[!UICONTROL Administration->Channels->Mobile App(AEP SDK)]**. Aprite l’applicazione mobile appropriata. Tab to the [!UICONTROL Mobile Application Subscribers] tab. Dovresti vedere un [!UICONTROL registration token ]elenco.
+Navigare **[!UICONTROL Administration->Channels->Mobile App(AEP SDK)]**. Aprite l’applicazione mobile appropriata. Passare alla scheda [!UICONTROL Mobile Application Subscribers]. Dovrebbe essere visualizzato un [!UICONTROL registration token ]elencato.
 
 ![abbonati a mobile-application](assets/mobile-application-subscribers.PNG)
 
 >[!NOTE]
 >
->Se non vedete il token di registrazione nella [!UICONTROL Mobile Application Subscribers] scheda STOP qui prima di continuare.
+>Se il token di registrazione non viene visualizzato nella [!UICONTROL Mobile Application Subscribers] scheda STOP qui prima di continuare.
