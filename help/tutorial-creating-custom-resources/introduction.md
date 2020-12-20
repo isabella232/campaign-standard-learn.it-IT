@@ -8,9 +8,9 @@ thumbnail: 27715.jpg
 doc-type: feature video
 activity: use
 team: TM
-translation-type: ht
+translation-type: tm+mt
 source-git-commit: 17428b8a45a70790d1e9c40fc1f00313cd1704ee
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '233'
 ht-degree: 100%
 
@@ -38,7 +38,7 @@ Il nostro obiettivo è di poter utilizzare informazioni aggiuntive su ciò che u
 
 Per questo arricchiremo il modello di dati di [!DNL Campaign] estendendo le risorse pronte all’uso e aggiungendo le nostre tabelle personalizzate. Aggiungeremo un cliente e una tabella degli ordini.
 
->[!VIDEO](https://video.tv.adobe.com/v/27715?quality=9&captions=ita)
+>[!VIDEO](https://video.tv.adobe.com/v/27715?quality=9)
 
 Questo tutorial spiega come:
 
