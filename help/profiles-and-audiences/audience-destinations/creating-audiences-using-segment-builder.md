@@ -23,13 +23,13 @@ ht-degree: 9%
 >
 >Questa funzionalità è attualmente in versione beta e soggetta a frequenti aggiornamenti e modifiche senza preavviso. [!UICONTROL Audience Destinations] è basato su Adobe Experience Platform e richiede una configurazione specifica.
 >
->Per [!UICONTROL Adobe Customer Support] implementare questa funzionalità, contattate il vostro riferimento commerciale.
+>Per implementare questa funzionalità, contattate [!UICONTROL Adobe Customer Support].
 
- Adobe Campaign Standard consente di creare audience utilizzando i dati del profilo [cliente Adobe Experience Cloud in tempo](https://docs.adobe.com/content/help/en/platform-learn/tutorials/profiles/understanding-the-real-time-customer-profile.html) reale utilizzando l&#39;Adobe Experience Platform [!UICONTROL Unified Segment Builder].
+ Adobe Campaign Standard consente di creare audience utilizzando i dati del profilo cliente in tempo reale [Adobe Experience Cloud](https://docs.adobe.com/content/help/en/platform-learn/tutorials/profiles/understanding-the-real-time-customer-profile.html) utilizzando l&#39;Adobe Experience Platform [!UICONTROL Unified Segment Builder].
 
-È possibile accedere [!UICONTROL Unified Segment Builder] direttamente all&#39;interno  Adobe Campaign Standard tramite il [!UICONTROL Audiences ] modulo. Questo consente di gestire queste audience direttamente nella vista [!UICONTROL Audiences] a elenco, dove è possibile modificare o creare un nuovo pubblico Adobe Experience Platform direttamente dall&#39;interfaccia  Adobe Campaign
+È possibile accedere a [!UICONTROL Unified Segment Builder] direttamente  Adobe Campaign Standard tramite il modulo [!UICONTROL Audiences ]. Questo consente di gestire queste audience direttamente nella [!UICONTROL Audiences] vista a elenco, dove è possibile modificare o creare un nuovo pubblico Adobe Experience Platform direttamente dall&#39;interfaccia Adobe Campaign 
 
-Il video seguente illustra come creare una nuova audience utilizzando [!UICONTROL Unified Segment Builder] Adobe Campaign Standard.
+Il video seguente illustra come creare una nuova audience utilizzando [!UICONTROL Unified Segment Builder] all&#39;interno  Adobe Campaign Standard.
 
 >[!VIDEO](https://video.tv.adobe.com/v/27638?quality=12)
 
