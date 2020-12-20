@@ -8,9 +8,9 @@ thumbnail: 40470.jpg
 doc-type: feature video
 activity: use
 team: ACS
-translation-type: ht
+translation-type: tm+mt
 source-git-commit: 06a4a418906d4bf74cad5faf809bea086537bbd3
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '215'
 ht-degree: 100%
 
@@ -22,13 +22,13 @@ ht-degree: 100%
 Grazie alla tecnologia di [!UICONTROL Journey AI], [!DNL Adobe Campaign] è in grado di analizzare e prevedere i tassi di apertura, i tempi di invio ottimali e i tassi di abbandono probabili in base a metriche di coinvolgimento storiche.
 
 >[!CAUTION]
->Questa funzionalità non è disponibile come parte del prodotto pronta all’uso. L’implementazione richiede l’intervento dei servizi di consulenza Adobe. Per maggiori informazioni, contatta il rappresentante Adobe di riferimento.
+>Questa funzionalità non è disponibile come parte del prodotto pronta all’uso. La sua implementazione richiede l’intervento della Consulenza Adobe. Per maggiori informazioni, contatta il rappresentante Adobe di riferimento.
 
 [!UICONTROL Predictive engagement scoring] (Punteggio del coinvolgimento predittivo) prevede la probabilità che un destinatario si interessi a un messaggio e la probabilità che lo rifiuti (cancellando la sottoscrizione) entro i 7 giorni successivi al prossimo invio dell’e-mail. Le probabilità sono ulteriormente suddivise in contenitori a seconda del rischio specifico di disinteresse, medio o basso. Tra questi il modello fornisce anche il livello percentile di rischio per i clienti per capire la posizione di un determinato cliente rispetto agli altri.
 
 Scopri come visualizzare i punteggi di coinvolgimento a livello dei singoli profili, utilizzare i punteggi per targetizzare gli utenti interessati ed eliminare gli utenti con calo di interesse e creare regole di tipologia per gestire la &quot;customer fatigue&quot;.
 
->[!VIDEO](https://video.tv.adobe.com/v/40470?quality=12&captions=ita)
+>[!VIDEO](https://video.tv.adobe.com/v/40470?quality=12)
 
 ## Risorse aggiuntive
 
