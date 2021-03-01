@@ -10,7 +10,7 @@ team: TM
 translation-type: tm+mt
 source-git-commit: 8b968e15b78655ff9ae49f812f10683201559722
 workflow-type: tm+mt
-source-wordcount: '199'
+source-wordcount: '200'
 ht-degree: 41%
 
 ---
@@ -25,7 +25,7 @@ Questo tutorial illustra i passaggi necessari per inviare notifiche push da Adob
 ## Prerequisiti
 
 * La proprietà di avvio deve essere configurata con  Adobe Campaign Standard Extension. Seguite la guida in linea indicata di seguito.
-   * [Esercitazione video](https://video.tv.adobe.com/v/26224?quality=12&captions=ita)
+   * [Esercitazione video](https://video.tv.adobe.com/v/26224?quality=12)
    * [Documentazione](https://docs.adobe.com/content/help/en/campaign-learn/campaign-standard-tutorials/communication-channels/mobile/configure-mobile-apps-using-aep-sdk.html)
 
 * Verificate che lo stato della proprietà corrispondente in  Adobe Campaign Standard sia impostato su configurato.
