@@ -1,7 +1,7 @@
 ---
 title: Creazione di un rapporto dinamico
 description: Scopri come creare un report.
-feature: Dynamic Reporting
+feature: Generazione di rapporti dinamici
 kt: 2037
 thumbnail: 25264.jpg
 doc-type: feature video
@@ -10,8 +10,8 @@ team: DOC
 translation-type: tm+mt
 source-git-commit: 11263e247184ddc6a8e3df6a8ed0899907fbb366
 workflow-type: tm+mt
-source-wordcount: '65'
-ht-degree: 30%
+source-wordcount: '67'
+ht-degree: 29%
 
 ---
 
