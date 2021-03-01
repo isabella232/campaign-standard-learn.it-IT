@@ -1,8 +1,8 @@
 ---
 title: Creare una consegna tramite e-mail
-description: 'Puoi creare un’e-mail da una campagna, dalla home page di Adobe Campaign o nell’elenco delle attività di marketing. Puoi anche creare e-mail a invio singolo e ricorrenti da un flusso di lavoro. In questo video viene illustrato come creare una consegna di e-mail dalla home page. '
-landing-page-description: This video explains how to create an email delivery from the homepage.
-feature: Email
+description: 'Puoi creare un’e-mail da una campagna, dalla home page di Adobe Campaign o nell’elenco delle attività di marketing. Puoi anche creare e-mail a invio singolo e ricorrenti da un flusso di lavoro. Questo video illustra come creare una consegna di e-mail dalla home page. '
+landing-page-description: Questo video illustra come creare una consegna di e-mail dalla home page.
+feature: E-mail
 topics: null
 kt: 1807
 thumbnail: 23721.jpg
@@ -12,8 +12,8 @@ team: DOC
 translation-type: tm+mt
 source-git-commit: 8b968e15b78655ff9ae49f812f10683201559722
 workflow-type: tm+mt
-source-wordcount: '134'
-ht-degree: 47%
+source-wordcount: '147'
+ht-degree: 52%
 
 ---
 
