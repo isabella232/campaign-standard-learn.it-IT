@@ -1,17 +1,17 @@
 ---
 title: Crescere con Adobe Campaign
 description: Questo video evidenzia le possibili evoluzioni del percorso verso una vera orchestrazione cross-channel.
-feature: multi channel orchestration
+feature: orchestrazione multicanale
 topics: null
 kt: 3973
 thumbnail: 29460.jpg
 doc-type: value video
 activity: understand
 team: PMM
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: 11263e247184ddc6a8e3df6a8ed0899907fbb366
-workflow-type: tm+mt
-source-wordcount: '32'
+workflow-type: ht
+source-wordcount: '35'
 ht-degree: 100%
 
 ---
