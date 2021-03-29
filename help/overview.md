@@ -19,7 +19,7 @@ Adobe Campaign fornisce una piattaforma per la progettazione di customer experie
 
 * **[Monitoraggio dei database](/help/control-panel-tutorials/performance-monitoring/monitoring-databases.md)**
 
-   *Scopri come monitorare l&#39;utilizzo del database delle istanze.*
+   *Scopri come monitorare l’utilizzo del database delle istanze.*
 
 * **[Delega dei sottodomini tramite CNAME](/help/control-panel-tutorials/subdomains-and-certificates/delegating-subdomains-using-cname.md)**
 
