@@ -1,17 +1,17 @@
 ---
 title: 'Guida introduttiva all’interfaccia utente '
 description: Il video offre una panoramica dell’interfaccia utente di Adobe Campaign Standard, delle funzioni chiave e delle funzionalità di base.
-feature: User Interface
+feature: Interfaccia utente
 topics: Getting started
 kt: 3882
 thumbnail: acs-ui-get-started.png
 doc-type: feature video
 activity: understand
 team: TM
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: 11263e247184ddc6a8e3df6a8ed0899907fbb366
-workflow-type: tm+mt
-source-wordcount: '77'
+workflow-type: ht
+source-wordcount: '79'
 ht-degree: 100%
 
 ---
