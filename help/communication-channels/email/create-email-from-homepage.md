@@ -13,7 +13,7 @@ translation-type: tm+mt
 source-git-commit: 8b968e15b78655ff9ae49f812f10683201559722
 workflow-type: tm+mt
 source-wordcount: '147'
-ht-degree: 52%
+ht-degree: 57%
 
 ---
 
@@ -30,4 +30,4 @@ Questo video spiega come creare una consegna e-mail autonoma dalla home page.
 
 * [Creare e inviare e-mail tramite un flusso di lavoro](/help/communication-channels/email/create-and-send-emails-via-workflow.md)
 * [Creazione di un messaggio e-mail (documentazione)](https://docs.adobe.com/content/help/en/campaign-standard/using/communication-channels/email-messages/creating-an-email.html)
-* [Best practice di consegna](https://helpx.adobe.com/it/campaign/kb/delivery-best-practices.html)
+* [Best practice per la consegna](https://helpx.adobe.com/it/campaign/kb/delivery-best-practices.html)
