@@ -9,10 +9,10 @@ role: administrator
 activity: use
 team: TM
 translation-type: tm+mt
-source-git-commit: f1805428e57e778853ded71ba286ce2aefb9ec8c
+source-git-commit: f8fceeaaf26439b8fc11fe5039ce6bb3474f43dc
 workflow-type: tm+mt
-source-wordcount: '100'
-ht-degree: 2%
+source-wordcount: '104'
+ht-degree: 1%
 
 ---
 
@@ -23,8 +23,9 @@ Nelle seguenti esercitazioni imparerai a configurare e utilizzare i trigger per 
 
 Prima di poter utilizzare un trigger in un messaggio sulle transazioni, devi effettuare le seguenti operazioni:
 
-1. [Creare un trigger in Experience Cloud](/help/integrations/create-a-trigger-in-experience-cloud.md)
-2. [Creare un evento trigger in Campaign Standard](/help/integrations/create-a-trigger-event.md)
+1. Configurare Launch per gli attivatori
+2. [Creare un trigger in Experience Cloud](/help/integrations/create-a-trigger-in-experience-cloud.md)
+3. [Creare un evento trigger in Campaign Standard](/help/integrations/create-a-trigger-event.md)
 
 Una volta configurato il trigger, ti consente di [configurare messaggi transazionali utilizzando dati evento in tempo reale](/help/integrations/configure-transactional-messages-using-realtime-event-data.md).
 
