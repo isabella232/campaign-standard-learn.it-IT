@@ -1,18 +1,18 @@
 ---
 title: Delega dei sottodomini tramite CNAME
 description: Scopri come delegare completamente un sottodominio ad Adobe Campaign.
-feature: Subdomain Delegation
+feature: Delega dei sottodomini
 topics: Control Panel
 kt: 6014
 thumbnail: 326612.jpg
 doc-type: feature video
 activity: use
 team: PM
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: fe305d729e8e1c7113ae1c310b3b8177f3cad093
-workflow-type: tm+mt
-source-wordcount: '95'
-ht-degree: 47%
+workflow-type: ht
+source-wordcount: '97'
+ht-degree: 100%
 
 ---
 
@@ -21,9 +21,9 @@ ht-degree: 47%
 
 >[!IMPORTANT]
 >
-> L’utilizzo di CNAME per la delega di sottodominio è in versione beta e soggetto a frequenti aggiornamenti e modifiche senza preavviso.
+> L’utilizzo dei CNAME per la delega dei sottodomini è in versione beta e soggetto a frequenti aggiornamenti e modifiche senza preavviso.
 
-Per poter iniziare a inviare e-mail o pubblicare pagine di destinazione con  Adobe Campaign, è necessario impostare un nuovo sottodominio.
+Per poter iniziare a inviare e-mail o pubblicare pagine di destinazione con Adobe Campaign, devi impostare un nuovo sottodominio.
 
 Scopri come impostare e inviare un sottodominio tramite CNAME nel Pannello di controllo Campaign.
 
@@ -31,5 +31,5 @@ Scopri come impostare e inviare un sottodominio tramite CNAME nel Pannello di co
 
 ## Risorse aggiuntive
 
-* [Delega di sottodomini completa (video)](./subdomain-delegation.md)
-* [Impostazione di un nuovo sottodominio (documentazione)](https://docs.adobe.com/content/help/it-IT/control-panel/using/subdomains-and-certificates/setting-up-new-subdomain.html)
+* [Delega completa dei sottodomini (video)](./subdomain-delegation.md)
+* [Configurazione di un nuovo sottodominio (documentazione)](https://docs.adobe.com/content/help/it-IT/control-panel/using/subdomains-and-certificates/setting-up-new-subdomain.html)
