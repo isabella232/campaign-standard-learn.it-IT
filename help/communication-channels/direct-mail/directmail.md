@@ -1,35 +1,37 @@
 ---
-title: Creare una posta diretta
-description: La posta diretta è ancora un canale critico per gli esperti di marketing di tutto il mondo e ora possono orchestrare queste interazioni offline insieme a quelle online. Lo stesso motore di comunicazione digitale, come e-mail e dispositivi mobili, ora può personalizzare anche gli invii diretti.
-feature: direct mail
+title: Creare una direct mailing
+description: Scopri come creare una direct mailing.
+feature: Direct mailing
 topics: null
 kt: 1430
 thumbnail: 23417.jpg
 doc-type: feature video
 activity: using
 team: TM
+exl-id: f54acc7f-4efe-4d7f-89f1-c4ed596a5d9e
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
-source-git-commit: 11263e247184ddc6a8e3df6a8ed0899907fbb366
+source-git-commit: 07c2696cbdc72e24563c5d1442bf5c39b22d5a22
 workflow-type: tm+mt
-source-wordcount: '144'
+source-wordcount: '110'
 ht-degree: 1%
 
 ---
 
+# Crea un [!UICONTROL Direct Mail] {#create-a-direct-mail}
 
-# Creare un [!UICONTROL Direct Mail] {#create-a-direct-mail}
+Il canale [!UICONTROL Direct Mail] ti consente di estrarre un elenco segmentato di destinatari da inviare a un’agenzia o caricare su un server SFTP.
 
-Il canale [!UICONTROL Direct Mail] consente di estrarre un elenco segmentato di destinatari da inviare a un&#39;agenzia o da caricare su un server SFTP.
-
-Questo video spiega come configurare una [!UICONTROL Direct Mail] consegna e quali impostazioni sono necessarie per poter aggiungere un profilo a una [!UICONTROL Direct Mail] consegna.
+Questo video spiega come configurare una consegna [!UICONTROL Direct Mail] e quali impostazioni sono necessarie per poter aggiungere un profilo a una consegna [!UICONTROL Direct Mail].
 
 >[!VIDEO](https://video.tv.adobe.com/v/23417?quality=12)
 
-## Creare un [!UICONTROL Direct Mail] all&#39;interno di un flusso di lavoro
+## Creare un [!UICONTROL Direct Mail] all’interno di un flusso di lavoro
 
-Il canale è disponibile dalla home page e nella visualizzazione del flusso di lavoro per definire strategie di marketing combinate tra canali. Il seguente flusso di lavoro di esempio include [!UICONTROL Direct Mail activity].
+Il canale è disponibile dalla home page e nella visualizzazione del flusso di lavoro per definire strategie di marketing coerenti e cross-channel. Il flusso di lavoro di esempio seguente include [!UICONTROL Direct Mail activity].
 
-![Immagine flusso di lavoro](/help/assets/direct_mail_examplewf.png)
+![Immagine del flusso di lavoro](/help/assets/direct_mail_examplewf.png)
 
 ## Risorse aggiuntive
 
