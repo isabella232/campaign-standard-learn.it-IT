@@ -1,21 +1,23 @@
 ---
 title: Panoramica di E-mail Designer
-description: Questo video illustra le funzionalità generali di E-mail Designer e la progettazione di un messaggio e-mail da zero. In questa pagina sono elencati tutti i video delle funzioni disponibili per E-mail Designer di Adobe Campaign
-feature: Email Designer
+description: Scopri le funzionalità generali di E-mail Designer e come progettare un’e-mail da zero.
+feature: Progettazione e-mail
 topics: Content Creation
 kt: 1402
 thumbnail: 22771.jpg
 doc-type: feature video
 activity: use
 team: TM
+exl-id: 17813cda-50a1-406b-b4ae-9267671a6910
+role: Business Practitioner, Developer
+level: Beginner
 translation-type: tm+mt
-source-git-commit: 11263e247184ddc6a8e3df6a8ed0899907fbb366
+source-git-commit: 5d2bc8bd3a3a0fdb5e2f1ef75af2ab60b8f6abc8
 workflow-type: tm+mt
-source-wordcount: '137'
-ht-degree: 100%
+source-wordcount: '125'
+ht-degree: 85%
 
 ---
-
 
 # Panoramica di [!UICONTROL Email Designer]
 
