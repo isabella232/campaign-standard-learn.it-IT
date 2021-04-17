@@ -2,20 +2,19 @@
 title: Modifica delle risorse personalizzate durante la configurazione di Adobe Campaign Standard (ACS) per le richieste di accesso a dati personali
 description: Quando si configura Adobe Campaign Standard (ACS) per gestire le richieste di accesso a dati personali, è necessario assicurarsi che tutti i dati personalizzati collegati a un profilo vengano eliminati insieme al profilo. Questo video spiega come modificare le risorse personalizzate per soddisfare questo requisito.
 feature: GDPR, CCPA
-topic: null
 kt: 1243
 thumbnail: 23326.jpg
 doc-type: feature video
 activity: use
 team: TM
-translation-type: ht
-source-git-commit: 17428b8a45a70790d1e9c40fc1f00313cd1704ee
-workflow-type: ht
+exl-id: 79d805ed-e705-472e-b0c9-db73dfd648ed
+translation-type: tm+mt
+source-git-commit: 569c196b0d94a9bee5010da46003ed7b2a8afefd
+workflow-type: tm+mt
 source-wordcount: '198'
 ht-degree: 100%
 
 ---
-
 
 # Modifica delle risorse personalizzate per le richieste di privacy
 
