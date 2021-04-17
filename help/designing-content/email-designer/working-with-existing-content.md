@@ -1,34 +1,36 @@
 ---
 title: Operazioni con il contenuto esistente
-description: In questo video viene illustrato come recuperare rapidamente il contenuto creativo da un sito Web e caricarlo in E-mail Designer.
-feature: Email Designer
+description: Questo video spiega come recuperare rapidamente il contenuto creativo da un sito web e caricarlo in E-mail Designer.
+feature: Progettazione e-mail
 topics: Content Creation
 kt: 6295
 thumbnail: 25926.jpg
 doc-type: feature video
 activity: use
 team: TM
+exl-id: f25dd9a4-5d97-4f95-b21d-6a9eafc9e5ae
+role: Business Practitioner, Developer
+level: Beginner
 translation-type: tm+mt
-source-git-commit: 11263e247184ddc6a8e3df6a8ed0899907fbb366
+source-git-commit: 5d2bc8bd3a3a0fdb5e2f1ef75af2ab60b8f6abc8
 workflow-type: tm+mt
-source-wordcount: '111'
+source-wordcount: '113'
 ht-degree: 7%
 
 ---
-
 
 # Operazioni con il contenuto esistente{#working-with-existing-content}
 
 ## Importazione di contenuto da un URL
 
-In questo video viene illustrato come recuperare rapidamente il contenuto creativo da un sito Web e caricarlo in E-mail Designer.
+Questo video spiega come recuperare rapidamente il contenuto creativo da un sito web e caricarlo in E-mail Designer.
 
 >[!VIDEO](https://video.tv.adobe.com/v/25926?quality=12)
 
-## Come rendere il contenuto HTML esistente compatibile {#making-existing-html-content-compatible}
+## Come rendere compatibile il contenuto HTML esistente {#making-existing-html-content-compatible}
 
-Designer e-mail richiede tag specifici, che devono essere applicati per rendere i contenuti HTML standard caricati  Adobe Campaign completamente compatibili e modificabili.
+E-mail Designer richiede un tag specifico, che deve essere applicato per rendere i contenuti HTML standard caricati in Adobe Campaign completamente compatibili e modificabili.
 
 La documentazione dettagliata è disponibile al seguente link:
 
-[Conversione del contenuto HTML in un modello di E-mail Designer](https://docs.adobe.com/content/help/en/campaign-standard/using/designing-content/building-email-content/using-existing-content.html#converting-an-html-content)
+[Conversione del contenuto HTML in un modello E-mail Designer](https://docs.adobe.com/content/help/en/campaign-standard/using/designing-content/building-email-content/using-existing-content.html#converting-an-html-content)
