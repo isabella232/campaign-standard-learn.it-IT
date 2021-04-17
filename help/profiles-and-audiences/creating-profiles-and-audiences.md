@@ -1,37 +1,39 @@
 ---
 title: Creazione di profili e pubblico - Panoramica
-description: Scopri come accedere ai profili esistenti e come creare profili e tipi di pubblico in Adobe Campaign Standard.
-feature: profili, audience
+description: Scopri come accedere ai profili esistenti e come creare profili e tipi di pubblico.
+feature: Profili, pubblico
 topics: null
 kt: 3899
 thumbnail: 18463.jpg
 doc-type: feature video
 activity: understand
 team: WWFRE
+exl-id: 5948ce53-0d12-4768-912a-9edb0b9b6f2b
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
-source-git-commit: 99eedbf8c99fc6040dea5061ae4883cd6f0808ae
+source-git-commit: 5d2bc8bd3a3a0fdb5e2f1ef75af2ab60b8f6abc8
 workflow-type: tm+mt
-source-wordcount: '89'
-ht-degree: 35%
+source-wordcount: '85'
+ht-degree: 16%
 
 ---
 
-
 # Creazione di profili e pubblico - Panoramica
 
- Adobe Campaign dispone di due tipi o profili:
+Adobe Campaign dispone di due tipi o profili:
 
 * Profili identificati
 * Profili di test
 
-I profili raggruppati in base a uno o più criteri comuni sono denominati **audience**.
+I profili raggruppati in base a uno o più criteri comuni sono denominati **tipi di pubblico**.
 
-In questo video viene illustrato come passare ai profili esistenti e come creare profili e audience in  Adobe Campaign Standard.
+Questo video spiega come accedere ai profili esistenti e come creare profili e tipi di pubblico in Adobe Campaign Standard.
 
 >[!VIDEO](https://video.tv.adobe.com/v/18463/?quality=12)
 
 ## Risorse aggiuntive
 
-* [Creazione di un profilo](/help/profiles-and-audiences/creating-a-profile.md)
-* [Creare un profilo di prova](/help/profiles-and-audiences/test-profiles.md)
-* [Importazione di profili con un flusso di lavoro](/help/managing-processes-and-data/importing-profiles.md)
+* [Creare un profilo](/help/profiles-and-audiences/creating-a-profile.md)
+* [Creare un profilo di test](/help/profiles-and-audiences/test-profiles.md)
+* [Importare profili con un flusso di lavoro](/help/managing-processes-and-data/importing-profiles.md)
