@@ -1,21 +1,23 @@
 ---
 title: Configurare ed eseguire un flusso di lavoro con l’attività External API
-description: L’attività External API è un’attività di gestione dati. Ti consente di chiamare un endpoint API REST esterno. Lo scopo di questa attività è quello di ottenere all’interno della tua campagna i dati di personalizzazione da un sistema di terze parti.
-feature: External API activity
+description: Scopri come chiamare un endpoint API REST esterno per estrarre dati di personalizzazione da un sistema di terze parti nella campagna.
+feature: Attività di gestione dati
 topics: null
 kt: 2764
 thumbnail: 28200.jpg
 doc-type: feature video
 activity: use
 team: TM
+exl-id: bce6fa2e-a684-43af-a41e-dfec54dd453a
+role: Business Practitioner, Developer
+level: Experienced
 translation-type: tm+mt
-source-git-commit: 11263e247184ddc6a8e3df6a8ed0899907fbb366
+source-git-commit: 5d2bc8bd3a3a0fdb5e2f1ef75af2ab60b8f6abc8
 workflow-type: tm+mt
-source-wordcount: '201'
-ht-degree: 100%
+source-wordcount: '188'
+ht-degree: 87%
 
 ---
-
 
 # Configurare ed eseguire un flusso di lavoro con l’[!UICONTROL External API activity]
 
@@ -32,7 +34,7 @@ Il presente video illustra l’utilizzo dell’[!UICONTROL External API activity
 
 >[!VIDEO](https://video.tv.adobe.com/v/28200/?quality=12)
 
-*[!UICONTROL External API activity] (06:48 min)*
+*[!UICONTROL External API activity](06:48 min)*
 
 >[!NOTE]
 >
@@ -41,4 +43,3 @@ Il presente video illustra l’utilizzo dell’[!UICONTROL External API activity
 ## Risorse aggiuntive
 
 * [External API (documentazione)](https://docs.adobe.com/content/help/it-IT/campaign-standard/using/managing-processes-and-data/data-management-activities/external-api.html)
-
