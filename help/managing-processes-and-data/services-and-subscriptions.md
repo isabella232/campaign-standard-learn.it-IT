@@ -1,40 +1,42 @@
 ---
 title: Gestire servizi e iscrizioni
-description: ' Adobe Campaign consente di creare e gestire newsletter e comunicazioni tra canali attraverso un set di servizi. Questo video illustra come creare un servizio e gestire le relative iscrizioni in  Adobe Campaign Standard (ACS).'
-feature: Subscriptions and Services
+description: Scopri come creare un servizio e gestire gli abbonamenti.
+feature: Abbonamenti
 topics: null
 kt: 1815
 thumbnail: 24673.jpg
 doc-type: feature video
 activity: use
 team: DOC
+exl-id: 2970db2c-b01b-4a7c-9eec-47a530209c24
+role: Business Practitioner, Developer
+level: Beginner, Intermediate
 translation-type: tm+mt
-source-git-commit: 11263e247184ddc6a8e3df6a8ed0899907fbb366
+source-git-commit: 5d2bc8bd3a3a0fdb5e2f1ef75af2ab60b8f6abc8
 workflow-type: tm+mt
-source-wordcount: '181'
-ht-degree: 31%
+source-wordcount: '155'
+ht-degree: 36%
 
 ---
 
-
 # Gestire servizi e iscrizioni{#managing-services-and-subscriptions}
 
- Adobe Campaign consente di creare e gestire newsletter e comunicazioni tra canali attraverso un set di servizi. I messaggi possono essere inviati solo ai profili sottoscritti dal servizio (consenso). Questi profili vengono identificati utilizzando un filtro dedicato durante la creazione di un messaggio.
+Adobe Campaign consente di creare e gestire newsletter e comunicazioni cross-channel attraverso un set di servizi. I messaggi possono essere inviati solo ai profili abbonati al servizio (opt-in). Questi profili vengono identificati utilizzando un filtro dedicato durante la creazione di un messaggio.
 
 Puoi configurare meccanismi di abbonamento per offrire ai clienti l’opportunità di abbonarsi a questi servizi, in particolare tramite e-mail e pagine di destinazione.
 
 Ogni servizio include:
 
-* Meccanismi di iscrizione (opt-in) e annullamento dell’iscrizione (opt-out).
-* Meccanismi di conferma della sottoscrizione e/o dell’annullamento della sottoscrizione.
+* Meccanismi di abbonamento (opt-in) e annullamento dell’abbonamento (opt-out).
+* Meccanismi di conferma dell’abbonamento e/o del suo annullamento.
 * Una cronologia degli abbonamenti.
 
-Questo video illustra come creare un servizio e gestire le relative iscrizioni.
+Questo video illustra come creare un servizio e gestirne gli abbonamenti.
 
 >[!VIDEO](https://video.tv.adobe.com/v/24673?quality=12)
 
 ## Risorse aggiuntive
 
-* [Servizi di iscrizione](https://docs.adobe.com/content/help/en/campaign-standard/using/managing-processes-and-data/data-management-activities/subscription-services.html)
+* [Servizi di abbonamento](https://docs.adobe.com/content/help/en/campaign-standard/using/managing-processes-and-data/data-management-activities/subscription-services.html)
 * [Creazione di un servizio](https://docs.adobe.com/content/help/en/campaign-standard/using/profiles-and-audiences/managing-subscriptions/creating-a-service.html)
 * [Monitoraggio degli abbonamenti](https://docs.adobe.com/content/help/en/campaign-standard/using/profiles-and-audiences/managing-subscriptions/monitoring-subscriptions.html)
