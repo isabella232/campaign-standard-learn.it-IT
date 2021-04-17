@@ -1,30 +1,32 @@
 ---
-title: 'Trasmettere un messaggio in-app '
-description: Il modello di trasmissione di un messaggio in-app consente di eseguire il targeting di tutti gli utenti dell'app mobile con  Adobe Campaign Standard (ACS)
-feature: In-App
+title: '"Trasmettere un messaggio in-app "'
+description: Scopri come il modello Broadcast ti consente di eseguire il targeting di tutti gli utenti della tua app mobile.
+feature: In-app
 topics: Mobile
 kt: 2497
 thumbnail: 26199.jpg
 doc-type: feature video
 activity: use
 team: TM
+exl-id: 55cc83d2-e1ec-488d-b36a-b5f8c96dc412
+role: Business Practitioner, Developer
+level: Beginner, Intermediate
 translation-type: tm+mt
-source-git-commit: 11263e247184ddc6a8e3df6a8ed0899907fbb366
+source-git-commit: 5d2bc8bd3a3a0fdb5e2f1ef75af2ab60b8f6abc8
 workflow-type: tm+mt
-source-wordcount: '132'
+source-wordcount: '128'
 ht-degree: 7%
 
 ---
 
-
 # Trasmettere un messaggio in-app
 
-Puoi trasmettere un messaggio in-app per tutti gli utenti di un&#39;app mobile, a prescindere  Adobe Campaign disponga o meno delle informazioni sul profilo. Per trasmettere un messaggio è necessario utilizzare il messaggio **[!UICONTROL Target all users of a mobile app template]** durante la configurazione del messaggio in-app.
+Puoi trasmettere un messaggio in-app indirizzato a tutti gli utenti di un’app mobile, indipendentemente dal fatto che Adobe Campaign disponga o meno delle informazioni sul profilo. Per trasmettere un messaggio devi usare il simbolo **[!UICONTROL Target all users of a mobile app template]** durante la configurazione del messaggio in-app.
 
-Alcuni dei casi di utilizzo pertinenti in questa categoria sono:
+Alcuni dei casi d’uso pertinenti in questa categoria sono:
 
-* Invia esercitazioni per app mobile alla prima volta che si avviano le app o
-* Annunci per nuove versioni
+* Inviare esercitazioni per app mobili al primo avvio di app o
+* Annunci per nuove versioni di funzioni
 
 >[!VIDEO](https://video.tv.adobe.com/v/26199?quality=12)
 
