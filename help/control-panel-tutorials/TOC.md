@@ -1,19 +1,12 @@
 ---
-product: adobe campaign standard
 user-guide-title: Tutorial sul Pannello di controllo Adobe Campaign
 user-guide-description: Scopri come monitorare le risorse chiave delle istanze di Adobe Campaign ed eseguire attività di amministrazione nel Pannello di controllo Campaign.
 breadcrumb-title: Tutorial del Pannello di controllo Campaign
-solution-title: Experience League
-solution-hub-url: https://experienceleague.adobe.com/?lang=it&tag=Campaign+Standard#recommended/solutions/campaign
-tutorials-title: Esercitazioni
-tutorials-url: https://docs.adobe.com/content/help/it-IT/campaign-standard-learn/tutorials/overview.html
-getting-started-title: Documentazione
-getting-started-url: https://docs.adobe.com/content/help/it-IT/campaign-standard/using/campaign-standard-home.html
 index: true
-translation-type: ht
-source-git-commit: fb724628536b81f1032c557d27e7f4dd655ceeeb
-workflow-type: ht
-source-wordcount: '142'
+translation-type: tm+mt
+source-git-commit: 0125d22122128037759c65f94e5e90ab4740173f
+workflow-type: tm+mt
+source-wordcount: '114'
 ht-degree: 100%
 
 ---
