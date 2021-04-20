@@ -1,7 +1,7 @@
 ---
 title: Creare una direct mailing
 description: Scopri come creare una direct mailing.
-feature: Direct mailing
+feature: Direct Mail
 topics: null
 kt: 1430
 thumbnail: 23417.jpg

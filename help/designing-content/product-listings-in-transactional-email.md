@@ -1,7 +1,7 @@
 ---
 title: Configurare gli elenchi di prodotti nelle e-mail transazionali
 description: Scopri i passaggi necessari per configurare gli elenchi di prodotti nelle e-mail transazionali.
-feature: Messaggi transazionali, E-Mail
+feature: Transactional Messaging, Emails
 topics: Content Creation
 kt: 1728
 thumbnail: 25915

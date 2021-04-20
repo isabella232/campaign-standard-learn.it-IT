@@ -1,7 +1,7 @@
 ---
 title: Profile Substitution - Verifica dei messaggi e-mail tramite profili di destinazione
 description: Scopri come verificare i messaggi e-mail utilizzando la funzione di sostituzione del profilo.
-feature: 'E-mail  '
+feature: Email  
 topics: Channels
 kt: 4667
 thumbnail: 32368.jpg

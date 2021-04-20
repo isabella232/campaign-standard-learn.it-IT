@@ -1,7 +1,7 @@
 ---
 title: Gestire servizi e iscrizioni
 description: Scopri come creare un servizio e gestire gli abbonamenti.
-feature: Abbonamenti
+feature: Subscriptions
 topics: null
 kt: 1815
 thumbnail: 24673.jpg

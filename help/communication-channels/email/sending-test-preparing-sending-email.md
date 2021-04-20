@@ -1,7 +1,7 @@
 ---
 title: Inviare un test, preparare e spedire un messaggio e-mail
 description: '"Scopri come inviare un’e-mail di test, preparare e quindi inviare la consegna e-mail. "'
-feature: 'E-mail  '
+feature: Email  
 topics: null
 kt: 1812
 thumbnail: 24013.jpg

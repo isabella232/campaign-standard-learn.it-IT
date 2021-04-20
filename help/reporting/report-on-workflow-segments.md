@@ -1,7 +1,7 @@
 ---
 title: Creazione di un rapporto basato sui segmenti del flusso di lavoro
 description: Il reporting sui segmenti di flusso di lavoro consente di aggiungere il codice dei segmenti di flusso di lavoro nel reporting dinamico.
-feature: Generazione di rapporti
+feature: Reporting
 topics: Reporting
 kt: 3252
 thumbnail: 28262.jpg

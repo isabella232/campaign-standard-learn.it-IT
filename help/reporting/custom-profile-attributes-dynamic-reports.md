@@ -1,7 +1,7 @@
 ---
 title: Creazione di attributi di profilo personalizzati basati su report
 description: Scopri come creare un rapporto basato sugli attributi di profilo personalizzati.
-feature: Generazione di rapporti
+feature: Reporting
 kt: 1444
 thumbnail: 28204.jpg
 doc-type: feature video

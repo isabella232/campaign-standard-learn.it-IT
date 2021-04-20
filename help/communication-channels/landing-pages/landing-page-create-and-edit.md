@@ -1,7 +1,7 @@
 ---
 title: Creare e modificare una pagina di destinazione
 description: '"Scopri come creare, modificare e testare pagine di destinazione in Adobe Campaign Standard."'
-feature: Pagine di destinazione
+feature: Landing Pages
 topics: null
 kt: 1808
 thumbnail: 24093.jpg

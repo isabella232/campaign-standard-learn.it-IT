@@ -1,7 +1,7 @@
 ---
 title: Rivedere un recapito tramite e-mail e i rapporti
 description: Scopri come rivedere una consegna e-mail personalizzata ed esaminare diversi rapporti disponibili in Adobe Campaign Standard.
-feature: Generazione di rapporti
+feature: Reporting
 topics: null
 kt: 3904
 thumbnail: 21389.jpg

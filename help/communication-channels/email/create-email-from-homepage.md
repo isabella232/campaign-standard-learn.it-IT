@@ -2,7 +2,7 @@
 title: Creare una consegna e-mail
 description: 'Scopri come creare una consegna e-mail dalla home page. '
 landing-page-description: Questo video illustra come creare una consegna di e-mail dalla home page.
-feature: E-mail
+feature: Email
 topics: null
 kt: 1807
 thumbnail: 23721.jpg

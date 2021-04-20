@@ -1,7 +1,7 @@
 ---
 title: Modificare la dimensione di targeting
 description: Questo video spiega come modificare la dimensione di targeting di una consegna per un pubblico di Platform al di fuori della tabella del profilo principale in Adobe Campaign Standard.
-feature: Integrazione del servizio core People
+feature: People Core Service Integration
 topics: ACOP
 kt: 3739
 thumbnail: 30151.jpg

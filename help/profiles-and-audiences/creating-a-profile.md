@@ -1,7 +1,7 @@
 ---
 title: 'Creare un profilo '
 description: Scopri come creare un profilo e come aggiungerlo a un pubblico.
-feature: Profili, pubblico
+feature: Profiles, Audiences
 kt: 1820
 thumbnail: 25277.jpg
 doc-type: feature video

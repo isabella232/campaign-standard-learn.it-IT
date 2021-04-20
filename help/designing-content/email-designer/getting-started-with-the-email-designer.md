@@ -1,7 +1,7 @@
 ---
 title: Guida introduttiva a E-mail Designer
 description: Scopri le funzionalità generali di E-mail Designer e come progettare un’e-mail da zero.
-feature: Progettazione e-mail
+feature: Email Design
 topics: Content Creation
 kt: 2391
 thumbnail: 25912.jpg

@@ -1,7 +1,7 @@
 ---
 title: Creare e inviare e-mail tramite un flusso di lavoro
 description: 'Scopri come creare una consegna e-mail una tantum dalla home page. '
-feature: E-mail
+feature: Email
 topics: null
 kt: 4319
 thumbnail: 31465.jpg

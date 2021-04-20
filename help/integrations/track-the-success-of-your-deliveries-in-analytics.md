@@ -2,7 +2,7 @@
 title: Monitora il successo delle consegne in Adobe Analytics
 description: Scopri come configurare l’integrazione di Campaign Standard e Analytics. Scopri come creare un rapporto in Analytics utilizzando i dati ricevuti da Campaign Standard e quali KPI sono disponibili.
 product: adobe analytics, campaign
-feature: Impostazioni applicazione
+feature: Application Settings
 topics: Integrations
 role: Administrator
 level: Intermediate

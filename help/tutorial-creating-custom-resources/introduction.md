@@ -1,7 +1,7 @@
 ---
 title: 'Creazione di risorse personalizzate: introduzione'
 description: ' Adobe Campaign Standard consente di estendere le risorse o crearne di nuove. Questo tutorial in più parti illustra i passaggi necessari per creare e collegare risorse personalizzate.'
-feature: Risorse personalizzate
+feature: Custom Resources
 topics: null
 kt: 2999
 thumbnail: 27715.jpg

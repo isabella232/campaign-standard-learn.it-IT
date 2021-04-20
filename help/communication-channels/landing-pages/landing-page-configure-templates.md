@@ -1,7 +1,7 @@
 ---
 title: Configurare un modello di pagina di destinazione
 Description: This video explains how to configure Landing Page templates in Adobe Campaign Standard.
-feature: Pagine di destinazione
+feature: Landing Pages
 topics: null
 kt: 1817
 thumbnail: 25200.jpg

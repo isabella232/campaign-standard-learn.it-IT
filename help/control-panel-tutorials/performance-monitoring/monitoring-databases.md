@@ -1,7 +1,7 @@
 ---
 title: Monitoraggio dei database
 description: Scopri come monitorare l’utilizzo del database delle istanze.
-feature: Monitoraggio dei database
+feature: Database Monitoring
 topics: Control Panel
 kt: 6433
 thumbnail: 327175.jpg

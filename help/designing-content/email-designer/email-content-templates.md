@@ -1,7 +1,7 @@
 ---
 title: Introduzione ai modelli di contenuto e-mail
 description: Scopri come creare un modello di contenuto e-mail.
-feature: Progettazione e-mail
+feature: Email Design
 topics: null
 kt: 1442
 thumbnail: 23106.jpg

@@ -1,7 +1,7 @@
 ---
 title: Creare un profilo di test
 description: Scopri come eseguire il targeting dei destinatari che non soddisfano i criteri di targeting definiti per rilevare eventuali utilizzi fraudolenti del database dei destinatari o per assicurarsi che le e-mail arrivino nelle caselle in entrata.
-feature: Profili di test
+feature: Test Profiles
 kt: 1810
 thumbnail: 24094.jpg
 doc-type: feature video

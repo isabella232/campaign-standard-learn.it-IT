@@ -1,7 +1,7 @@
 ---
 title: Mobile marketing con Adobe Campaign
 description: Scopri quali funzioni di Adobe Campaign Standard possono supportare la tua strategia di mobile marketing.
-feature: SMS, push, in-app
+feature: SMS, Push, In-App
 topics: null
 kt: 3976
 thumbnail: 29468.jpg

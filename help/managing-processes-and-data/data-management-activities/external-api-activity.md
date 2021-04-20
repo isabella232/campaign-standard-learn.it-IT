@@ -1,7 +1,7 @@
 ---
 title: Configurare ed eseguire un flusso di lavoro con l’attività External API
 description: Scopri come chiamare un endpoint API REST esterno per estrarre dati di personalizzazione da un sistema di terze parti nella campagna.
-feature: Attività di gestione dati
+feature: Data Management Activity
 topics: null
 kt: 2764
 thumbnail: 28200.jpg

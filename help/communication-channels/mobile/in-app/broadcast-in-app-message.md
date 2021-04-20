@@ -1,7 +1,7 @@
 ---
 title: '"Trasmettere un messaggio in-app "'
 description: Scopri come il modello Broadcast ti consente di eseguire il targeting di tutti gli utenti della tua app mobile.
-feature: In-app
+feature: In App
 topics: Mobile
 kt: 2497
 thumbnail: 26199.jpg

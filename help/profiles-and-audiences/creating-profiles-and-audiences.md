@@ -1,7 +1,7 @@
 ---
 title: Creazione di profili e pubblico - Panoramica
 description: Scopri come accedere ai profili esistenti e come creare profili e tipi di pubblico.
-feature: Profili, pubblico
+feature: Profiles, Audiences
 topics: null
 kt: 3899
 thumbnail: 18463.jpg

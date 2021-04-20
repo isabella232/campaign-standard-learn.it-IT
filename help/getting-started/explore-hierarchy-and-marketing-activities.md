@@ -1,7 +1,7 @@
 ---
 title: Esplorare gerarchia e attività di marketing
 description: '"Comprendi la gerarchia di programmi e campagne, come creare un programma di marketing e come creare una campagna di marketing all’interno di un programma."'
-feature: Campagne, Programmi
+feature: Campaigns, Programs
 topics: null
 kt: 3892
 thumbnail: 18465.jpg

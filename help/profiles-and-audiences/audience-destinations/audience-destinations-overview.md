@@ -1,7 +1,7 @@
 ---
 title: Audience Destinations - Panoramica
 description: Scopri come sfruttare i tipi di pubblico di Adobe Experience Platform (AEP) in Adobe Campaign Standard (ACS)
-feature: Integrazione del servizio core People
+feature: People Core Service Integration
 topics: ACOP
 kt: 2755
 thumbnail: null

@@ -1,7 +1,7 @@
 ---
 title: Eseguire il targeting degli utenti in base al loro profilo Campaign
 description: Scopri come eseguire il targeting degli utenti noti di app mobili con messaggi personalizzati con gli attributi del profilo CRM.
-feature: In-app
+feature: In App
 topics: Channels
 kt: 1796
 thumbnail: 26200.jpg

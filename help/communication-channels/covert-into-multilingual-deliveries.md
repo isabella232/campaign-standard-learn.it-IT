@@ -1,7 +1,7 @@
 ---
 title: Convertire e-mail, SMS o modello esistente in una versione multilingue
 description: '"Scopri come convertire e-mail, SMS delivery o un modello di consegna in una versione multilingue."'
-feature: E-mail, SMS
+feature: Email, SMS
 topics: Mobile
 kt: 1703
 thumbnail: 23251.jpg

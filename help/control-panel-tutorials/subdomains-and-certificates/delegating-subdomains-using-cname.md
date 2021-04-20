@@ -1,7 +1,7 @@
 ---
 title: Delega dei sottodomini tramite CNAME
 description: Scopri come delegare completamente un sottodominio ad Adobe Campaign.
-feature: Delega dei sottodomini
+feature: Subdomain Delegation
 topics: Control Panel
 kt: 6014
 thumbnail: 326612.jpg

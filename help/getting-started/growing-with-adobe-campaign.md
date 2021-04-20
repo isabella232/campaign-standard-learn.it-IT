@@ -1,7 +1,7 @@
 ---
 title: Crescere con Adobe Campaign
 description: Comprendi i possibili passaggi successivi per una vera orchestrazione cross channel.
-feature: Orchestrazione tra canali
+feature: Cross Channel Orchestration
 topics: null
 kt: 3973
 thumbnail: 29460.jpg

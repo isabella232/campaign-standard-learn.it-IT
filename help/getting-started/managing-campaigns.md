@@ -1,7 +1,7 @@
 ---
 title: Gestire le campagne
 description: Scopri come creare e gestire le campagne.
-feature: 'Campagne '
+feature: Campaigns 
 topics: Getting Started
 kt: 1816
 thumbnail: 24672.jpg

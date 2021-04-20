@@ -1,7 +1,7 @@
 ---
 title: Operazioni con il contenuto esistente
 description: Questo video spiega come recuperare rapidamente il contenuto creativo da un sito web e caricarlo in E-mail Designer.
-feature: Progettazione e-mail
+feature: Email Design
 topics: Content Creation
 kt: 6295
 thumbnail: 25926.jpg

@@ -1,7 +1,7 @@
 ---
 title: Anteprima del messaggio e-mail e analisi anti-spam
 description: '"Scopri come visualizzare in anteprima il tuo messaggio e-mail e l’analisi anti-spam."'
-feature: Progettazione e-mail
+feature: Email Design
 topics: null
 kt: 2393
 thumbnail: 25921.jpg

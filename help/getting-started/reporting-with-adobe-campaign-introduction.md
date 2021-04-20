@@ -1,7 +1,7 @@
 ---
 title: Introduzione al reporting
 description: Comprendere le funzionalità di reporting di Adobe Campaign Standard
-feature: Generazione di rapporti
+feature: Reporting
 topics: null
 kt: 3974
 thumbnail: 29461.jpg

@@ -1,7 +1,7 @@
 ---
 title: Panoramica di E-mail Designer
 description: Scopri le funzionalità generali di E-mail Designer e come progettare un’e-mail da zero.
-feature: Progettazione e-mail
+feature: Email Design
 topics: Content Creation
 kt: 1402
 thumbnail: 22771.jpg

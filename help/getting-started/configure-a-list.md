@@ -1,7 +1,7 @@
 ---
 title: Configurare un elenco
 description: '"Scopri come modificare le colonne visualizzate, l’ordine e l’ordinamento di una vista a elenco in Adobe Campaign Standard.  "'
-feature: Panoramica
+feature: Overview
 topics: null
 kt: 1821
 thumbnail: 25288.jpg

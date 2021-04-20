@@ -1,7 +1,7 @@
 ---
 title: Test A/B
 description: '"Scopri come configurare e inviare un test A/B che verifichi la riga dell’oggetto. "'
-feature: 'Test A/B  '
+feature: A/B Testing  
 topics: null
 kt: 3907
 thumbnail: 18480.jpg

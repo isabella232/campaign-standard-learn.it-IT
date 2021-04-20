@@ -1,7 +1,7 @@
 ---
 title: Importare profili con un flusso di lavoro
 description: Scopri come importare i dati di profilo utilizzando un flusso di lavoro.
-feature: Gestione dati
+feature: Data Management
 topics: null
 kt: 1818
 thumbnail: 24993.jpg

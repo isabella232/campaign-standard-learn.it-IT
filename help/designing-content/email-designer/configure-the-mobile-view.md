@@ -1,7 +1,7 @@
 ---
 title: Configurare la visualizzazione per dispositivi mobili in E-mail Designer
 description: '"Scopri come ottimizzare il design reattivo di un’e-mail modificando separatamente tutte le opzioni di stile per la visualizzazione mobile."'
-feature: Progettazione e-mail
+feature: Email Design
 topics: null
 kt: 2423
 thumbnail: 25919.jpg

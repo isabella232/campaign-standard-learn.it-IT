@@ -1,7 +1,7 @@
 ---
 title: Creare un’e-mail o un SMS multilingue
 description: 'Scopri come semplificare le complessità operative dell’invio di campagne multilingue. '
-feature: E-mail, SMS
+feature: Email, SMS
 topics: Mobile Channel, Email Channel
 kt: 1277
 thumbnail: 23252

@@ -1,7 +1,7 @@
 ---
 title: Esplorazione dei rapporti
 description: Comprendi i diversi rapporti disponibili come predefiniti per una consegna e-mail.
-feature: Generazione di rapporti
+feature: Reporting
 topics: Getting Started
 kt: 3906
 thumbnail: 23021.jpg

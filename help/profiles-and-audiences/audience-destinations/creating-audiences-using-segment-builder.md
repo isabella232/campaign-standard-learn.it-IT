@@ -1,6 +1,6 @@
 ---
 title: Creare un nuovo pubblico con Unified Segment Builder (Generatore di segmenti unificato)
-feature: Integrazione del servizio core People
+feature: People Core Service Integration
 topics: ACOP
 kt: 2754
 thumbnail: 27638.jpg

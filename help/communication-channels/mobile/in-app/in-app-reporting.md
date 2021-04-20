@@ -1,7 +1,7 @@
 ---
 title: Generare rapporti sulla consegna in-app
 description: '"Scopri come presentare all’utente messaggi in-app contestualmente pertinenti in risposta al comportamento in tempo reale di un cliente all’interno dell’app mobile."'
-feature: In-app
+feature: In App
 topics: Mobile
 kt: 2558
 thumbnail: 26412.jpg

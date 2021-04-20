@@ -1,7 +1,7 @@
 ---
 title: Attivare il pubblico di Adobe Experience Platform in un flusso di lavoro
 description: Questo video spiega come attivare la Data Services Query Audience all’interno di un flusso di lavoro utilizzando l’attività "Read audience" (Leggi pubblico).
-feature: Integrazione del servizio core People
+feature: People Core Service Integration
 topics: ACOP
 kt: 2760
 thumbnail: 27647.jpg
