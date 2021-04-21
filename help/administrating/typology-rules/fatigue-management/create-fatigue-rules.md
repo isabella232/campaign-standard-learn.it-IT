@@ -1,26 +1,25 @@
 ---
 title: Creare regole di affaticamento
-description: In questo video viene illustrato come impostare la regola di tipologia.
-feature: Fatigue Management
-topics: null
+description: Questo video mostra come impostare la regola di tipologia.
+feature: Gestione dell’affaticamento
 kt: 3446
 thumbnail: 28450.jpg
 doc-type: feature video
 activity: setup
 team: TM
+exl-id: fd75ce71-8131-4cba-b766-e68f59ebcbf9
 translation-type: tm+mt
-source-git-commit: cce6520619b68bde6a00531ac1931dca90a6b3dc
+source-git-commit: ada0b029245190f53d58fa93c79c161719bfe9fd
 workflow-type: tm+mt
-source-wordcount: '92'
-ht-degree: 25%
+source-wordcount: '94'
+ht-degree: 26%
 
 ---
 
-
 # Crea [!UICONTROL fatigue rules]
 
-[!UICONTROL Fatigue rules] consentire agli esperti di marketing di impostare regole aziendali globali tra canali che escluderanno automaticamente i profili richiesti in eccesso dalle campagne.
-Per creare [!UICONTROL fatigue rules], è necessario definire un numero massimo di messaggi per profilo e selezionare un periodo per il quale verrà applicata la regola. Durante la preparazione della consegna, i profili sono esclusi dalla consegna se applicabile, in base al numero di messaggi già inviati.
+[!UICONTROL Fatigue rules] consente agli esperti di marketing di impostare regole di business globali cross-channel che escluderanno automaticamente dalle campagne i profili sollecitati in modo eccessivo.
+Per creare [!UICONTROL fatigue rules], devi definire un numero massimo di messaggi per profilo e selezionare un periodo per il quale la regola verrà applicata. Durante la preparazione della consegna, i profili sono esclusi dalla consegna se applicabile, in base al numero di messaggi già inviati.
 
 >[!VIDEO](https://video.tv.adobe.com/v/28450?quality=12)
 
@@ -28,4 +27,4 @@ Per creare [!UICONTROL fatigue rules], è necessario definire un numero massimo 
 
 ## Risorse aggiuntive
 
-* [Regole di fatica (documentazione)](https://experienceleague.adobe.com/docs/campaign-standard/using/testing-and-sending/working-with-typology-rules/fatigue-rules.html)
+* [Regole di affaticamento (documentazione)](https://experienceleague.adobe.com/docs/campaign-standard/using/testing-and-sending/working-with-typology-rules/fatigue-rules.html)
