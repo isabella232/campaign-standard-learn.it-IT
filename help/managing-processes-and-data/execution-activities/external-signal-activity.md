@@ -1,8 +1,7 @@
 ---
 title: 'Attività segnale esterno : chiama un flusso di lavoro con parametri'
-description: '"Scopri come avviare un flusso di lavoro da un altro per supportare percorsi di clienti più complessi e allo stesso tempo come monitorare e reagire meglio ai problemi."'
-feature: Execution Activity
-topics: Workflows
+description: Scopri come avviare un flusso di lavoro da un altro per supportare percorsi di clienti più complessi e allo stesso tempo come monitorare e reagire meglio ai problemi.
+feature: Attività di esecuzione
 kt: 2750
 thumbnail: 27249
 doc-type: feature video
@@ -12,7 +11,7 @@ exl-id: d3996185-681c-4906-85f0-0543ab767519
 role: Business Practitioner, Developer
 level: Experienced
 translation-type: tm+mt
-source-git-commit: 5d2bc8bd3a3a0fdb5e2f1ef75af2ab60b8f6abc8
+source-git-commit: ada0b029245190f53d58fa93c79c161719bfe9fd
 workflow-type: tm+mt
 source-wordcount: '306'
 ht-degree: 9%
