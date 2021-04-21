@@ -3,8 +3,7 @@ title: Creare una consegna in-app all’interno di un flusso di lavoro
 seo-title: Creazione di una consegna in-app all’interno di un flusso di lavoro
 description: '"Scopri come utilizzare l’attività di consegna in-app per automatizzare l’invio di un messaggio in-app a un pubblico di destinazione calcolato in un flusso di lavoro."'
 seo-description: L’attività di consegna in-app viene generalmente utilizzata per automatizzare l’invio di un messaggio in-app a un pubblico di destinazione calcolato nello stesso flusso di lavoro.
-feature: In App
-topics: Mobile
+feature: In-app
 kt: 2500
 thumbnail: 26226.jpg
 doc-type: feature video
@@ -14,7 +13,7 @@ exl-id: 9d5b1769-9f04-45d0-bbce-38cd33c65bb0
 role: Business Practitioner, Developer
 level: Beginner, Intermediate
 translation-type: tm+mt
-source-git-commit: 5d2bc8bd3a3a0fdb5e2f1ef75af2ab60b8f6abc8
+source-git-commit: ada0b029245190f53d58fa93c79c161719bfe9fd
 workflow-type: tm+mt
 source-wordcount: '206'
 ht-degree: 17%
