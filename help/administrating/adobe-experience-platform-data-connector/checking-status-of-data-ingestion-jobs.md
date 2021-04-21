@@ -1,32 +1,31 @@
 ---
-title: 'Verifica dello stato di un processo di assimilazione dei dati '
+title: Controllo dello stato di un processo di inserimento dei dati
 description: Scopri come controllare lo stato e modificare la mappatura dei dati.
-feature: Adobe Experience Platform Data Connector
-topics: null
+feature: Connettore dati di Adobe Experience Platform
 audience: administrator
 kt: 2831
 thumbnail: 27268.jpg
 doc-type: feature video
 activity: use
 team: PM
+exl-id: aa0f8abe-0b42-4957-8a82-25521751b7af
 translation-type: tm+mt
-source-git-commit: 11263e247184ddc6a8e3df6a8ed0899907fbb366
+source-git-commit: ada0b029245190f53d58fa93c79c161719bfe9fd
 workflow-type: tm+mt
-source-wordcount: '120'
-ht-degree: 9%
+source-wordcount: '125'
+ht-degree: 12%
 
 ---
 
-
-# Verifica dello stato di un processo di assimilazione dei dati
+# Controllo dello stato di un processo di inserimento dei dati
 
 >[!NOTE]
 >
 >Questa funzionalità è attualmente in versione beta e soggetta a frequenti aggiornamenti e modifiche senza preavviso.
 >
->Per implementare questa funzionalità, contattate [!UICONTROL Adobe Customer Support].
+>Per implementare questa funzionalità, contatta [!UICONTROL Adobe Customer Support] .
 
-Scoprite come verificare lo stato di un processo di inserimento dei dati e se i dati sono stati trasferiti da  Adobe Campaign Standard ad Adobe Experience Platform.
+Scopri come controllare lo stato di un processo di inserimento dei dati e se i dati sono stati acquisiti da Adobe Campaign Standard in Adobe Experience Platform.
 
 >[!VIDEO](https://video.tv.adobe.com/v/27268?quality=12)
 
