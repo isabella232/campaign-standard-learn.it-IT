@@ -1,27 +1,28 @@
 ---
 title: STEP 4 - Imposta identificatore push
-description: '**pushIdentifier** è una stringa che contiene il token dispositivo per le notifiche push. Si tratta dello stesso token inviato da Firebase e passato all’SDK tramite il metodo MobileCore.setPushIdentifier.'
+description: Il **pushIdentifier** è una stringa che contiene il token dispositivo per le notifiche push. Si tratta dello stesso token inviato da Firebase e passato all'SDK utilizzando il metodo MobileCore.setPushIdentifier .
 feature: Push
-topics: MOBILE
+topic: MOBILE
 kt: 4828
 doc-type: tutorial
 activity: use
 team: TM
+exl-id: 08387b84-edaa-45ee-ae66-53bcbd5c7c39
 translation-type: tm+mt
-source-git-commit: aa01c2f8fe1560468d0d8f3fae6291bb82f9a21f
+source-git-commit: ddbb0843ea45a83d9ab5bfa0877287f6ba7d6210
 workflow-type: tm+mt
-source-wordcount: '206'
+source-wordcount: '208'
 ht-degree: 0%
 
 ---
 
 # Passaggio 4 - Imposta [!DNL pushidentifier]
 
-**[!DNL pushidentifier]** è una stringa che contiene il token dispositivo per le notifiche [!DNL Push]. Si tratta dello stesso token inviato da [!DNL Firebase] e passato all&#39;SDK utilizzando il metodo [!DNL MobileCore.setPushIdentifier].
+La **[!DNL pushidentifier]** è una stringa che contiene il token dispositivo per le notifiche [!DNL Push]. Si tratta dello stesso token inviato da [!DNL Firebase] e passato all&#39;SDK utilizzando il metodo [!DNL MobileCore.setPushIdentifier] .
 
-Apri il progetto in [!DNL Android ]studio. Eliminate l&#39;intero codice in [!DNL MainActivity] **tranne la prima riga dell&#39;istruzione del pacchetto**.
+Apri il progetto in [!DNL Android ]studio. Elimina l&#39;intero codice in [!DNL MainActivity] **eccetto la prima riga che è l&#39;istruzione package**.
 
-Incollate il seguente codice in [!DNL MainActivity]:
+Incolla il seguente codice in [!DNL MainActivity]:
 
 <!--
 Removed `{.line-numbers}` below
@@ -86,23 +87,23 @@ MobileCore.lifecyclePause();
 }
 ```
 
-## Test dell&#39;app
+## Verificare l’app
 
-Ora è il momento giusto per testare l&#39;app, prima di andare oltre.
+Ora è il momento di testare l’app prima di procedere ulteriormente.
 
-* Esegui l&#39;app facendo clic sulla freccia verde o selezionando **[!DNL Run->Run'app']**.
-* L&#39;emulatore [!DNL Android] dovrebbe iniziare e l&#39;app dovrebbe essere in esecuzione con [!DNL "Hello World" ]testo.
-* Aprire la finestra [!DNL logcat]. Cercare &quot;[!DNL Got]&quot;. Dovresti vedere il token ricevuto da [!DNL Firebase] scritto nel registro come mostrato di seguito. La stringa lunga dopo &quot;[!DNL Got token]&quot; è la [!DNL pushidentifier ]inviata a  Adobe Campaign.
+* Esegui l’app facendo clic sulla freccia verde o seleziona **[!DNL Run->Run'app']**.
+* L&#39;emulatore [!DNL Android] dovrebbe essere avviato e l&#39;app dovrebbe essere in esecuzione con [!DNL "Hello World" ]testo.
+* Apri la finestra [!DNL logcat] . Cerca &quot;[!DNL Got]&quot;. Dovresti vedere il token ricevuto da [!DNL Firebase] scritto nel registro come mostrato di seguito. La stringa lunga dopo &quot;[!DNL Got token]&quot; è la [!DNL pushidentifier ]inviata ad Adobe Campaign.
 
-![logcat-token](assets/logcat-got-token.PNG)
+![token](assets/logcat-got-token.PNG)
 
-### Controllare gli utenti iscritti all&#39;applicazione mobile
+### Controlla utenti abbonati a un&#39;applicazione mobile
 
-Effettuate il login alla vostra istanza di Adobe Campaign Standard .
-Navigare **[!UICONTROL Administration->Channels->Mobile App(AEP SDK)]**. Aprite l’applicazione mobile appropriata. Passare alla scheda [!UICONTROL Mobile Application Subscribers]. Dovrebbe essere visualizzato un [!UICONTROL registration token ]elencato.
+Accedi alla tua istanza Adobe Campaign Standard.
+Passa a **[!UICONTROL Administration->Channels->Mobile App(AEP SDK)]**. Apri l’applicazione mobile appropriata. Passa alla scheda [!UICONTROL Mobile Application Subscribers] . Dovresti vedere un [!UICONTROL registration token ]elencato.
 
 ![abbonati a mobile-application](assets/mobile-application-subscribers.PNG)
 
 >[!NOTE]
 >
->Se il token di registrazione non viene visualizzato nella [!UICONTROL Mobile Application Subscribers] scheda STOP qui prima di continuare.
+>Se il token di registrazione non viene visualizzato nella scheda [!UICONTROL Mobile Application Subscribers] STOP qui prima di continuare.
