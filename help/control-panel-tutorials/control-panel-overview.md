@@ -2,16 +2,16 @@
 title: Pannello di controllo Campaign    - Panoramica
 description: Il Pannello di controllo di Adobe Campaign consente agli amministratori di monitorare le risorse chiave ed eseguire attività amministrative, ad esempio gestire l’archiviazione SFTP per istanza e le chiavi GPG o i sottodomini e i certificati.
 landing-page-description: Il Pannello di controllo Campaign consente agli amministratori di Campaign di eseguire attività di amministrazione, ad esempio gestire l’archiviazione SFTP, le chiavi GPG o i sottodomini e i certificati.
-feature: Control Panel
-topics: Control Panel
+feature: Pannello di controllo Campaign
 audience: administrator
 kt: 4696
 doc-type: feature video
 activity: use
 team: PM
-translation-type: ht
-source-git-commit: 8b968e15b78655ff9ae49f812f10683201559722
-workflow-type: ht
+exl-id: 6c236625-1a7a-4009-898b-b4bd82fa1efa
+translation-type: tm+mt
+source-git-commit: ada0b029245190f53d58fa93c79c161719bfe9fd
+workflow-type: tm+mt
 source-wordcount: '232'
 ht-degree: 100%
 
