@@ -1,21 +1,20 @@
 ---
 title: Modifica della mappatura dei dati
 description: Scopri come controllare lo stato e modificare la mappatura dei dati.
-feature: Adobe Experience Platform Data Connector
-topics: ACoP
+feature: Connettore dati di Adobe Experience Platform
 kt: 2830
 thumbnail: 27266
 doc-type: feature video
 activity: use
 team: TM
+exl-id: a03299d2-3ef5-42a7-b0ab-ec90908f71ec
 translation-type: tm+mt
-source-git-commit: 11263e247184ddc6a8e3df6a8ed0899907fbb366
+source-git-commit: ada0b029245190f53d58fa93c79c161719bfe9fd
 workflow-type: tm+mt
-source-wordcount: '80'
-ht-degree: 7%
+source-wordcount: '85'
+ht-degree: 12%
 
 ---
-
 
 # Modifica della mappatura dei dati
 
@@ -23,7 +22,7 @@ ht-degree: 7%
 >
 >Questa funzionalità è attualmente in versione beta e soggetta a frequenti aggiornamenti e modifiche senza preavviso.
 >
->Per implementare questa funzionalità, contattate [!UICONTROL Adobe Customer Support].
+>Per implementare questa funzionalità, contatta [!UICONTROL Adobe Customer Support] .
 
 Scopri come controllare lo stato e modificare la mappatura dei dati.
 
