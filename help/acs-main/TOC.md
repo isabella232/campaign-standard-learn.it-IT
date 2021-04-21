@@ -9,9 +9,9 @@ tutorials-url: https://experienceleague.adobe.com/docs/campaign-standard-learn/t
 getting-started-title: Documentazione
 getting-started-url: https://experienceleague.adobe.com/docs/campaign-standard/using/campaign-standard-home.html?lang=it
 translation-type: tm+mt
-source-git-commit: c8d9a7c79bb9fe8882ac390cc0f0fec7cffa82da
+source-git-commit: ada0b029245190f53d58fa93c79c161719bfe9fd
 workflow-type: tm+mt
-source-wordcount: '546'
+source-wordcount: '545'
 ht-degree: 93%
 
 ---
@@ -21,7 +21,6 @@ ht-degree: 93%
 
 + [Panoramica](/help/overview.md)
 + Guida introduttiva {#getting-started}
-   + [Panoramica](/help/getting-started/getting-started-overview.md)
    + [Introduzione ad Adobe Campaign Standard](/help/getting-started/adobe-campaign-standard-introduction.md)
    + [Guida introduttiva all’interfaccia utente](/help/getting-started/getting-started-with-the-ui.md)
    + [Configurare un elenco](/help/getting-started/configure-a-list.md)
