@@ -1,26 +1,25 @@
 ---
-title: 'Passaggio 3: registra le estensioni con la tua app mobile'
-description: In questa parte aggiungeremo il codice per registrare le estensioni UserProfile, Identity, Lifecycle e Segnale.
+title: Passaggio 3 - Registrare le estensioni con la tua app mobile
+description: In questa parte aggiungeremo il codice per registrare le estensioni UserProfile, Identity, Lifecycle e Signal.
 feature: Push
-topics: Mobile
 kt: 4827
 doc-type: tutorial
 activity: use
 team: TM
+exl-id: d8c0d8c6-2e04-4c27-b27a-d0de79dd953b
 translation-type: tm+mt
-source-git-commit: 13b4f1d395dfe53f9fc5263e7b06be700e30b986
+source-git-commit: ada0b029245190f53d58fa93c79c161719bfe9fd
 workflow-type: tm+mt
-source-wordcount: '122'
-ht-degree: 0%
+source-wordcount: '123'
+ht-degree: 12%
 
 ---
 
+# Passaggio 3 - Registrare le estensioni con la tua app mobile
 
-# Passaggio 3: registra le estensioni con la tua app mobile
+In questa parte aggiungeremo il codice per registrare le estensioni Profilo utente, Identità, Ciclo di vita e Segnale . Queste estensioni fanno parte di [[!UICONTROL Mobile Core Extensions]](https://aep-sdks.gitbook.io/docs/using-mobile-extensions/mobile-core). Sarà inoltre necessario registrare l’estensione Adobe Campaign Standard come mostrato nel codice seguente.
 
-In questa parte aggiungeremo il codice per registrare le estensioni Profilo utente, Identità, Ciclo di vita e Segnale. Queste estensioni fanno parte di [[!UICONTROL Mobile Core Extensions]](https://aep-sdks.gitbook.io/docs/using-mobile-extensions/mobile-core). Dovremo anche registrare l&#39;estensione Adobe Campaign Standard  come mostrato nel codice seguente.
-
-Apri il progetto nello studio [!DNL Android]. Elimina l&#39;intero codice in MainApp **tranne la prima riga che corrisponde all&#39;istruzione del pacchetto**.
+Apri il progetto nello studio [!DNL Android]. Elimina l&#39;intero codice in MainApp **eccetto la prima riga che è l&#39;istruzione del pacchetto**.
 
 Incolla il seguente codice in MainApp
 
@@ -70,6 +69,6 @@ try{
 }
 ```
 
-Riga 32: è necessario fornire l&#39;ID del file dell&#39;ambiente della proprietà [!UICONTROL  Launch]. È possibile accedervi dalla [!UICONTROL environment tab] della proprietà [!UICONTROL Launch].
+Riga 32: devi fornire l&#39;ID file di ambiente della tua proprietà[!UICONTROL  Launch]. È possibile accedervi da [!UICONTROL environment tab] della proprietà [!UICONTROL Launch] .
 
 ![launch-id](assets/launch-id-property.PNG)
