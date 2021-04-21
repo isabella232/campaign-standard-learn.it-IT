@@ -1,21 +1,20 @@
 ---
 title: Mappatura dei dati della tabella di seeding
-description: Scopri come mappare i dati iniziali e come sottoporre a test i profili con Adobe Experience Platform (AEP)
-feature: Adobe Experience Platform Data Connector
-topics: ACoP
+description: Scopri come mappare i dati di seed e come testare i profili con Adobe Experience Platform (AEP)
+feature: Connettore dati di Adobe Experience Platform
 kt: 2900
 thumbnail: 27264.jpg
 doc-type: feature video
 activity: use
 team: TM
+exl-id: a6b8ec23-01a2-4333-9918-9ea13aac4068
 translation-type: tm+mt
-source-git-commit: 11263e247184ddc6a8e3df6a8ed0899907fbb366
+source-git-commit: ada0b029245190f53d58fa93c79c161719bfe9fd
 workflow-type: tm+mt
-source-wordcount: '92'
-ht-degree: 15%
+source-wordcount: '97'
+ht-degree: 19%
 
 ---
-
 
 # Mappatura dei dati della tabella di seeding
 
@@ -23,9 +22,9 @@ ht-degree: 15%
 >
 >Questa funzionalità è attualmente in versione beta e soggetta a frequenti aggiornamenti e modifiche senza preavviso.
 >
->Per implementare questa funzionalità, contattate [!UICONTROL Adobe Customer Support].
+>Per implementare questa funzionalità, contatta [!UICONTROL Adobe Customer Support] .
 
-Scopri come mappare i dati iniziali e i profili di test con l’Adobe Experience Platform.
+Scopri come mappare i dati di seed e i profili di test con Adobe Experience Platform.
 
 >[!VIDEO](https://video.tv.adobe.com/v/27264?quality=12)
 
@@ -33,4 +32,3 @@ Scopri come mappare i dati iniziali e i profili di test con l’Adobe Experience
 
 * [Definizione mappature](https://docs.adobe.com/content/help/en/campaign-standard/using/administrating/mapping-campaign-and-aep-data/aep-mapping-definition.html)
 * [Attivazione mappature](https://docs.adobe.com/content/help/en/campaign-standard/using/administrating/mapping-campaign-and-aep-data/aep-mapping-activation.html)
-
