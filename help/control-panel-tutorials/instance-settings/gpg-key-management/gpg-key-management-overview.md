@@ -1,18 +1,17 @@
 ---
 title: Gestione delle chiavi GPG - Panoramica
 description: Nei video seguenti viene illustrato come generare e installare una coppia di chiavi pubblica/privata in una specifica istanza Campaign per la crittografia dei dati in uscita, nonché come importare e installare una chiave pubblica in un’istanza Campaign per la decrittografia dei dati in ingresso.
-feature: Control Panel
-topics: GPG key Management
+feature: Pannello di controllo Campaign
 audience: administrator
 team: TM
+exl-id: a9a24104-332c-483e-8a6f-6d80f90ad66f
 translation-type: tm+mt
-source-git-commit: 05550c50713e65793309e51355a8e31683f81e0b
+source-git-commit: ada0b029245190f53d58fa93c79c161719bfe9fd
 workflow-type: tm+mt
-source-wordcount: '164'
+source-wordcount: '166'
 ht-degree: 100%
 
 ---
-
 
 # Gestione delle chiavi GPG - Panoramica
 
