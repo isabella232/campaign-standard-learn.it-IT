@@ -1,20 +1,19 @@
 ---
 title: Risoluzione dei problemi relativi al Pannello di controllo Campaign
 description: Il Pannello di controllo Campaign ti consente di monitorare e gestire lo storage SFTP per istanza e di aggiungere indirizzi IP all’elenco Consentiti.
-feature: Control Panel
-topics: null
+feature: Pannello di controllo Campaign
 kt: 2938
 doc-type: article
 activity: use
 team: PM
+exl-id: f546f791-a69b-4586-abfa-3e626b8feb17
 translation-type: tm+mt
-source-git-commit: f120eaf237378db3ddd5833930c0222ee028941d
+source-git-commit: ada0b029245190f53d58fa93c79c161719bfe9fd
 workflow-type: tm+mt
-source-wordcount: '327'
+source-wordcount: '329'
 ht-degree: 100%
 
 ---
-
 
 # Risoluzione dei problemi del [!UICONTROL Control Panel]
 
@@ -71,4 +70,3 @@ La connessione ai server SFTP richiede:
 ### Documentazione utile {#helpful-docs}
 
 * [Accesso al server SFTP](https://docs.adobe.com/content/help/it-IT/control-panel/using/control-panel-home.html#LoggingintoyourSFTPserver)
-
