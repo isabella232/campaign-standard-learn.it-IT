@@ -1,18 +1,17 @@
 ---
 title: Creare un nuovo pubblico con Unified Segment Builder (Generatore di segmenti unificato)
-feature: People Core Service Integration
-topics: ACOP
+description: Scopri come creare un nuovo pubblico utilizzando Unified Segment Builder (Generatore di segmenti unificato)
+feature: Integrazione del servizio core People
 kt: 2754
 thumbnail: 27638.jpg
 doc-type: feature video
 activity: using
 team: PM
 exl-id: ce52a988-5072-401b-9a8b-112e42504022
-description: Scopri come creare un nuovo pubblico utilizzando Unified Segment Builder (Generatore di segmenti unificato).
 role: Business Practitioner, Developer
 level: Beginner, Intermediate, Experienced
 translation-type: tm+mt
-source-git-commit: 5d2bc8bd3a3a0fdb5e2f1ef75af2ab60b8f6abc8
+source-git-commit: ada0b029245190f53d58fa93c79c161719bfe9fd
 workflow-type: tm+mt
 source-wordcount: '241'
 ht-degree: 8%
