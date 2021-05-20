@@ -1,7 +1,7 @@
 ---
-title: Comprendere profili e pubblico in Adobe Campaign Standard
+title: Informazioni su profili e tipi di pubblico in Adobe Campaign Standard
 description: Comprendi il concetto di profili e tipi di pubblico e scopri come creare profili e tipi di pubblico.
-feature: Profili, pubblico
+feature: Profili, tipi di pubblico
 kt: 3893
 thumbnail: 18464.jpg
 doc-type: feature video
@@ -10,11 +10,10 @@ team: WWFRE
 exl-id: 8a11b35f-ac6b-4f63-a72e-4e676ea3d69d
 role: Business Practitioner, Developer, Administrator
 level: Beginner
-translation-type: tm+mt
 source-git-commit: ada0b029245190f53d58fa93c79c161719bfe9fd
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '59'
-ht-degree: 57%
+ht-degree: 100%
 
 ---
 
