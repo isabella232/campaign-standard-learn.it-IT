@@ -8,11 +8,10 @@ tutorials-title: Esercitazioni
 tutorials-url: https://experienceleague.adobe.com/docs/campaign-standard-learn/tutorials/overview.html?lang=it
 getting-started-title: Documentazione
 getting-started-url: https://experienceleague.adobe.com/docs/campaign-standard/using/campaign-standard-home.html?lang=it
-translation-type: tm+mt
 source-git-commit: 433357e28b44e96ddb443f6359d12a6a106a3246
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '549'
-ht-degree: 93%
+ht-degree: 100%
 
 ---
 
@@ -29,16 +28,16 @@ ht-degree: 93%
    + [Informazioni su profili e tipi di pubblico](/help/getting-started/understanding-profiles-and-audiences.md)
    + [Creazione di un messaggio e-mail](https://experienceleague.adobe.com/docs/campaign-standard-learn/tutorials/communication-channels/email/create-email-from-homepage.html?lang=it)
    + [Creazione di un flusso di lavoro](https://experienceleague.adobe.com/docs/campaign-standard-learn/tutorials/managing-processes-and-data/creating-a-workflow.html?lang=it)
-   + [Introduzione al reporting](/help/getting-started/reporting-with-adobe-campaign-introduction.md)
+   + [Introduzione alla generazione rapporti](/help/getting-started/reporting-with-adobe-campaign-introduction.md)
    + [Mobile marketing con Adobe Campaign](/help/getting-started/mobile-marketing-with-adobe-campaign.md)
    + [Crescita con Adobe Campaign](/help/getting-started/growing-with-adobe-campaign.md)
 + Profili e pubblico {#profiles-and-audiences}
-   + [Creazione di profili e pubblico - Panoramica](/help/profiles-and-audiences/creating-profiles-and-audiences.md)
+   + [Creazione di profili e pubblico: panoramica](/help/profiles-and-audiences/creating-profiles-and-audiences.md)
    + [Creare un profilo](/help/profiles-and-audiences/creating-a-profile.md)
    + [Creare un profilo di test](/help/profiles-and-audiences/test-profiles.md)
    + [Importazione di profili con un flusso di lavoro](/help/managing-processes-and-data/importing-profiles.md)
    + [Gestire servizi e iscrizioni](/help/managing-processes-and-data/services-and-subscriptions.md)
-   + Audience Destinations (BETA){#audience-destinations}
+   + Destinazioni del pubblico (BETA){#audience-destinations}
       + [Panoramica](/help/profiles-and-audiences/audience-destinations/audience-destinations-overview.md)
       + [Creare un nuovo pubblico con Unified Segment Builder (Generatore di segmenti unificato)](/help/profiles-and-audiences/audience-destinations/creating-audiences-using-segment-builder.md)
       + [Attivare il pubblico di Adobe Experience Platform in un flusso di lavoro](/help/profiles-and-audiences/audience-destinations/activating-aep-audiences.md)
@@ -51,13 +50,13 @@ ht-degree: 93%
       + [Test dei messaggi e-mail tramite profili di destinazione](/help/communication-channels/email/profile-substitution.md)
       + [Aggiunta di un gruppo di controllo a una consegna](/help/communication-channels/email/control-groups.md)
       + [Creare un’e-mail o un SMS multilingue](/help/communication-channels/create-multilingual-deliveries.md)
-      + [Convertire e-mail, SMS o modello esistente in una versione multilingue](/help/communication-channels/covert-into-multilingual-deliveries.md)
-      + [Rivedere un recapito tramite e-mail e i rapporti](/help/communication-channels/email/reviewing-personalized-email-delivery-and-reports.md)
+      + [Convertire consegne e-mail e SMS esistenti o modelli in una versione multilingue](/help/communication-channels/covert-into-multilingual-deliveries.md)
+      + [Rivedere una consegna tramite e-mail e rapporti](/help/communication-channels/email/reviewing-personalized-email-delivery-and-reports.md)
       + [Creare e inviare e-mail tramite un flusso di lavoro](/help/communication-channels/email/create-and-send-emails-via-workflow.md)
       + [Guida alle best practice per la distribuzione](https://experienceleague.adobe.com/docs/deliverability-learn/deliverability-best-practice-guide/introduction.html?lang=it)
       + E-mail basate sull’intelligenza artificiale {#journey-ai}
          + [Ottimizzazione del tempo di invio predittivo](/help/communication-channels/email/ai-powered-emails/predictive-send-time-optimization.md)
-         + [Punteggio del coinvolgimento predittivo](/help/communication-channels/email/ai-powered-emails/predictive-engagement-scoring.md)
+         + [Valutazione del coinvolgimento predittivo](/help/communication-channels/email/ai-powered-emails/predictive-engagement-scoring.md)
    + Mobile {#mobile}
       + SMS{#sms}
          + [Creare una consegna SMS](/help/communication-channels/mobile/sms/sms-delivery.md)
@@ -73,7 +72,7 @@ ht-degree: 93%
          + [Creare una consegna in-app all’interno di un flusso di lavoro](/help/communication-channels/mobile/in-app/in-app-activity.md)
          + [Generare rapporti sulla consegna in-app](/help/communication-channels/mobile/in-app/in-app-reporting.md)
       + [Configurare un’app mobile mediante l’SDK di Adobe Experience Platform](/help/communication-channels/mobile/configure-mobile-apps-using-aep-sdk.md)
-   + [Direct mail](/help/communication-channels/direct-mail/directmail.md)
+   + [Direct mailing](/help/communication-channels/direct-mail/directmail.md)
    + Pagine di destinazione {#landing-pages}
       + [Creare e modificare una pagina di destinazione](/help/communication-channels/landing-pages/landing-page-create-and-edit.md)
       + [Verificare e pubblicare una pagina di destinazione](/help/communication-channels/landing-pages/landing-page-test-and-publish.md)
@@ -94,19 +93,19 @@ ht-degree: 93%
       + [Attività External Signal](/help/managing-processes-and-data/execution-activities/external-signal-activity.md)
    + Attività di gestione dati {#data-management-activities}
       + [Attività External API](/help/managing-processes-and-data/data-management-activities/external-api-activity.md)
-+ Reporting {#reporting}
++ Generazione rapporti {#reporting}
    + [Esplorazione dei rapporti](/help/getting-started/exploring-reports.md)
    + [Creazione di un rapporto dinamico](/help/reporting/creating-a-dynamic-report.md)
    + [Creazione di un rapporto basato su attributi di profilo personalizzati](/help/reporting/custom-profile-attributes-dynamic-reports.md)
    + [Creazione di un rapporto basato sui segmenti del flusso di lavoro](/help/reporting/report-on-workflow-segments.md)
 + Integrazione con altre soluzioni {#integrations}
-   + [Monitora il successo delle consegne in Adobe Analytics](/help/integrations/track-the-success-of-your-deliveries-in-analytics.md)
+   + [Monitorare il successo delle consegne in Adobe Analytics](/help/integrations/track-the-success-of-your-deliveries-in-analytics.md)
    + Utilizzo dei trigger per i messaggi transazionali {#triggers}
       + [Panoramica](/help/integrations/using-triggers-for-transactional-messaging-overview.md)
-      + [Configurare Launch per gli attivatori](/help/integrations/configure-launch-for-triggers.md)
+      + [Configurare Launch per i trigger](/help/integrations/configure-launch-for-triggers.md)
       + [Creare un trigger in Experience Cloud](/help/integrations/create-a-trigger-in-experience-cloud.md)
       + [Creare un evento trigger in Campaign Standard](/help/integrations/create-a-trigger-event.md)
-      + [Configurare i messaggi transazionali utilizzando i dati evento in tempo reale](/help/integrations/configure-transactional-messages-using-realtime-event-data.md)
+      + [Configurare i messaggi transazionali utilizzando dati evento in tempo reale](/help/integrations/configure-transactional-messages-using-realtime-event-data.md)
 + Amministrazione {#administrating}
    + [Gestione dei diritti di accesso degli utenti](/help/administrating/managing-user-access-rights.md)
    + [Creazione di risorse personalizzate](https://experienceleague.adobe.com/docs/campaign-standard-learn/creating-custom-resources/introduction.html?lang=it)
@@ -117,13 +116,13 @@ ht-degree: 93%
       + [Mappatura di eventi Experience](/help/administrating/adobe-experience-platform-data-connector/mapping-experience-events.md)
       + [Mappatura dei dati della tabella di seeding](/help/administrating/adobe-experience-platform-data-connector/mapping-seed-table-data.md)
       + [Modifica della mappatura dei dati](/help/administrating/adobe-experience-platform-data-connector/modifying-data-mapping.md)
-      + [Verifica dello stato di un processo di inserimento dei dati](/help/administrating/adobe-experience-platform-data-connector/checking-status-of-data-ingestion-jobs.md)
+      + [Verifica dello stato di un processo di acquisizione dati](/help/administrating/adobe-experience-platform-data-connector/checking-status-of-data-ingestion-jobs.md)
    + Regole di tipologia{#typology-rules}
       + Gestione dell’affaticamento{#fatigue-management}
-         + [Creare regole di affaticamento](/help/administrating/typology-rules/fatigue-management/create-fatigue-rules.md)
+         + [Creare regole per la gestione dello stress](/help/administrating/typology-rules/fatigue-management/create-fatigue-rules.md)
 + Privacy {#privacy}
    + [Panoramica](/help/privacy/privacy-overview.md)
-   + [Creazione di spazi dei nomi per le richieste di privacy](/help/privacy/namespaces-for-privacy-requests.md)
+   + [Creazione di namespace per le richieste di privacy](/help/privacy/namespaces-for-privacy-requests.md)
    + [Modifica delle risorse personalizzate per le richieste di privacy](/help/privacy/custom-resources-for-privacy-requests.md)
-   + [Creazione e tracking manuale delle richieste di privacy](/help/privacy/create-and-track-privacy-requests.md)
-   + [Esecuzione di richieste di privacy](/help/privacy/execute-privacy-requests.md)
+   + [Creazione e tracciamento manuale delle richieste di privacy](/help/privacy/create-and-track-privacy-requests.md)
+   + [Elaborazione di richieste di privacy](/help/privacy/execute-privacy-requests.md)
