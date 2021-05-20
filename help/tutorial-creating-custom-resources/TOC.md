@@ -1,9 +1,8 @@
 ---
 user-guide-title: ' Adobe Campaign Standard: tutorial sulla creazione di risorse personalizzate'
 user-guide-description: 'Questo tutorial in più parti illustra i passaggi necessari per creare e collegare risorse personalizzate. '
-translation-type: tm+mt
 source-git-commit: 0125d22122128037759c65f94e5e90ab4740173f
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '48'
 ht-degree: 100%
 
