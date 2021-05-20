@@ -3,14 +3,13 @@ title: Tutorial di Adobe Campaign Standard - Panoramica
 description: ' Adobe Campaign fornisce una piattaforma per la progettazione di esperienze cliente cross-channel e offre un ambiente per l’orchestrazione visiva delle campagne, la gestione delle interazioni in tempo reale e l’esecuzione cross-channel. La presente guida utente contiene video e tutorial sulle numerose funzioni e capacità di Adobe Campaign Standard.'
 products: SG_CAMPAIGN/STANDARD
 exl-id: b97710d1-3e93-41f6-a51e-9bf4c519fec3
-feature: Overview
+feature: Panoramica
 role: Business Practitioner, Administrator, Developer
 level: Beginner
-translation-type: tm+mt
 source-git-commit: 5d2bc8bd3a3a0fdb5e2f1ef75af2ab60b8f6abc8
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '297'
-ht-degree: 82%
+ht-degree: 100%
 
 ---
 
@@ -20,7 +19,7 @@ Adobe Campaign fornisce una piattaforma per la progettazione di customer experie
 
 ## Novità
 
-* **[Monitora il successo delle consegne in Adobe Analytics](/help/integrations/track-the-success-of-your-deliveries-in-analytics.md)**
+* **[Monitorare il successo delle consegne in Adobe Analytics](/help/integrations/track-the-success-of-your-deliveries-in-analytics.md)**
 
    *Scopri come configurare l’integrazione di Campaign Standard e Analytics. Scopri come creare un rapporto in Analytics utilizzando i dati ricevuti da Campaign Standard e quali KPI sono disponibili.*
 
@@ -63,7 +62,7 @@ Adobe Campaign fornisce una piattaforma per la progettazione di customer experie
       <img alt="Tutorial: guida introduttiva alle notifiche push per Android" src="./assets/push-for-android.png" />
     </a>
     <div>
-      <a href="https://docs.adobe.com/content/help/en/campaign-standard-learn/getting-started-with-push-notifications-android/introduction.html">
+      <a href="https://docs.adobe.com/content/help/it-IT/campaign-standard-learn/getting-started-with-push-notifications-android/introduction.html">
     <strong>Tutorial: guida introduttiva alle notifiche push per Android</strong>
     </a>
     </div>
