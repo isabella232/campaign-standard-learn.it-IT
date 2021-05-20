@@ -1,18 +1,17 @@
 ---
 user-guide-title: Tutorial sul Pannello di controllo Adobe Campaign
 user-guide-description: Scopri come monitorare le risorse chiave delle istanze di Adobe Campaign ed eseguire attività di amministrazione nel Pannello di controllo Campaign.
-breadcrumb-title: Tutorial del Pannello di controllo Campaign
+breadcrumb-title: Tutorial sul Pannello di controllo Campaign
 index: true
-translation-type: tm+mt
 source-git-commit: 0125d22122128037759c65f94e5e90ab4740173f
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '114'
 ht-degree: 100%
 
 ---
 
 
-#  Tutorial sul Pannello di controllo di Adobe Campaign {#control-panel}
+# Tutorial sul Pannello di controllo di Adobe Campaign {#control-panel}
 
 + [Panoramica del Pannello di controllo Campaign](/help/control-panel-tutorials/control-panel-overview.md)
 + [Guida introduttiva al Pannello di controllo Campaign](/help/control-panel-tutorials/getting-started-with-the-control-panel.md)
@@ -28,7 +27,7 @@ ht-degree: 100%
    + [Gestione dei record TXT di Google](/help/control-panel-tutorials/subdomains-and-certificates/google-txt-record-management.md)
 + Impostazioni delle istanze {#instance-settings}
    + Gestione delle chiavi GPG {#gpg-key-management}
-      + [Gestione delle chiavi GPG - panoramica](/help/control-panel-tutorials/instance-settings/gpg-key-management/gpg-key-management-overview.md)
+      + [Gestione delle chiavi GPG: panoramica](/help/control-panel-tutorials/instance-settings/gpg-key-management/gpg-key-management-overview.md)
       + [Generazione e installazione di chiavi GPG per la crittografia dei dati](/help/control-panel-tutorials/instance-settings/gpg-key-management/generating-and-installing-gpg-keys-for-data-encryption.md)
       + [Utilizzo di una chiave GPG per crittografare i dati](/help/control-panel-tutorials/instance-settings/gpg-key-management/using-a-gpg-key-to-encrypt-data.md)
       + [Decrittografia dei dati](/help/control-panel-tutorials/instance-settings/gpg-key-management/decrypting-data.md)
