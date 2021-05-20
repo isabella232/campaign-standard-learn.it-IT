@@ -1,5 +1,5 @@
 ---
-title: Monitora il successo delle consegne in Adobe Analytics
+title: Monitorare il successo delle consegne in Adobe Analytics
 description: Scopri come configurare l’integrazione di Campaign Standard e Analytics. Scopri come creare un rapporto in Analytics utilizzando i dati ricevuti da Campaign Standard e quali KPI sono disponibili.
 product: adobe analytics, campaign
 feature: Impostazioni applicazione
@@ -11,15 +11,14 @@ thumbnail: 332576.jpg
 doc-type: feature video
 team: TM
 exl-id: babe7b9f-c198-4358-ba3a-91fabf584f9b
-translation-type: tm+mt
 source-git-commit: ddbb0843ea45a83d9ab5bfa0877287f6ba7d6210
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '97'
-ht-degree: 2%
+ht-degree: 100%
 
 ---
 
-# Monitora il successo delle consegne in Adobe Analytics
+# Monitorare il successo delle consegne in Adobe Analytics
 
 Scopri come configurare l’integrazione di Campaign Standard e Analytics. Scopri come creare un rapporto in Analytics utilizzando i dati ricevuti da Campaign Standard e quali KPI sono disponibili.
 
@@ -27,4 +26,4 @@ Scopri come configurare l’integrazione di Campaign Standard e Analytics. Scopr
 
 ## Risorse aggiuntive
 
-[Informazioni e creazione di suite di rapporti](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/intro-to-analytics/analytics-basics/understanding-and-creating-report-suites.html?lang=en#intro-to-analytics)
+[Suite di rapporti: cosa sono e come crearle](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/intro-to-analytics/analytics-basics/understanding-and-creating-report-suites.html?lang=it#intro-to-analytics)
