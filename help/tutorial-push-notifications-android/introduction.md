@@ -7,9 +7,8 @@ doc-type: tutorial
 activity: use
 team: TM
 exl-id: 8dd772b2-b082-4e1e-842d-c5d6bcec564c
-translation-type: tm+mt
 source-git-commit: ada0b029245190f53d58fa93c79c161719bfe9fd
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '200'
 ht-degree: 100%
 
@@ -33,9 +32,9 @@ Questo tutorial illustra i passaggi necessari per inviare notifiche push da Adob
 
 ## Passaggi del tutorial
 
-* [Passaggio 1 - Creare un’app Android](/help/tutorial-push-notifications-android/create-android-app.md)
-* [Passaggio 2 - Integrazione di Mobile SDK](/help/tutorial-push-notifications-android/integrating-with-mobile-sdk.md)
-* [Passaggio 3 - Registrare le estensioni con la tua app mobile](/help/tutorial-push-notifications-android/register-mobile-extensions.md)
-* [Passaggio 4 - Impostare l’identificatore push](/help/tutorial-push-notifications-android/set-push-identifier.md)
-* [Passaggio 5 - Propagare le notifiche](/help/tutorial-push-notifications-android/propagate-notification.md)
-* [Passaggio 6 - Inviare le notifiche Push](/help/tutorial-push-notifications-android/send-push-notification.md)
+* [Passaggio 1: creare un’app Android](/help/tutorial-push-notifications-android/create-android-app.md)
+* [Passaggio 2: integrare l’SDK per dispositivi mobili](/help/tutorial-push-notifications-android/integrating-with-mobile-sdk.md)
+* [Passaggio 3: registrare le estensioni con la tua app mobile](/help/tutorial-push-notifications-android/register-mobile-extensions.md)
+* [Passaggio 4: impostare l’identificatore push](/help/tutorial-push-notifications-android/set-push-identifier.md)
+* [Passaggio 5: propagare le notifiche](/help/tutorial-push-notifications-android/propagate-notification.md)
+* [Passaggio 6: inviare le notifiche push](/help/tutorial-push-notifications-android/send-push-notification.md)
