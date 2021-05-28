@@ -8,10 +8,10 @@ tutorials-title: Esercitazioni
 tutorials-url: https://experienceleague.adobe.com/docs/campaign-standard-learn/tutorials/overview.html?lang=it
 getting-started-title: Documentazione
 getting-started-url: https://experienceleague.adobe.com/docs/campaign-standard/using/campaign-standard-home.html?lang=it
-source-git-commit: af394b33cac0952beea2b3b6aefcfee3934a9a1c
+source-git-commit: df4f635fc2760edc7c10a97da554a0d7704747c1
 workflow-type: tm+mt
-source-wordcount: '558'
-ht-degree: 98%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -19,7 +19,7 @@ ht-degree: 98%
 # Tutorial di Adobe Campaign Standard {#tutorials}
 
 + [Panoramica](/help/overview.md)
-+ Guida introduttiva {#getting-started}
++ Introduzione {#getting-started}
    + [Introduzione ad Adobe Campaign Standard](/help/getting-started/adobe-campaign-standard-introduction.md)
    + [Guida introduttiva all’interfaccia utente](/help/getting-started/getting-started-with-the-ui.md)
    + [Configurare un elenco](/help/getting-started/configure-a-list.md)
@@ -87,20 +87,20 @@ ht-degree: 98%
       + [Operazioni con il contenuto esistente](/help/designing-content/email-designer/working-with-existing-content.md)
       + [Creazione di contenuti con Adobe Dreamweaver](/help/designing-content/email-designer/dreamweaver-integration.md)
    + [Configurare gli elenchi di prodotti nelle e-mail transazionali](/help/designing-content/product-listings-in-transactional-email.md)
-+ Gestione di processi e dati {#managing-processes-and-data}
++ Gestione dei processi e dei dati {#managing-processes-and-data}
    + [Creazione di un flusso di lavoro](/help/managing-processes-and-data/creating-a-workflow.md)
    + Attività di esecuzione {#execution-activities}
       + [Attività External Signal](/help/managing-processes-and-data/execution-activities/external-signal-activity.md)
    + Attività di gestione dati {#data-management-activities}
       + [Attività External API](/help/managing-processes-and-data/data-management-activities/external-api-activity.md)
-+ Generazione rapporti {#reporting}
++ Rapporto {#reporting}
    + [Esplorazione dei rapporti](/help/getting-started/exploring-reports.md)
    + [Creazione di un rapporto dinamico](/help/reporting/creating-a-dynamic-report.md)
    + [Creazione di un rapporto basato su attributi di profilo personalizzati](/help/reporting/custom-profile-attributes-dynamic-reports.md)
    + [Creazione di un rapporto basato sui segmenti del flusso di lavoro](/help/reporting/report-on-workflow-segments.md)
-+ Integrazione con altre soluzioni {#integrations}
++ Integrare con altre soluzioni {#integrations}
    + [Monitorare il successo delle consegne in Adobe Analytics](/help/integrations/track-the-success-of-your-deliveries-in-analytics.md)
-   + Utilizzo dei trigger per i messaggi transazionali {#triggers}
+   + Utilizzare i trigger per i messaggi transazionali {#triggers}
       + [Panoramica](/help/integrations/using-triggers-for-transactional-messaging-overview.md)
       + [Configurare Launch per i trigger](/help/integrations/configure-launch-for-triggers.md)
       + [Creare un trigger in Experience Cloud](/help/integrations/create-a-trigger-in-experience-cloud.md)
