@@ -9,9 +9,9 @@ tutorials-url: https://experienceleague.adobe.com/docs/campaign-standard-learn/t
 getting-started-title: Documentazione
 getting-started-url: https://experienceleague.adobe.com/docs/campaign-standard/using/campaign-standard-home.html?lang=it
 source-git-commit: df4f635fc2760edc7c10a97da554a0d7704747c1
-workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+workflow-type: ht
+source-wordcount: '558'
+ht-degree: 100%
 
 ---
 
@@ -77,7 +77,7 @@ ht-degree: 0%
       + [Creare e modificare una pagina di destinazione](/help/communication-channels/landing-pages/landing-page-create-and-edit.md)
       + [Verificare e pubblicare una pagina di destinazione](/help/communication-channels/landing-pages/landing-page-test-and-publish.md)
       + [Configurare un modello di pagina di destinazione](/help/communication-channels/landing-pages/landing-page-configure-templates.md)
-+ Progettazione e personalizzazione dei contenuti {#designing-content}
++ Progettare e personalizzare i contenuti {#designing-content}
    + E-mail Designer{#email-designer}
       + [Panoramica](/help/designing-content/email-designer/email-designer-overview.md)
       + [Guida introduttiva a E-mail Designer](/help/designing-content/email-designer/getting-started-with-the-email-designer.md)
@@ -106,8 +106,8 @@ ht-degree: 0%
       + [Creare un trigger in Experience Cloud](/help/integrations/create-a-trigger-in-experience-cloud.md)
       + [Creare un evento trigger in Campaign Standard](/help/integrations/create-a-trigger-event.md)
       + [Configurare i messaggi transazionali utilizzando dati evento in tempo reale](/help/integrations/configure-transactional-messages-using-realtime-event-data.md)
-   + [Configurazione di Microsoft® Dynamics 365 per l’integrazione con Campaign Standard](/help/integrations/configure-dynamics-365.md)
-+ Amministrazione {#administrating}
+   + [Configurare Microsoft® Dynamics 365 per l’integrazione con Campaign Standard](/help/integrations/configure-dynamics-365.md)
++ Amministrare {#administrating}
    + [Gestione dei diritti di accesso degli utenti](/help/administrating/managing-user-access-rights.md)
    + [Creazione di risorse personalizzate](https://experienceleague.adobe.com/docs/campaign-standard-learn/creating-custom-resources/introduction.html?lang=it)
    + [Pannello di controllo Campaign](https://experienceleague.adobe.com/docs/campaign-standard-learn/control-panel/control-panel-overview.html?lang=it)
