@@ -1,24 +1,23 @@
 ---
-title: Creazione di profili e pubblico - Panoramica
+title: 'Creazione di profili e pubblico: panoramica'
 description: Scopri come accedere ai profili esistenti e come creare profili e tipi di pubblico.
-feature: Profili, pubblico
+feature: Profili, tipi di pubblico
 kt: 3899
 thumbnail: 18463.jpg
 doc-type: feature video
 activity: understand
 team: WWFRE
 exl-id: 5948ce53-0d12-4768-912a-9edb0b9b6f2b
-role: Business Practitioner
+role: User
 level: Beginner
-translation-type: tm+mt
-source-git-commit: ada0b029245190f53d58fa93c79c161719bfe9fd
+source-git-commit: 2be2719ddd84490b796d9abc6300376fa896ff0c
 workflow-type: tm+mt
 source-wordcount: '85'
-ht-degree: 16%
+ht-degree: 35%
 
 ---
 
-# Creazione di profili e pubblico - Panoramica
+# Creazione di profili e pubblico: panoramica
 
 Adobe Campaign dispone di due tipi o profili:
 
