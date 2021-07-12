@@ -4,12 +4,12 @@ description: Scopri come configurare Microsoft® Dynamics 365 per l’integrazio
 feature: Connettore Microsoft Dynamics 365
 kt: 2927
 doc-type: feature video
-role: Administrator
+role: Admin
 level: Experienced
 activity: setup
 team: PM
-source-git-commit: 80a04a3aefb5a530433fbd32d7728a8889484cdb
-workflow-type: ht
+source-git-commit: 2be2719ddd84490b796d9abc6300376fa896ff0c
+workflow-type: tm+mt
 source-wordcount: '66'
 ht-degree: 100%
 
