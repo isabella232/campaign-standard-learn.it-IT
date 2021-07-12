@@ -1,24 +1,23 @@
 ---
-title: Rivedere un recapito tramite e-mail e i rapporti
+title: Rivedere una consegna tramite e-mail e rapporti
 description: Scopri come rivedere una consegna e-mail personalizzata ed esaminare diversi rapporti disponibili in Adobe Campaign Standard.
-feature: Generazione di rapporti
+feature: Generazione rapporti
 kt: 3904
 thumbnail: 21389.jpg
 doc-type: tutorial
 activity: understand
 team: WWFRE
 exl-id: 629ba991-4e5c-419f-a32c-c632445afaf1
-role: Business Practitioner
+role: User
 level: Beginner
-translation-type: tm+mt
-source-git-commit: ada0b029245190f53d58fa93c79c161719bfe9fd
+source-git-commit: 2be2719ddd84490b796d9abc6300376fa896ff0c
 workflow-type: tm+mt
 source-wordcount: '81'
 ht-degree: 33%
 
 ---
 
-# Rivedere un recapito tramite e-mail e i rapporti
+# Rivedere una consegna tramite e-mail e rapporti
 
 Questo video spiega come rivedere una consegna e-mail personalizzata ed esplora i diversi rapporti disponibili in Adobe Campaign Standard.
 
