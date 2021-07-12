@@ -7,10 +7,9 @@ doc-type: feature video
 activity: use
 team: TM
 exl-id: c51716eb-7239-4fc0-9ccf-9f5f0a5fae65
-role: Business Practitioner
+role: User
 level: Beginner
-translation-type: tm+mt
-source-git-commit: ada0b029245190f53d58fa93c79c161719bfe9fd
+source-git-commit: 2be2719ddd84490b796d9abc6300376fa896ff0c
 workflow-type: tm+mt
 source-wordcount: '747'
 ht-degree: 21%
@@ -74,7 +73,7 @@ Una volta pubblicata la consegna, puoi [creare rapporti sulla consegna in-app](/
 
 * [Rapporto in-app](https://docs.adobe.com/content/help/en/campaign-standard/using/reporting/list-of-reports/in-app-report.html)
 * [Impostare una proprietà mobile](https://aep-sdks.gitbook.io/docs/getting-started/create-a-mobile-property)
-* [Configurazione di un’app mobile tramite SDK per Adobe Experience Platform](https://docs.adobe.com/content/help/it-IT/campaign-standard/using/administrating/configuring-channels/configuring-a-mobile-application.html)
+* [Configurazione di un’app mobile tramite SDK per Adobe Experience Platform](https://experienceleague.adobe.com/docs/campaign-standard/using/administrating/configuring-channels/configuring-a-mobile-application.html?lang=it)
 * [Preparazione e invio di un messaggio in-app](https://docs.adobe.com/content/help/en/campaign-standard/using/communication-channels/in-app-messaging/preparing-and-sending-an-in-app-message.html)
 * [Personalizzazione di un messaggio in-app](https://docs.adobe.com/content/help/en/campaign-standard/using/communication-channels/in-app-messaging/customizing-an-in-app-message.html)
 * [Invio di un messaggio in-app all’interno di un flusso di lavoro](https://docs.adobe.com/content/help/en/campaign-standard/using/managing-processes-and-data/channel-activities/in-app-delivery.html)
