@@ -8,9 +8,9 @@ tutorials-title: Esercitazioni
 tutorials-url: https://experienceleague.adobe.com/docs/campaign-standard-learn/tutorials/overview.html?lang=it
 getting-started-title: Documentazione
 getting-started-url: https://experienceleague.adobe.com/docs/campaign-standard/using/campaign-standard-home.html?lang=it
-source-git-commit: df4f635fc2760edc7c10a97da554a0d7704747c1
-workflow-type: ht
-source-wordcount: '558'
+source-git-commit: 0dd34fe4027d2c7512a7fc6ec7258cf7a41efa65
+workflow-type: tm+mt
+source-wordcount: '557'
 ht-degree: 100%
 
 ---
@@ -110,8 +110,8 @@ ht-degree: 100%
 + Amministrare {#administrating}
    + [Gestione dei diritti di accesso degli utenti](/help/administrating/managing-user-access-rights.md)
    + [Creazione di risorse personalizzate](https://experienceleague.adobe.com/docs/campaign-standard-learn/creating-custom-resources/introduction.html?lang=it)
-   + [Pannello di controllo Campaign](https://experienceleague.adobe.com/docs/campaign-standard-learn/control-panel/control-panel-overview.html?lang=it)
-   + Adobe Experience Platform Data Connector {adobe-experience-platform-data-connector}
+   + [Pannello di controllo](https://experienceleague.adobe.com/docs/campaign-standard-learn/control-panel/control-panel-overview.html?lang=it)
+   + Connettore dati di Adobe Experience Platform {#adobe-experience-platform-data-connector}
       + [Informazioni su Adobe Experience Platform Data Connector](/help/administrating/adobe-experience-platform-data-connector/understanding-the-adobe-experience-platform-data-connector.md)
       + [Mappatura di risorse personalizzate](/help/administrating/adobe-experience-platform-data-connector/mapping-custom-resources.md)
       + [Mappatura di eventi Experience](/help/administrating/adobe-experience-platform-data-connector/mapping-experience-events.md)
