@@ -1,6 +1,6 @@
 ---
 title: Aggiunta di certificati SSL
-description: ' Il Pannello di controllo Campaign consente di aggiungere certificati SSL per proteggere i sottodomini.'
+description: Scopri come aggiungere certificati SSL per proteggere i sottodomini.
 feature: Pannello di controllo Campaign
 audience: administrator
 kt: 4219
@@ -9,19 +9,18 @@ doc-type: feature video
 activity: use
 team: PM
 exl-id: b46d9186-07db-4225-8dd7-3f3452aa7a1b
-translation-type: tm+mt
-source-git-commit: ada0b029245190f53d58fa93c79c161719bfe9fd
+source-git-commit: 84195adf94a98bf3150a51f17aa1de1d0329da05
 workflow-type: tm+mt
-source-wordcount: '196'
-ht-degree: 55%
+source-wordcount: '191'
+ht-degree: 36%
 
 ---
 
-# Aggiunta di certificati SSL
+# Aggiungere certificati SSL
 
- Il [!UICONTROL Adobe Campaign Control Panel] di consente di aggiungere certificati SSL per proteggere i sottodomini.
+Scopri come aggiungere certificati SSL per proteggere i sottodomini.
 
-## Accesso alla gestione dei sottodomini del [!UICONTROL Control Panel]
+## Accedere alla gestione dei sottodomini [!UICONTROL Control Panel]
 
 Per accedere alla gestione dei sottodomini nel [!UICONTROL Control Panel], vai a:
 
@@ -36,7 +35,7 @@ Occorrono tre passaggi per aggiungere certificati SSL:
 
 ### Passaggio 1: Genera [!UICONTROL Certificate Signing Requests]
 
-Per l’acquisto di un certificato SSL è necessario il [!UICONTROL Certificate Signing Request] (CSR). Deve essere generato per l’istanza e i sottodomini che intendi proteggere.
+Per l’acquisto di un certificato SSL è necessario un certificato [!UICONTROL Certificate Signing Request] (CSR). Deve essere generato per l’istanza e i sottodomini che intendi proteggere.
 
 Il video seguente descrive come generare un [!UICONTROL Certificate Signing Request] in [!UICONTROL Control Panel].
 
@@ -61,4 +60,4 @@ Il video seguente spiega come installare i certificati SSL nel [!UICONTROL Contr
 ## Risorse aggiuntive
 
 * [Delega completa dei sottodomini (video)](./subdomain-delegation.md)
-* [Sottodomini e certificati - documentazione](https://docs.adobe.com/content/help/it-IT/control-panel/using/subdomains-and-certificates/renewing-subdomain-certificate.html)
+* [Sottodomini e certificati - documentazione](https://experienceleague.adobe.com/docs/control-panel/using/subdomains-and-certificates/renewing-subdomain-certificate.html?lang=en)
