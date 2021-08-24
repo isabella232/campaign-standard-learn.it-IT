@@ -1,18 +1,16 @@
 ---
 title: Modifica della mappatura dei dati
 description: Scopri come controllare lo stato e modificare la mappatura dei dati.
-feature: Connettore dati di Adobe Experience Platform
 kt: 2830
 thumbnail: 27266
 doc-type: feature video
 activity: use
 team: TM
 exl-id: a03299d2-3ef5-42a7-b0ab-ec90908f71ec
-translation-type: tm+mt
-source-git-commit: ada0b029245190f53d58fa93c79c161719bfe9fd
+source-git-commit: 5a2f8c9a78bf5100b272f9b4461131545b3aeb8b
 workflow-type: tm+mt
-source-wordcount: '85'
-ht-degree: 12%
+source-wordcount: '80'
+ht-degree: 7%
 
 ---
 
