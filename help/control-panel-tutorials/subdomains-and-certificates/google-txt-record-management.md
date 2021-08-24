@@ -8,11 +8,10 @@ doc-type: feature video
 activity: use
 team: PM
 exl-id: 51f3d728-d547-41c8-bf53-bca49d5427fe
-translation-type: tm+mt
-source-git-commit: ada0b029245190f53d58fa93c79c161719bfe9fd
+source-git-commit: 84195adf94a98bf3150a51f17aa1de1d0329da05
 workflow-type: tm+mt
 source-wordcount: '122'
-ht-degree: 100%
+ht-degree: 92%
 
 ---
 
@@ -26,4 +25,4 @@ Il seguente video illustra come aggiungere record TXT di [!DNL Google] per la ve
 
 ## Risorse aggiuntive
 
-* [Documentazione](https://docs.adobe.com/content/help/it-IT/control-panel/using/subdomains-and-certificates/managing-txt-records.html)
+* [Documentazione](https://experienceleague.adobe.com/docs/control-panel/using/subdomains-and-certificates/managing-txt-records.html?lang=en)
