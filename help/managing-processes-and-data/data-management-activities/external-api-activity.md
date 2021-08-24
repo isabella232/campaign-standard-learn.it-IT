@@ -10,16 +10,16 @@ team: TM
 exl-id: bce6fa2e-a684-43af-a41e-dfec54dd453a
 role: User, Developer
 level: Experienced
-source-git-commit: 2be2719ddd84490b796d9abc6300376fa896ff0c
+source-git-commit: 481cbdcc9ac7446cc36fbff6e3d6e43fe333d30b
 workflow-type: tm+mt
-source-wordcount: '188'
-ht-degree: 87%
+source-wordcount: '177'
+ht-degree: 46%
 
 ---
 
 # Configurare ed eseguire un flusso di lavoro con l’[!UICONTROL External API activity]
 
-L’[!UICONTROL External API activity] è un’[!UICONTROL Data Management activity]. Ti consente di chiamare un endpoint API REST esterno. Lo scopo di questa attività è quello di ottenere all’interno della tua campagna i dati di personalizzazione da un sistema di terze parti.
+L’[!UICONTROL External API activity] è un’[!UICONTROL Data Management activity]. Ti consente di chiamare un endpoint API REST esterno. Lo scopo di questa attività è quello di ottenere i dati di personalizzazione da un sistema di terze parti nella campagna.
 
 I casi d’uso di esempio includono:
 
@@ -36,8 +36,8 @@ Il presente video illustra l’utilizzo dell’[!UICONTROL External API activity
 
 >[!NOTE]
 >
->L’attività è destinata all’estrazione di dati a livello di campagna (ultimi insiemi di offerte, punteggi più recenti, ecc.) e non al recupero di informazioni specifiche per ciascun profilo, in quanto ciò può comportare il trasferimento di grandi quantità di dati. Se il caso d’uso lo richiede, il consiglio è quello di utilizzare l’attività Transfer File.
+>L’attività è destinata al recupero di dati a livello di campagna, non al recupero di informazioni specifiche per ciascun profilo, in quanto ciò può comportare il trasferimento di grandi quantità di dati. Se il caso d’uso richiede informazioni specifiche per il profilo, si consiglia di utilizzare l’attività Transfer file .
 
 ## Risorse aggiuntive
 
-* [External API (documentazione)](https://docs.adobe.com/content/help/it-IT/campaign-standard/using/managing-processes-and-data/data-management-activities/external-api.html)
+* [External API (documentazione)](https://experienceleague.adobe.com/docs/campaign-standard/using/managing-processes-and-data/data-management-activities/external-api.html?lang=en)
