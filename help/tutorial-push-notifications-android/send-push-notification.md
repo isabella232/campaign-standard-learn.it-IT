@@ -7,8 +7,7 @@ doc-type: tutorial
 activity: use
 team: TM
 exl-id: 10218e1f-6e85-490a-84d9-c5d42bd2321d
-translation-type: tm+mt
-source-git-commit: ada0b029245190f53d58fa93c79c161719bfe9fd
+source-git-commit: 481cbdcc9ac7446cc36fbff6e3d6e43fe333d30b
 workflow-type: tm+mt
 source-wordcount: '139'
 ht-degree: 4%
@@ -17,7 +16,7 @@ ht-degree: 4%
 
 # Parte 6 - Invia [!UICONTROL Push Notification] per testare il tuo lavoro
 
-Ora è necessario creare e inviare un [!UICONTROL Push Notification] utilizzando Adobe Campaign. . Per creare una semplice notifica push a scopo di test, segui i passaggi seguenti.
+Ora è necessario creare e inviare un [!UICONTROL Push Notification] utilizzando Adobe Campaign. Per creare una semplice notifica push a scopo di test, segui i passaggi seguenti.
 
 * Accedi alla tua istanza Adobe Campaign Standard
 * Fai clic su **[!UICONTROL Marketing Activities]->[!UICONTROL Create]->[!UICONTROL Push Notification]**
@@ -27,9 +26,9 @@ Ora è necessario creare e inviare un [!UICONTROL Push Notification] utilizzando
 * Fornisci un [!UICONTROL Message title] significativo e [!UICONTROL Message body] e fai clic su **[!UICONTROL Create]**.
 * Fai clic su **[!UICONTROL Prepare]**. Al termine della preparazione, fai clic su **[!UICONTROL Confirm]** per inviare il messaggio.
 
-Se tutto va bene, dovresti vedere la notifica nella tua app Android in esecuzione nell&#39;emulatore
+Se tutto va bene, dovresti vedere la notifica nell&#39;app Android™ in esecuzione nell&#39;emulatore
 
 ## Risorse aggiuntive
 
-* [Documentazione dettagliata sulle notifiche push](https://docs.adobe.com/content/help/en/campaign-standard/using/communication-channels/push-notifications/about-push-notifications.html)
+* [Documentazione dettagliata sulle notifiche push](https://experienceleague.adobe.com/docs/campaign-standard/using/communication-channels/push-notifications/about-push-notifications.html?lang=en)
 * [Creazione di una notifica push (video)](/help/communication-channels/mobile/push-notifications/creating-a-push-notification.md)
