@@ -1,6 +1,6 @@
 ---
 title: Delega di sottodomini completa
-description: Il Pannello di controllo Campaign consente di delegare completamente un sottodominio ad Adobe Campaign. Per farlo, segui la procedura indicata di seguito.
+description: 'Scopri come delegare un sottodominio ad Adobe Campaign. '
 feature: Sottodomini e certificati
 kt: 4115
 thumbnail: 31390.jpg
@@ -8,11 +8,10 @@ doc-type: feature video
 activity: use
 team: PM
 exl-id: 063e9971-2cc6-4027-80cc-d2c0fd264a51
-translation-type: tm+mt
-source-git-commit: ada0b029245190f53d58fa93c79c161719bfe9fd
+source-git-commit: 84195adf94a98bf3150a51f17aa1de1d0329da05
 workflow-type: tm+mt
-source-wordcount: '122'
-ht-degree: 78%
+source-wordcount: '89'
+ht-degree: 64%
 
 ---
 
@@ -20,11 +19,7 @@ ht-degree: 78%
 
 Il [!UICONTROL Control Panel] di Adobe Campaign consente di delegare completamente un sottodominio ad Adobe Campaign.
 
->[!NOTE]
->
->La delega dei sottodomini dal [!UICONTROL Control Panel] sarà disponibile in versione beta entro la fine di gennaio e sarà soggetta a frequenti aggiornamenti e modifiche senza preavviso.
-
-## Accesso alla [!UICONTROL Subdomain Management] nel [!UICONTROL Control Panel]
+## Accedi a [!UICONTROL Control Panel] [!UICONTROL Subdomain Management]
 
 Per accedere alla [!UICONTROL Subdomain Management] nel [!UICONTROL Control Panel], vai a:
 
@@ -35,11 +30,11 @@ Per accedere alla [!UICONTROL Subdomain Management] nel [!UICONTROL Control Pane
 
 ## Delegare i sottodomini
 
-Il video seguente illustra come delegare i sottodomini.
+Scopri come delegare un sottodominio ad Adobe Campaign.
 
 >[!VIDEO](https://video.tv.adobe.com/v/31390?quality=12)
 
 ## Risorse aggiuntive
 
 * [Aggiunta di certificati SSL](/help/control-panel-tutorials/subdomains-and-certificates/adding-ssl-certificates.md)
-* [Sottodomini e certificati](https://docs.adobe.com/content/help/it-IT/control-panel/using/subdomains-and-certificates/renewing-subdomain-certificate.html)
+* [Sottodomini e certificati](https://experienceleague.adobe.com/docs/control-panel/using/subdomains-and-certificates/renewing-subdomain-certificate.html?lang=en)
