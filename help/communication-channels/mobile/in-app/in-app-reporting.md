@@ -10,19 +10,19 @@ team: TM
 exl-id: bb587ee7-9587-44d3-8bb4-3d4e64f66749
 role: User, Developer
 level: Beginner, Intermediate
-source-git-commit: 2be2719ddd84490b796d9abc6300376fa896ff0c
+source-git-commit: 2ba22e7e7d193278fd06cb4b2dc80f650f754ec8
 workflow-type: tm+mt
-source-wordcount: '84'
-ht-degree: 10%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
 # Report sulla consegna [!UICONTROL In-App] {#in-app-message-reporting}
 
-Puoi rivedere i dati relativi alla consegna [!UICONTROL In-App] nel riepilogo della consegna aggiungendo metriche specifiche [!UICONTROL In-App]. In alternativa, puoi utilizzare il rapporto in-app [predefinito](https://docs.adobe.com/content/help/en/campaign-standard/using/reporting/list-of-reports/in-app-report.html).
+Puoi rivedere i dati relativi alla consegna [!UICONTROL In-App] nel riepilogo della consegna aggiungendo metriche specifiche in-app. In alternativa, puoi utilizzare il rapporto in-app [predefinito](https://experienceleague.adobe.com/docs/campaign-standard/using/reporting/list-of-reports/in-app-report.html?lang=en).
 
 >[!VIDEO](https://video.tv.adobe.com/v/26412?quality=12)
 
 ## Risorse aggiuntive
 
-* [Report in-app](https://docs.adobe.com/content/help/en/campaign-standard/using/reporting/list-of-reports/in-app-report.html)
+* [Report in-app](https://experienceleague.adobe.com/docs/campaign-standard/using/reporting/list-of-reports/in-app-report.html?lang=en)
