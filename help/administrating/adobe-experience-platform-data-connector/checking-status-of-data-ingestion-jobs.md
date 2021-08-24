@@ -1,5 +1,5 @@
 ---
-title: Controllo dello stato di un processo di inserimento dei dati
+title: Controllare lo stato di un processo di inserimento dei dati
 description: Scopri come controllare lo stato e modificare la mappatura dei dati.
 feature: Integrazione del servizio core People
 audience: administrator
@@ -9,18 +9,18 @@ doc-type: feature video
 activity: use
 team: PM
 exl-id: aa0f8abe-0b42-4957-8a82-25521751b7af
-source-git-commit: 64940a739897c3969574dcf1d1e36c5a986d0473
+source-git-commit: 2ba22e7e7d193278fd06cb4b2dc80f650f754ec8
 workflow-type: tm+mt
-source-wordcount: '121'
-ht-degree: 9%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
-# Controllo dello stato di un processo di inserimento dei dati
+# Controllare lo stato di un processo di inserimento dei dati
 
 >[!NOTE]
 >
->Questa funzionalità è attualmente in versione beta e soggetta a frequenti aggiornamenti e modifiche senza preavviso.
+>Questa funzionalità è in versione beta e soggetta a frequenti aggiornamenti e modifiche senza preavviso.
 >
 >Per implementare questa funzionalità, contatta [!UICONTROL Adobe Customer Support] .
 
