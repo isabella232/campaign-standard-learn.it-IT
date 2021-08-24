@@ -1,18 +1,17 @@
 ---
 title: Gestione dei diritti di accesso degli utenti
 description: Questo video spiega come definire e gestire le autorizzazioni assegnate a utenti diversi in Adobe Campaign.
-feature: Diritti di accesso utente
+feature: Gestione degli accessi
 kt: 1814
 thumbnail: 24671.jpg
 doc-type: feature video
 activity: setup
 team: DOCS
 exl-id: 22c05c17-a085-4376-9d06-cbb9d5249608
-translation-type: tm+mt
-source-git-commit: f83cf9aa38981880b39b8a411bfe9e22a1295768
+source-git-commit: 5a2f8c9a78bf5100b272f9b4461131545b3aeb8b
 workflow-type: tm+mt
-source-wordcount: '62'
-ht-degree: 20%
+source-wordcount: '61'
+ht-degree: 21%
 
 ---
 
@@ -24,4 +23,4 @@ Questo video spiega come definire e gestire le autorizzazioni assegnate a utenti
 
 ## Risorse aggiuntive
 
-* [Informazioni sulla gestione degli accessi](https://docs.adobe.com/content/help/en/campaign-standard/using/administrating/users-and-security/about-access-management.html)
+* [Informazioni sulla gestione degli accessi](https://experienceleague.adobe.com/docs/campaign-standard/using/administrating/users-and-security/about-access-management.html?lang=en)
