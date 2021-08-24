@@ -1,18 +1,16 @@
 ---
 title: Informazioni su Adobe Experience Platform Data Connector
 description: Adobe Experience Platform Data Connector aiuta i clienti esistenti a rendere i loro dati disponibili su Adobe Experience Platform mappando i dati XTK (dati acquisiti in Campaign) su Experience Data Model (XDM) su Adobe Experience Platform.
-feature: Connettore dati di Adobe Experience Platform
 kt: 2826
 thumbnail: 27304.jpg
 doc-type: feature video
 activity: understand
 team: TM
 exl-id: 686961f9-5374-4cc6-8b36-7ee0584ea720
-translation-type: tm+mt
-source-git-commit: ada0b029245190f53d58fa93c79c161719bfe9fd
+source-git-commit: 5a2f8c9a78bf5100b272f9b4461131545b3aeb8b
 workflow-type: tm+mt
-source-wordcount: '348'
-ht-degree: 11%
+source-wordcount: '343'
+ht-degree: 10%
 
 ---
 
@@ -50,7 +48,7 @@ Le seguenti esercitazioni descrivono i passaggi chiave per eseguire una mappatur
 2. [Mappatura di eventi Experience](/help/administrating/adobe-experience-platform-data-connector/mapping-experience-events.md)
 3. [Mappatura dei dati della tabella di seed](/help/administrating/adobe-experience-platform-data-connector/mapping-seed-table-data.md)
 4. [Modifica della mappatura dei dati](/help/administrating/adobe-experience-platform-data-connector/modifying-data-mapping.md)
-5. [Verifica dello stato di un processo di inserimento dei dati](/help/administrating/adobe-experience-platform-data-connector/checking-status-of-data-ingestion-jobs.md)
+5. [Verifica dello stato di un processo di acquisizione dati](/help/administrating/adobe-experience-platform-data-connector/checking-status-of-data-ingestion-jobs.md)
 
 ## Risorse aggiuntive
 
