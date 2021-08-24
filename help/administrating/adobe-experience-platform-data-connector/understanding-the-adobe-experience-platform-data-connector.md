@@ -1,5 +1,5 @@
 ---
-title: Informazioni su Adobe Experience Platform Data Connector
+title: Comprendere il connettore dati Adobe Experience Platform
 description: Adobe Experience Platform Data Connector aiuta i clienti esistenti a rendere i loro dati disponibili su Adobe Experience Platform mappando i dati XTK (dati acquisiti in Campaign) su Experience Data Model (XDM) su Adobe Experience Platform.
 feature: Integrazione del servizio core People
 kt: 2826
@@ -8,18 +8,18 @@ doc-type: feature video
 activity: understand
 team: TM
 exl-id: 686961f9-5374-4cc6-8b36-7ee0584ea720
-source-git-commit: 64940a739897c3969574dcf1d1e36c5a986d0473
+source-git-commit: 2ba22e7e7d193278fd06cb4b2dc80f650f754ec8
 workflow-type: tm+mt
-source-wordcount: '344'
-ht-degree: 10%
+source-wordcount: '289'
+ht-degree: 4%
 
 ---
 
-# Informazioni su Adobe Experience Platform [!UICONTROL Data Connector]
+# Comprendere Adobe Experience Platform [!UICONTROL Data Connector]
 
 >[!NOTE]
 >
->Questa funzionalità è attualmente in versione beta e soggetta a frequenti aggiornamenti e modifiche senza preavviso.
+>Questa funzionalità è in versione beta e soggetta a frequenti aggiornamenti e modifiche senza preavviso.
 >
 >Per implementare questa funzionalità, contatta [!UICONTROL Adobe Customer Support] .
 
@@ -39,7 +39,7 @@ Adobe Experience Platform [!UICONTROL Data Connector] è destinato ai data engin
 >
 >Il trasferimento predefinito di [!UICONTROL subscription events] non è supportato. Per trasferire [!UICONTROL subscription events], puoi creare XDM e set di dati corrispondenti in Adobe Experience Platform, quindi configurare una mappatura dati personalizzata per questi dati.
 >
->Impossibile acquisire [!UICONTROL experience events] esistente in Adobe Experience Platform, ma i [!UICONTROL experience events] generati in corso verranno inviati in streaming a Adobe Experience Platform.
+>Impossibile acquisire [!UICONTROL experience events] esistente in Adobe Experience Platform, ma i [!UICONTROL experience events] generati in corso vengono inviati in streaming a Adobe Experience Platform.
 
 ## Passaggi chiave per eseguire una mappatura dei dati
 
@@ -49,12 +49,9 @@ Le seguenti esercitazioni descrivono i passaggi chiave per eseguire una mappatur
 2. [Mappatura di eventi Experience](/help/administrating/adobe-experience-platform-data-connector/mapping-experience-events.md)
 3. [Mappatura dei dati della tabella di seed](/help/administrating/adobe-experience-platform-data-connector/mapping-seed-table-data.md)
 4. [Modifica della mappatura dei dati](/help/administrating/adobe-experience-platform-data-connector/modifying-data-mapping.md)
-5. [Verifica dello stato di un processo di acquisizione dati](/help/administrating/adobe-experience-platform-data-connector/checking-status-of-data-ingestion-jobs.md)
+5. [Controllare lo stato di un processo di inserimento dei dati](/help/administrating/adobe-experience-platform-data-connector/checking-status-of-data-ingestion-jobs.md)
 
 ## Risorse aggiuntive
 
-* [Informazioni sul Connettore dati di Adobe Experience Platform](https://docs.adobe.com/content/help/en/campaign-standard/using/administrating/mapping-campaign-and-aep-data/aep-about-data-connector.html)
-* [Panoramica di Experience Data Model](https://docs.adobe.com/content/help/en/campaign-standard/using/administrating/mapping-campaign-and-aep-data/aep-data-model-overview.html)
-* [Definizione mappature](https://experienceleague.adobe.com/docs/campaign-standard/using/integrating-with-adobe-cloud/adobe-experience-platform/data-connector/aep-mapping-definition.html)
-* [Attivazione mappature](https://experienceleague.adobe.com/docs/campaign-standard/using/integrating-with-adobe-cloud/adobe-experience-platform/data-connector/aep-mapping-activation.html)
-* [Attivazione dell’acquisizione dati tramite API](https://experienceleague.adobe.com/docs/campaign-standard/using/integrating-with-adobe-cloud/adobe-experience-platform/data-connector/aep-triggering-data-ingestion.html)
+* [Informazioni sul Connettore dati di Adobe Experience Platform](https://experienceleague.adobe.com/docs/campaign-standard/using/integrating-with-adobe-cloud/adobe-experience-platform/data-connector/aep-about-data-connector.html)
+
