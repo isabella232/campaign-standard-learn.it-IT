@@ -10,9 +10,9 @@ team: TM
 exl-id: 7520cb4a-f277-42fa-81be-afb46b21365f
 role: User
 level: Beginner
-source-git-commit: 2be2719ddd84490b796d9abc6300376fa896ff0c
+source-git-commit: 84195adf94a98bf3150a51f17aa1de1d0329da05
 workflow-type: tm+mt
-source-wordcount: '158'
+source-wordcount: '154'
 ht-degree: 12%
 
 ---
@@ -21,7 +21,7 @@ ht-degree: 12%
 
 Scopri come creare un [!UICONTROL push notification] in Adobe Campaign Standard (ACS):
 
-Adobe Campaign consente di inviare [!UICONTROL push notifications] personalizzati e segmentati ai dispositivi mobili iOS e Android. Sono disponibili due opzioni:
+Adobe Campaign consente di inviare [!UICONTROL push notifications] personalizzati e segmentati ai dispositivi mobili iOS e Android™. Sono disponibili due opzioni:
 
 * **[!UICONTROL Send push notification to Campaign profiles]**: Ti consente di eseguire il targeting dei profili di gestione delle relazioni con i clienti di Adobe Campaign che si sono abbonati alla tua app mobile e hanno acconsentito alla ricezione di  [!UICONTROL push notifications]. Puoi inserire campi di personalizzazione nel [!UICONTROL push notification], ad esempio il nome del destinatario.
 
@@ -35,8 +35,8 @@ Il video descrive come inviare un [!DNL push notification to app subscribers].
 
 Documentazione:
 
-* [Informazioni sulle notifiche push](https://docs.adobe.com/content/help/en/campaign-standard/using/communication-channels/push-notifications/about-push-notifications.html)
-* [Preparazione e invio di una notifica push](https://docs.adobe.com/content/help/en/campaign-standard/using/communication-channels/push-notifications/preparing-and-sending-a-push-notification.html)
+* [Informazioni sulle notifiche push](https://experienceleague.adobe.com/docs/campaign-standard/using/communication-channels/push-notifications/about-push-notifications.html)
+* [Preparazione e invio di una notifica push](https://experienceleague.adobe.com/docs/campaign-standard/using/communication-channels/push-notifications/preparing-and-sending-a-push-notification.html)
 
 Esercitazioni:
 
