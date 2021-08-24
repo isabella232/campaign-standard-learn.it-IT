@@ -8,10 +8,10 @@ tutorials-title: Esercitazioni
 tutorials-url: https://experienceleague.adobe.com/docs/campaign-standard-learn/tutorials/overview.html?lang=it
 getting-started-title: Documentazione
 getting-started-url: https://experienceleague.adobe.com/docs/campaign-standard/using/campaign-standard-home.html?lang=it
-source-git-commit: 481cbdcc9ac7446cc36fbff6e3d6e43fe333d30b
+source-git-commit: 84195adf94a98bf3150a51f17aa1de1d0329da05
 workflow-type: tm+mt
 source-wordcount: '557'
-ht-degree: 89%
+ht-degree: 83%
 
 ---
 
@@ -39,18 +39,18 @@ ht-degree: 89%
    + [Gestire servizi e iscrizioni](/help/managing-processes-and-data/services-and-subscriptions.md)
    + Destinazioni del pubblico (BETA){#audience-destinations}
       + [Panoramica](/help/profiles-and-audiences/audience-destinations/audience-destinations-overview.md)
-      + [Creare un nuovo pubblico con Unified Segment Builder (Generatore di segmenti unificato)](/help/profiles-and-audiences/audience-destinations/creating-audiences-using-segment-builder.md)
+      + [Creare un pubblico utilizzando Unified Segment Builder (Generatore di segmenti unificato)](/help/profiles-and-audiences/audience-destinations/creating-audiences-using-segment-builder.md)
       + [Attivare il pubblico di Adobe Experience Platform in un flusso di lavoro](/help/profiles-and-audiences/audience-destinations/activating-aep-audiences.md)
       + [Modificare la dimensione di targeting](/help/profiles-and-audiences/audience-destinations/changing-targeting-dimension.md)
 + Canali di comunicazione {#communication-channels}
    + E-mail {#email}
       + [Creare un messaggio e-mail](/help/communication-channels/email/create-email-from-homepage.md)
-      + [Inviare un test, preparare e spedire un messaggio e-mail](/help/communication-channels/email/sending-test-preparing-sending-email.md)
+      + [Inviare un test, preparare e inviare un messaggio e-mail](/help/communication-channels/email/sending-test-preparing-sending-email.md)
       + [Test A/B](/help/communication-channels/email/a-b-testing.md)
       + [Test dei messaggi e-mail tramite profili di destinazione](/help/communication-channels/email/profile-substitution.md)
       + [Aggiungere un gruppo di controllo a una consegna](/help/communication-channels/email/control-groups.md)
       + [Creare un’e-mail o un SMS multilingue](/help/communication-channels/create-multilingual-deliveries.md)
-      + [Convertire consegne e-mail e SMS esistenti o modelli in una versione multilingue](/help/communication-channels/covert-into-multilingual-deliveries.md)
+      + [Convertire e-mail, SMS o modello di consegna esistente in una versione multilingue](/help/communication-channels/covert-into-multilingual-deliveries.md)
       + [Rivedere una consegna tramite e-mail e rapporti](/help/communication-channels/email/reviewing-personalized-email-delivery-and-reports.md)
       + [Creare e inviare e-mail tramite un flusso di lavoro](/help/communication-channels/email/create-and-send-emails-via-workflow.md)
       + [Guida alle best practice per la distribuzione](https://experienceleague.adobe.com/docs/deliverability-learn/deliverability-best-practice-guide/introduction.html?lang=it)
@@ -63,7 +63,7 @@ ht-degree: 89%
       + Notifiche push {#push}
          + [Creare una notifica push](/help/communication-channels/mobile/push-notifications/creating-a-push-notification.md)
          + [Creare una notifica push multilingue](/help/communication-channels/mobile/push-notifications/creating-multilingual-push-notifications.md)
-         + [Tutorial: guida introduttiva alle notifiche push per Android](https://experienceleague.adobe.com/docs/campaign-standard-learn/getting-started-with-push-notifications-android/introduction.html?lang=it)
+         + [Tutorial: guida introduttiva alle notifiche push per Android™](https://experienceleague.adobe.com/docs/campaign-standard-learn/getting-started-with-push-notifications-android/introduction.html?lang=it)
       + Messaggi in-app {#in-app}
          + [Introduzione ai messaggi in-app](/help/communication-channels/mobile/in-app/in-app-message-overview.md)
          + [Configurare gli eventi](/help/communication-channels/mobile/in-app/configure-events.md)
@@ -105,7 +105,7 @@ ht-degree: 89%
       + [Configurare Launch per i trigger](/help/integrations/configure-launch-for-triggers.md)
       + [Creare un trigger in Experience Cloud](/help/integrations/create-a-trigger-in-experience-cloud.md)
       + [Creare un evento trigger in Campaign Standard](/help/integrations/create-a-trigger-event.md)
-      + [Configurare i messaggi transazionali utilizzando dati evento in tempo reale](/help/integrations/configure-transactional-messages-using-realtime-event-data.md)
+      + [Configurare i messaggi transazionali utilizzando i dati evento in tempo reale](/help/integrations/configure-transactional-messages-using-realtime-event-data.md)
    + [Configurare Microsoft® Dynamics 365 per l’integrazione con Campaign Standard](/help/integrations/configure-dynamics-365.md)
 + Amministrare {#administrating}
    + [Gestione dei diritti di accesso degli utenti](/help/administrating/managing-user-access-rights.md)
