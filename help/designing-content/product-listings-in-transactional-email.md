@@ -10,22 +10,22 @@ team: TM
 exl-id: 62d0d756-e9b9-4656-94ba-bfc113a7b5c9
 role: User, Developer
 level: Experienced
-source-git-commit: 30e8e10575aad4dcf2b0473cdd9fd6d5fc2815f4
+source-git-commit: 344b8d8bb216489db586b030c71fd84d273968d9
 workflow-type: tm+mt
-source-wordcount: '170'
+source-wordcount: '169'
 ht-degree: 4%
 
 ---
 
 # Configurare [!UICONTROL product listings] nelle e-mail transazionali
 
-Puoi configurare un messaggio e-mail di ritargeting con un elenco di prodotti sconosciuti durante la progettazione dell’e-mail. Questi prodotti possono essere aggiunti dal payload in fase di esecuzione. Ad esempio, puoi inviare automaticamente un’e-mail di abbandono carrello elencando tutti i prodotti presenti nel carrello dell’utente prima che lo abbandonino, con un’immagine, un prezzo e un collegamento a ciascun prodotto.
+Puoi configurare un messaggio e-mail di retargeting con un elenco di prodotti sconosciuti durante la progettazione dell’e-mail. Questi prodotti possono essere aggiunti dal payload in fase di esecuzione. Ad esempio, puoi inviare automaticamente un’e-mail di abbandono carrello elencando tutti i prodotti presenti nel carrello dell’utente prima che lo abbandonino, con un’immagine, un prezzo e un collegamento a ciascun prodotto.
 
 Nei video seguenti vengono illustrati i passaggi necessari per configurare [!UICONTROL product listings] in [!UICONTROL transactional emails].
 
 >[!NOTE]
 >
->Questa funzione è attualmente indicata come loop all’interno dei video.
+>Questa funzione è definita loop nei video.
 
 ## Passaggio 1: creare un evento e pubblicarlo
 
@@ -41,5 +41,5 @@ Nei video seguenti vengono illustrati i passaggi necessari per configurare [!UIC
 
 ## Risorse aggiuntive
 
-* [Utilizzo degli elenchi dei prodotti in un messaggio sulle transazioni (documentazione)](https://docs.adobe.com/content/help/en/campaign-standard/using/communication-channels/transactional-messaging/event-transactional-messages.html#using-product-listings-in-a-transactional-message)
-* [Definizione delle raccolte di dati (documentazione)](https://docs.adobe.com/content/help/en/campaign-standard/using/administrating/configuring-channels/configuring-transactional-messaging.html#defining-data-collections)
+* [Utilizzo degli elenchi dei prodotti in un messaggio sulle transazioni (documentazione)](https://experienceleague.adobe.com/docs/campaign-standard/using/communication-channels/transactional-messaging/transactional-message-edition/editing-transactional-message.html?lang=en)
+* [Definizione delle raccolte di dati (documentazione)](https://experienceleague.adobe.com/docs/campaign-standard/using/communication-channels/transactional-messaging/event-configuration/configuring-transactional-event.html?lang=en)
