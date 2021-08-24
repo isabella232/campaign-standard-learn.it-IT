@@ -10,10 +10,10 @@ team: TM
 exl-id: 478462d8-aa25-457d-ba7b-64ffcf1b81fb
 role: User, Developer
 level: Beginner
-source-git-commit: 2be2719ddd84490b796d9abc6300376fa896ff0c
+source-git-commit: 481cbdcc9ac7446cc36fbff6e3d6e43fe333d30b
 workflow-type: tm+mt
-source-wordcount: '176'
-ht-degree: 86%
+source-wordcount: '175'
+ht-degree: 76%
 
 ---
 
@@ -27,7 +27,7 @@ L’integrazione di Adobe Campaign Standard con Adobe Dreamweaver ti consente di
 
 >[!NOTE]
 >
->Questa funzione richiede l’estensione Dreamweaver denominata **[!UICONTROL Adobe Campaign Integration]**. Puoi scaricare l’estensione da [Adobe Exchange](https://exchange.adobe.com/creativecloud.html#search). Per ulteriori informazioni sull’installazione, consulta [Estensione di Campaign per Dreamweaver](https://helpx.adobe.com/it/dreamweaver/using/working-with-dreamweaver-and-campaign.html).
+>Questa funzione richiede l’estensione Dreamweaver denominata **[!UICONTROL Adobe Campaign Integration]**. Puoi scaricare l’estensione da [Adobe Exchange](https://exchange.adobe.com/creativecloud.html#search). Per ulteriori informazioni sull&#39;installazione, consulta [Estensione Campaign per Dreamweaver](https://helpx.adobe.com/it/dreamweaver/using/working-with-dreamweaver-and-campaign.html).
 
 Il video illustra gli elementi necessari all’abilitazione dell’integrazione di Dreamweaver e le modalità di creazione e modifica dei contenuti per Adobe Campaign Standard tramite Dreamweaver.
 
