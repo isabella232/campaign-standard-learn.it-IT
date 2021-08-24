@@ -10,10 +10,10 @@ team: TM
 exl-id: f54acc7f-4efe-4d7f-89f1-c4ed596a5d9e
 role: User
 level: Beginner
-source-git-commit: 2be2719ddd84490b796d9abc6300376fa896ff0c
+source-git-commit: 2ba22e7e7d193278fd06cb4b2dc80f650f754ec8
 workflow-type: tm+mt
-source-wordcount: '110'
-ht-degree: 3%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -33,4 +33,4 @@ Il canale è disponibile dalla home page e nella visualizzazione del flusso di l
 
 ## Risorse aggiuntive
 
-* [Informazioni su Direct Mail](https://docs.adobe.com/content/help/en/campaign-standard/using/communication-channels/direct-mail/about-direct-mail.html)
+* [Informazioni su Direct Mail](https://experienceleague.adobe.com/docs/campaign-standard/using/communication-channels/direct-mail/about-direct-mail.html)
