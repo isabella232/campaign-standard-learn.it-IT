@@ -1,28 +1,28 @@
 ---
 title: Creazione degli spazi dei nomi per le richieste di accesso ai dati personali in Adobe Campaign Standard (ACS)
-description: Per poter creare richieste di accesso e di cancellazione di dati personali, come previsto da GDPR o CCPA, è indispensabile la definizione dello spazio dei nomi che verrà utilizzato per identificare l’interessato nel database di Adobe Campaign. In questi video viene illustrato come creare spazi dei nomi per le richieste di accesso a dati personali.
-feature: GDPR, CCPA
+description: Scopri come creare spazi dei nomi per le richieste di privacy.
+feature: Strumenti per la privacy
 kt: 1460
 thumbnail: 22600.jpg
 doc-type: feature video
 activity: use
 team: TM
 exl-id: b2d5362b-9b23-4f51-9802-19636457fab3
-source-git-commit: 569c196b0d94a9bee5010da46003ed7b2a8afefd
-workflow-type: ht
-source-wordcount: '125'
-ht-degree: 100%
+source-git-commit: 481cbdcc9ac7446cc36fbff6e3d6e43fe333d30b
+workflow-type: tm+mt
+source-wordcount: '80'
+ht-degree: 27%
 
 ---
 
-# Creazione di spazi dei nomi per le richieste di privacy
+# Creazione di namespace per le richieste di privacy
 
-Per poter creare richieste di accesso e di cancellazione di dati personali, come previsto da GDPR o CCPA, è indispensabile la definizione dello spazio dei nomi che verrà utilizzato per identificare l’interessato nel database di Adobe Campaign.
+Per poter creare richieste di accesso e di cancellazione per la privacy, come richiesto dal RGPD o dal CCPA, è necessario utilizzare uno spazio dei nomi per identificare la persona interessata all’interno del database Adobe Campaign.
 
-In questi video viene illustrato come creare spazi dei nomi per le richieste di accesso a dati personali.
+Scopri come creare spazi dei nomi per le richieste di privacy.
 
 >[!VIDEO](https://video.tv.adobe.com/v/22600?quality=12)
 
 ## Risorse aggiuntive
 
-* [Linee guida generali sulla privacy per Campaign](https://helpx.adobe.com/it/campaign/kb/campaign-privacy-overview.html)
+* [Linee guida generali sulla privacy per Campaign](https://experienceleague.adobe.com/docs/campaign-classic/using/getting-started/privacy/privacy-management.html?lang=en#getting-started)
