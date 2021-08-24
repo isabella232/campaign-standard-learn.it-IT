@@ -1,17 +1,16 @@
 ---
 title: Risoluzione dei problemi relativi al Pannello di controllo Campaign
-description: Il Pannello di controllo Campaign ti consente di monitorare e gestire lo storage SFTP per istanza e di aggiungere indirizzi IP all’elenco Consentiti.
+description: Il Pannello di controllo Campaign ti consente di monitorare e gestire l’archiviazione SFTP per istanza e inserire nell'elenco Consentiti gli indirizzi IP.
 feature: Pannello di controllo Campaign
 kt: 2938
 doc-type: article
 activity: use
 team: PM
 exl-id: f546f791-a69b-4586-abfa-3e626b8feb17
-translation-type: tm+mt
-source-git-commit: ada0b029245190f53d58fa93c79c161719bfe9fd
+source-git-commit: 481cbdcc9ac7446cc36fbff6e3d6e43fe333d30b
 workflow-type: tm+mt
-source-wordcount: '329'
-ht-degree: 100%
+source-wordcount: '320'
+ht-degree: 44%
 
 ---
 
@@ -23,10 +22,10 @@ Scopri come risolvere i problemi durante l’utilizzo del Pannello di controllo 
 
 Problemi relativi ad accesso e home page.
 
-### Sintomo: impossibile accedere ad Adobe Experience Cloud
+### Sintomo: Impossibile accedere a Adobe Experience Cloud
 
-**Procedura:**
-l’utente deve individuare il proprio [!DNL IMS Org ID] (xxx). L’amministratore deve aggiungere l’utente al [!UICONTROL product profile] di [!DNL “Campaign-xxx-Admins”] per ogni istanza da gestire. Se l’utente è un amministratore di tutte le istanze, potrebbe comunque dover aggiungere se stesso come *[!UICONTROL user]*.
+**Come procedere:**
+l’utente deve individuare il proprio  [!DNL IMS Org ID] (xxx). L’amministratore deve aggiungere l’utente al [!UICONTROL product profile] [!DNL “Campaign-xxx-Admins”] per ogni istanza da gestire. Se l’utente è amministratore di tutte le istanze, deve aggiungere se stesso come *[!UICONTROL user]*.
 
 ### Sintomo: nella [!UICONTROL Adobe Experience Cloud Home] non vengono visualizzati i collegamenti di un utente per l’accesso al [!UICONTROL Control Panel]
 
@@ -34,15 +33,15 @@ l’utente deve individuare il proprio [!DNL IMS Org ID] (xxx). L’amministrato
 gli utenti non vedranno i collegamenti finché non saranno stati aggiunti come utenti al [!UICONTROL product profile] `Campaign-xxx-Administrators/Admin`
 
 **Procedura:**
-l’amministratore deve aggiungere l’utente al [!UICONTROL product profile] *[!DNL Campaign-xxx-Admins]* per ogni istanza da gestire. Se l’utente è un amministratore di tutte le istanze, potrebbe comunque dover aggiungere se stesso come *[!UICONTROL user]*.
+l’amministratore deve aggiungere l’utente al  [!UICONTROL product profile] *[!DNL Campaign-xxx-Admins]* per ogni istanza da gestire. Se l’utente è amministratore di tutte le istanze, deve aggiungere se stesso come *[!UICONTROL user]*.
 
 ### Sintomo: un’istanza non è elencata nel [!UICONTROL Control Panel]
 
 **Causa:**
-probabilmente l’utente deve essere aggiunto come *[!UICONTROL user]* al profilo di prodotto `Campaign-xxx-Administrators/Admin` per l’istanza mancante
+probabilmente l’utente deve essere aggiunto come profilo di  *[!UICONTROL user]* prodotto  `Campaign-xxx-Administrators/Admin` per l’istanza mancante
 
 **Procedura:**
-l’amministratore deve aggiungere l’utente al profilo di prodotto `Campaign-xxx-Admins` per ogni istanza da gestire. Se l’utente è un amministratore di tutte le istanze, potrebbe comunque dover aggiungere se stesso come *[!UICONTROL user]*.
+l’amministratore deve aggiungere l’utente al profilo di prodotto  `Campaign-xxx-Admins` per ogni istanza da gestire. Se l’utente è amministratore di tutte le istanze, deve aggiungere se stesso come *[!UICONTROL user]*.
 
 ### Video utili
 
@@ -56,17 +55,17 @@ l’amministratore deve aggiungere l’utente al profilo di prodotto `Campaign-x
 
 ### Documentazione utile
 
-* [Scopri il [!UICONTROL Control Panel]](https://helpx.adobe.com/it/campaign/kb/control-panel-overview.html)
-* [Gestione delle autorizzazioni per il [!UICONTROL Control Panel]](https://helpx.adobe.com/it/campaign/kb/control-panel-access.html)
+* [Scopri il [!UICONTROL Control Panel]](https://experienceleague.adobe.com/docs/control-panel/using/control-panel-home.html?lang=it)
+* [Gestione delle autorizzazioni per il [!UICONTROL Control Panel]](https://experienceleague.adobe.com/docs/control-panel/using/control-panel-home.html?lang=en)
 
 ## Stabilimento di una connessione al server SFTP (client o API)
 
 La connessione ai server SFTP richiede:
 
 * [!UICONTROL allow listing] l’indirizzo IP da cui desideri connetterti al server SFTP
-* Una coppia di chiavi privata/pubblica che deve essere registrata con Adobe Campaign
-* Il software client SFTP, se ti connetti direttamente al server SFTP
+* Coppia di chiavi privata/pubblica che deve essere registrata con Adobe Campaign
+* Se ti connetti direttamente al server SFTP, devi disporre di un software client SFTP
 
 ### Documentazione utile {#helpful-docs}
 
-* [Accesso al server SFTP](https://docs.adobe.com/content/help/it-IT/control-panel/using/control-panel-home.html#LoggingintoyourSFTPserver)
+* [Accesso al server SFTP](https://experienceleague.adobe.com/docs/control-panel/using/control-panel-home.html?lang=en)
