@@ -10,10 +10,10 @@ team: PM
 exl-id: 955d063f-4709-4f56-8f39-f1b838354300
 role: User, Developer
 level: Beginner, Intermediate, Experienced
-source-git-commit: 2be2719ddd84490b796d9abc6300376fa896ff0c
+source-git-commit: 481cbdcc9ac7446cc36fbff6e3d6e43fe333d30b
 workflow-type: tm+mt
-source-wordcount: '151'
-ht-degree: 7%
+source-wordcount: '148'
+ht-degree: 12%
 
 ---
 
@@ -21,7 +21,7 @@ ht-degree: 7%
 
 >[!NOTE]
 >
->Questa funzionalità è attualmente in versione beta e soggetta a frequenti aggiornamenti e modifiche senza preavviso. [!UICONTROL Audience Destinations] è basato su Adobe Experience Platform e richiede una configurazione specifica.
+>Questa funzionalità è in versione beta e soggetta a frequenti aggiornamenti e modifiche senza preavviso. [!UICONTROL Audience Destinations] è basato su Adobe Experience Platform e richiede una configurazione specifica.
 >
 >Per implementare questa funzionalità, contatta [!UICONTROL Adobe Customer Support] .
 
@@ -35,9 +35,9 @@ Questo video spiega come attivare il [!UICONTROL Data Services Query Audience] a
 
 Documentazione:
 
-* [Attivazione dei tipi di pubblico di Experience Platform all’interno di Campaign - Documentazione](https://docs.adobe.com/content/help/en/campaign-standard/using/profiles-and-audiences/working-with-adobe-experience-platform/aep-about-audience-destinations-service.html)
+* [Inserire il pubblico di Adobe Experience Platform in Campaign](https://experienceleague.adobe.com/docs/campaign-standard/using/integrating-with-adobe-cloud/adobe-experience-platform/aep-sources-destinations/ingest-aep-data.html)
 
-Risorsa video:
+Risorse video:
 
-* [Creazione di un nuovo pubblico in Adobe Campaign Standard tramite Unified Segment Builder (Generatore di segmenti unificato)](/help/profiles-and-audiences/audience-destinations/creating-audiences-using-segment-builder.md)
-* [Modifica della dimensione di targeting di una consegna per un pubblico di Platform](/help/profiles-and-audiences/audience-destinations/changing-targeting-dimension.md)
+* [Creare un pubblico in Adobe Campaign Standard utilizzando Unified Segment Builder (Generatore di segmenti unificato)](/help/profiles-and-audiences/audience-destinations/creating-audiences-using-segment-builder.md)
+* [Modificare la dimensione di targeting di una consegna per un pubblico di Platform](/help/profiles-and-audiences/audience-destinations/changing-targeting-dimension.md)
