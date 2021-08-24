@@ -1,5 +1,5 @@
 ---
-title: Inviare un test, preparare e spedire un messaggio e-mail
+title: Inviare un test, preparare e inviare un messaggio e-mail
 description: '"Scopri come inviare un’e-mail di test, preparare e quindi inviare la consegna e-mail. "'
 feature: 'E-mail  '
 kt: 1812
@@ -10,10 +10,10 @@ team: DOC
 exl-id: 2cb70be4-cd27-4da3-828a-be4c07d4c951
 role: User
 level: Beginner
-source-git-commit: 2be2719ddd84490b796d9abc6300376fa896ff0c
+source-git-commit: 2ba22e7e7d193278fd06cb4b2dc80f650f754ec8
 workflow-type: tm+mt
-source-wordcount: '74'
-ht-degree: 20%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -25,5 +25,5 @@ Questo video spiega come inviare un’e-mail di test, preparare e quindi inviare
 
 ## Risorse aggiuntive
 
-* [Gestione dei profili di test e invio delle bozze](https://docs.adobe.com/content/help/en/campaign-standard/using/testing-and-sending/preparing-and-testing-messages/managing-test-profiles-and-sending-proofs.html)
+* [Guida introduttiva alla verifica e all’invio](https://experienceleague.adobe.com/docs/campaign-standard/using/testing-and-sending/get-started-sending-messages.html)
 * [Creare un profilo di test](/help/profiles-and-audiences/creating-a-profile.md)
