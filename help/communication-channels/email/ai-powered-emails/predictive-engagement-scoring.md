@@ -8,12 +8,12 @@ doc-type: feature video
 activity: use
 team: ACS
 exl-id: 7d6634ed-f6b0-4d77-9148-3f2c0e444862
-role: Business Practitoner, Developer, Admin
+role: Business Practitioner, Developer, Admin
 level: Experienced
-source-git-commit: 2be2719ddd84490b796d9abc6300376fa896ff0c
+source-git-commit: 5a2f8c9a78bf5100b272f9b4461131545b3aeb8b
 workflow-type: tm+mt
-source-wordcount: '218'
-ht-degree: 98%
+source-wordcount: '216'
+ht-degree: 65%
 
 ---
 
@@ -22,9 +22,9 @@ ht-degree: 98%
 Grazie alla tecnologia di [!UICONTROL Journey AI], [!DNL Adobe Campaign] è in grado di analizzare e prevedere i tassi di apertura, i tempi di invio ottimali e i tassi di abbandono probabili in base a metriche di coinvolgimento storiche.
 
 >[!CAUTION]
->Questa funzionalità non è disponibile come parte del prodotto pronta all’uso. La sua implementazione richiede l’intervento della Consulenza Adobe. Per maggiori informazioni, contatta il rappresentante Adobe di riferimento.
+>Questa funzionalità non è disponibile come parte del prodotto pronta all’uso. La sua implementazione richiede l’intervento della Consulenza Adobe. Per maggiori informazioni, contatta il tuo rappresentante Adobe.
 
-[!UICONTROL Predictive engagement scoring] (Punteggio del coinvolgimento predittivo) prevede la probabilità che un destinatario si interessi a un messaggio e la probabilità che lo rifiuti (cancellando la sottoscrizione) entro i 7 giorni successivi al prossimo invio dell’e-mail. Le probabilità sono ulteriormente suddivise in contenitori a seconda del rischio specifico di disinteresse, medio o basso. Tra questi il modello fornisce anche il livello percentile di rischio per i clienti per capire la posizione di un determinato cliente rispetto agli altri.
+[!UICONTROL Predictive engagement scoring] prevede la probabilità che un destinatario si interessi a un messaggio e la probabilità che lo rifiuti (cancellando l’abbonamento) entro i sette giorni successivi al successivo invio dell’e-mail. Le probabilità sono ulteriormente suddivise in categorie a seconda del rischio specifico di ritiro, medio o basso. Il modello fornisce anche il grado percentile di rischio per i clienti per capire dove il grado di un determinato cliente rispetto ad altri.
 
 Scopri come visualizzare i punteggi di coinvolgimento a livello dei singoli profili, utilizzare i punteggi per targetizzare gli utenti interessati ed eliminare gli utenti con calo di interesse e creare regole di tipologia per gestire la &quot;customer fatigue&quot;.
 
@@ -38,4 +38,4 @@ Esercitazioni:
 
 Documentazione:
 
-* [Ottimizzazione della progettazione e della consegna tramite e-mail basate sull’intelligenza artificiale](https://docs.adobe.com/help/it-IT/campaign-standard/using/testing-and-sending/preparing-and-testing-messages/predictive.html)
+* [Ottimizzazione della progettazione e della consegna tramite e-mail basate sull’intelligenza artificiale](https://experienceleague.adobe.com/docs/campaign-standard/using/testing-and-sending/preparing-and-testing-messages/predictive.html?lang=en)
