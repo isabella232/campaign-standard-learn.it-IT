@@ -8,12 +8,12 @@ doc-type: feature video
 activity: use
 team: ACS
 exl-id: c538b188-bf19-4e5a-bd93-a89ed716668d
-role: Business Practitoner, Developer, Admin
+role: Business Practitioner, Developer, Admin
 level: Experienced
-source-git-commit: 2be2719ddd84490b796d9abc6300376fa896ff0c
+source-git-commit: 5a2f8c9a78bf5100b272f9b4461131545b3aeb8b
 workflow-type: tm+mt
-source-wordcount: '203'
-ht-degree: 98%
+source-wordcount: '204'
+ht-degree: 88%
 
 ---
 
@@ -22,7 +22,7 @@ ht-degree: 98%
 Grazie alla tecnologia di [!UICONTROL Journey AI], [!DNL Adobe Campaign] è in grado di analizzare e prevedere i tassi di apertura, i tempi di invio ottimali e i tassi di abbandono probabili in base a metriche di coinvolgimento storiche.
 
 >[!CAUTION]
->Questa funzionalità non è disponibile come parte del prodotto pronta all’uso. La sua implementazione richiede l’intervento della Consulenza Adobe. Per maggiori informazioni, contatta il rappresentante Adobe di riferimento.
+>Questa funzionalità non è disponibile come parte del prodotto pronta all’uso. La sua implementazione richiede l’intervento della Consulenza Adobe. Per maggiori informazioni, contatta il tuo rappresentante Adobe.
 
 [!UICONTROL Predictive send time optimization] (Ottimizzazione del tempo di invio predittivo) prevede il tempo di invio migliore per ciascun profilo del destinatario per massimizzare le aperture dei messaggi e-mail o i clic. Per ciascun profilo del destinatario, i punteggi indicano il tempo di invio migliore per ogni giorno feriale e il giorno feriale in cui inviare i messaggi e-mail per ottenere i risultati migliori.
 
@@ -38,4 +38,4 @@ Esercitazioni:
 
 Documentazione:
 
-* [Ottimizzazione della progettazione e della consegna tramite e-mail basate sull’intelligenza artificiale](https://docs.adobe.com/help/it-IT/campaign-standard/using/testing-and-sending/preparing-and-testing-messages/predictive.html)
+* [Ottimizzazione della progettazione e della consegna tramite e-mail basate sull’intelligenza artificiale](https://experienceleague.adobe.com/docs/campaign-standard/using/testing-and-sending/preparing-and-testing-messages/predictive.html?lang=en)
