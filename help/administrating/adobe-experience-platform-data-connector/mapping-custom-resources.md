@@ -1,18 +1,16 @@
 ---
 title: Mappatura di risorse personalizzate
 description: Scopri come mappare diversi tipi di dati tra Adobe Campaign Standard (ACS) e Adobe Experience Platform (AEP)
-feature: Connettore dati di Adobe Experience Platform
 kt: 2828
 thumbnail: 27231.jpg
 doc-type: feature video
 activity: set-up
 team: TM
 exl-id: c0c8bcca-9b32-461a-8126-3a59106fe6ac
-translation-type: tm+mt
-source-git-commit: ada0b029245190f53d58fa93c79c161719bfe9fd
+source-git-commit: 5a2f8c9a78bf5100b272f9b4461131545b3aeb8b
 workflow-type: tm+mt
-source-wordcount: '81'
-ht-degree: 14%
+source-wordcount: '76'
+ht-degree: 9%
 
 ---
 
