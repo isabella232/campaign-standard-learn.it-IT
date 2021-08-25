@@ -1,7 +1,7 @@
 ---
 title: Esplorare gerarchia e attività di marketing
-description: '"Scopri la gerarchia di programmi e campagne, e come creare un programma di marketing e una campagna di marketing all’interno di un programma."'
-feature: Campagne, Programmi
+description: Scopri la gerarchia di programmi e campagne, e come creare un programma di marketing e una campagna di marketing all’interno di un programma.
+feature: Campaigns, Programs
 kt: 3892
 thumbnail: 18465.jpg
 doc-type: feature video
@@ -10,10 +10,10 @@ team: WWFRE
 exl-id: c5804637-804c-473f-80d8-d54263c49a5c
 role: User
 level: Beginner
-source-git-commit: 2be2719ddd84490b796d9abc6300376fa896ff0c
+source-git-commit: d63bb82ec0043f09e480f3edd395083943035eea
 workflow-type: tm+mt
-source-wordcount: '73'
-ht-degree: 100%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -25,4 +25,4 @@ Il presente video illustra la gerarchia di programmi e campagne, le modalità di
 
 ## Risorse aggiuntive
 
-* [Programmi e campagne](https://experienceleague.adobe.com/docs/campaign-standard/using/getting-started/marketing-plans/programs-and-campaigns.html?lang=it)
+* [Attività di marketing](https://experienceleague.adobe.com/docs/campaign-standard/using/getting-started/marketing-plans/marketing-activities.html?lang=en)
