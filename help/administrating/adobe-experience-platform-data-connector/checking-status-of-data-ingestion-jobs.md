@@ -1,7 +1,7 @@
 ---
 title: Controllare lo stato di un processo di inserimento dei dati
 description: Scopri come controllare lo stato e modificare la mappatura dei dati.
-feature: Integrazione del servizio core People
+feature: People Core Service Integration
 audience: administrator
 kt: 2831
 thumbnail: 27268.jpg
@@ -11,8 +11,8 @@ team: PM
 exl-id: aa0f8abe-0b42-4957-8a82-25521751b7af
 source-git-commit: 2ba22e7e7d193278fd06cb4b2dc80f650f754ec8
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '116'
+ht-degree: 9%
 
 ---
 
