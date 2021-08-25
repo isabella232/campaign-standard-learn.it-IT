@@ -1,7 +1,7 @@
 ---
 title: Comprendere il connettore dati Adobe Experience Platform
 description: Adobe Experience Platform Data Connector aiuta i clienti esistenti a rendere i loro dati disponibili su Adobe Experience Platform mappando i dati XTK (dati acquisiti in Campaign) su Experience Data Model (XDM) su Adobe Experience Platform.
-feature: Integrazione del servizio core People
+feature: People Core Service Integration
 kt: 2826
 thumbnail: 27304.jpg
 doc-type: feature video
@@ -10,7 +10,7 @@ team: TM
 exl-id: 686961f9-5374-4cc6-8b36-7ee0584ea720
 source-git-commit: 2ba22e7e7d193278fd06cb4b2dc80f650f754ec8
 workflow-type: tm+mt
-source-wordcount: '289'
+source-wordcount: '285'
 ht-degree: 4%
 
 ---
