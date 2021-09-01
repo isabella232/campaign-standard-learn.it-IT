@@ -3,15 +3,15 @@ user-guide-title: Tutorial di Adobe Campaign Standard
 user-guide-description: Progetta esperienze cliente cross-channel e crea un ambiente per l’orchestrazione visiva delle campagne, la gestione delle interazioni in tempo reale e l’esecuzione cross-channel.
 breadcrumb-title: Tutorial di Campaign Standard
 solution-title: Experience League
-solution-hub-url: https://experienceleague.adobe.com/?lang=it&tag=Campaign+Standard#recommended/solutions/campaign
-tutorials-title: Esercitazioni
-tutorials-url: https://experienceleague.adobe.com/docs/campaign-standard-learn/tutorials/overview.html?lang=it
-getting-started-title: Documentazione
-getting-started-url: https://experienceleague.adobe.com/docs/campaign-standard/using/campaign-standard-home.html?lang=it
-source-git-commit: 84195adf94a98bf3150a51f17aa1de1d0329da05
+solution-hub-url: https://experienceleague.adobe.com/?tag=Campaign+Standard#recommended/solutions/campaign
+tutorials-title: Tutorials
+tutorials-url: https://experienceleague.adobe.com/docs/campaign-standard-learn/tutorials/overview.html
+getting-started-title: Documentation
+getting-started-url: https://experienceleague.adobe.com/docs/campaign-standard/using/campaign-standard-home.html
+source-git-commit: fe27dd3f40204d3eede1a7ccdc5ddf33a8745072
 workflow-type: tm+mt
-source-wordcount: '557'
-ht-degree: 83%
+source-wordcount: '536'
+ht-degree: 81%
 
 ---
 
@@ -110,7 +110,7 @@ ht-degree: 83%
 + Amministrare {#administrating}
    + [Gestione dei diritti di accesso degli utenti](/help/administrating/managing-user-access-rights.md)
    + [Crea risorse personalizzate](https://experienceleague.adobe.com/docs/campaign-standard-learn/creating-custom-resources/introduction.html?lang=it)
-   + [Pannello di controllo](https://experienceleague.adobe.com/docs/campaign-standard-learn/control-panel/control-panel-overview.html?lang=it)
+   + [Pannello di controllo Campaign](https://experienceleague.adobe.com/docs/campaign-standard-learn/control-panel/control-panel-overview.html?lang=it)
    + Connettore dati di Adobe Experience Platform {#adobe-experience-platform-data-connector}
       + [Informazioni su Adobe Experience Platform Data Connector](/help/administrating/adobe-experience-platform-data-connector/understanding-the-adobe-experience-platform-data-connector.md)
       + [Mappatura di risorse personalizzate](/help/administrating/adobe-experience-platform-data-connector/mapping-custom-resources.md)
@@ -127,3 +127,4 @@ ht-degree: 83%
    + [Modifica delle risorse personalizzate per le richieste di privacy](/help/privacy/custom-resources-for-privacy-requests.md)
    + [Creazione e tracciamento manuale delle richieste di privacy](/help/privacy/create-and-track-privacy-requests.md)
    + [Eseguire richieste di accesso ai dati personali](/help/privacy/execute-privacy-requests.md)
++ [Campaign Standard](/https://experienceleague.corp.adobe.com/docs/campaign-standard-learn/troubleshooting/overview.html)
