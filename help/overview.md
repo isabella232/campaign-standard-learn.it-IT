@@ -3,13 +3,13 @@ title: Tutorial di Adobe Campaign Standard - Panoramica
 description: Adobe Campaign fornisce una piattaforma per la progettazione di customer experience cross-channel e fornisce un ambiente per l’orchestrazione visiva delle campagne, la gestione delle interazioni in tempo reale e l’esecuzione cross-channel. Questa guida utente contiene video e tutorial sulle numerose funzioni e caratteristiche di Adobe Campaign Standard.
 products: SG_CAMPAIGN/STANDARD
 exl-id: b97710d1-3e93-41f6-a51e-9bf4c519fec3
-feature: Panoramica
+feature: Overview
 role: User, Admin, Developer
 level: Beginner
 source-git-commit: 481cbdcc9ac7446cc36fbff6e3d6e43fe333d30b
-workflow-type: tm+mt
-source-wordcount: '294'
-ht-degree: 74%
+workflow-type: ht
+source-wordcount: '293'
+ht-degree: 100%
 
 ---
 
@@ -41,7 +41,7 @@ Adobe Campaign fornisce una piattaforma per la progettazione di customer experie
     </a>
     </div>
     <p>
-    <em>Scopri come inviare una bozza per la revisione con l’esatta rappresentazione del messaggio ricevuto dal profilo.</em>
+    <em>Scopri come inviare una prova per la revisione con l’esatta rappresentazione del messaggio che verrà ricevuto dal profilo</em>.
     <p>
   </td>
    <td>
@@ -49,7 +49,7 @@ Adobe Campaign fornisce una piattaforma per la progettazione di customer experie
       <img alt="Pannello di controllo Campaign (video)" src="./assets/control-panel.png" />
     </a>
     <div>
-    <a href="https://experienceleague.adobe.com/docs/campaign-standard-learn/control-panel/control-panel-overview.html?lang=en">
+    <a href="https://experienceleague.adobe.com/docs/campaign-standard-learn/control-panel/control-panel-overview.html?lang=it">
     <strong>Pannello di controllo Campaign (video)</strong>
     </a>
     </div>
@@ -58,16 +58,16 @@ Adobe Campaign fornisce una piattaforma per la progettazione di customer experie
     <p>
   </td>
   <td>
-    <a href="https://experienceleague.adobe.com/docs/campaign-standard-learn/getting-started-with-push-notifications-android/introduction.html?lang=en">
+    <a href="https://experienceleague.adobe.com/docs/campaign-standard-learn/getting-started-with-push-notifications-android/introduction.html?lang=it">
       <img alt="Tutorial: guida introduttiva alle notifiche push per Android" src="./assets/push-for-android.png" />
     </a>
     <div>
-      <a href="https://experienceleague.adobe.com/docs/campaign-standard-learn/getting-started-with-push-notifications-android/introduction.html?lang=en">
+      <a href="https://experienceleague.adobe.com/docs/campaign-standard-learn/getting-started-with-push-notifications-android/introduction.html?lang=it">
     <strong>Tutorial: guida introduttiva alle notifiche push per Android™</strong>
     </a>
     </div>
     <p>
-    <em>Questo tutorial illustra i passaggi necessari per l’invio di notifiche push da Adobe Campaign e per la ricezione di tali notifiche nell’app Android™.  </em>
+    <em>Questo tutorial illustra i passaggi necessari per l’invio di notifiche push da Adobe Campaign e la ricezione di tali notifiche all’interno dell’app Android™</em>.
     <p>
   </td>
 </tr>
@@ -75,4 +75,4 @@ Adobe Campaign fornisce una piattaforma per la progettazione di customer experie
 
 ## Risorse aggiuntive
 
-* [Documentazione](https://experienceleague.adobe.com/docs/campaign-standard/using/campaign-standard-home.html?lang=en)
+* [Documentazione](https://experienceleague.adobe.com/docs/campaign-standard/using/campaign-standard-home.html?lang=it)
