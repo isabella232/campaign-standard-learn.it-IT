@@ -6,10 +6,10 @@ exl-id: b97710d1-3e93-41f6-a51e-9bf4c519fec3
 feature: Overview
 role: User, Admin, Developer
 level: Beginner
-source-git-commit: 481cbdcc9ac7446cc36fbff6e3d6e43fe333d30b
-workflow-type: ht
-source-wordcount: '293'
-ht-degree: 100%
+source-git-commit: aeb30af96ea10240f3e51a7b30ae0dbcf74b5c5a
+workflow-type: tm+mt
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -19,13 +19,9 @@ Adobe Campaign fornisce una piattaforma per la progettazione di customer experie
 
 ## Novità
 
-* **[Monitorare il successo delle consegne in Adobe Analytics](/help/integrations/track-the-success-of-your-deliveries-in-analytics.md)**
+* **[Risolvere i problemi](https://experienceleague.adobe.com/docs/campaign-standard-learn/troubleshooting/overview.html?lang=en)**
 
-   *Scopri come configurare l’integrazione di Campaign Standard e Analytics. Scopri come creare un rapporto in Analytics utilizzando i dati ricevuti da Campaign Standard e quali KPI sono disponibili.*
-
-* **[Utilizzo dei trigger per i messaggi transazionali](/help/integrations/using-triggers-for-transactional-messaging-overview.md)**
-
-   *Scopri come configurare e utilizzare i trigger per la messaggistica transazionale.*
+*Trova la guida per la risoluzione dei problemi noti con Adobe Campaign Standard.*
 
 ## Scelti dallo staff
 
@@ -49,7 +45,7 @@ Adobe Campaign fornisce una piattaforma per la progettazione di customer experie
       <img alt="Pannello di controllo Campaign (video)" src="./assets/control-panel.png" />
     </a>
     <div>
-    <a href="https://experienceleague.adobe.com/docs/campaign-standard-learn/control-panel/control-panel-overview.html?lang=it">
+    <a href="https://experienceleague.adobe.com/docs/campaign-standard-learn/control-panel/control-panel-overview.html?lang=en">
     <strong>Pannello di controllo Campaign (video)</strong>
     </a>
     </div>
@@ -58,11 +54,11 @@ Adobe Campaign fornisce una piattaforma per la progettazione di customer experie
     <p>
   </td>
   <td>
-    <a href="https://experienceleague.adobe.com/docs/campaign-standard-learn/getting-started-with-push-notifications-android/introduction.html?lang=it">
+    <a href="https://experienceleague.adobe.com/docs/campaign-standard-learn/getting-started-with-push-notifications-android/introduction.html?lang=en">
       <img alt="Tutorial: guida introduttiva alle notifiche push per Android" src="./assets/push-for-android.png" />
     </a>
     <div>
-      <a href="https://experienceleague.adobe.com/docs/campaign-standard-learn/getting-started-with-push-notifications-android/introduction.html?lang=it">
+      <a href="https://experienceleague.adobe.com/docs/campaign-standard-learn/getting-started-with-push-notifications-android/introduction.html?lang=en">
     <strong>Tutorial: guida introduttiva alle notifiche push per Android™</strong>
     </a>
     </div>
