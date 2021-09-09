@@ -1,8 +1,8 @@
 ---
-title: Pannello di controllo Campaign    - Panoramica
+title: Pannello di controllo Campaign - Panoramica
 description: Il Pannello di controllo di Adobe Campaign consente agli amministratori di monitorare le risorse chiave ed eseguire attività amministrative, ad esempio gestire l’archiviazione SFTP per istanza e le chiavi GPG o i sottodomini e i certificati.
 landing-page-description: Il Pannello di controllo Campaign consente agli amministratori di Campaign di eseguire attività di amministrazione, ad esempio gestire l’archiviazione SFTP, le chiavi GPG o i sottodomini e i certificati.
-feature: Pannello di controllo Campaign
+feature: Control Panel
 audience: administrator
 kt: 4696
 doc-type: feature video
@@ -10,9 +10,9 @@ activity: use
 team: PM
 exl-id: 6c236625-1a7a-4009-898b-b4bd82fa1efa
 source-git-commit: 84195adf94a98bf3150a51f17aa1de1d0329da05
-workflow-type: tm+mt
-source-wordcount: '232'
-ht-degree: 94%
+workflow-type: ht
+source-wordcount: '230'
+ht-degree: 100%
 
 ---
 
@@ -40,7 +40,7 @@ Il Pannello di controllo di Adobe Campaign consente agli amministratori di monit
     </a>
     <div>
       <a href="./subdomains-and-certificates/subdomain-delegation.md">
-    <strong>Delega dei sottodomini ad Adobe Campaign (video)</strong>
+    <strong>Delegare i sottodomini ad Adobe Campaign (video)</strong>
     </a>
     </div>
     <p>
