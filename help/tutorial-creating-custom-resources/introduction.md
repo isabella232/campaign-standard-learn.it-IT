@@ -1,7 +1,7 @@
 ---
 title: 'Creazione di risorse personalizzate: introduzione'
-description: Questa esercitazione multiparte illustra i passaggi necessari per creare e collegare risorse personalizzate.
-feature: 'Modello dati '
+description: Questo tutorial in più parti illustra i passaggi necessari per creare e collegare le risorse personalizzate.
+feature: Data Model
 kt: 2999
 thumbnail: 27715.jpg
 doc-type: feature video
@@ -9,9 +9,9 @@ activity: use
 team: TM
 exl-id: 93af995f-6eca-4427-86f2-a8f63ae6b9c4
 source-git-commit: 481cbdcc9ac7446cc36fbff6e3d6e43fe333d30b
-workflow-type: tm+mt
-source-wordcount: '189'
-ht-degree: 42%
+workflow-type: ht
+source-wordcount: '187'
+ht-degree: 100%
 
 ---
 
@@ -19,7 +19,7 @@ ht-degree: 42%
 
 [!DNL Adobe Campaign] viene fornito con un modello dati predefinito, in cui i dati vengono definiti tramite risorse diverse. [!DNL Campaign] consente all’utente di estendere le risorse esistenti o crearne di nuove.
 
-Questa esercitazione multiparte illustra i passaggi necessari per creare e collegare risorse personalizzate.
+Questo tutorial in più parti illustra i passaggi necessari per creare e collegare le risorse personalizzate.
 Scopri come:
 
 * Creare una risorsa personalizzata
@@ -29,15 +29,15 @@ Scopri come:
 
 ## Prerequisito
 
-Per poter creare risorse personalizzate, devi disporre dei diritti utente di amministrazione.
+Per poter creare delle risorse personalizzate, è necessario disporre dei diritti utente di amministrazione.
 
 ## Panoramica del tutorial
 
-Per utilizzare informazioni aggiuntive sugli ordini di un cliente, affinché siano disponibili a scopo di marketing e remarketing, il modello dati [!DNL Campaign] deve essere esteso aggiungendo tabelle personalizzate. Per questo caso d’uso, è necessario creare una tabella di ordini e un cliente.
+Per utilizzare informazioni aggiuntive sugli ordini di un cliente, affinché siano disponibili a scopo di marketing e remarketing, il modello dati [!DNL Campaign] deve essere esteso aggiungendo tabelle personalizzate. Per questo caso d’uso, è necessario creare un cliente e una tabella di ordini.
 
 >[!VIDEO](https://video.tv.adobe.com/v/27715?quality=9)
 
-Questa esercitazione spiega come:
+Questo tutorial spiega come:
 
 Passaggio 1: [creazione di una risorsa personalizzata](./creating-a-custom-resource.md)
 Passaggio 2: [configurazione della definizione dello schermo](./configuring-a-screen-definition-for-a-custom-resource.md)
