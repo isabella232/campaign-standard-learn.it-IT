@@ -9,9 +9,9 @@ tutorials-url: https://experienceleague.adobe.com/docs/campaign-standard-learn/t
 getting-started-title: Documentation
 getting-started-url: https://experienceleague.adobe.com/docs/campaign-standard/using/campaign-standard-home.html
 source-git-commit: a3590166597f98331e7dec905ff00b0e84902a97
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '542'
-ht-degree: 80%
+ht-degree: 100%
 
 ---
 
@@ -39,18 +39,18 @@ ht-degree: 80%
    + [Gestire servizi e iscrizioni](/help/managing-processes-and-data/services-and-subscriptions.md)
    + Destinazioni del pubblico (BETA){#audience-destinations}
       + [Panoramica](/help/profiles-and-audiences/audience-destinations/audience-destinations-overview.md)
-      + [Creare un pubblico utilizzando Unified Segment Builder (Generatore di segmenti unificato)](/help/profiles-and-audiences/audience-destinations/creating-audiences-using-segment-builder.md)
+      + [Creare un nuovo pubblico con Unified Segment Builder (Generatore di segmenti unificato)](/help/profiles-and-audiences/audience-destinations/creating-audiences-using-segment-builder.md)
       + [Attivare il pubblico di Adobe Experience Platform in un flusso di lavoro](/help/profiles-and-audiences/audience-destinations/activating-aep-audiences.md)
       + [Modificare la dimensione di targeting](/help/profiles-and-audiences/audience-destinations/changing-targeting-dimension.md)
 + Canali di comunicazione {#communication-channels}
    + E-mail {#email}
       + [Creare un messaggio e-mail](/help/communication-channels/email/create-email-from-homepage.md)
-      + [Inviare un test, preparare e inviare un messaggio e-mail](/help/communication-channels/email/sending-test-preparing-sending-email.md)
+      + [Inviare un test, preparare e spedire un messaggio e-mail](/help/communication-channels/email/sending-test-preparing-sending-email.md)
       + [Test A/B](/help/communication-channels/email/a-b-testing.md)
       + [Test dei messaggi e-mail tramite profili di destinazione](/help/communication-channels/email/profile-substitution.md)
       + [Aggiungere un gruppo di controllo a una consegna](/help/communication-channels/email/control-groups.md)
-      + [Creare un’e-mail o un SMS multilingue](/help/communication-channels/create-multilingual-deliveries.md)
-      + [Convertire e-mail, SMS o modello di consegna esistente in una versione multilingue](/help/communication-channels/covert-into-multilingual-deliveries.md)
+      + [Creare un messaggio e-mail o un SMS multilingue](/help/communication-channels/create-multilingual-deliveries.md)
+      + [Convertire un messaggio e-mail esistente, SMS o modello esistente in una versione multilingue](/help/communication-channels/covert-into-multilingual-deliveries.md)
       + [Rivedere una consegna tramite e-mail e rapporti](/help/communication-channels/email/reviewing-personalized-email-delivery-and-reports.md)
       + [Creare e inviare e-mail tramite un flusso di lavoro](/help/communication-channels/email/create-and-send-emails-via-workflow.md)
       + [Guida alle best practice per la distribuzione](https://experienceleague.adobe.com/docs/deliverability-learn/deliverability-best-practice-guide/introduction.html?lang=it)
@@ -84,11 +84,11 @@ ht-degree: 80%
       + [Introduzione ai modelli di contenuto e-mail](/help/designing-content/email-designer/email-content-templates.md)
       + [Configurare la visualizzazione per dispositivi mobili](/help/designing-content/email-designer/configure-the-mobile-view.md)
       + [Anteprima del messaggio e-mail e analisi anti-spam](/help/designing-content/email-designer/preview-your-email.md)
-      + [Utilizzare i contenuti esistenti](/help/designing-content/email-designer/working-with-existing-content.md)
+      + [Lavorare con il contenuto esistente](/help/designing-content/email-designer/working-with-existing-content.md)
       + [Creare contenuti con Adobe Dreamweaver](/help/designing-content/email-designer/dreamweaver-integration.md)
    + [Configurare gli elenchi di prodotti nelle e-mail transazionali](/help/designing-content/product-listings-in-transactional-email.md)
 + Gestione dei processi e dei dati {#managing-processes-and-data}
-   + [Creazione di un flusso di lavoro](/help/managing-processes-and-data/creating-a-workflow.md)
+   + [Creare un flusso di lavoro](/help/managing-processes-and-data/creating-a-workflow.md)
    + Attività di esecuzione {#execution-activities}
       + [Attività External Signal](/help/managing-processes-and-data/execution-activities/external-signal-activity.md)
    + Attività di gestione dati {#data-management-activities}
@@ -105,26 +105,26 @@ ht-degree: 80%
       + [Configurare Launch per i trigger](/help/integrations/configure-launch-for-triggers.md)
       + [Creare un trigger in Experience Cloud](/help/integrations/create-a-trigger-in-experience-cloud.md)
       + [Creare un evento trigger in Campaign Standard](/help/integrations/create-a-trigger-event.md)
-      + [Configurare i messaggi transazionali utilizzando i dati evento in tempo reale](/help/integrations/configure-transactional-messages-using-realtime-event-data.md)
+      + [Configurare i messaggi transazionali utilizzando dati evento in tempo reale](/help/integrations/configure-transactional-messages-using-realtime-event-data.md)
    + [Configurare Microsoft® Dynamics 365 per l’integrazione con Campaign Standard](/help/integrations/configure-dynamics-365.md)
 + Amministrare {#administrating}
    + [Gestione dei diritti di accesso degli utenti](/help/administrating/managing-user-access-rights.md)
-   + [Crea risorse personalizzate](https://experienceleague.adobe.com/docs/campaign-standard-learn/creating-custom-resources/introduction.html?lang=it)
+   + [Creare risorse personalizzate](https://experienceleague.adobe.com/docs/campaign-standard-learn/creating-custom-resources/introduction.html?lang=it)
    + [Pannello di controllo Campaign](https://experienceleague.adobe.com/docs/campaign-standard-learn/control-panel/control-panel-overview.html?lang=it)
-   + Connettore dati di Adobe Experience Platform {#adobe-experience-platform-data-connector}
+   + Adobe Experience Platform Data Connector {#adobe-experience-platform-data-connector}
       + [Informazioni su Adobe Experience Platform Data Connector](/help/administrating/adobe-experience-platform-data-connector/understanding-the-adobe-experience-platform-data-connector.md)
-      + [Mappatura di risorse personalizzate](/help/administrating/adobe-experience-platform-data-connector/mapping-custom-resources.md)
-      + [Mappa gli eventi esperienza](/help/administrating/adobe-experience-platform-data-connector/mapping-experience-events.md)
-      + [Mappare i dati della tabella dei valori iniziali](/help/administrating/adobe-experience-platform-data-connector/mapping-seed-table-data.md)
+      + [Mappare le risorse personalizzate](/help/administrating/adobe-experience-platform-data-connector/mapping-custom-resources.md)
+      + [Mappare gli eventi esperienza](/help/administrating/adobe-experience-platform-data-connector/mapping-experience-events.md)
+      + [Mappare i dati della tabella di seeding](/help/administrating/adobe-experience-platform-data-connector/mapping-seed-table-data.md)
       + [Modificare la mappatura dei dati](/help/administrating/adobe-experience-platform-data-connector/modifying-data-mapping.md)
-      + [Controllare lo stato di un processo di inserimento dei dati](/help/administrating/adobe-experience-platform-data-connector/checking-status-of-data-ingestion-jobs.md)
+      + [Verificare lo stato di un processo di acquisizione dati](/help/administrating/adobe-experience-platform-data-connector/checking-status-of-data-ingestion-jobs.md)
    + Regole di tipologia{#typology-rules}
       + Gestione dell’affaticamento{#fatigue-management}
          + [Creare regole per la gestione dello stress](/help/administrating/typology-rules/fatigue-management/create-fatigue-rules.md)
 + Privacy {#privacy}
    + [Panoramica](/help/privacy/privacy-overview.md)
-   + [Creare spazi dei nomi per le richieste di privacy](/help/privacy/namespaces-for-privacy-requests.md)
-   + [Modifica delle risorse personalizzate per le richieste di privacy](/help/privacy/custom-resources-for-privacy-requests.md)
+   + [Creare spazi di nome per le richieste di privacy](/help/privacy/namespaces-for-privacy-requests.md)
+   + [Modificare le risorse personalizzate per le richieste di privacy](/help/privacy/custom-resources-for-privacy-requests.md)
    + [Creazione e tracciamento manuale delle richieste di privacy](/help/privacy/create-and-track-privacy-requests.md)
-   + [Eseguire richieste di accesso ai dati personali](/help/privacy/execute-privacy-requests.md)
-+ [Risolvere i problemi di Campaign Standard](https://experienceleague.corp.adobe.com/docs/campaign-standard-learn/troubleshooting/overview.html)
+   + [Eseguire richieste di privacy](/help/privacy/execute-privacy-requests.md)
++ [Risolvere i problemi in Campaign Standard](https://experienceleague.corp.adobe.com/docs/campaign-standard-learn/troubleshooting/overview.html?lang=it)
