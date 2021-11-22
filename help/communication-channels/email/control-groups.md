@@ -1,7 +1,7 @@
 ---
 title: Aggiunta di un gruppo di controllo a una consegna
 description: Scopri come definire un gruppo di controllo per la consegna e come estrarre i profili assegnati al gruppo di controllo dopo l’invio della consegna.
-feature: Gruppi di controllo
+feature: Control Groups
 kt: 5060
 thumbnail: 40684.jpg
 doc-type: feature video
@@ -12,7 +12,7 @@ role: User
 level: Intermediate, Experienced
 source-git-commit: 2be2719ddd84490b796d9abc6300376fa896ff0c
 workflow-type: tm+mt
-source-wordcount: '123'
+source-wordcount: '121'
 ht-degree: 100%
 
 ---

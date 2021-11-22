@@ -1,7 +1,7 @@
 ---
 title: Configurare gli eventi
 description: '"Scopri in che modo gli eventi definiscono quale azione avviata dall’utente attiverà un messaggio in-app da visualizzare. "'
-feature: In-app
+feature: In App
 kt: 2548
 thumbnail: 26245.jpg
 doc-type: feature video
@@ -12,18 +12,18 @@ role: User, Developer
 level: Beginner, Intermediate
 source-git-commit: 2be2719ddd84490b796d9abc6300376fa896ff0c
 workflow-type: tm+mt
-source-wordcount: '215'
+source-wordcount: '213'
 ht-degree: 3%
 
 ---
 
 # Configurare [!UICONTROL Events] {#configuring-events}
 
-Durante la configurazione di un messaggio [!UICONTROL In-App], è necessario definire quale azione avviata dall’utente attiva la visualizzazione del messaggio. Queste azioni sono denominate [!UICONTROL events]. Sono disponibili tre categorie di [!UICONTROL events]: [!UICONTROL Mobile Application events], [!UICONTROL Life Cycle events] e [!UICONTROL Analytics events].
+Durante la configurazione di un [!UICONTROL In-App] messaggio, devi definire quale azione avviata dall’utente attiva la visualizzazione del messaggio. Queste azioni sono denominate [!UICONTROL events]. Tre categorie di [!UICONTROL events] sono disponibili: [!UICONTROL Mobile Application events], [!UICONTROL Life Cycle events]e [!UICONTROL Analytics events].
 
 ## [!UICONTROL Mobile Application Events] {#mobile-application-events}
 
-[!UICONTROL Mobile Application events] sono  [!UICONTROL custom events] implementati nella tua app mobile.
+[!UICONTROL Mobile Application events] sono [!UICONTROL custom events] che sono implementati nella tua app mobile.
 
 Gli esempi sono:
 
@@ -32,13 +32,13 @@ Gli esempi sono:
 * Abbandono del carrello
 * Un cliente ha acquistato qualcosa
 
-Devi configurare questi [!UICONTROL events] in Adobe Campaign. Il video seguente descrive come eseguire questa operazione.
+Devi configurarli [!UICONTROL events] in Adobe Campaign. Il video seguente descrive come eseguire questa operazione.
 
 >[!VIDEO](https://video.tv.adobe.com/v/26245?quality=12)
 
 ## [!UICONTROL Life Cycle events] {#life-cycle-events}
 
-[!UICONTROL Lifecycle events] sono preconfigurati  [!UICONTROL events]. Sono disponibili le seguenti [!UICONTROL events]:
+[!UICONTROL Lifecycle events] sono preconfigurati [!UICONTROL events]. I seguenti [!UICONTROL events] sono disponibili:
 
 * [!UICONTROL launched]
 * [!UICONTROL upgraded]
@@ -48,7 +48,7 @@ Un esempio di caso d’uso potrebbe essere un messaggio che introduce nuove funz
 
 >[!NOTE]
 >
->È necessario configurare [!UICONTROL Lifecycle module] nell’app mobile. Per ulteriori informazioni su [Come aggiungere il ciclo di vita all&#39;app](https://aep-sdks.gitbook.io/docs/using-mobile-extensions/mobile-core/lifecycle), vedi qui
+>La [!UICONTROL Lifecycle module] deve essere configurato nell’app mobile. Per ulteriori informazioni, consulta qui [Aggiungere il ciclo di vita all’app](https://aep-sdks.gitbook.io/docs/using-mobile-extensions/mobile-core/lifecycle)
 
 ## [!UICONTROL Analytics Events] {#analytics-events}
 
@@ -60,7 +60,7 @@ Le tre categorie seguenti sono supportate a seconda degli strumenti utilizzati n
 
 >[!NOTE]
 >
->[!UICONTROL Analytics events] richiedere una licenza Adobe Analytics. Dopo aver configurato l&#39; [[!DNL Analytics] estensione](https://aep-sdks.gitbook.io/docs/using-mobile-extensions/adobe-analytics#configure-analytics-extension-in-launch) e aggiunto [Analytics all&#39;app](https://aep-sdks.gitbook.io/docs/using-mobile-extensions/adobe-analytics#add-analytics-to-your-app), questi eventi diventano disponibili nella configurazione [!UICONTROL In-App] in ACS.
+>[!UICONTROL Analytics events] richiedere una licenza Adobe Analytics. Una volta che hai [[!DNL Analytics] estensione configurata](https://aep-sdks.gitbook.io/docs/using-mobile-extensions/adobe-analytics#configure-analytics-extension-in-launch) e hanno aggiunto [Eseguire l’analisi sull’app](https://aep-sdks.gitbook.io/docs/using-mobile-extensions/adobe-analytics#add-analytics-to-your-app), questi eventi diventano disponibili nel [!UICONTROL In-App] configurazione in ACS.
 
 ## Risorse aggiuntive
 

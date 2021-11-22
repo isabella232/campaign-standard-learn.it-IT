@@ -1,7 +1,7 @@
 ---
 title: Creare un rapporto dinamico
 description: Scopri come creare un report.
-feature: Generazione rapporti
+feature: Reporting
 kt: 2037
 thumbnail: 25264.jpg
 doc-type: feature video
@@ -12,14 +12,14 @@ role: User
 level: Beginner
 source-git-commit: 481cbdcc9ac7446cc36fbff6e3d6e43fe333d30b
 workflow-type: tm+mt
-source-wordcount: '63'
-ht-degree: 33%
+source-wordcount: '62'
+ht-degree: 32%
 
 ---
 
 # Crea un [!UICONTROL Dynamic Report]{#creating-a-report}
 
-Adobe Campaign [!UICONTROL Dynamic Reports] è un ambiente a forma libera flessibile in cui è possibile esplorare i dati. Consente di combinare dimensioni, metriche e intervalli di tempo in qualsiasi combinazione, con raggruppamenti e confronti illimitati.
+Adobe Campaign [!UICONTROL Dynamic Reports] sono un ambiente a forma libera flessibile in cui è possibile esplorare i dati. Consente di combinare dimensioni, metriche e intervalli di tempo in qualsiasi combinazione, con raggruppamenti e confronti illimitati.
 
 Scopri come creare un report.
 

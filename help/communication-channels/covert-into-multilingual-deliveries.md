@@ -1,7 +1,7 @@
 ---
-title: Convertire e-mail, SMS o modello di consegna esistente in una versione multilingue
+title: Convertire un messaggio e-mail esistente, SMS o modello esistente in una versione multilingue
 description: Scopri come convertire un’e-mail, una consegna SMS o un modello di consegna esistente in una versione multilingue.
-feature: E-mail, SMS
+feature: Email, SMS
 kt: 1703
 thumbnail: 23251.jpg
 doc-type: feature video
@@ -12,12 +12,12 @@ role: User
 level: Intermediate, Experienced
 source-git-commit: 481cbdcc9ac7446cc36fbff6e3d6e43fe333d30b
 workflow-type: tm+mt
-source-wordcount: '75'
-ht-degree: 2%
+source-wordcount: '73'
+ht-degree: 32%
 
 ---
 
-# Convertire e-mail, SMS o modello di consegna esistente in una versione multilingue
+# Convertire un messaggio e-mail esistente, SMS o modello esistente in una versione multilingue
 
 Questo video illustra come convertire facilmente in multilingue un’e-mail, un SMS o un modello di consegna esistente.
 

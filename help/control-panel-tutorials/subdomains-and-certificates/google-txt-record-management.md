@@ -1,7 +1,7 @@
 ---
 title: Gestione dei record TXT di Google
-description: Puoi aggiungere i record TXT di Google per la verifica del sito a tutti i sottodomini utilizzati per inviare e-mail a indirizzi GMAIL tramite il Pannello di controllo Campaign.
-feature: Pannello di controllo Campaign
+description: Puoi aggiungere record TXT di Google per la verifica del sito a tutti i tuoi sottodomini utilizzati per inviare e-mail agli indirizzi GMAIL tramite il Pannello di controllo Campaign.
+feature: Control Panel
 audience: administrator
 kt: 4744
 doc-type: feature video
@@ -10,7 +10,7 @@ team: PM
 exl-id: 51f3d728-d547-41c8-bf53-bca49d5427fe
 source-git-commit: 84195adf94a98bf3150a51f17aa1de1d0329da05
 workflow-type: tm+mt
-source-wordcount: '122'
+source-wordcount: '120'
 ht-degree: 92%
 
 ---

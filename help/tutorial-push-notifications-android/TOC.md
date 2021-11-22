@@ -2,7 +2,7 @@
 user-guide-title: Adobe Campaign Standard - Guida introduttiva alle notifiche push per Android
 user-guide-description: Questo tutorial illustra i passaggi necessari per inviare notifiche push da Adobe Campaign e riceverle nell’app Android.
 source-git-commit: 1b2e9a48c4e48fe07c3114976dc8c3a57ed8a1c4
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '66'
 ht-degree: 100%
 

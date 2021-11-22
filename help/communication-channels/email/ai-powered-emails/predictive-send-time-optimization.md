@@ -1,7 +1,7 @@
 ---
 title: Ottimizzazione del tempo di invio predittivo
 description: Scopri quali flussi di lavoro sono necessari per sincronizzare i dati tra Adobe Campaign e il modello di Journey AI. Scopri come visualizzare i punteggi del tempo di invio a livello dei singoli profili e come eseguire le consegne e-mail utilizzando una formula del tempo di invio.
-feature: Ottimizzazione dei tempi di invio
+feature: Send Time Optimization
 kt: 6274
 thumbnail: 40469.jpg
 doc-type: feature video
@@ -12,8 +12,8 @@ role: User, Developer, Admin
 level: Experienced
 source-git-commit: 64940a739897c3969574dcf1d1e36c5a986d0473
 workflow-type: tm+mt
-source-wordcount: '204'
-ht-degree: 88%
+source-wordcount: '201'
+ht-degree: 89%
 
 ---
 

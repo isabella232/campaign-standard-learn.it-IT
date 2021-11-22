@@ -1,7 +1,7 @@
 ---
 title: Mappatura di risorse personalizzate
 description: Scopri come mappare diversi tipi di dati tra Adobe Campaign Standard (ACS) e Adobe Experience Platform (AEP)
-feature: Integrazione del servizio core People
+feature: People Core Service Integration
 kt: 2828
 thumbnail: 27231.jpg
 doc-type: feature video
@@ -10,18 +10,18 @@ team: TM
 exl-id: c0c8bcca-9b32-461a-8126-3a59106fe6ac
 source-git-commit: 64940a739897c3969574dcf1d1e36c5a986d0473
 workflow-type: tm+mt
-source-wordcount: '79'
-ht-degree: 8%
+source-wordcount: '75'
+ht-degree: 9%
 
 ---
 
-# Mapping [!UICONTROL custom resources]
+# Mappatura [!UICONTROL custom resources]
 
 >[!NOTE]
 >
 >Questa funzionalità è attualmente in versione beta e soggetta a frequenti aggiornamenti e modifiche senza preavviso.
 >
->Per implementare questa funzionalità, contatta [!UICONTROL Adobe Customer Support] .
+>Rivolgiti a [!UICONTROL Adobe Customer Support] se prevedi di implementare questa funzionalità.
 
 Scopri come mappare diversi tipi di dati tra Adobe Campaign Standard e Adobe Experience Platform.
 

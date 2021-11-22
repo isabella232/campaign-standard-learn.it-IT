@@ -1,7 +1,7 @@
 ---
 title: Modificare la dimensione di targeting
 description: Questo video spiega come modificare la dimensione di targeting di una consegna per un pubblico di Platform al di fuori della tabella del profilo principale in Adobe Campaign Standard.
-feature: Integrazione del servizio core People
+feature: People Core Service Integration
 kt: 3739
 thumbnail: 30151.jpg
 doc-type: feature video
@@ -12,8 +12,8 @@ role: User, Developer
 level: Beginner, Intermediate, Experienced
 source-git-commit: 481cbdcc9ac7446cc36fbff6e3d6e43fe333d30b
 workflow-type: tm+mt
-source-wordcount: '166'
-ht-degree: 6%
+source-wordcount: '162'
+ht-degree: 11%
 
 ---
 
@@ -23,7 +23,7 @@ ht-degree: 6%
 >
 >Questa funzionalità è in versione beta e soggetta a frequenti aggiornamenti e modifiche senza preavviso. [!UICONTROL Audience Destinations] è basato su Adobe Experience Platform e richiede una configurazione specifica.
 >
->Per implementare questa funzionalità, contatta [!UICONTROL Adobe Customer Support] .
+>Rivolgiti a [!UICONTROL Adobe Customer Support] se prevedi di implementare questa funzionalità.
 
 Questo video spiega come modificare la dimensione di targeting di una consegna per un [!UICONTROL Platform Audience] al di fuori della tabella del profilo principale in Adobe Campaign Standard.
 
@@ -39,5 +39,5 @@ Documentazione:
 
 Risorse video:
 
-* [Creare un pubblico utilizzando Unified Segment Builder (Generatore di segmenti unificato)](/help/profiles-and-audiences/audience-destinations/creating-audiences-using-segment-builder.md)
+* [Creare un nuovo pubblico con Unified Segment Builder (Generatore di segmenti unificato)](/help/profiles-and-audiences/audience-destinations/creating-audiences-using-segment-builder.md)
 * [Attivare il pubblico di Adobe Experience Platform in un flusso di lavoro di marketing](/help/profiles-and-audiences/audience-destinations/activating-aep-audiences.md)

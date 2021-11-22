@@ -1,7 +1,7 @@
 ---
 title: Introduzione ai messaggi in-app
 description: Scopri come presentare all’utente messaggi in-app contestualmente pertinenti in risposta al comportamento in tempo reale di un cliente all’interno dell’app mobile.
-feature: In-app
+feature: In App
 kt: 1911
 doc-type: feature video
 activity: use
@@ -11,47 +11,47 @@ role: User
 level: Beginner
 source-git-commit: 30e8e10575aad4dcf2b0473cdd9fd6d5fc2815f4
 workflow-type: tm+mt
-source-wordcount: '730'
+source-wordcount: '728'
 ht-degree: 21%
 
 ---
 
-# Introduzione ai messaggi [!UICONTROL In-App] {#introduction}
+# Introduzione a [!UICONTROL In-App] messages {#introduction}
 
-Il canale [!UICONTROL In-App Messaging] ti consente di visualizzare un messaggio quando l’utente è attivo all’interno dell’app mobile. Questo canale richiede l&#39;integrazione delle applicazioni mobili con [!UICONTROL Adobe Experience Platform SDK].
+La [!UICONTROL In-App Messaging] channel ti consente di visualizzare un messaggio quando l’utente è attivo all’interno dell’app mobile. Questo canale richiede l&#39;integrazione delle applicazioni mobili con [!UICONTROL Adobe Experience Platform SDK].
 
-Questa esercitazione spiega i passaggi necessari per impostare le proprietà mobili, l’ estensione [!UICONTROL Launch] per il canale [!UICONTROL In-App Messaging] e come preparare, personalizzare e inviare messaggi [!UICONTROL In-App] in Adobe Campaign Standard. I collegamenti portano alle esercitazioni video su ciascuno degli argomenti evidenziati.
+Questa esercitazione spiega i passaggi necessari per configurare le proprietà mobile, [!UICONTROL Launch] estensione per [!UICONTROL In-App Messaging] e come preparare, personalizzare e inviare [!UICONTROL In-App] in Adobe Campaign Standard. I collegamenti portano alle esercitazioni video su ciascuno degli argomenti evidenziati.
 
 ## Prerequisiti {#prerequisites}
 
-1. Assicurati di poter accedere al canale **[!UICONTROL In-App]** . Se non riesci ad accedere a questi canali, contatta il team dell’account.
-1. Verifica che il tuo **utente** disponga delle **autorizzazioni** necessarie in Adobe Campaign Standard e [!UICONTROL Launch].
+1. Assicurati di poter accedere al **[!UICONTROL In-App]** canale. Se non riesci ad accedere a questi canali, contatta il team dell’account.
+1. Verifica che la tua **user** ha **permissions** in Adobe Campaign Standard e [!UICONTROL Launch].
 
-   1. In Adobe Campaign Standard, assicurati che l’utente IMS faccia parte dei gruppi [!UICONTROL Standard User] e [!UICONTROL Administrator] .
+   1. In Adobe Campaign Standard, assicurati che l’utente IMS faccia parte del [!UICONTROL Standard User] e [!UICONTROL Administrator] gruppi.
 
-      Questo passaggio consente all’utente di accedere ad Adobe Campaign Standard, passare alla pagina dell’app mobile Experience Platform SDK e visualizzare le proprietà dell’app mobile create in [!UICONTROL Launch].
+      Questo passaggio consente all’utente di accedere ad Adobe Campaign Standard, passare alla pagina dell’app mobile Experience Platform SDK e visualizzare le proprietà dell’app mobile creata in [!UICONTROL Launch].
 
-   1. In [!UICONTROL Launch], assicurati che l’utente IMS faccia parte di un profilo di prodotto [!UICONTROL Launch]. Questo passaggio consente all’utente di accedere a [!UICONTROL Launch] per creare e visualizzare le proprietà. Nel profilo di prodotto non dovrebbero essere impostate autorizzazioni per l’azienda o per le proprietà, ma l’utente dovrebbe comunque essere in grado di effettuare l’accesso.
+   1. In [!UICONTROL Launch], assicurati che l’utente IMS faccia parte di un [!UICONTROL Launch] profilo di prodotto. Questo passaggio consente all’utente di accedere a [!UICONTROL Launch] per creare e visualizzare le proprietà. Nel profilo di prodotto non dovrebbero essere impostate autorizzazioni per l’azienda o per le proprietà, ma l’utente dovrebbe comunque essere in grado di effettuare l’accesso.
 
 1. In Adobe Experience Platform Launch:
 
    1. Crea l’app mobile creando una proprietà mobile e strumento la tua app mobile con Experience Platform SDK.
-   1. Installa l&#39;estensione **Adobe Campaign Standard** per la tua app mobile.
+   1. Installa il **Adobe Campaign Standard** estensione per la tua app mobile.
 
-Per ulteriori informazioni sulle estensioni, consulta [Configura estensione Campaign Standard in Adobe Launch](https://aep-sdks.gitbook.io/docs/using-mobile-extensions/adobe-campaign-standard) nella documentazione.
+Per ulteriori informazioni sulle estensioni, consulta [Configurare l’estensione Campaign Standard in Adobe Launch](https://aep-sdks.gitbook.io/docs/using-mobile-extensions/adobe-campaign-standard) nella documentazione.
 
-## Passaggi per impostare i messaggi [!UICONTROL In-App] {#steps-to-set-up}
+## Passaggi da configurare [!UICONTROL In-App] messages {#steps-to-set-up}
 
 1. [Configurare un’app mobile mediante l’SDK di Adobe Experience Platform](/help/communication-channels/mobile/configure-mobile-apps-using-aep-sdk.md).
-1. [Configurare gli eventi](/help/communication-channels/mobile/in-app/configure-events.md).
+1. [Configurare eventi](/help/communication-channels/mobile/in-app/configure-events.md).
 
-## Creare, gestire e pubblicare [!UICONTROL In-App] consegne {#create-manage-publish}
+## Creare, gestire e pubblicare [!UICONTROL In-App] Consegne {#create-manage-publish}
 
-Puoi creare consegne in-app una sola volta facendo clic sulla scheda **[!UICONTROL Create an In-App Message]** dalla home page, da [!UICONTROL Marketing Activities] oppure [Crea una consegna in-app all’interno di un flusso di lavoro](/help/communication-channels/mobile/in-app/in-app-activity.md).
+Puoi creare consegne in-app una sola volta facendo clic sul pulsante **[!UICONTROL Create an In-App Message]** scheda dalla homepage, dal [!UICONTROL Marketing Activities]oppure puoi [Creare una consegna in-app all’interno di un flusso di lavoro](/help/communication-channels/mobile/in-app/in-app-activity.md).
 
 Quando configuri la consegna, hai tre opzioni per eseguire il targeting degli utenti scegliendo tra diversi modelli di consegna:
 
-1. [**Trasmettere un**](/help/communication-channels/mobile/in-app/broadcast-in-app-message.md) messaggio in-app per eseguire il targeting di tutti gli utenti di un’app mobile.
+1. [**Trasmettere un messaggio in-app**](/help/communication-channels/mobile/in-app/broadcast-in-app-message.md) per eseguire il targeting di tutti gli utenti di un’app mobile.
 
    questo tipo di messaggio ti consente di inviare messaggi a tutti gli utenti (correnti o futuri) della tua app mobile anche se non dispongono di un profilo esistente in Adobe Campaign. La personalizzazione non è quindi possibile quando si personalizzano i messaggi in quanto il profilo utente non esiste necessariamente in Adobe Campaign.
 
@@ -67,7 +67,7 @@ Questo modello è utile per supportare i casi d’uso di orchestrazione cross-ch
 
 ## Report sulle consegne in-app {#report}
 
-Una volta pubblicata la consegna, puoi [creare rapporti sulla consegna in-app](/help/communication-channels/mobile/in-app/in-app-reporting.md).
+Una volta pubblicata la consegna, puoi [rapporto sulla consegna in-app](/help/communication-channels/mobile/in-app/in-app-reporting.md).
 
 ## Risorse aggiuntive
 

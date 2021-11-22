@@ -1,7 +1,7 @@
 ---
 title: Punteggio del coinvolgimento predittivo
 description: Scopri come visualizzare i punteggi di coinvolgimento a livello dei singoli profili, utilizzare i punteggi per targetizzare gli utenti interessati ed eliminare gli utenti con calo di interesse e creare regole di tipologia per gestire la "customer fatigue".
-feature: Punteggio di coinvolgimento predittivo
+feature: Predictive Engagement Scoring
 kt: 6275
 thumbnail: 40470.jpg
 doc-type: feature video
@@ -12,8 +12,8 @@ role: User, Developer, Admin
 level: Experienced
 source-git-commit: 64940a739897c3969574dcf1d1e36c5a986d0473
 workflow-type: tm+mt
-source-wordcount: '216'
-ht-degree: 65%
+source-wordcount: '213'
+ht-degree: 66%
 
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: Controllare lo stato di un processo di inserimento dei dati
+title: Verificare lo stato di un processo di acquisizione dati
 description: Scopri come controllare lo stato e modificare la mappatura dei dati.
 feature: People Core Service Integration
 audience: administrator
@@ -12,17 +12,17 @@ exl-id: aa0f8abe-0b42-4957-8a82-25521751b7af
 source-git-commit: 2ba22e7e7d193278fd06cb4b2dc80f650f754ec8
 workflow-type: tm+mt
 source-wordcount: '116'
-ht-degree: 9%
+ht-degree: 23%
 
 ---
 
-# Controllare lo stato di un processo di inserimento dei dati
+# Verificare lo stato di un processo di acquisizione dati
 
 >[!NOTE]
 >
 >Questa funzionalità è in versione beta e soggetta a frequenti aggiornamenti e modifiche senza preavviso.
 >
->Per implementare questa funzionalità, contatta [!UICONTROL Adobe Customer Support] .
+>Rivolgiti a [!UICONTROL Adobe Customer Support] se prevedi di implementare questa funzionalità.
 
 Scopri come controllare lo stato di un processo di inserimento dei dati e se i dati sono stati acquisiti da Adobe Campaign Standard in Adobe Experience Platform.
 

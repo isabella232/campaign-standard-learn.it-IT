@@ -1,14 +1,14 @@
 ---
 title: Gestione delle chiavi GPG - Panoramica
 description: Scopri come generare e installare una coppia di chiavi pubblica/privata in una specifica istanza Campaign per la crittografia dei dati in uscita. Scopri come importare e installare una chiave pubblica in un’istanza Campaign per la decrittografia dei dati in entrata.
-feature: Pannello di controllo Campaign
+feature: Control Panel
 audience: administrator
 team: TM
 exl-id: a9a24104-332c-483e-8a6f-6d80f90ad66f
 source-git-commit: 84195adf94a98bf3150a51f17aa1de1d0329da05
 workflow-type: tm+mt
-source-wordcount: '160'
-ht-degree: 64%
+source-wordcount: '158'
+ht-degree: 70%
 
 ---
 
@@ -18,9 +18,9 @@ GPG (GnuPG) crittografa i messaggi utilizzando coppie di chiavi singole asimmetr
 
 Scopri come generare e installare una coppia di chiavi pubblica/privata in una specifica istanza Campaign per la crittografia dei dati in uscita. Scopri come importare e installare una chiave pubblica in un’istanza Campaign per la decrittografia dei dati in entrata.
 
-* [Generare e installare le chiavi GPG per la crittografia dei dati](./generating-and-installing-gpg-keys-for-data-encryption.md)
+* [Generazione e installazione di chiavi GPG per la crittografia dei dati](./generating-and-installing-gpg-keys-for-data-encryption.md)
 * [Utilizzo di una chiave GPG per crittografare i dati](./using-a-gpg-key-to-encrypt-data.md)
-* [Decrittografare i dati](./decrypting-data.md)
+* [Decrittare i dati](./decrypting-data.md)
 
 ## Risorse aggiuntive
 

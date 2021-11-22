@@ -1,7 +1,7 @@
 ---
 title: Operazioni con il contenuto esistente
 description: Scopri come recuperare il contenuto creativo da un sito web e caricarlo in E-mail Designer.
-feature: Progettazione e-mail
+feature: Email Design
 kt: 6295
 thumbnail: 25926.jpg
 doc-type: feature video
@@ -12,7 +12,7 @@ role: User, Developer
 level: Beginner
 source-git-commit: 84195adf94a98bf3150a51f17aa1de1d0329da05
 workflow-type: tm+mt
-source-wordcount: '105'
+source-wordcount: '103'
 ht-degree: 7%
 
 ---
@@ -25,7 +25,7 @@ Scopri come recuperare il contenuto creativo da un sito web e caricarlo in E-mai
 
 >[!VIDEO](https://video.tv.adobe.com/v/25926?quality=12)
 
-## Compatibilità di contenuti HTML esistenti {#making-existing-html-content-compatible}
+## Rendere compatibile il contenuto HTML esistente {#making-existing-html-content-compatible}
 
 E-mail Designer richiede tag specifici che devono essere applicati per rendere i contenuti HTML standard caricati in Adobe Campaign completamente compatibili e modificabili.
 

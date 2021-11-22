@@ -1,7 +1,7 @@
 ---
 title: Configurare gli elenchi di prodotti nelle e-mail transazionali
 description: Scopri i passaggi necessari per configurare gli elenchi di prodotti nelle e-mail transazionali.
-feature: Messaggistica transazionale, E-mail
+feature: Transactional Messaging, Email
 kt: 1728
 thumbnail: 25915
 doc-type: feature video
@@ -12,16 +12,16 @@ role: User, Developer
 level: Experienced
 source-git-commit: 344b8d8bb216489db586b030c71fd84d273968d9
 workflow-type: tm+mt
-source-wordcount: '169'
+source-wordcount: '166'
 ht-degree: 4%
 
 ---
 
-# Configurare [!UICONTROL product listings] nelle e-mail transazionali
+# Configura [!UICONTROL product listings] nelle e-mail transazionali
 
 Puoi configurare un messaggio e-mail di retargeting con un elenco di prodotti sconosciuti durante la progettazione dell’e-mail. Questi prodotti possono essere aggiunti dal payload in fase di esecuzione. Ad esempio, puoi inviare automaticamente un’e-mail di abbandono carrello elencando tutti i prodotti presenti nel carrello dell’utente prima che lo abbandonino, con un’immagine, un prezzo e un collegamento a ciascun prodotto.
 
-Nei video seguenti vengono illustrati i passaggi necessari per configurare [!UICONTROL product listings] in [!UICONTROL transactional emails].
+Nei video seguenti vengono illustrati i passaggi necessari per la configurazione [!UICONTROL product listings] in [!UICONTROL transactional emails].
 
 >[!NOTE]
 >

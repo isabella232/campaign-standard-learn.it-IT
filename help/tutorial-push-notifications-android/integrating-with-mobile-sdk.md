@@ -1,5 +1,5 @@
 ---
-title: Passaggio 2 - Integrazione di Mobile SDK
+title: 'Passaggio 2: integrare l’SDK per dispositivi mobili'
 description: In questa parte, integreremo l’app Android con Mobile SDK. Per integrare l’SDK mobile con l’app Android
 feature: Push
 kt: 4826
@@ -7,25 +7,24 @@ doc-type: tutorial
 activity: use
 team: TM
 exl-id: 0fa53536-8330-4e96-be2f-afc078609bcd
-translation-type: tm+mt
 source-git-commit: ada0b029245190f53d58fa93c79c161719bfe9fd
 workflow-type: tm+mt
-source-wordcount: '159'
+source-wordcount: '158'
 ht-degree: 3%
 
 ---
 
-# PASSAGGIO 2: integrare [!UICONTROL Mobile SDK] con l’app Android
+# PASSAGGIO 2 - Integrazione [!UICONTROL Mobile SDK] con app Android
 
-In questa parte, integreremo l’app [!DNL Android] con [!UICONTROL Mobile SDK]. Per integrare [!UICONTROL mobile SDK] con l&#39;app [!DNL Android], effettua le seguenti operazioni:
+In questa parte, integreremo il [!DNL Android] app con [!UICONTROL Mobile SDK]. Per integrare [!UICONTROL mobile SDK] con [!DNL Android] app, segui i seguenti passaggi:
 
-* Apri il progetto *ACSPushTutorial* in [!DNL Android Studio]
-* Crea una nuova classe java denominata *MainApp* che estende [!DNL android.app.Application]
+* Apri *ACSPushTutorial* progetto in [!DNL Android Studio]
+* Crea una nuova classe java denominata *MainApp* che si estende [!DNL android.app.Application]
 * A questo punto la struttura del progetto dovrebbe essere simile a quella riportata di seguito
 
 ![applicazione principale](assets/android-main-app.PNG)
 
-* Espandi la cartella [!DNL Gradle Scripts] . Fai doppio clic su [!DNL build.gradle] del modulo . Incolla le dipendenze seguenti nella sezione dipendenze del file [!DNL build.gradle]. Il file [!DNL build.gradle] deve ora essere simile a quello riportato di seguito
+* Espandi la [!DNL Gradle Scripts] cartella. Fai doppio clic sul pulsante [!DNL build.gradle] del modulo. Incolla le seguenti dipendenze nella sezione dipendenze del [!DNL build.gradle] file. Le [!DNL build.gradle] Il file dovrebbe ora essere simile al seguente
 
 <!--
 Removed `{.line-numbers}` below
@@ -39,11 +38,11 @@ implementation 'com.adobe.marketing.mobile:sdk-core:1.+'
 
 ![gradle-modulo](assets/module-build-gradle.PNG)
 
-* Sincronizza il progetto [!DNL Android] facendo clic sul pulsante sincronizza ora per sincronizzare il progetto
+* Sincronizza [!DNL Android] per sincronizzare il progetto, fai clic sul pulsante sincronizza ora
 
 ## Modifica [!DNL AndroidManifest.xml]{#modify-android-manifest}
 
-Apri *AndroidManifest.xml* e incolla le seguenti 2 righe dopo l&#39;elemento manifest e prima dell&#39;elemento application. Questo consente all&#39;app di comunicare con il mondo esterno
+Apri *AndroidManifest.xml* e incolla le seguenti 2 righe dopo l’elemento manifest e prima dell’elemento application . Questo consente all&#39;app di comunicare con il mondo esterno
 
 <!--
 Removed `{.line-numbers}` below
@@ -57,7 +56,7 @@ Removed `{.line-numbers}` below
 Copia la seguente riga nell’elemento dell’applicazione
 [!DNL android:name=".MainApp"]
 Salva il tuo [!DNL AndroidManifest.xml]
-Il tuo [!DNL AndroidManifest.xml] dovrebbe essere simile a questo
+Le [!DNL AndroidManifest.xml] dovrebbe essere così
 
 <!--
 Removed `{.line-numbers}` below

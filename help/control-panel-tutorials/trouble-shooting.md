@@ -1,7 +1,7 @@
 ---
 title: Risoluzione dei problemi relativi al Pannello di controllo Campaign
 description: Il Pannello di controllo Campaign ti consente di monitorare e gestire l’archiviazione SFTP per istanza e inserire nell'elenco Consentiti gli indirizzi IP.
-feature: Pannello di controllo Campaign
+feature: Control Panel
 kt: 2938
 doc-type: article
 activity: use
@@ -9,8 +9,8 @@ team: PM
 exl-id: f546f791-a69b-4586-abfa-3e626b8feb17
 source-git-commit: 481cbdcc9ac7446cc36fbff6e3d6e43fe333d30b
 workflow-type: tm+mt
-source-wordcount: '320'
-ht-degree: 44%
+source-wordcount: '318'
+ht-degree: 47%
 
 ---
 
@@ -24,8 +24,8 @@ Problemi relativi ad accesso e home page.
 
 ### Sintomo: Impossibile accedere a Adobe Experience Cloud
 
-**Come procedere:**
-l’utente deve individuare il proprio  [!DNL IMS Org ID] (xxx). L’amministratore deve aggiungere l’utente al [!UICONTROL product profile] [!DNL “Campaign-xxx-Admins”] per ogni istanza da gestire. Se l’utente è amministratore di tutte le istanze, deve aggiungere se stesso come *[!UICONTROL user]*.
+**Procedura:**
+L’utente deve individuare le proprie [!DNL IMS Org ID] xxx. L&#39;amministratore deve aggiungere l&#39;utente al [!UICONTROL product profile] [!DNL “Campaign-xxx-Admins”] per ogni istanza che desiderano gestire. Se l’utente è amministratore di tutte le istanze, deve aggiungere se stesso come *[!UICONTROL user]*.
 
 ### Sintomo: nella [!UICONTROL Adobe Experience Cloud Home] non vengono visualizzati i collegamenti di un utente per l’accesso al [!UICONTROL Control Panel]
 
@@ -33,15 +33,15 @@ l’utente deve individuare il proprio  [!DNL IMS Org ID] (xxx). L’amministrat
 gli utenti non vedranno i collegamenti finché non saranno stati aggiunti come utenti al [!UICONTROL product profile] `Campaign-xxx-Administrators/Admin`
 
 **Procedura:**
-l’amministratore deve aggiungere l’utente al  [!UICONTROL product profile] *[!DNL Campaign-xxx-Admins]* per ogni istanza da gestire. Se l’utente è amministratore di tutte le istanze, deve aggiungere se stesso come *[!UICONTROL user]*.
+L&#39;amministratore deve aggiungere l&#39;utente al [!UICONTROL product profile] *[!DNL Campaign-xxx-Admins]* per ogni istanza che desiderano gestire. Se l’utente è amministratore di tutte le istanze, deve aggiungere se stesso come *[!UICONTROL user]*.
 
 ### Sintomo: un’istanza non è elencata nel [!UICONTROL Control Panel]
 
 **Causa:**
-probabilmente l’utente deve essere aggiunto come profilo di  *[!UICONTROL user]* prodotto  `Campaign-xxx-Administrators/Admin` per l’istanza mancante
+Probabilmente l’utente deve essere aggiunto come *[!UICONTROL user]* Profilo prodotto `Campaign-xxx-Administrators/Admin` per l&#39;istanza mancante
 
 **Procedura:**
-l’amministratore deve aggiungere l’utente al profilo di prodotto  `Campaign-xxx-Admins` per ogni istanza da gestire. Se l’utente è amministratore di tutte le istanze, deve aggiungere se stesso come *[!UICONTROL user]*.
+L’amministratore deve aggiungere l’utente al profilo di prodotto `Campaign-xxx-Admins` per ogni istanza che desiderano gestire. Se l’utente è amministratore di tutte le istanze, deve aggiungere se stesso come *[!UICONTROL user]*.
 
 ### Video utili
 
@@ -63,7 +63,7 @@ l’amministratore deve aggiungere l’utente al profilo di prodotto  `Campaign-
 La connessione ai server SFTP richiede:
 
 * [!UICONTROL allow listing] l’indirizzo IP da cui desideri connetterti al server SFTP
-* Coppia di chiavi privata/pubblica che deve essere registrata con Adobe Campaign
+* Una coppia di chiavi privata/pubblica che deve essere registrata con Adobe Campaign
 * Se ti connetti direttamente al server SFTP, devi disporre di un software client SFTP
 
 ### Documentazione utile {#helpful-docs}

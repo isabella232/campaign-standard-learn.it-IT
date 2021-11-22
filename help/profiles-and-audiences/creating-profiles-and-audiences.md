@@ -1,7 +1,7 @@
 ---
 title: 'Creazione di profili e pubblico: panoramica'
 description: Scopri come accedere ai profili esistenti e come creare profili e tipi di pubblico.
-feature: Profili, tipi di pubblico
+feature: Profiles, Audiences
 kt: 3899
 thumbnail: 18463.jpg
 doc-type: feature video
@@ -12,8 +12,8 @@ role: User
 level: Beginner
 source-git-commit: 2be2719ddd84490b796d9abc6300376fa896ff0c
 workflow-type: tm+mt
-source-wordcount: '85'
-ht-degree: 35%
+source-wordcount: '83'
+ht-degree: 33%
 
 ---
 
@@ -24,7 +24,7 @@ Adobe Campaign dispone di due tipi o profili:
 * Profili identificati
 * Profili di test
 
-I profili raggruppati in base a uno o più criteri comuni sono denominati **tipi di pubblico**.
+Vengono chiamati i profili raggruppati in base a uno o più criteri comuni **pubblico**.
 
 Questo video spiega come accedere ai profili esistenti e come creare profili e tipi di pubblico in Adobe Campaign Standard.
 

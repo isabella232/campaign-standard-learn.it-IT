@@ -1,7 +1,7 @@
 ---
 title: Mappatura dei dati della tabella di seeding
 description: Scopri come mappare i dati di seed e come testare i profili con Adobe Experience Platform (AEP)
-feature: Integrazione del servizio core People
+feature: People Core Service Integration
 kt: 2900
 thumbnail: 27264.jpg
 doc-type: feature video
@@ -10,8 +10,8 @@ team: TM
 exl-id: a6b8ec23-01a2-4333-9918-9ea13aac4068
 source-git-commit: 64940a739897c3969574dcf1d1e36c5a986d0473
 workflow-type: tm+mt
-source-wordcount: '94'
-ht-degree: 14%
+source-wordcount: '90'
+ht-degree: 15%
 
 ---
 
@@ -21,7 +21,7 @@ ht-degree: 14%
 >
 >Questa funzionalità è attualmente in versione beta e soggetta a frequenti aggiornamenti e modifiche senza preavviso.
 >
->Per implementare questa funzionalità, contatta [!UICONTROL Adobe Customer Support] .
+>Rivolgiti a [!UICONTROL Adobe Customer Support] se prevedi di implementare questa funzionalità.
 
 Scopri come mappare i dati di seed e i profili di test con Adobe Experience Platform.
 

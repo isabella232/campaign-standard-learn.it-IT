@@ -4,7 +4,7 @@ user-guide-description: Scopri come monitorare le risorse chiave delle istanze d
 breadcrumb-title: Tutorial sul Pannello di controllo Campaign
 index: true
 source-git-commit: 84195adf94a98bf3150a51f17aa1de1d0329da05
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '114'
 ht-degree: 100%
 

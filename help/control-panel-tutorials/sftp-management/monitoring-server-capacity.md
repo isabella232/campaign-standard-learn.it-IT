@@ -1,7 +1,7 @@
 ---
 title: Monitoraggio della capacità del server
 description: Scopri come monitorare la capacità di archiviazione dei server SFTP.
-feature: Pannello di controllo Campaign
+feature: Control Panel
 audience: administrator
 kt: 6239
 thumbnail: 27270.jpg
@@ -9,17 +9,16 @@ doc-type: feature video
 activity: use
 team: TM
 exl-id: 432a1af6-22de-41ff-b733-e086ee14ab7a
-translation-type: tm+mt
 source-git-commit: ada0b029245190f53d58fa93c79c161719bfe9fd
 workflow-type: tm+mt
-source-wordcount: '85'
-ht-degree: 57%
+source-wordcount: '83'
+ht-degree: 100%
 
 ---
 
 # Monitoraggio della capacità del server
 
-Il Pannello di controllo Campaign ti consente di monitorare e gestire l’archiviazione SFTP per istanza.
+Il Pannello di controllo Campaign consente di monitorare e gestire l’archiviazione SFTP per le singole istanze.
 
 ## Accesso alla gestione dei sottodomini del [!UICONTROL Control Panel]
 

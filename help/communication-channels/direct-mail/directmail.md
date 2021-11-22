@@ -1,7 +1,7 @@
 ---
 title: Creare una direct mailing
 description: Scopri come creare una direct mailing.
-feature: Direct mailing
+feature: Direct Mail
 kt: 1430
 thumbnail: 23417.jpg
 doc-type: feature video
@@ -12,20 +12,20 @@ role: User
 level: Beginner
 source-git-commit: 2ba22e7e7d193278fd06cb4b2dc80f650f754ec8
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '106'
+ht-degree: 1%
 
 ---
 
 # Crea un [!UICONTROL Direct Mail] {#create-a-direct-mail}
 
-Il canale [!UICONTROL Direct Mail] ti consente di estrarre un elenco segmentato di destinatari da inviare a un’agenzia o caricare su un server SFTP.
+La [!UICONTROL Direct Mail] channel ti consente di estrarre un elenco segmentato di destinatari da inviare a un’agenzia o caricare su un server SFTP.
 
-Questo video spiega come configurare una consegna [!UICONTROL Direct Mail] e quali impostazioni sono necessarie per poter aggiungere un profilo a una consegna [!UICONTROL Direct Mail].
+Questo video spiega come configurare un [!UICONTROL Direct Mail] consegna e impostazioni necessarie per poter aggiungere un profilo a un [!UICONTROL Direct Mail] consegna.
 
 >[!VIDEO](https://video.tv.adobe.com/v/23417?quality=12)
 
-## Creare un [!UICONTROL Direct Mail] all’interno di un flusso di lavoro
+## Crea un [!UICONTROL Direct Mail] all’interno di un flusso di lavoro
 
 Il canale è disponibile dalla home page e nella visualizzazione del flusso di lavoro per definire strategie di marketing coerenti e cross-channel. Il flusso di lavoro di esempio seguente include [!UICONTROL Direct Mail activity].
 

@@ -1,7 +1,7 @@
 ---
-title: Introduzione al Pannello di controllo Campaign
-description: Scopri come accedere al Pannello di controllo Campaign e quali sono i prerequisiti per utilizzare il pannello di controllo.
-feature: Pannello di controllo Campaign
+title: Guida introduttiva al Pannello di controllo Campaign
+description: Scopri come accedere al Pannello di controllo Campaign e quali sono i prerequisiti per poterci lavorare.
+feature: Control Panel
 audience: administrator
 kt: 6385
 thumbnail: kt-6385.jpg
@@ -11,24 +11,24 @@ team: TM
 exl-id: 3626c012-e2f7-4480-aca0-97d7c7ce9a95
 source-git-commit: 84195adf94a98bf3150a51f17aa1de1d0329da05
 workflow-type: tm+mt
-source-wordcount: '208'
-ht-degree: 41%
+source-wordcount: '206'
+ht-degree: 75%
 
 ---
 
-# Guida introduttiva a [!UICONTROL Control Panel] {#control-panel}
+# Introduzione al [!UICONTROL Control Panel] {#control-panel}
 
 >[!NOTE]
 >
 >I termini “[!UICONTROL whitelist]” e “[!UICONTROL blacklist]” sono stati sostituiti da “[!UICONTROL allowlist]” e “[!UICONTROL denylist]” nella documentazione di Adobe Campaign. Alcune occorrenze di questi termini potrebbero ancora esistere nell’interfaccia utente del prodotto, nei nomi delle opzioni, nel codice interno e nei video delle esercitazioni. Saranno sostituiti nelle prossime versione del Pannello di controllo Campaign.
 
-[!UICONTROL Control Panel] consente agli amministratori di Adobe Campaign di monitorare le risorse chiave ed eseguire attività amministrative, ad esempio gestire l’archiviazione [!DNL SFTP] per istanza, gestire le chiavi [!DNL GPG] o [!UICONTROL subdomains] e [!UICONTROL certificates].
+La [!UICONTROL Control Panel] consente agli amministratori di Adobe Campaign di monitorare le risorse chiave ed eseguire attività amministrative, ad esempio gestire [!DNL SFTP] archiviazione per istanza, gestione [!DNL GPG] le chiavi o [!UICONTROL subdomains] e [!UICONTROL certificates].
 
-Scopri come accedere al Pannello di controllo Campaign e quali sono i prerequisiti per utilizzare il pannello di controllo.
+Scopri come accedere al Pannello di controllo Campaign e quali sono i prerequisiti per poterci lavorare.
 
-## Accedi a [!UICONTROL Control Panel]
+## Accedere al [!UICONTROL Control Panel]
 
-Per accedere al Pannello di controllo Campaign, vai a Home Experience Cloud: [https://experiencecloud.adobe.com](https://experiencecloud.adobe.com):
+Per accedere al Pannello di controllo Campaign, vai alla Home di Experience Cloud: [https://experiencecloud.adobe.com](https://experiencecloud.adobe.com):
 
 * **[!UICONTROL Experience Cloud Home]** > **[!UICONTROL Quick Access]**
 
@@ -45,7 +45,7 @@ Prima di iniziare, completa i seguenti prerequisiti:
 
 ### Conferma l’[!DNL IMS Org ID]
 
-Il video seguente descrive dove puoi cercare l’ [!DNL IMS org ID] dell’istanza.
+Il video seguente spiega dove puoi trovare l’[!DNL IMS org ID] dell’istanza.
 
 >[!VIDEO](https://video.tv.adobe.com/v/27183?quality=12)
 

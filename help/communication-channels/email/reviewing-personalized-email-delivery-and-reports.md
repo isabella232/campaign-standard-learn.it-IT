@@ -1,7 +1,7 @@
 ---
 title: Rivedere una consegna tramite e-mail e rapporti
 description: Scopri come rivedere una consegna e-mail personalizzata ed esaminare diversi rapporti disponibili in Adobe Campaign Standard.
-feature: Generazione rapporti
+feature: Reporting
 kt: 3904
 thumbnail: 21389.jpg
 doc-type: tutorial
@@ -12,8 +12,8 @@ role: User
 level: Beginner
 source-git-commit: 2be2719ddd84490b796d9abc6300376fa896ff0c
 workflow-type: tm+mt
-source-wordcount: '81'
-ht-degree: 33%
+source-wordcount: '80'
+ht-degree: 32%
 
 ---
 
