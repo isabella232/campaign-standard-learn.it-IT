@@ -10,9 +10,9 @@ team: PMM
 exl-id: 46978dbc-1716-4fc4-946e-56d703944d25
 role: User, Developer
 level: Beginner
-source-git-commit: 2be2719ddd84490b796d9abc6300376fa896ff0c
+source-git-commit: e918bcaf5e7bc735bc176d7c7638657f1c7eeab2
 workflow-type: tm+mt
-source-wordcount: '48'
+source-wordcount: '28'
 ht-degree: 100%
 
 ---
@@ -22,9 +22,3 @@ ht-degree: 100%
 Il presente video offre una panoramica delle funzionalità di reporting di Adobe Campaign Standard
 
 >[!VIDEO](https://video.tv.adobe.com/v/29461?quality=12)
-
-## Risorse aggiuntive
-
-* [Creare un rapporto dinamico](/help/reporting/creating-a-dynamic-report.md)
-* [Creare un rapporto dinamico utilizzando gli attributi di profilo personalizzati](/help/reporting/custom-profile-attributes-dynamic-reports.md)
-* [Creare un rapporto basato sui segmenti del flusso di lavoro](/help/reporting/report-on-workflow-segments.md)
