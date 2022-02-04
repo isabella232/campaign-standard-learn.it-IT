@@ -1,7 +1,7 @@
 ---
 title: Profile Substitution - Verifica dei messaggi e-mail tramite profili di destinazione
 description: Scopri come verificare i messaggi e-mail utilizzando la funzione di sostituzione del profilo.
-feature: Email
+feature: Personalization, Email
 kt: 4667
 thumbnail: 32368.jpg
 doc-type: feature video
@@ -10,10 +10,10 @@ team: TM
 exl-id: 7bee3ab5-0666-4ea5-a785-917f0b18ca12
 role: User
 level: Intermediate, Experienced
-source-git-commit: 2ba22e7e7d193278fd06cb4b2dc80f650f754ec8
+source-git-commit: cccc2cd4141d4da4d06132af8bab3f15f7ecc853
 workflow-type: tm+mt
-source-wordcount: '176'
-ht-degree: 76%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -31,8 +31,4 @@ Per ulteriori informazioni, consulta la [documentazione dettagliata del prodotto
 >
 >Questa funzione ti consente di inviare le informazioni personali del profilo agli indirizzi e-mail esterni. L’esecuzione di richieste di privacy (GDPR e CCPA) all’interno di Campaign Standard NON eseguirà la richiesta esternamente.
 
-## Risorse aggiuntive
-
-* [Verifica dei messaggi mediante i profili di destinazione (documentazione)](https://experienceleague.adobe.com/docs/campaign-standard/using/testing-and-sending/preparing-and-testing-messages/testing-messages-using-target.html?lang=en)
-* [Progettazione di un messaggio e-mail per test A/B](/help/communication-channels/email/a-b-testing.md)
-* [Inviare un test, preparare e spedire un messaggio e-mail](/help/communication-channels/email/sending-test-preparing-sending-email.md)
+Per ulteriori informazioni, consulta la documentazione del prodotto . [verifica dei messaggi tramite i profili di destinazione](https://experienceleague.adobe.com/docs/campaign-standard/using/testing-and-sending/preparing-and-testing-messages/testing-messages-using-target.html?lang=en)
