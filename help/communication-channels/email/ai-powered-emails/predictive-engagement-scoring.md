@@ -10,10 +10,10 @@ team: ACS
 exl-id: 7d6634ed-f6b0-4d77-9148-3f2c0e444862
 role: User, Developer, Admin
 level: Experienced
-source-git-commit: 64940a739897c3969574dcf1d1e36c5a986d0473
+source-git-commit: 275b7f05b50891757a7921c16dfcd9c8a1c3a036
 workflow-type: tm+mt
-source-wordcount: '213'
-ht-degree: 66%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -29,13 +29,3 @@ Grazie alla tecnologia di [!UICONTROL Journey AI], [!DNL Adobe Campaign] è in g
 Scopri come visualizzare i punteggi di coinvolgimento a livello dei singoli profili, utilizzare i punteggi per targetizzare gli utenti interessati ed eliminare gli utenti con calo di interesse e creare regole di tipologia per gestire la &quot;customer fatigue&quot;.
 
 >[!VIDEO](https://video.tv.adobe.com/v/40470?quality=12)
-
-## Risorse aggiuntive
-
-Esercitazioni:
-
-* [Ottimizzazione del tempo di invio predittivo](predictive-send-time-optimization.md)
-
-Documentazione:
-
-* [Ottimizzazione della progettazione e della consegna tramite e-mail basate sull’intelligenza artificiale](https://experienceleague.adobe.com/docs/campaign-standard/using/testing-and-sending/preparing-and-testing-messages/predictive.html?lang=en)
