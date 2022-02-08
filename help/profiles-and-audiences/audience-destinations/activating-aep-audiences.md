@@ -10,10 +10,10 @@ team: PM
 exl-id: 955d063f-4709-4f56-8f39-f1b838354300
 role: User, Developer
 level: Beginner, Intermediate, Experienced
-source-git-commit: 481cbdcc9ac7446cc36fbff6e3d6e43fe333d30b
+source-git-commit: c270d2c6ef7ad695226d79da51cfd2f18dcefaff
 workflow-type: tm+mt
-source-wordcount: '144'
-ht-degree: 12%
+source-wordcount: '123'
+ht-degree: 6%
 
 ---
 
@@ -31,13 +31,4 @@ Questo video spiega come attivare il [!UICONTROL Data Services Query Audience] a
 
 *Attivare un pubblico Adobe Experience Platform in un flusso di lavoro (02:37 min)*
 
-## Risorse aggiuntive
-
-Documentazione:
-
-* [Inserire il pubblico di Adobe Experience Platform in Campaign](https://experienceleague.adobe.com/docs/campaign-standard/using/integrating-with-adobe-cloud/adobe-experience-platform/aep-sources-destinations/ingest-aep-data.html)
-
-Risorse video:
-
-* [Creare un pubblico in Adobe Campaign Standard utilizzando Unified Segment Builder (Generatore di segmenti unificato)](/help/profiles-and-audiences/audience-destinations/creating-audiences-using-segment-builder.md)
-* [Modificare la dimensione di targeting di una consegna per un pubblico di Platform](/help/profiles-and-audiences/audience-destinations/changing-targeting-dimension.md)
+Consulta la documentazione del prodotto su come [Acquisizione di tipi di pubblico Adobe Experience Platform in Campaign](https://experienceleague.adobe.com/docs/campaign-standard/using/integrating-with-adobe-cloud/adobe-experience-platform/aep-sources-destinations/ingest-aep-data.html)
