@@ -10,10 +10,11 @@ team: TM
 exl-id: e70fdef9-2907-4858-9eca-006c59695bb3
 role: User, Developer
 level: Beginner, Intermediate, Experienced
-source-git-commit: 481cbdcc9ac7446cc36fbff6e3d6e43fe333d30b
+recommendations: noDisplay
+source-git-commit: 87c7d040e2bdd1ccaceb5035b494a6fb50c77f7b
 workflow-type: tm+mt
-source-wordcount: '174'
-ht-degree: 9%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -36,7 +37,3 @@ Le seguenti esercitazioni video ti guidano attraverso i diversi passaggi:
 1. [Creare un nuovo pubblico con Unified Segment Builder (Generatore di segmenti unificato)](/help/profiles-and-audiences/audience-destinations/creating-audiences-using-segment-builder.md)
 2. [Attivare il pubblico di Experience Platform in un flusso di lavoro di marketing](/help/profiles-and-audiences/audience-destinations/activating-aep-audiences.md)
 3. [Modificare la dimensione di targeting di una consegna per un pubblico di Platform](/help/profiles-and-audiences/audience-destinations/changing-targeting-dimension.md)
-
-## Risorse aggiuntive
-
-*[Informazioni su Adobe Experience Platform Data Connector](/help/administrating/adobe-experience-platform-data-connector/understanding-the-adobe-experience-platform-data-connector.md)
