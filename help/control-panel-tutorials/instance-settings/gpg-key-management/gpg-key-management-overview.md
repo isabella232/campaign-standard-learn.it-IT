@@ -4,11 +4,12 @@ description: Scopri come generare e installare una coppia di chiavi pubblica/pri
 feature: Control Panel
 audience: administrator
 team: TM
+recommendations: noDisplay
 exl-id: a9a24104-332c-483e-8a6f-6d80f90ad66f
-source-git-commit: 84195adf94a98bf3150a51f17aa1de1d0329da05
+source-git-commit: 57dbf456625d22cd2e4526d92e5a8c20a048d339
 workflow-type: tm+mt
-source-wordcount: '158'
-ht-degree: 70%
+source-wordcount: '164'
+ht-degree: 64%
 
 ---
 
@@ -22,6 +23,4 @@ Scopri come generare e installare una coppia di chiavi pubblica/privata in una s
 * [Utilizzo di una chiave GPG per crittografare i dati](./using-a-gpg-key-to-encrypt-data.md)
 * [Decrittare i dati](./decrypting-data.md)
 
-## Risorse aggiuntive
-
-* [Gestione delle chiavi GPG (documentazione)](https://experienceleague.adobe.com/docs/control-panel/using/instances-settings/gpg-keys-management.html?lang=en)
+Per ulteriori informazioni, consulta la documentazione del prodotto . [Gestione delle chiavi GPG (documentazione)](https://experienceleague.adobe.com/docs/control-panel/using/instances-settings/gpg-keys-management.html?lang=en)

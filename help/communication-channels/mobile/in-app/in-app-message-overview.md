@@ -9,9 +9,9 @@ team: TM
 exl-id: c51716eb-7239-4fc0-9ccf-9f5f0a5fae65
 role: User
 level: Beginner
-source-git-commit: 30e8e10575aad4dcf2b0473cdd9fd6d5fc2815f4
+source-git-commit: 57dbf456625d22cd2e4526d92e5a8c20a048d339
 workflow-type: tm+mt
-source-wordcount: '728'
+source-wordcount: '629'
 ht-degree: 21%
 
 ---
@@ -68,13 +68,3 @@ Questo modello è utile per supportare i casi d’uso di orchestrazione cross-ch
 ## Report sulle consegne in-app {#report}
 
 Una volta pubblicata la consegna, puoi [rapporto sulla consegna in-app](/help/communication-channels/mobile/in-app/in-app-reporting.md).
-
-## Risorse aggiuntive
-
-* [Rapporto in-app](https://experienceleague.adobe.com/docs/campaign-standard/using/reporting/list-of-reports/in-app-report.html?lang=en)
-* [Impostare una proprietà mobile](https://aep-sdks.gitbook.io/docs/getting-started/create-a-mobile-property)
-* [Configurazione di un’app mobile tramite SDK per Adobe Experience Platform](https://experienceleague.adobe.com/docs/campaign-standard/using/administrating/configuring-channels/configuring-a-mobile-application.html?lang=en)
-* [Preparazione e invio di un messaggio in-app](https://experienceleague.adobe.com/docs/campaign-standard/using/communication-channels/in-app-messaging/preparing-and-sending-an-in-app-message.html?lang=en)
-* [Personalizzazione di un messaggio in-app](https://experienceleague.adobe.com/docs/campaign-standard/using/communication-channels/in-app-messaging/customizing-an-in-app-message.html?lang=en)
-* [Invio di un messaggio in-app all’interno di un flusso di lavoro](https://experienceleague.adobe.com/docs/campaign-standard/using/managing-processes-and-data/channel-activities/in-app-delivery.html?lang=en)
-* [Abilitare le metriche del ciclo di vita](https://aep-sdks.gitbook.io/docs/getting-started/initialize-the-sdk#enable-lifecycle-metrics)

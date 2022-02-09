@@ -8,10 +8,10 @@ doc-type: feature video
 activity: use
 team: PM
 exl-id: 51f3d728-d547-41c8-bf53-bca49d5427fe
-source-git-commit: 84195adf94a98bf3150a51f17aa1de1d0329da05
+source-git-commit: 57dbf456625d22cd2e4526d92e5a8c20a048d339
 workflow-type: tm+mt
-source-wordcount: '120'
-ht-degree: 92%
+source-wordcount: '108'
+ht-degree: 100%
 
 ---
 
@@ -22,7 +22,3 @@ Al fine di garantire elevate percentuali di posta in arrivo e basse percentuali 
 Il seguente video illustra come aggiungere record TXT di [!DNL Google] per la verifica del sito a tutti i tuoi sottodomini utilizzati per inviare e-mail agli indirizzi GMAIL tramite il [!UICONTROL Campaign Control Panel].
 
 >[!VIDEO](https://video.tv.adobe.com/v/32369?quality=12)
-
-## Risorse aggiuntive
-
-* [Documentazione](https://experienceleague.adobe.com/docs/control-panel/using/subdomains-and-certificates/managing-txt-records.html?lang=en)
