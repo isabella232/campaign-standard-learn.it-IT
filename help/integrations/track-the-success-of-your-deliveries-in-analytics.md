@@ -11,9 +11,9 @@ doc-type: feature video
 team: TM
 exl-id: babe7b9f-c198-4358-ba3a-91fabf584f9b
 source-git-commit: 57dbf456625d22cd2e4526d92e5a8c20a048d339
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '103'
-ht-degree: 84%
+ht-degree: 100%
 
 ---
 
@@ -23,4 +23,4 @@ Scopri come configurare l’integrazione di Campaign Standard e Analytics. Scopr
 
 >[!VIDEO](https://video.tv.adobe.com/v/332576/?quality=12)
 
-Fai riferimento alla guida del prodotto Adobe Analytics per ulteriori informazioni su [Informazioni e creazione di suite di rapporti](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/intro-to-analytics/analytics-basics/understanding-and-creating-report-suites.html?lang=it#intro-to-analytics).
+Fai riferimento alla guida di Adobe Analytics per ulteriori informazioni sulle [Suite di rapporti: cosa sono e come crearle](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/intro-to-analytics/analytics-basics/understanding-and-creating-report-suites.html?lang=it#intro-to-analytics).
