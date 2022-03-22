@@ -3,9 +3,9 @@ user-guide-title: Tutorial di Adobe Campaign Standard
 user-guide-description: Progetta esperienze cliente cross-channel e crea un ambiente per l’orchestrazione visiva delle campagne, la gestione delle interazioni in tempo reale e l’esecuzione cross-channel.
 breadcrumb-title: Tutorial di Campaign Standard
 source-git-commit: e38405b798f231c9f7c22ac95ea44324ce94651d
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '542'
-ht-degree: 98%
+ht-degree: 100%
 
 ---
 
@@ -121,4 +121,4 @@ ht-degree: 98%
    + [Modificare le risorse personalizzate per le richieste di privacy](/help/privacy/custom-resources-for-privacy-requests.md)
    + [Creazione e tracciamento manuale delle richieste di privacy](/help/privacy/create-and-track-privacy-requests.md)
    + [Eseguire richieste di privacy](/help/privacy/execute-privacy-requests.md)
-+ [Risolvere i problemi in Campaign Standard](https://experienceleague.adobe.com/docs/campaign-standard-learn/troubleshooting/overview.html)
++ [Risolvere i problemi in Campaign Standard](https://experienceleague.adobe.com/docs/campaign-standard-learn/troubleshooting/overview.html?lang=it)
