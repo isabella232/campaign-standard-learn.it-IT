@@ -7,10 +7,10 @@ feature: Overview
 role: User, Admin, Developer
 level: Beginner
 recommendations: noDisplay, noCatalog
-source-git-commit: 57dbf456625d22cd2e4526d92e5a8c20a048d339
-workflow-type: ht
-source-wordcount: '258'
-ht-degree: 100%
+source-git-commit: 4fe27ac1cb9f00ee512a8554cc8e0fd2acb54a4b
+workflow-type: tm+mt
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -19,6 +19,10 @@ ht-degree: 100%
 Adobe Campaign fornisce una piattaforma per la progettazione di customer experience cross-channel e fornisce un ambiente per l’orchestrazione visiva delle campagne, la gestione delle interazioni in tempo reale e l’esecuzione cross-channel. Questa guida utente contiene video e tutorial sulle numerose funzioni e caratteristiche di Adobe Campaign Standard.
 
 ## Novità
+
+* **[Ottimizza il ROI delle e-mail e scopri le best practice per il nuovo coinvolgimento degli utenti](https://experienceleague.adobe.com/docs/campaign-learn/tutorials/strategy/campaign-maximize-email-best-practices.html)**
+
+   *Scopri come ottimizzare il ROI delle e-mail e apprendere le best practice per il nuovo coinvolgimento degli utenti. Scopri le strategie per migliorare il coinvolgimento degli abbonati e il successo complessivo delle campagne e-mail.*
 
 * **[Risolvere i problemi](https://experienceleague.adobe.com/docs/campaign-standard-learn/troubleshooting/overview.html?lang=it)**
 
@@ -59,7 +63,7 @@ Adobe Campaign fornisce una piattaforma per la progettazione di customer experie
       <img alt="Tutorial: guida introduttiva alle notifiche push per Android" src="./assets/push-for-android.png" />
     </a>
     <div>
-      <a href="https://experienceleague.adobe.com/docs/campaign-standard-learn/getting-started-with-push-notifications-android/introduction.html?lang=it">
+      <a href="https://experienceleague.adobe.com/docs/campaign-standard-learn/getting-started-with-push-notifications-android/introduction.html?lang=en">
     <strong>Tutorial: guida introduttiva alle notifiche push per Android™</strong>
     </a>
     </div>

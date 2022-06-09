@@ -2,10 +2,10 @@
 user-guide-title: Tutorial di Adobe Campaign Standard
 user-guide-description: Progetta esperienze cliente cross-channel e crea un ambiente per l’orchestrazione visiva delle campagne, la gestione delle interazioni in tempo reale e l’esecuzione cross-channel.
 breadcrumb-title: Tutorial di Campaign Standard
-source-git-commit: 6c546fa15406b8cdb06790339f5f15b470415a37
+source-git-commit: 4fe27ac1cb9f00ee512a8554cc8e0fd2acb54a4b
 workflow-type: tm+mt
-source-wordcount: '544'
-ht-degree: 100%
+source-wordcount: '565'
+ht-degree: 96%
 
 ---
 
@@ -47,7 +47,6 @@ ht-degree: 100%
       + [Convertire un messaggio e-mail esistente, SMS o modello esistente in una versione multilingue](/help/communication-channels/covert-into-multilingual-deliveries.md)
       + [Rivedere una consegna tramite e-mail e rapporti](/help/communication-channels/email/reviewing-personalized-email-delivery-and-reports.md)
       + [Creare e inviare e-mail tramite un flusso di lavoro](/help/communication-channels/email/create-and-send-emails-via-workflow.md)
-      + [Guida alle best practice per la distribuzione](https://experienceleague.adobe.com/docs/deliverability-learn/deliverability-best-practice-guide/introduction.html?lang=it)
       + E-mail basate sull’intelligenza artificiale {#journey-ai}
          + [Ottimizzazione del tempo di invio predittivo](/help/communication-channels/email/ai-powered-emails/predictive-send-time-optimization.md)
          + [Valutazione del coinvolgimento predittivo](/help/communication-channels/email/ai-powered-emails/predictive-engagement-scoring.md)
@@ -122,3 +121,6 @@ ht-degree: 100%
    + [Creazione e tracciamento manuale delle richieste di privacy](/help/privacy/create-and-track-privacy-requests.md)
    + [Eseguire richieste di privacy](/help/privacy/execute-privacy-requests.md)
 + [Risolvere i problemi in Campaign Standard](https://experienceleague.adobe.com/docs/campaign-standard-learn/troubleshooting/overview.html?lang=it)
++ Strategia e leadership del pensiero{#strategy}
+   + [Ottimizzazione del ROI delle e-mail e delle best practice per il nuovo coinvolgimento degli utenti](https://experienceleague.adobe.com/docs/campaign-learn/tutorials/strategy/campaign-maximize-email-best-practices.html?lang=en)
+   + [Guida alle best practice per la consegna](https://experienceleague.adobe.com/docs/deliverability-learn/deliverability-best-practice-guide/introduction.html?lang=it)
