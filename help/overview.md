@@ -8,9 +8,9 @@ role: User, Admin, Developer
 level: Beginner
 recommendations: noDisplay, noCatalog
 source-git-commit: 4fe27ac1cb9f00ee512a8554cc8e0fd2acb54a4b
-workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+workflow-type: ht
+source-wordcount: '305'
+ht-degree: 100%
 
 ---
 
@@ -20,9 +20,9 @@ Adobe Campaign fornisce una piattaforma per la progettazione di customer experie
 
 ## Novità
 
-* **[Ottimizza il ROI delle e-mail e scopri le best practice per il nuovo coinvolgimento degli utenti](https://experienceleague.adobe.com/docs/campaign-learn/tutorials/strategy/campaign-maximize-email-best-practices.html)**
+* **[Massimizzare il ROI delle e-mail e best practice per coinvolgere di nuovo le persone iscritte](https://experienceleague.adobe.com/docs/campaign-learn/tutorials/strategy/campaign-maximize-email-best-practices.html?lang=it)**
 
-   *Scopri come ottimizzare il ROI delle e-mail e apprendere le best practice per il nuovo coinvolgimento degli utenti. Scopri le strategie per migliorare il coinvolgimento degli abbonati e il successo complessivo delle campagne e-mail.*
+   *Scopri come massimizzare il ROI delle e-mail e le best practice per coinvolgere di nuovo le persone iscritte. Scopri le strategie per migliorare il coinvolgimento degli utenti iscritti e comprendi il livello di successo complessivo delle campagne e-mail.*
 
 * **[Risolvere i problemi](https://experienceleague.adobe.com/docs/campaign-standard-learn/troubleshooting/overview.html?lang=it)**
 
@@ -63,7 +63,7 @@ Adobe Campaign fornisce una piattaforma per la progettazione di customer experie
       <img alt="Tutorial: guida introduttiva alle notifiche push per Android" src="./assets/push-for-android.png" />
     </a>
     <div>
-      <a href="https://experienceleague.adobe.com/docs/campaign-standard-learn/getting-started-with-push-notifications-android/introduction.html?lang=en">
+      <a href="https://experienceleague.adobe.com/docs/campaign-standard-learn/getting-started-with-push-notifications-android/introduction.html?lang=it">
     <strong>Tutorial: guida introduttiva alle notifiche push per Android™</strong>
     </a>
     </div>
