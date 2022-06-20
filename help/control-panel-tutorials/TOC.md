@@ -4,9 +4,9 @@ user-guide-description: Scopri come monitorare le risorse chiave delle istanze d
 breadcrumb-title: Tutorial sul Pannello di controllo Campaign
 index: true
 source-git-commit: f5d3396f46839a37fdc7199347344382a02d3ff1
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '111'
-ht-degree: 96%
+ht-degree: 100%
 
 ---
 
@@ -22,7 +22,7 @@ ht-degree: 96%
    + [Connessione a un server SFTP](/help/control-panel-tutorials/sftp-management/connect-to-sftp-server.md)
 + Sottodomini e certificati {#subdomains-and-certificates}
    + [Delega di sottodomini completa](/help/control-panel-tutorials/subdomains-and-certificates/subdomain-delegation.md)
-   + [Delega dei sottodomini tramite CNAME](/help/control-panel-tutorials/subdomains-and-certificates/delegating-subdomains-using-cname.md)
+   + [Delega dei sottodomini utilizzando CNAME](/help/control-panel-tutorials/subdomains-and-certificates/delegating-subdomains-using-cname.md)
    + [Aggiunta di certificati SSL](/help/control-panel-tutorials/subdomains-and-certificates/adding-ssl-certificates.md)
    + [Gestione dei record TXT di Google](/help/control-panel-tutorials/subdomains-and-certificates/google-txt-record-management.md)
 + Impostazioni delle istanze {#instance-settings}
