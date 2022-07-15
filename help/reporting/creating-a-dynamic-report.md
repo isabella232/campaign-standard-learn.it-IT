@@ -1,6 +1,6 @@
 ---
 title: Creare un rapporto dinamico
-description: Scopri come creare un report.
+description: Scopri come creare un rapporto.
 feature: Reporting
 kt: 2037
 thumbnail: 25264.jpg
@@ -21,7 +21,7 @@ ht-degree: 32%
 
 Adobe Campaign [!UICONTROL Dynamic Reports] sono un ambiente a forma libera flessibile in cui è possibile esplorare i dati. Consente di combinare dimensioni, metriche e intervalli di tempo in qualsiasi combinazione, con raggruppamenti e confronti illimitati.
 
-Scopri come creare un report.
+Scopri come creare un rapporto.
 
 >[!VIDEO](https://video.tv.adobe.com/v/25264/?quality=12)
 

@@ -5,7 +5,7 @@ breadcrumb-title: Tutorial di Campaign Standard
 source-git-commit: 8a5fe85be0d3dc2f104bb7d4f367ec373ad6f937
 workflow-type: tm+mt
 source-wordcount: '567'
-ht-degree: 98%
+ht-degree: 100%
 
 ---
 
@@ -103,7 +103,7 @@ ht-degree: 98%
 + Amministrare {#administrating}
    + [Gestione dei diritti di accesso degli utenti](/help/administrating/managing-user-access-rights.md)
    + [Creare risorse personalizzate](https://experienceleague.adobe.com/docs/campaign-standard-learn/creating-custom-resources/introduction.html?lang=it)
-   + [Pannello di controllo Campaign](https://experienceleague.adobe.com/docs/control-panel-learn/control-panel/control-panel-overview.html){target=&quot;_blank&quot;}
+   + [Pannello di controllo Campaign](https://experienceleague.adobe.com/docs/control-panel-learn/control-panel/control-panel-overview.html?lang=it){target=&quot;_blank&quot;}
    + Adobe Experience Platform Data Connector {#adobe-experience-platform-data-connector}
       + [Informazioni su Adobe Experience Platform Data Connector](/help/administrating/adobe-experience-platform-data-connector/understanding-the-adobe-experience-platform-data-connector.md)
       + [Mappare le risorse personalizzate](/help/administrating/adobe-experience-platform-data-connector/mapping-custom-resources.md)
