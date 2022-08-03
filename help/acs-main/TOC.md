@@ -4,8 +4,8 @@ user-guide-description: Progetta esperienze cliente cross-channel e crea un ambi
 breadcrumb-title: Tutorial di Campaign Standard
 source-git-commit: 8a5fe85be0d3dc2f104bb7d4f367ec373ad6f937
 workflow-type: tm+mt
-source-wordcount: '567'
-ht-degree: 100%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
