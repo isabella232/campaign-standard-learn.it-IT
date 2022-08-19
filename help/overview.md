@@ -7,10 +7,10 @@ feature: Overview
 role: User, Admin, Developer
 level: Beginner
 recommendations: noDisplay, noCatalog
-source-git-commit: 8a5fe85be0d3dc2f104bb7d4f367ec373ad6f937
-workflow-type: ht
-source-wordcount: '0'
-ht-degree: 100%
+source-git-commit: f06fd60880e5a32326287fa1782404d3909cf3a5
+workflow-type: tm+mt
+source-wordcount: '336'
+ht-degree: 91%
 
 ---
 
@@ -19,6 +19,10 @@ ht-degree: 100%
 Adobe Campaign fornisce una piattaforma per la progettazione di customer experience cross-channel e fornisce un ambiente per l’orchestrazione visiva delle campagne, la gestione delle interazioni in tempo reale e l’esecuzione cross-channel. Questa guida utente contiene video e tutorial sulle numerose funzioni e caratteristiche di Adobe Campaign Standard.
 
 ## Novità
+
+* **[Informazioni approfondite sul protocollo SMPP e risoluzione dei problemi](https://experienceleague.adobe.com/docs/campaign-learn/set-up-sms-for-adobe-campaign/smpp-deep-dive-and-troubleshooting.html)**
+
+   *Scopri come vengono stabilite le connessioni SMPP e come SMPP scambia i dati tramite le PDU. Scopri come risolvere i problemi delle connessioni.*
 
 * **[Pannello di controllo Campaign - Monitoraggio dei flussi di lavoro](https://experienceleague.adobe.com/docs/control-panel-learn/control-panel/performance-monitoring/monitor-workflows.html?lang=it){target=&quot;_blank&quot;}**
 
@@ -63,7 +67,7 @@ Adobe Campaign fornisce una piattaforma per la progettazione di customer experie
       <img alt="Tutorial: guida introduttiva alle notifiche push per Android" src="./assets/push-for-android.png" />
     </a>
     <div>
-      <a href="https://experienceleague.adobe.com/docs/campaign-standard-learn/getting-started-with-push-notifications-android/introduction.html?lang=it">
+      <a href="https://experienceleague.adobe.com/docs/campaign-standard-learn/getting-started-with-push-notifications-android/introduction.html?lang=en">
     <strong>Tutorial: guida introduttiva alle notifiche push per Android™</strong>
     </a>
     </div>
