@@ -5,9 +5,9 @@ doc-type: article
 role: User
 level: Beginner
 kt: 11772
-source-git-commit: 41cc794dbdc295d76bba63cba2ef145eb50df540
+source-git-commit: 8fa4a3e70ab815af801aaf96596fcc466b879086
 workflow-type: tm+mt
-source-wordcount: '1311'
+source-wordcount: '1274'
 ht-degree: 0%
 
 ---
@@ -71,6 +71,4 @@ Quando provi cose nuove, non sempre la ottieni bene la prima volta. Quindi, test
 
 ## 10. Rimani il più agile possibile
 
-Il mercato continua a cambiare e a muoversi a un ritmo sempre crescente. Incoraggiare i team delle campagne a rimanere il più leggeri e agili possibile è fondamentale per competere e continuare a soddisfare le crescenti aspettative dei clienti. [Il 35% dei leader del marketing digitale ritiene che le sfide più importanti vengano dall&#39;interno della propria organizzazione](https://www.gartner.com/en/newsroom/press-releases/gartner-says-35--of-digital-marketing-leaders-believe-the-bigges).
-
-La formazione incrociata su tre piattaforme e il miglioramento della comprensione dei flussi di dati e della struttura o di altre soluzioni di Adobe possono aiutare a raggiungere questo obiettivo o avere piani di emergenza sulle campagne. Avere esperti in materia su uno strumento principale. Poi guarda i canali incrociati con strumenti secondari e terziari. Questo crea flessibilità nel modello operativo di marketing. L&#39;utilizzo di più di tre strumenti riduce drasticamente la vostra esperienza e la vostra produzione. Questa mentalità può essere realizzata in molti modi, ma un impegno globale per l&#39;agilità e la pianificazione è fondamentale per raggiungere il successo a breve e lungo termine.
+Il mercato continua a cambiare e a muoversi a un ritmo sempre crescente. Incoraggiare i team delle campagne a rimanere il più leggeri e agili possibile è fondamentale per competere e continuare a soddisfare le crescenti aspettative dei clienti. [Il 35% dei leader del marketing digitale ritiene che le sfide più importanti vengano dall&#39;interno della propria organizzazione](https://www.gartner.com/en/newsroom/press-releases/gartner-says-35--of-digital-marketing-leaders-believe-the-bigges). A tal fine, effettua una formazione incrociata su alcune piattaforme, migliora la comprensione dei flussi di dati, della struttura o di altre soluzioni di Adobe e crea piani di emergenza per le campagne. Questa mentalità può essere raggiunta in molti modi, ma un impegno complessivo per l&#39;agilità e la pianificazione è fondamentale per raggiungere il successo a breve e lungo termine.
