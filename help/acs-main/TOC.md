@@ -2,10 +2,10 @@
 user-guide-title: Tutorial di Adobe Campaign Standard
 user-guide-description: Progetta esperienze cliente cross-channel e crea un ambiente per l’orchestrazione visiva delle campagne, la gestione delle interazioni in tempo reale e l’esecuzione cross-channel.
 breadcrumb-title: Tutorial di Campaign Standard
-source-git-commit: 4c256d4622e2acc2ec08e76aa4e6180ddb5184a0
+source-git-commit: 41cc794dbdc295d76bba63cba2ef145eb50df540
 workflow-type: tm+mt
-source-wordcount: '567'
-ht-degree: 100%
+source-wordcount: '566'
+ht-degree: 98%
 
 ---
 
@@ -99,11 +99,11 @@ ht-degree: 100%
       + [Creare un trigger in Experience Cloud](/help/integrations/create-a-trigger-in-experience-cloud.md)
       + [Creare un evento trigger in Campaign Standard](/help/integrations/create-a-trigger-event.md)
       + [Configurare i messaggi transazionali utilizzando dati evento in tempo reale](/help/integrations/configure-transactional-messages-using-realtime-event-data.md)
-   + [Configurare Microsoft® Dynamics 365 per l’integrazione con Campaign Standard](/help/integrations/configure-dynamics-365.md)
+   + [Configurare Microsoft](/help/integrations/configure-dynamics-365.md)
 + Amministrare {#administrating}
    + [Gestione dei diritti di accesso degli utenti](/help/administrating/managing-user-access-rights.md)
    + [Creare risorse personalizzate](https://experienceleague.adobe.com/docs/campaign-standard-learn/creating-custom-resources/introduction.html?lang=it)
-   + [Pannello di controllo Campaign](https://experienceleague.adobe.com/docs/control-panel-learn/control-panel/control-panel-overview.html?lang=it){target=&quot;_blank&quot;}
+   + [Pannello di controllo Campaign](https://experienceleague.adobe.com/docs/control-panel-learn/control-panel/control-panel-overview.html?lang=it){target="_blank"}
    + Adobe Experience Platform Data Connector {#adobe-experience-platform-data-connector}
       + [Informazioni su Adobe Experience Platform Data Connector](/help/administrating/adobe-experience-platform-data-connector/understanding-the-adobe-experience-platform-data-connector.md)
       + [Mappare le risorse personalizzate](/help/administrating/adobe-experience-platform-data-connector/mapping-custom-resources.md)
@@ -122,5 +122,6 @@ ht-degree: 100%
    + [Eseguire richieste di privacy](/help/privacy/execute-privacy-requests.md)
 + [Risolvere i problemi in Campaign Standard](https://experienceleague.adobe.com/docs/campaign-standard-learn/troubleshooting/overview.html?lang=it)
 + Strategia e leadership di pensiero{#strategy}
+   + [10 Best practice per il successo di Adobe Campaign per gli addetti al marketing](/help/strategy-and-thought-leadership/10-best-practices-to-adobe-campaign-success-for-marketers.md)
    + [Massimizzare il ROI delle e-mail e best practice per coinvolgere di nuovo le persone iscritte](https://experienceleague.adobe.com/docs/campaign-learn/tutorials/strategy/campaign-maximize-email-best-practices.html?lang=it)
    + [Guida alle best practice per la consegna](https://experienceleague.adobe.com/docs/deliverability-learn/deliverability-best-practice-guide/introduction.html?lang=it)
