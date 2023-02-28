@@ -5,7 +5,7 @@ breadcrumb-title: Tutorial di Campaign Standard
 source-git-commit: 1330f710368996dfa5562673360c12f2414a4ac7
 workflow-type: tm+mt
 source-wordcount: '567'
-ht-degree: 98%
+ht-degree: 99%
 
 ---
 
