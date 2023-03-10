@@ -7,10 +7,10 @@ feature: Overview
 role: User, Admin, Developer
 level: Beginner
 recommendations: noDisplay, noCatalog
-source-git-commit: 6a8b4679212207d6cce5c1dba317d3349d319baa
-workflow-type: ht
-source-wordcount: '308'
-ht-degree: 100%
+source-git-commit: ee19698fdf2e7f126d6ce73dc5a372f8729c3e83
+workflow-type: tm+mt
+source-wordcount: '297'
+ht-degree: 84%
 
 ---
 
@@ -20,13 +20,17 @@ Adobe Campaign fornisce una piattaforma per la progettazione di customer experie
 
 ## Novità
 
-* **[Pannello di controllo - Monitoraggio dei flussi di lavoro](https://experienceleague.adobe.com/docs/control-panel-learn/tutorials/performance-monitoring/monitor-workflows.html?lang=it){target=&quot;_blank&quot;}**
+* **[Pianificare i messaggi](/help/communication-channels/email/schedule-messages.md)**
 
-   *Scopri come monitorare l’utilizzo temporaneo dell’archiviazione da parte dei flussi di lavoro e dove configurare le impostazioni del flusso di lavoro per evitare problemi di database o flusso di lavoro nell’istanza.*
+   *Scopri come pianificare una consegna e-mail.*
 
-* **[Pannello di controllo - Monitoraggio delle velocità effettive e della latenza](https://experienceleague.adobe.com/docs/control-panel-learn/tutorials/performance-monitoring/monitor-throughputs-and-latency.html?lang=it){target=&quot;_blank&quot;}**
+* **[Inviare una bozza](/help/communication-channels/email/send-a-proof.md)**
 
-   *Scopri come monitorare i flussi di consegna e le latenze dei messaggi transazionali dell’istanza della campagna.*
+   *Scopri come verificare un messaggio e-mail prima di inviarlo ai destinatari finali.*
+
+* **[Dieci best practice per il successo Adobe Campaign per gli addetti al marketing](/help/strategy/10-best-practices-for-marketers.md)**
+
+   *Scopri dieci best practice per aiutare i professionisti di Adobe Campaign a sbloccare e accelerare la trasformazione del consumatore digitale e una migliore esperienza per i clienti.*
 
 ## Scelti dallo staff
 
