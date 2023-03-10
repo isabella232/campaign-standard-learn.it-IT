@@ -2,10 +2,10 @@
 user-guide-title: Tutorial di Adobe Campaign Standard
 user-guide-description: Progetta esperienze cliente cross-channel e crea un ambiente per l’orchestrazione visiva delle campagne, la gestione delle interazioni in tempo reale e l’esecuzione cross-channel.
 breadcrumb-title: Tutorial di Campaign Standard
-source-git-commit: 22048e99a99cb0796fc62054c9202603ce57d250
+source-git-commit: b2bd6a29c54c505359eb3bc908ccf950db07da3a
 workflow-type: tm+mt
-source-wordcount: '570'
-ht-degree: 99%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -40,6 +40,7 @@ ht-degree: 99%
    + E-mail {#email}
       + [Creare un messaggio e-mail](/help/communication-channels/email/create-email-from-homepage.md)
       + [Inviare un test, preparare e spedire un messaggio e-mail](/help/communication-channels/email/sending-test-preparing-sending-email.md)
+      + [Pianificare i messaggi](/help/communication-channels/email/schedule-messages.md)
       + [Inviare una bozza](/help/communication-channels/email/send-a-proof.md)
       + [Test A/B](/help/communication-channels/email/a-b-testing.md)
       + [Test dei messaggi e-mail tramite profili di destinazione](/help/communication-channels/email/profile-substitution.md)
