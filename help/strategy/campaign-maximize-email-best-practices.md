@@ -2,7 +2,7 @@
 title: Massimizzare il ROI delle e-mail e best practice per coinvolgere di nuovo le persone iscritte
 description: Scopri come massimizzare il ROI delle e-mail e le best practice per coinvolgere di nuovo le persone iscritte. Scopri le strategie per migliorare il coinvolgimento degli utenti iscritti e comprendi il livello di successo complessivo delle campagne e-mail.
 solution: Campaign
-source-git-commit: 73b0775189f05fc2d5be85d33bc0b0ef213d68ca
+source-git-commit: fda23ddb8a9b31dd637e42a31836214ad14f494c
 workflow-type: tm+mt
 source-wordcount: '1471'
 ht-degree: 3%
@@ -104,7 +104,7 @@ Lo stato dei tuoi abbonati (attivi, non attivi o inattivi) dipende dalla frequen
 
 Di seguito è riportata una semplice tabella per aiutarti durante il controllo di audit:
 
-![stato abbonato](assets/subscriber-status.png)
+![stato abbonato](/help/assets/subscriber-status.png)
 
 Ad esempio, se invii quotidianamente un’e-mail ai clienti, questi avrebbero dovuto interagire con una di queste e-mail nell’ultimo mese per essere considerati attivi e coinvolti. Al contrario, se invii mensilmente un’e-mail ai clienti che non hanno interagito entro 9-14 mesi, questi possono essere considerati inattivi.
 
