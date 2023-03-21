@@ -8,9 +8,9 @@ role: User, Admin, Developer
 level: Beginner
 recommendations: noDisplay, noCatalog
 source-git-commit: 04bc3a93595f90e8ed48fb7f3896b734256fe92d
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '286'
-ht-degree: 83%
+ht-degree: 100%
 
 ---
 
@@ -28,11 +28,11 @@ Adobe Campaign fornisce una piattaforma per la progettazione di customer experie
 
 * **[Inviare una bozza](/help/communication-channels/email/send-a-proof.md)**
 
-   *Scopri come verificare un messaggio e-mail prima di inviarlo ai destinatari finali.*
+   *Scopri come testare un messaggio e-mail prima di inviarlo ai destinatari finali.*
 
-* **[Dieci best practice per il successo Adobe Campaign per gli addetti al marketing](/help/strategy/10-best-practices-for-marketers.md)**
+* **[Dieci best practice per il successo di Adobe Campaign per marketer](/help/strategy/10-best-practices-for-marketers.md)**
 
-   *Scopri dieci best practice per aiutare i professionisti di Adobe Campaign a sbloccare e accelerare la trasformazione del consumatore digitale e una migliore esperienza per i clienti.*
+   *Scopri le dieci best practice per aiutare chi utilizza Adobe Campaign a consentire e accelerare la trasformazione digitale lato consumatore e offrire un’esperienza migliore a ogni cliente.*
 
 </div>
 
