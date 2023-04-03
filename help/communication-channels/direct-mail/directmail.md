@@ -10,9 +10,9 @@ team: TM
 exl-id: f54acc7f-4efe-4d7f-89f1-c4ed596a5d9e
 role: User
 level: Beginner
-source-git-commit: cccc2cd4141d4da4d06132af8bab3f15f7ecc853
+source-git-commit: 89df23d00913d36b93d3be03b62c74320524f9c7
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '111'
 ht-degree: 0%
 
 ---
@@ -23,7 +23,7 @@ La [!UICONTROL Direct Mail] channel ti consente di estrarre un elenco segmentato
 
 Questo video spiega come configurare un [!UICONTROL Direct Mail] consegna e impostazioni necessarie per poter aggiungere un profilo a un [!UICONTROL Direct Mail] consegna.
 
->[!VIDEO](https://video.tv.adobe.com/v/23417?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/23417?quality=12&learn=on)
 
 ## Crea un [!UICONTROL Direct Mail] all’interno di un flusso di lavoro
 

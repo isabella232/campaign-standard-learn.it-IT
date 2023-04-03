@@ -10,7 +10,7 @@ team: PM
 exl-id: ce52a988-5072-401b-9a8b-112e42504022
 role: User, Developer
 level: Beginner, Intermediate, Experienced
-source-git-commit: 57dbf456625d22cd2e4526d92e5a8c20a048d339
+source-git-commit: 89df23d00913d36b93d3be03b62c74320524f9c7
 workflow-type: tm+mt
 source-wordcount: '167'
 ht-degree: 9%
@@ -31,6 +31,6 @@ Puoi accedere al [!UICONTROL Unified Segment Builder] direttamente in Adobe Camp
 
 Il video seguente spiega come creare un nuovo pubblico utilizzando [!UICONTROL Unified Segment Builder] in Adobe Campaign Standard.
 
->[!VIDEO](https://video.tv.adobe.com/v/27638?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/27638?quality=12&learn=on)
 
 *Come creare un pubblico in Adobe Campaign Standard utilizzando Unified Segment Builder (Generatore di segmenti unificato) (min 02:47)*

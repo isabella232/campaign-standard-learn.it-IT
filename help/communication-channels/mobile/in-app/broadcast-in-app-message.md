@@ -10,7 +10,7 @@ team: TM
 exl-id: 55cc83d2-e1ec-488d-b36a-b5f8c96dc412
 role: User, Developer
 level: Beginner, Intermediate
-source-git-commit: 57dbf456625d22cd2e4526d92e5a8c20a048d339
+source-git-commit: 89df23d00913d36b93d3be03b62c74320524f9c7
 workflow-type: tm+mt
 source-wordcount: '97'
 ht-degree: 8%
@@ -28,6 +28,6 @@ Alcuni dei casi d’uso pertinenti in questa categoria sono:
 
 Scopri come configurare e utilizzare il modello di trasmissione per eseguire il targeting di tutti gli utenti della tua app mobile.
 
->[!VIDEO](https://video.tv.adobe.com/v/26199?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/26199?quality=12&learn=on)
 
 *Creare un messaggio in-app di trasmissione utilizzando una proprietà mobile SDKV5*

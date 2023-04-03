@@ -10,7 +10,7 @@ team: TM
 exl-id: f1ae414c-6b42-445b-bb33-9a28a3e854fa
 role: User
 level: Beginner
-source-git-commit: 4f7124b8509333a9e475857631ecb5333c971baf
+source-git-commit: 89df23d00913d36b93d3be03b62c74320524f9c7
 workflow-type: tm+mt
 source-wordcount: '119'
 ht-degree: 37%
@@ -23,6 +23,6 @@ La [!UICONTROL A/B Test] in Adobe Campaign consente di definire due o tre varian
 
 Scopri come configurare e inviare un test A/B per testare l’oggetto di un messaggio e-mail.
 
->[!VIDEO](https://video.tv.adobe.com/v/18480?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/18480?quality=12&learn=on)
 
 Consulta la sezione [documentazione del prodotto](https://experienceleague.adobe.com/docs/campaign-standard/using/communication-channels/email-messages/designing-an-a-b-test-email.html) per ulteriori informazioni su come verificare il contenuto o il mittente.
