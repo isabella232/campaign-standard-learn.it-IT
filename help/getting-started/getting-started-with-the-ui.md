@@ -1,5 +1,5 @@
 ---
-title: 'Introduzione all’interfaccia utente '
+title: Introduzione all’interfaccia utente
 description: Il video offre una panoramica dell’interfaccia utente di Adobe Campaign Standard, delle funzioni chiave e delle funzionalità di base.
 feature: Overview
 kt: 3882
@@ -10,7 +10,7 @@ team: TM
 exl-id: f77979f8-affb-4128-a9ec-668fa9f7911d
 role: User, Admin, Developer
 level: Beginner
-source-git-commit: e918bcaf5e7bc735bc176d7c7638657f1c7eeab2
+source-git-commit: 89df23d00913d36b93d3be03b62c74320524f9c7
 workflow-type: ht
 source-wordcount: '54'
 ht-degree: 100%
@@ -21,4 +21,4 @@ ht-degree: 100%
 
 Il video offre una panoramica dell’interfaccia utente di Adobe Campaign Standard, illustrando come navigare tra le funzioni chiave e le funzionalità di base.
 
->[!VIDEO](https://video.tv.adobe.com/v/18469?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/18469?quality=12&learn=on)
