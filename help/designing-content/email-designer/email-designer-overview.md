@@ -1,6 +1,6 @@
 ---
-title: Panoramica di E-mail Designer
-description: Scopri le funzionalità generali di E-mail Designer e come progettare un’e-mail da zero.
+title: Panoramica di E-mail designer
+description: Comprendere le funzionalità generali di E-mail designer e la progettazione di un messaggio e-mail da zero.
 feature: Email Design
 kt: 1402
 thumbnail: 22771.jpg
@@ -12,9 +12,9 @@ role: User, Developer
 recommendations: noDisplay
 level: Beginner
 source-git-commit: 89df23d00913d36b93d3be03b62c74320524f9c7
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '123'
-ht-degree: 86%
+ht-degree: 100%
 
 ---
 
@@ -30,7 +30,7 @@ Questo video offre una panoramica generale sulle funzionalità e sull’utilizzo
 
 Sono disponibili le seguenti esercitazioni dettagliate:
 
-* [Guida introduttiva a E-mail Designer](/help/designing-content/email-designer/getting-started-with-the-email-designer.md)
+* [Guida introduttiva a E-mail designer](/help/designing-content/email-designer/getting-started-with-the-email-designer.md)
 * [Modelli di contenuto](/help/designing-content/email-designer/email-content-templates.md)
 * [Configurare la visualizzazione per dispositivi mobili](/help/designing-content/email-designer/configure-the-mobile-view.md)
 * [Visualizzare l’anteprima del messaggio e-mail](/help/designing-content/email-designer/preview-your-email.md)
