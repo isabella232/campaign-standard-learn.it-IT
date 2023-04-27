@@ -2,10 +2,10 @@
 user-guide-title: Tutorial di Adobe Campaign Standard
 user-guide-description: Progetta esperienze cliente cross-channel e crea un ambiente per l’orchestrazione visiva delle campagne, la gestione delle interazioni in tempo reale e l’esecuzione cross-channel.
 breadcrumb-title: Tutorial di Campaign Standard
-source-git-commit: 73b0775189f05fc2d5be85d33bc0b0ef213d68ca
-workflow-type: ht
-source-wordcount: '563'
-ht-degree: 100%
+source-git-commit: 5fd8decb13b8d7376c6899b1597eade4b3c5a83d
+workflow-type: tm+mt
+source-wordcount: '568'
+ht-degree: 99%
 
 ---
 
@@ -88,11 +88,12 @@ ht-degree: 100%
       + [Attività External Signal](/help/managing-processes-and-data/execution-activities/external-signal-activity.md)
    + Attività di gestione dati {#data-management-activities}
       + [Attività External API](/help/managing-processes-and-data/data-management-activities/external-api-activity.md)
-+ Rapporto {#reporting}
++ Rapporto e monitoraggio {#reporting}
    + [Esplorazione dei rapporti](/help/getting-started/exploring-reports.md)
    + [Creare un rapporto dinamico](/help/reporting/creating-a-dynamic-report.md)
    + [Creare un rapporto basato su attributi di profilo personalizzati](/help/reporting/custom-profile-attributes-dynamic-reports.md)
    + [Creare un rapporto basato sui segmenti del flusso di lavoro](/help/reporting/report-on-workflow-segments.md)
+   + [Monitorare una consegna](/help/reporting/monitor-a-delivery.md)
 + Integrare con altre soluzioni {#integrations}
    + [Monitorare il successo delle consegne in Adobe Analytics](/help/integrations/track-the-success-of-your-deliveries-in-analytics.md)
    + Utilizzare i trigger per i messaggi transazionali {#triggers}
