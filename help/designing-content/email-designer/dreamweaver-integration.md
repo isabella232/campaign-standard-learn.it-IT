@@ -1,6 +1,6 @@
 ---
 title: Creazione di contenuti con Adobe Dreamweaver
-description: Scopri cosa è necessario per abilitare l’integrazione Dreamweaver e come creare e modificare contenuti per Adobe Campaign Standard utilizzando Dreamweaver.
+description: Scopri cosa è necessario per abilitare l’integrazione di Dreamweaver e come creare e modificare i contenuti per Adobe Campaign Standard utilizzando Dreamweaver.
 feature: Email Design
 kt: 1420
 thumbnail: 23121.jpg
@@ -27,7 +27,7 @@ L’integrazione di Adobe Campaign Standard con Adobe Dreamweaver ti consente di
 
 >[!NOTE]
 >
->Questa funzione richiede l’estensione Dreamweaver denominata **[!UICONTROL Adobe Campaign Integration]**. Puoi scaricare l’estensione da [Adobe Exchange](https://exchange.adobe.com/creativecloud.html#search). Per ulteriori informazioni sull&#39;installazione, vedi [Estensione Campaign per Dreamweaver](https://helpx.adobe.com/it/dreamweaver/using/working-with-dreamweaver-and-campaign.html).
+>Questa funzione richiede l’estensione Dreamweaver denominata **[!UICONTROL Adobe Campaign Integration]**. Puoi scaricare l’estensione da [Adobe Exchange](https://exchange.adobe.com/creativecloud.html#search). Per ulteriori informazioni sull&#39;installazione, vedere [Estensione Campaign per Dreamweaver](https://helpx.adobe.com/it/dreamweaver/using/working-with-dreamweaver-and-campaign.html).
 
 Il video illustra gli elementi necessari all’abilitazione dell’integrazione di Dreamweaver e le modalità di creazione e modifica dei contenuti per Adobe Campaign Standard tramite Dreamweaver.
 
@@ -35,4 +35,4 @@ Il video illustra gli elementi necessari all’abilitazione dell’integrazione 
 
 *Come utilizzare l’integrazione di Dreamweaver all’interno di Adobe Campaign (02:37 min)*
 
-Vedi Dreamweaver [Documentazione di Adobe Dreamweaver](https://helpx.adobe.com/it/dreamweaver/using/working-with-dreamweaver-and-campaign.html) per informazioni su [Risoluzione dei problemi relativi all’installazione di Adobe Campaign Dreamweaver](https://helpx.adobe.com/it/dreamweaver/kb/dreamweaver-campaign-integration-issue.html).
+Consulta Dreamweaver [Documentazione di Adobe Dreamweaver](https://helpx.adobe.com/it/dreamweaver/using/working-with-dreamweaver-and-campaign.html) per informazioni su [Risoluzione dei problemi relativi all’installazione di Adobe Campaign Dreamweaver](https://helpx.adobe.com/it/dreamweaver/kb/dreamweaver-campaign-integration-issue.html).

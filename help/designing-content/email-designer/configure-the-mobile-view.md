@@ -1,6 +1,6 @@
 ---
 title: Configurare la visualizzazione per dispositivi mobili in E-mail Designer
-description: "Scopri come ottimizzare il design reattivo di un’e-mail modificando separatamente tutte le opzioni di stile per la visualizzazione mobile."
+description: "Scopri come ottimizzare la progettazione reattiva di un’e-mail modificando separatamente tutte le opzioni di stile per la visualizzazione mobile."
 feature: Email Design
 kt: 2423
 thumbnail: 25919.jpg
@@ -17,7 +17,7 @@ ht-degree: 0%
 
 ---
 
-# Configura la visualizzazione mobile in [!UICONTROL Email Designer] {#configure-the-mobile-view}
+# Configurare la visualizzazione per dispositivi mobili in [!UICONTROL Email Designer] {#configure-the-mobile-view}
 
 Questo video spiega come ottimizzare la progettazione reattiva di un’e-mail modificando separatamente tutte le opzioni di stile per la visualizzazione mobile.
 

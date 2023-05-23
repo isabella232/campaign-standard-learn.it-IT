@@ -1,6 +1,6 @@
 ---
 title: Creare e modificare una pagina di destinazione
-description: "Scopri come creare, modificare e testare pagine di destinazione in Adobe Campaign Standard."
+description: "Scopri come creare, modificare e testare le pagine di destinazione in Adobe Campaign Standard."
 feature: Landing Pages
 kt: 1808
 thumbnail: 24093.jpg
@@ -19,7 +19,7 @@ ht-degree: 16%
 
 # Creare e modificare una pagina di destinazione {#create-and-edit-a-landing-page}
 
-Adobe Campaign consente di creare pagine di destinazione che sono moduli online che possono essere utilizzati per acquisire informazioni sui tipi di pubblico, offrire abbonamenti a un servizio, visualizzare i dati e espandere il database. È inoltre possibile utilizzare le pagine di destinazione per acquisire o aggiornare i profili esistenti.
+Adobe Campaign consente di creare pagine di destinazione, ovvero moduli online che possono essere utilizzati per acquisire informazioni sui tipi di pubblico, offrire abbonamenti a un servizio, visualizzare dati e ampliare il database. Le pagine di destinazione possono essere utilizzate anche per acquisire o aggiornare profili esistenti.
 
 >[!VIDEO](https://video.tv.adobe.com/v/24093?quality=12&learn=on)
 

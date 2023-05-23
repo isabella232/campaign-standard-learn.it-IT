@@ -1,6 +1,6 @@
 ---
 title: Generare rapporti sulla consegna in-app
-description: Scopri come presentare all’utente messaggi in-app contestualmente pertinenti in risposta al comportamento in tempo reale di un cliente all’interno dell’app mobile.
+description: Scopri come presentare all’utente messaggi in-app contestualmente rilevanti in risposta al comportamento in tempo reale di un cliente all’interno dell’app mobile.
 feature: In App, Reporting
 kt: 2558
 thumbnail: 26412.jpg
@@ -17,8 +17,8 @@ ht-degree: 7%
 
 ---
 
-# Segnalare [!UICONTROL In-App] consegna {#in-app-message-reporting}
+# Generare rapporti sul [!UICONTROL In-App] consegna {#in-app-message-reporting}
 
-È possibile rivedere le [!UICONTROL In-App] dati relativi alla consegna nel riepilogo della consegna aggiungendo [!UICONTROL In-App]Metriche specifiche. In alternativa, è possibile utilizzare il [Rapporto in-app](https://experienceleague.adobe.com/docs/campaign-standard/using/reporting/list-of-reports/in-app-report.html?lang=en).
+È possibile esaminare [!UICONTROL In-App] dati relativi alla consegna nel riepilogo della consegna aggiungendo [!UICONTROL In-App]metriche specifiche di. In alternativa, è possibile utilizzare il [Rapporto in-app](https://experienceleague.adobe.com/docs/campaign-standard/using/reporting/list-of-reports/in-app-report.html?lang=en).
 
 >[!VIDEO](https://video.tv.adobe.com/v/26412?quality=12&learn=on)

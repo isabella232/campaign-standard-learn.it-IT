@@ -27,4 +27,4 @@ Scopri come mappare diversi tipi di dati tra Adobe Campaign Standard e Adobe Exp
 
 >[!VIDEO](https://video.tv.adobe.com/v/27231?quality=12&learn=on)
 
-Consulta la documentazione del prodotto per ulteriori informazioni sul [Definizione mappature](https://experienceleague.adobe.com/docs/campaign-standard/using/integrating-with-adobe-cloud/adobe-experience-platform/data-connector/aep-mapping-definition.html)
+Consulta la documentazione del prodotto per ulteriori informazioni sulla [Definizione mappatura](https://experienceleague.adobe.com/docs/campaign-standard/using/integrating-with-adobe-cloud/adobe-experience-platform/data-connector/aep-mapping-definition.html)

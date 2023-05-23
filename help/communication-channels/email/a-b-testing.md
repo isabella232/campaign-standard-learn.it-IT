@@ -1,6 +1,6 @@
 ---
 title: Test A/B
-description: Scopri come configurare e inviare un test A/B per testare l’oggetto di un messaggio e-mail.
+description: Scopri come configurare e inviare un test A/B per testare la riga dell’oggetto di un’e-mail.
 feature: A/B Testing
 kt: 3907
 thumbnail: 18480.jpg
@@ -19,10 +19,10 @@ ht-degree: 37%
 
 # Test A/B
 
-La [!UICONTROL A/B Test] in Adobe Campaign consente di definire due o tre varianti di e-mail. Ogni variante viene inviata a campioni di popolazione per determinare quale ha il risultato migliore. Una volta determinata, la variante vincente viene quindi inviata alla popolazione rimanente. Puoi scegliere di variare il contenuto, l’oggetto o il mittente dell’e-mail.
+Il [!UICONTROL A/B Test] funzionalità in Adobe Campaign consente di definire due o tre varianti di e-mail. Ogni variante viene inviata a campioni di popolazione per determinare quale ha il risultato migliore. Una volta determinata, la variante vincente viene quindi inviata alla popolazione rimanente. Puoi scegliere di variare il contenuto, l’oggetto o il mittente dell’e-mail.
 
-Scopri come configurare e inviare un test A/B per testare l’oggetto di un messaggio e-mail.
+Scopri come configurare e inviare un test A/B per testare la riga dell’oggetto di un’e-mail.
 
 >[!VIDEO](https://video.tv.adobe.com/v/18480?quality=12&learn=on)
 
-Consulta la sezione [documentazione del prodotto](https://experienceleague.adobe.com/docs/campaign-standard/using/communication-channels/email-messages/designing-an-a-b-test-email.html) per ulteriori informazioni su come verificare il contenuto o il mittente.
+Consulta la [documentazione del prodotto](https://experienceleague.adobe.com/docs/campaign-standard/using/communication-channels/email-messages/designing-an-a-b-test-email.html) per ulteriori dettagli su come verificare il contenuto o il mittente.

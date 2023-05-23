@@ -17,18 +17,18 @@ ht-degree: 0%
 
 ---
 
-# Crea un [!UICONTROL Direct Mail] {#create-a-direct-mail}
+# Creare un [!UICONTROL Direct Mail] {#create-a-direct-mail}
 
-La [!UICONTROL Direct Mail] channel ti consente di estrarre un elenco segmentato di destinatari da inviare a un’agenzia o caricare su un server SFTP.
+Il [!UICONTROL Direct Mail] canale consente di estrarre un elenco segmentato di destinatari da inviare a un’agenzia o caricare su un server SFTP.
 
-Questo video spiega come configurare un [!UICONTROL Direct Mail] consegna e impostazioni necessarie per poter aggiungere un profilo a un [!UICONTROL Direct Mail] consegna.
+Questo video spiega come configurare un [!UICONTROL Direct Mail] consegna e quali impostazioni sono necessarie per poter aggiungere un profilo a una [!UICONTROL Direct Mail] consegna.
 
 >[!VIDEO](https://video.tv.adobe.com/v/23417?quality=12&learn=on)
 
-## Crea un [!UICONTROL Direct Mail] all’interno di un flusso di lavoro
+## Creare un [!UICONTROL Direct Mail] in un flusso di lavoro
 
-Il canale è disponibile dalla home page e nella visualizzazione del flusso di lavoro per definire strategie di marketing coerenti e cross-channel. Il flusso di lavoro di esempio seguente include [!UICONTROL Direct Mail activity].
+Il canale è disponibile dalla pagina Home e nella vista Flusso di lavoro, per definire strategie di marketing coerenti e multicanale. Il seguente esempio di flusso di lavoro include [!UICONTROL Direct Mail activity].
 
-![Immagine del flusso di lavoro](/help/assets/direct_mail_examplewf.png)
+![Immagine flusso di lavoro](/help/assets/direct_mail_examplewf.png)
 
-Per ulteriori informazioni, consulta la documentazione del prodotto . [informazioni su Direct Mail](https://experienceleague.adobe.com/docs/campaign-standard/using/communication-channels/direct-mail/about-direct-mail.html)
+Per ulteriori informazioni, consulta la documentazione del prodotto [informazioni sulla direct mailing](https://experienceleague.adobe.com/docs/campaign-standard/using/communication-channels/direct-mail/about-direct-mail.html)

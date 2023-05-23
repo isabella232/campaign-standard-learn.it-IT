@@ -19,8 +19,8 @@ ht-degree: 20%
 
 # Creare una consegna SMS{#creating-a-sms-delivery}
 
-Scopri come creare una consegna SMS in Adobe Campaign Standard. Puoi anche configurare l’invio di SMS in un flusso di lavoro utilizzando l’attività SMS delivery .
+Scopri come creare una consegna SMS in Adobe Campaign Standard. Puoi anche configurare l’invio di SMS in un flusso di lavoro utilizzando l’attività SMS delivery.
 
-L’attività SMS delivery viene utilizzata per automatizzare l’invio di SMS. La configurazione di questa attività è la stessa della configurazione della consegna una tantum descritta nel video.
+L’attività SMS delivery viene utilizzata per automatizzare l’invio di SMS. La configurazione di questa attività è la stessa della consegna una tantum descritta nel video.
 
 >[!VIDEO](https://video.tv.adobe.com/v/25265/?quality=12&learn=on)

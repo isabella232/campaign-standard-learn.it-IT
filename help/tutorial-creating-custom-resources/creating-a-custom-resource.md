@@ -17,10 +17,10 @@ ht-degree: 28%
 
 # Creazione di una risorsa personalizzata
 
-In questo video creeremo la nostra prima risorsa personalizzata denominata clienti .
+In questo video creeremo la nostra prima risorsa personalizzata denominata clienti.
 
 >[!VIDEO](https://video.tv.adobe.com/v/27716?quality=9)
 
 **Passaggio successivo**
 
-[Configurazione di una definizione di schermata](./configuring-a-screen-definition-for-a-custom-resource.md)
+[Configurazione della definizione di una schermata](./configuring-a-screen-definition-for-a-custom-resource.md)

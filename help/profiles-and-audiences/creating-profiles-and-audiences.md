@@ -19,12 +19,12 @@ ht-degree: 37%
 
 # Creazione di profili e pubblico: panoramica
 
-Adobe Campaign dispone di due tipi o profili:
+Adobe Campaign ha due tipi o profili:
 
 * Profili identificati
 * Profili di test
 
-Vengono chiamati i profili raggruppati in base a uno o più criteri comuni **pubblico**.
+I profili raggruppati in base a uno o più criteri comuni vengono chiamati **audience**.
 
 Questo video spiega come accedere ai profili esistenti e come creare profili e tipi di pubblico in Adobe Campaign Standard.
 

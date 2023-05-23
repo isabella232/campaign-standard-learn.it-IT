@@ -19,22 +19,22 @@ ht-degree: 4%
 
 # Configura [!UICONTROL product listings] nelle e-mail transazionali
 
-Puoi configurare un messaggio e-mail di retargeting con un elenco di prodotti sconosciuti durante la progettazione dell’e-mail. Questi prodotti possono essere aggiunti dal payload in fase di esecuzione. Ad esempio, puoi inviare automaticamente un’e-mail di abbandono carrello elencando tutti i prodotti presenti nel carrello dell’utente prima che lo abbandonino, con un’immagine, un prezzo e un collegamento a ciascun prodotto.
+Puoi configurare un’e-mail di retargeting con un elenco di prodotti sconosciuti durante la progettazione dell’e-mail. Questi prodotti possono essere aggiunti dal payload in fase di esecuzione. Ad esempio, puoi inviare automaticamente un’e-mail di abbandono carrello elencando tutti i prodotti che si trovavano nel carrello dell’utente prima che lo abbandonasse, con un’immagine, un prezzo e un collegamento a ciascun prodotto.
 
-Nei video seguenti vengono illustrati i passaggi necessari per la configurazione [!UICONTROL product listings] in [!UICONTROL transactional emails].
+Nei video seguenti vengono illustrati i passaggi necessari per configurare [!UICONTROL product listings] in [!UICONTROL transactional emails].
 
 >[!NOTE]
 >
->Questa funzione è definita loop nei video.
+>Questa funzione viene definita Ciclo continuo nei video.
 
 ## Passaggio 1: creare un evento e pubblicarlo
 
 >[!VIDEO](https://video.tv.adobe.com/v/25914?quality=12&learn=on)
 
-## Passaggio 2: aggiungere un elenco di prodotti a un modello di messaggio sulle transazioni
+## Passaggio 2: aggiungere un elenco di prodotti a un modello di messaggio transazionale
 
 >[!VIDEO](https://video.tv.adobe.com/v/25915?quality=12&learn=on)
 
-## Passaggio 3: verifica del messaggio sulle transazioni
+## Passaggio 3: verificare il messaggio sulle transazioni
 
 >[!VIDEO](https://video.tv.adobe.com/v/25916?quality=12&learn=on)

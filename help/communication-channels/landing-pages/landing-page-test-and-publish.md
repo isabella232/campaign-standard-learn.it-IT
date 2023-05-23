@@ -1,6 +1,6 @@
 ---
 title: Verificare e pubblicare una pagina di destinazione
-description: Scopri come verificare una pagina di destinazione creata in Adobe Campaign Standard e come pubblicarla.
+description: Scopri come verificare e pubblicare una pagina di destinazione creata in Adobe Campaign Standard.
 feature: Landing Pages
 kt: 1813
 thumbnail: 24992.jpg
@@ -19,6 +19,6 @@ ht-degree: 27%
 
 # Verificare e pubblicare una pagina di destinazione
 
-Questo video spiega come verificare una pagina di destinazione e come pubblicarla.
+Questo video spiega come verificare e pubblicare una pagina di destinazione.
 
 >[!VIDEO](https://video.tv.adobe.com/v/24092?quality=12&learn=on)

@@ -27,4 +27,4 @@ Scopri come mappare i dati di seed e i profili di test con Adobe Experience Plat
 
 >[!VIDEO](https://video.tv.adobe.com/v/27264?quality=12&learn=on)
 
-Consulta la documentazione del prodotto per ulteriori informazioni sul [definizione mappatura](https://experienceleague.adobe.com/docs/campaign-standard/using/integrating-with-adobe-cloud/adobe-experience-platform/data-connector/aep-mapping-definition.html) e [attivazione mappatura](https://experienceleague.adobe.com/docs/campaign-standard/using/integrating-with-adobe-cloud/adobe-experience-platform/data-connector/aep-mapping-activation.html)
+Consulta la documentazione del prodotto per ulteriori informazioni sulla [definizione di mappatura](https://experienceleague.adobe.com/docs/campaign-standard/using/integrating-with-adobe-cloud/adobe-experience-platform/data-connector/aep-mapping-definition.html) e [attivazione mappatura](https://experienceleague.adobe.com/docs/campaign-standard/using/integrating-with-adobe-cloud/adobe-experience-platform/data-connector/aep-mapping-activation.html)

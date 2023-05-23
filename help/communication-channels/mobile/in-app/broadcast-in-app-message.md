@@ -1,6 +1,6 @@
 ---
 title: Trasmettere un messaggio in-app
-description: Scopri come configurare e utilizzare il modello di trasmissione per eseguire il targeting di tutti gli utenti della tua app mobile.
+description: Scopri come configurare e utilizzare il modello di trasmissione per eseguire il targeting per tutti gli utenti della tua app mobile.
 feature: In App
 kt: 2497
 thumbnail: 26199.jpg
@@ -19,15 +19,15 @@ ht-degree: 8%
 
 # Trasmettere un messaggio in-app
 
-Puoi trasmettere un messaggio in-app indirizzato a tutti gli utenti di un’app mobile, indipendentemente dal fatto che Adobe Campaign disponga delle informazioni sul profilo.
+Puoi trasmettere un messaggio in-app indirizzato a tutti gli utenti di un’app mobile, indipendentemente dal fatto che Adobe Campaign disponga delle informazioni sul loro profilo.
 
 Alcuni dei casi d’uso pertinenti in questa categoria sono:
 
-* Inviare un tutorial per app mobili ai primi avviatori di app o
+* Inviare un tutorial su un’app mobile ai nuovi moduli di avvio dell’app oppure
 * Annunci per nuove versioni di funzioni
 
-Scopri come configurare e utilizzare il modello di trasmissione per eseguire il targeting di tutti gli utenti della tua app mobile.
+Scopri come configurare e utilizzare il modello di trasmissione per eseguire il targeting per tutti gli utenti della tua app mobile.
 
 >[!VIDEO](https://video.tv.adobe.com/v/26199?quality=12&learn=on)
 
-*Creare un messaggio in-app di trasmissione utilizzando una proprietà mobile SDKV5*
+*Creare un messaggio in-app di trasmissione utilizzando una proprietà mobile dell’SDKV5*

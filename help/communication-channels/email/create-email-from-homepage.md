@@ -19,7 +19,7 @@ ht-degree: 45%
 
 # Creare una consegna e-mail {#create-an-email-delivery}
 
-Puoi creare una consegna e-mail autonoma da una campagna, dalla home page di Adobe Campaign o nella [!UICONTROL Marketing Activity] elenco. Puoi anche creare e inviare e-mail a invio singolo e ricorrenti da un flusso di lavoro.
+Puoi creare una consegna e-mail autonoma da una campagna, dalla pagina Home di Adobe Campaign o nel [!UICONTROL Marketing Activity] elenco. Puoi anche creare e inviare e-mail a invio singolo e ricorrenti da un flusso di lavoro.
 
 Scopri come creare una consegna e-mail dalla home page.
 

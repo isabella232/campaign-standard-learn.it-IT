@@ -1,6 +1,6 @@
 ---
 title: Modificare la dimensione di targeting
-description: Questo video spiega come modificare la dimensione di targeting di una consegna per un pubblico di Platform al di fuori della tabella del profilo principale in Adobe Campaign Standard.
+description: Questo video spiega come modificare la dimensione di targeting di una distribuzione per un pubblico di Platform al di fuori della tabella del profilo principale in Adobe Campaign Standard.
 feature: People Core Service Integration
 kt: 3739
 thumbnail: 30151.jpg
@@ -21,10 +21,10 @@ ht-degree: 8%
 
 >[!NOTE]
 >
->Questa funzionalità è in versione beta e soggetta a frequenti aggiornamenti e modifiche senza preavviso. [!UICONTROL Audience Destinations] è basato su Adobe Experience Platform e richiede una configurazione specifica.
+>Questa funzionalità è disponibile in versione beta e soggetta a frequenti aggiornamenti e modifiche senza preavviso. [!UICONTROL Audience Destinations] è basato su Adobe Experience Platform e richiede una configurazione specifica.
 >
 >Rivolgiti a [!UICONTROL Adobe Customer Support] se prevedi di implementare questa funzionalità.
 
-Questo video spiega come modificare la dimensione di targeting di una consegna per un [!UICONTROL Platform Audience] al di fuori della tabella del profilo principale in Adobe Campaign Standard.
+Questo video spiega come modificare la dimensione di targeting di una consegna per un [!UICONTROL Platform Audience] all’esterno della tabella del profilo principale in Adobe Campaign Standard.
 
 >[!VIDEO](https://video.tv.adobe.com/v/30151?quality=12&learn=on)

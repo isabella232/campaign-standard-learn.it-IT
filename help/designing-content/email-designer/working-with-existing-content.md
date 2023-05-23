@@ -25,10 +25,10 @@ Scopri come recuperare il contenuto creativo da un sito web e caricarlo in E-mai
 
 >[!VIDEO](https://video.tv.adobe.com/v/25926?quality=12&learn=on)
 
-## Rendere compatibile il contenuto HTML esistente {#making-existing-html-content-compatible}
+## Rendere compatibili i contenuti HTML esistenti {#making-existing-html-content-compatible}
 
-E-mail Designer richiede tag specifici che devono essere applicati per rendere i contenuti HTML standard caricati in Adobe Campaign completamente compatibili e modificabili.
+E-mail Designer richiede un tag specifico, che deve essere applicato per rendere completamente compatibili e modificabili i contenuti standard di HTML caricati in Adobe Campaign.
 
-Puoi trovare la documentazione dettagliata al seguente link:
+La documentazione dettagliata è disponibile al seguente link:
 
-[Conversione del contenuto HTML in un modello E-mail Designer](https://experienceleague.adobe.com/docs/campaign-standard/using/designing-content/building-email-content/using-existing-content.html?lang=en)
+[Conversione di contenuto HTML in un modello E-mail Designer](https://experienceleague.adobe.com/docs/campaign-standard/using/designing-content/building-email-content/using-existing-content.html?lang=en)

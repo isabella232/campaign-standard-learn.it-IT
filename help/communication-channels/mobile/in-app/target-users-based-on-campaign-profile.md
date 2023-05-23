@@ -1,6 +1,6 @@
 ---
 title: Eseguire il targeting degli utenti in base al loro profilo Campaign
-description: Scopri come eseguire il targeting degli utenti noti di app mobili con messaggi personalizzati con gli attributi del profilo CRM.
+description: Scopri come eseguire il targeting degli utenti noti delle app mobili con messaggi personalizzati con gli attributi del profilo di gestione delle relazioni con i clienti.
 feature: In App
 kt: 1796
 thumbnail: 26200.jpg
@@ -17,10 +17,10 @@ ht-degree: 7%
 
 ---
 
-# Eseguire il targeting degli utenti in base ai loro [!DNL Campaign] profilo
+# Eseguire il targeting degli utenti in base alle loro [!DNL Campaign] profilo
 
-Puoi indirizzare l’attività agli utenti che hanno effettuato l’accesso all’app con messaggi PII (utenti noti di app mobili) con messaggi personalizzati, utilizzando gli attributi del profilo CRM disponibili in Adobe Campaign Standard. Questo modello supporta i casi d’uso di orchestrazione cross-channel, in cui hai già eseguito il targeting dei clienti su altri canali, come E-mail o Push, in base alla loro risposta, e desideri coinvolgere nuovamente tali clienti con un messaggio in-app.
+Puoi eseguire il targeting degli utenti che hanno effettuato l’accesso all’app con PII (noti utenti di app mobili) con messaggi personalizzati, utilizzando gli attributi del profilo di gestione delle relazioni con i clienti disponibili in Adobe Campaign Standard. Questo modello supporta i casi di utilizzo di orchestrazione cross-channel, in cui hai già indirizzato i clienti su altri canali, come e-mail o push, in base alla loro risposta e desideri coinvolgere nuovamente questi clienti con un messaggio in-app.
 
 >[!VIDEO](https://video.tv.adobe.com/v/26200?quality=12&learn=on)
 
-*Creare un messaggio in-app utilizzando un[!UICONTROL Campaign profile template]*
+*Creare un messaggio in-app utilizzando[!UICONTROL Campaign profile template]*

@@ -1,6 +1,6 @@
 ---
-title: Configurazione di una definizione della schermata per una risorsa personalizzata
-description: Scopri come configurare una definizione della schermata per una risorsa personalizzata.
+title: Configurazione della definizione di una schermata per una risorsa personalizzata
+description: Scopri come configurare una definizione di schermata per una risorsa personalizzata.
 feature: Data Model
 kt: 3001
 thumbnail: 27713.jpg
@@ -15,9 +15,9 @@ ht-degree: 4%
 
 ---
 
-# Configurazione di una definizione della schermata per una risorsa personalizzata
+# Configurazione della definizione di una schermata per una risorsa personalizzata
 
-Scopri come configurare una definizione della schermata per una risorsa personalizzata.
+Scopri come configurare una definizione di schermata per una risorsa personalizzata.
 
 >[!VIDEO](https://video.tv.adobe.com/v/27713?quality=9)
 

@@ -20,11 +20,11 @@ ht-degree: 23%
 
 >[!NOTE]
 >
->Questa funzionalità è in versione beta e soggetta a frequenti aggiornamenti e modifiche senza preavviso.
+>Questa funzionalità è disponibile in versione beta e soggetta a frequenti aggiornamenti e modifiche senza preavviso.
 >
 >Rivolgiti a [!UICONTROL Adobe Customer Support] se prevedi di implementare questa funzionalità.
 
-Scopri come controllare lo stato di un processo di inserimento dei dati e se i dati sono stati acquisiti da Adobe Campaign Standard in Adobe Experience Platform.
+Scopri come controllare lo stato di un processo di acquisizione dati e se i dati sono stati acquisiti da Adobe Campaign Standard in Adobe Experience Platform.
 
 >[!VIDEO](https://video.tv.adobe.com/v/27268?quality=12&learn=on)
 

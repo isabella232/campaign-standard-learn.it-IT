@@ -1,6 +1,6 @@
 ---
 title: Anteprima del messaggio e-mail e analisi anti-spam
-description: "Scopri come visualizzare in anteprima il tuo messaggio e-mail e l’analisi anti-spam."
+description: "Scopri come visualizzare in anteprima il messaggio e-mail e l’analisi anti-spam."
 feature: Email Design
 kt: 2393
 thumbnail: 25921.jpg
@@ -19,6 +19,6 @@ ht-degree: 38%
 
 # Anteprima del messaggio e-mail e analisi anti-spam{#preview-your-email}
 
-Questo video spiega come visualizzare in anteprima la tua e-mail e l’analisi anti-spam.
+Questo video spiega come visualizzare in anteprima il messaggio e-mail e l’analisi anti-spam.
 
 >[!VIDEO](https://video.tv.adobe.com/v/25921?quality=12&learn=on)

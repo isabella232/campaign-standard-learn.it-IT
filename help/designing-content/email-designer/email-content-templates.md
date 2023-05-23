@@ -19,8 +19,8 @@ ht-degree: 14%
 
 # Introduzione ai modelli di contenuto e-mail {#introduction-to-the-email-content-templates}
 
-Adobe Campaign Standard offre 18 modelli e-mail reattivi e completamente personalizzabili. Questi modelli sono stati creati appositamente per Adobe Campaign Standard e sono facili da manipolare e modificare. Sono un ottimo punto di partenza per la creazione di e-mail.
+Adobe Campaign Standard offre 18 modelli e-mail reattivi completamente personalizzabili pronti all’uso. Questi modelli sono stati creati appositamente per Adobe Campaign Standard e sono facili da manipolare e modificare. Sono ottimi punti di partenza per la creazione di e-mail.
 
-Questo video introduce i modelli e spiega come creare un modello personalizzato.
+Questo video illustra i modelli e spiega come creare un modello personalizzato.
 
 >[!VIDEO](https://video.tv.adobe.com/v/23106?quality=12&learn=on)

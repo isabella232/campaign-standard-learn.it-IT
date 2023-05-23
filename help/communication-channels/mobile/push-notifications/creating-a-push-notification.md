@@ -17,15 +17,15 @@ ht-degree: 3%
 
 ---
 
-# Crea un [!UICONTROL push notification]
+# Creare un [!UICONTROL push notification]
 
 Scopri come creare un [!UICONTROL push notification] in Adobe Campaign Standard (ACS):
 
-Adobe Campaign consente di inviare messaggi personalizzati e segmentati [!UICONTROL push notifications] su dispositivi mobili iOS e Android™. Sono disponibili due opzioni:
+Adobe Campaign ti consente di inviare messaggi personalizzati e segmentati [!UICONTROL push notifications] su dispositivi mobili iOS e Android™. Sono disponibili due opzioni:
 
-* **[!UICONTROL Send push notification to Campaign profiles]**: Consente di eseguire il targeting dei profili di gestione delle relazioni con i clienti di Adobe Campaign che si sono abbonati alla tua app mobile e hanno acconsentito alla ricezione [!UICONTROL push notifications]. Puoi inserire campi di personalizzazione nel tuo [!UICONTROL push notification], ad esempio il nome del destinatario.
+* **[!UICONTROL Send push notification to Campaign profiles]**: consente di eseguire il targeting dei profili di gestione delle relazioni con i clienti di Adobe Campaign che si sono abbonati alla tua app mobile e hanno acconsentito alla ricezione [!UICONTROL push notifications]. Puoi inserire campi di personalizzazione nel tuo [!UICONTROL push notification], ad esempio il nome del destinatario.
 
-* **[!UICONTROL Send push notification to app subscribers]**: Ti consente di inviare un [!UICONTROL push notification] a tutti gli utenti noti e anonimi di applicazioni mobili che hanno acconsentito alla ricezione di notifiche dalla tua applicazione. Puoi personalizzare questi messaggi con i dati raccolti dalla tua app mobile.
+* **[!UICONTROL Send push notification to app subscribers]**: ti consente di inviare un [!UICONTROL push notification] a tutti gli utenti noti e anonimi di app mobili che hanno acconsentito alla ricezione di notifiche dall&#39;applicazione. Puoi personalizzare questi messaggi con i dati raccolti dalla tua app mobile.
 
 Il video descrive come inviare un [!DNL push notification to app subscribers].
 

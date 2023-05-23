@@ -30,4 +30,4 @@ Questo video illustra come creare e modificare un flusso di lavoro in Adobe Camp
 
 >[!VIDEO](https://video.tv.adobe.com/v/23937?quality=12&learn=on)
 
-Per ulteriori informazioni, consulta la documentazione del prodotto . [Creazione di un flusso di lavoro (documentazione)](https://experienceleague.adobe.com/docs/campaign-standard/using/managing-processes-and-data/workflow-general-operation/building-a-workflow.html)
+Per ulteriori informazioni su, consulta la documentazione del prodotto. [Creazione di un flusso di lavoro (documentazione)](https://experienceleague.adobe.com/docs/campaign-standard/using/managing-processes-and-data/workflow-general-operation/building-a-workflow.html)

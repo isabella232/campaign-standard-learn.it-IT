@@ -1,6 +1,6 @@
 ---
 title: Importare profili con un flusso di lavoro
-description: Scopri come importare i dati di profilo utilizzando un flusso di lavoro.
+description: Scopri come importare i dati del profilo utilizzando un flusso di lavoro.
 feature: Data Management
 kt: 1818
 thumbnail: 24993.jpg
@@ -19,8 +19,8 @@ ht-degree: 18%
 
 # Importare profili con un flusso di lavoro{#import-profiles-with-a-workflow}
 
-Puoi raccogliere i dati da un file per elaborarlo e/o importarlo nel database di Adobe Campaign.
+Puoi raccogliere dati da un file per elaborarlo e/o importarlo nel database di Adobe Campaign.
 
-Questo video spiega come utilizzare il [!UICONTROL Data Management] attività in un flusso di lavoro per importare i dati del profilo.
+Questo video spiega come utilizzare [!UICONTROL Data Management] attività in un flusso di lavoro per importare i dati del profilo.
 
 >[!VIDEO](https://video.tv.adobe.com/v/24993?quality=12&learn=on)

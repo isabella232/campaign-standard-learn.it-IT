@@ -17,18 +17,18 @@ ht-degree: 6%
 
 ---
 
-# Attivare il pubblico di Adobe Experience Platform in un flusso di lavoro [!UICONTROL Adobe Experience Platform Audiences] in un flusso di lavoro di marketing
+# Attivare i tipi di pubblico di Adobe Experience Platform in un flusso di lavoro [!UICONTROL Adobe Experience Platform Audiences] in un flusso di lavoro di marketing
 
 >[!NOTE]
 >
->Questa funzionalità è in versione beta e soggetta a frequenti aggiornamenti e modifiche senza preavviso. [!UICONTROL Audience Destinations] è basato su Adobe Experience Platform e richiede una configurazione specifica.
+>Questa funzionalità è disponibile in versione beta e soggetta a frequenti aggiornamenti e modifiche senza preavviso. [!UICONTROL Audience Destinations] è basato su Adobe Experience Platform e richiede una configurazione specifica.
 >
 >Rivolgiti a [!UICONTROL Adobe Customer Support] se prevedi di implementare questa funzionalità.
 
-Questo video spiega come attivare il [!UICONTROL Data Services Query Audience] all’interno di un flusso di lavoro utilizzando [!UICONTROL Read Audience] attività.
+Questo video spiega come attivare [!UICONTROL Data Services Query Audience] all&#39;interno di un flusso di lavoro utilizzando [!UICONTROL Read Audience] attività.
 
 >[!VIDEO](https://video.tv.adobe.com/v/27647?quality=12&learn=on)
 
 *Attivare un pubblico Adobe Experience Platform in un flusso di lavoro (02:37 min)*
 
-Consulta la documentazione del prodotto su come [Acquisizione di tipi di pubblico Adobe Experience Platform in Campaign](https://experienceleague.adobe.com/docs/campaign-standard/using/integrating-with-adobe-cloud/adobe-experience-platform/aep-sources-destinations/ingest-aep-data.html)
+Consulta la documentazione del prodotto su come [Acquisire il pubblico di Adobe Experience Platform in Campaign](https://experienceleague.adobe.com/docs/campaign-standard/using/integrating-with-adobe-cloud/adobe-experience-platform/aep-sources-destinations/ingest-aep-data.html)

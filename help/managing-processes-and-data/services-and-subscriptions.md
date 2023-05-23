@@ -25,7 +25,7 @@ Puoi configurare meccanismi di abbonamento per offrire ai clienti l’opportunit
 
 Ogni servizio include:
 
-* Meccanismi di abbonamento (opt-in) e annullamento dell’abbonamento (opt-out).
+* Meccanismi di abbonamento (opt-in) e di annullamento dell’abbonamento (opt-out).
 * Meccanismi di conferma dell’abbonamento e/o del suo annullamento.
 * Una cronologia degli abbonamenti.
 

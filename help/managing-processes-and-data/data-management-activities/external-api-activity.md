@@ -1,6 +1,6 @@
 ---
 title: Configurare ed eseguire un flusso di lavoro con l’attività External API
-description: Scopri come chiamare un endpoint API REST esterno per estrarre dati di personalizzazione da un sistema di terze parti nella campagna.
+description: Scopri come chiamare un endpoint API REST esterno per richiamare i dati di personalizzazione da un sistema di terze parti nella tua campagna.
 feature: Data Management Activity
 kt: 2764
 thumbnail: 28200.jpg
@@ -19,7 +19,7 @@ ht-degree: 49%
 
 # Configurare ed eseguire un flusso di lavoro con l’[!UICONTROL External API activity]
 
-L’[!UICONTROL External API activity] è un’[!UICONTROL Data Management activity]. Ti consente di chiamare un endpoint API REST esterno. Lo scopo di questa attività è quello di ottenere i dati di personalizzazione da un sistema di terze parti nella campagna.
+L’[!UICONTROL External API activity] è un’[!UICONTROL Data Management activity]. Ti consente di chiamare un endpoint API REST esterno. Lo scopo di questa attività è quello di ottenere nella campagna i dati di personalizzazione da un sistema di terze parti.
 
 I casi d’uso di esempio includono:
 
@@ -36,4 +36,4 @@ Il presente video illustra l’utilizzo dell’[!UICONTROL External API activity
 
 >[!NOTE]
 >
->L’attività è destinata al recupero di dati a livello di campagna, non al recupero di informazioni specifiche per ciascun profilo, in quanto ciò può comportare il trasferimento di grandi quantità di dati. Se il caso d’uso richiede informazioni specifiche per il profilo, si consiglia di utilizzare l’attività Transfer file .
+>L’attività è destinata al recupero di dati a livello di campagna, non al recupero di informazioni specifiche per ciascun profilo, in quanto ciò può comportare il trasferimento di grandi quantità di dati. Se il caso di utilizzo richiede informazioni specifiche per il profilo, si consiglia di utilizzare l’attività Transfer file.

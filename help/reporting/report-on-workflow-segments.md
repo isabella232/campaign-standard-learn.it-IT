@@ -1,6 +1,6 @@
 ---
 title: Creare un rapporto basato sui segmenti del flusso di lavoro
-description: Scopri come definire i segmenti nel flusso di lavoro e come inserirli nei rapporti dinamici.
+description: Scopri come definire i segmenti nel flusso di lavoro e come assegnarli ai rapporti dinamici.
 feature: Reporting
 kt: 3252
 thumbnail: 28262.jpg
@@ -19,10 +19,10 @@ ht-degree: 16%
 
 # Creare un rapporto basato sui segmenti del flusso di lavoro
 
-Dopo aver creato un flusso di lavoro e aver filtrato la popolazione in un pubblico di destinazione diverso, puoi misurare l’efficienza delle campagne di marketing in base ai segmenti definiti in questo flusso di lavoro di targeting.
+Dopo aver creato un flusso di lavoro e aver filtrato la popolazione in base a un pubblico di destinazione diverso, puoi misurare l’efficienza delle campagne di marketing in base ai segmenti definiti in questo flusso di lavoro di destinazione.
 
-Scopri come definire i segmenti nel flusso di lavoro e come inserirli nei rapporti dinamici.
+Scopri come definire i segmenti nel flusso di lavoro e come assegnarli ai rapporti dinamici.
 
 >[!VIDEO](https://video.tv.adobe.com/v/28262?quality=12&learn=on)
 
-Per ulteriori informazioni, consulta la sezione [documentazione](https://experienceleague.adobe.com/docs/campaign-standard/using/reporting/customizing-reports/creating-a-report-workflow-segment.html?lang=en)
+Per ulteriori informazioni, vedere [documentazione](https://experienceleague.adobe.com/docs/campaign-standard/using/reporting/customizing-reports/creating-a-report-workflow-segment.html?lang=en)
