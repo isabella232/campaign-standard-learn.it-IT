@@ -2,7 +2,7 @@
 title: 'Attività External Signal: richiama un flusso di lavoro con parametri'
 description: Scopri come avviare un flusso di lavoro a partire da un altro per supportare percorsi di clienti più complessi e al tempo stesso monitorare e reagire meglio ai problemi.
 feature: Execution Activity
-kt: 2750
+jira: KT-2750
 thumbnail: 27249
 doc-type: feature video
 activity: use
@@ -10,7 +10,7 @@ team: TM
 exl-id: d3996185-681c-4906-85f0-0543ab767519
 role: User, Developer
 level: Experienced
-source-git-commit: 89df23d00913d36b93d3be03b62c74320524f9c7
+source-git-commit: c84867ef59a10448a377a959d0b67ae71343a4aa
 workflow-type: tm+mt
 source-wordcount: '154'
 ht-degree: 0%
