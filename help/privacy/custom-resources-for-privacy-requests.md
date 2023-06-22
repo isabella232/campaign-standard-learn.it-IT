@@ -2,14 +2,14 @@
 title: Modifica delle risorse personalizzate durante la configurazione di Adobe Campaign Standard per le richieste di accesso a dati personali
 description: Quando si configura Adobe Campaign Standard per gestire le richieste di privacy, è necessario assicurarsi che tutti i dati personalizzati collegati a un profilo vengano eliminati insieme al profilo. Questo video spiega come modificare le risorse personalizzate per soddisfare questo requisito.
 feature: Privacy Tools
-kt: 1243
+jira: KT-1243
 thumbnail: 23326.jpg
 doc-type: feature video
 activity: use
 team: TM
 exl-id: 79d805ed-e705-472e-b0c9-db73dfd648ed
-source-git-commit: 89df23d00913d36b93d3be03b62c74320524f9c7
-workflow-type: tm+mt
+source-git-commit: c84867ef59a10448a377a959d0b67ae71343a4aa
+workflow-type: ht
 source-wordcount: '198'
 ht-degree: 100%
 
