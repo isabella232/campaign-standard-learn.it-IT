@@ -2,14 +2,14 @@
 title: Richieste di accesso ai dati personali con Adobe Campaign Standard (ACS) - Panoramica
 description: Questo tutorial spiega come creare richieste relative alla privacy tramite l’interfaccia di Adobe Campaign Standard.
 feature: Privacy Tools
-kt: 1480
+jira: KT-1480
 doc-type: feature video
 activity: use
 team: TM
 recommendations: noDisplay
 exl-id: fb766403-694c-4a7b-b3d1-4a418df85891
-source-git-commit: 57dbf456625d22cd2e4526d92e5a8c20a048d339
-workflow-type: tm+mt
+source-git-commit: c84867ef59a10448a377a959d0b67ae71343a4aa
+workflow-type: ht
 source-wordcount: '349'
 ht-degree: 100%
 
