@@ -3,9 +3,9 @@ user-guide-title: Tutorial di Adobe Campaign Standard
 user-guide-description: Progetta esperienze cliente cross-channel e crea un ambiente per l’orchestrazione visiva delle campagne, la gestione delle interazioni in tempo reale e l’esecuzione cross-channel.
 breadcrumb-title: Tutorial di Campaign Standard
 source-git-commit: a3f749219525a605a24ccb1d0394c9db3ecb9989
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '581'
-ht-degree: 96%
+ht-degree: 100%
 
 ---
 
@@ -87,14 +87,14 @@ ht-degree: 96%
       + [Attività External Signal](/help/managing-processes-and-data/execution-activities/external-signal-activity.md)
    + Attività di gestione dati {#data-management-activities}
       + [Attività External API](/help/managing-processes-and-data/data-management-activities/external-api-activity.md)
-+ Rapporto e monitoraggio {#reporting}
++ Reporting e monitoraggio {#reporting}
    + [Esplorazione dei rapporti](/help/getting-started/exploring-reports.md)
    + [Creare un rapporto dinamico](/help/reporting/creating-a-dynamic-report.md)
    + [Creare un rapporto basato su attributi di profilo personalizzati](/help/reporting/custom-profile-attributes-dynamic-reports.md)
    + [Creare un rapporto basato sui segmenti del flusso di lavoro](/help/reporting/report-on-workflow-segments.md)
    + [Monitorare una consegna](/help/reporting/monitor-a-delivery.md)
 + Integrare con altre soluzioni {#integrations}
-   + [Integrare Target con Campaign](https://experienceleague.adobe.com/docs/campaign-classic/using/getting-started/starting-with-adobe-campaign/about-adobe-campaign-classic.html?lang=en)
+   + [Integrare Target con Campaign](https://experienceleague.adobe.com/docs/campaign-classic/using/getting-started/starting-with-adobe-campaign/about-adobe-campaign-classic.html?lang=it)
    + [Monitorare il successo delle consegne in Adobe Analytics](/help/integrations/track-the-success-of-your-deliveries-in-analytics.md)
    + Utilizzare i trigger per i messaggi transazionali {#triggers}
       + [Panoramica](/help/integrations/using-triggers-for-transactional-messaging-overview.md)
