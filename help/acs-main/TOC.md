@@ -2,9 +2,9 @@
 user-guide-title: Tutorial di Adobe Campaign Standard
 user-guide-description: Progetta esperienze cliente cross-channel e crea un ambiente per l’orchestrazione visiva delle campagne, la gestione delle interazioni in tempo reale e l’esecuzione cross-channel.
 breadcrumb-title: Tutorial di Campaign Standard
-source-git-commit: a3f749219525a605a24ccb1d0394c9db3ecb9989
-workflow-type: ht
-source-wordcount: '581'
+source-git-commit: 3e8484650a941a3166063b8765f39a90fda6109f
+workflow-type: tm+mt
+source-wordcount: '567'
 ht-degree: 100%
 
 ---
@@ -94,7 +94,6 @@ ht-degree: 100%
    + [Creare un rapporto basato sui segmenti del flusso di lavoro](/help/reporting/report-on-workflow-segments.md)
    + [Monitorare una consegna](/help/reporting/monitor-a-delivery.md)
 + Integrare con altre soluzioni {#integrations}
-   + [Integrare Target con Campaign](https://experienceleague.adobe.com/docs/campaign-classic/using/getting-started/starting-with-adobe-campaign/about-adobe-campaign-classic.html?lang=it)
    + [Monitorare il successo delle consegne in Adobe Analytics](/help/integrations/track-the-success-of-your-deliveries-in-analytics.md)
    + Utilizzare i trigger per i messaggi transazionali {#triggers}
       + [Panoramica](/help/integrations/using-triggers-for-transactional-messaging-overview.md)
