@@ -3,11 +3,13 @@ title: Parte 6 - Inviare una notifica push per testare il lavoro
 description: Parte 6 - Inviare una notifica push per testare il lavoro
 feature: Push
 jira: KT-4830
+user: Admin
+level: Exprienced
 doc-type: tutorial
 activity: use
 team: TM
 exl-id: 10218e1f-6e85-490a-84d9-c5d42bd2321d
-source-git-commit: c84867ef59a10448a377a959d0b67ae71343a4aa
+source-git-commit: 31aceddbd0e740f01d39f430037afa85d41a4c23
 workflow-type: tm+mt
 source-wordcount: '138'
 ht-degree: 3%
