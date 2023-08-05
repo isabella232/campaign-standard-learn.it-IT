@@ -11,9 +11,9 @@ team: TM
 recommendations: noDisplay
 exl-id: fb766403-694c-4a7b-b3d1-4a418df85891
 source-git-commit: d46e4c84a7d162085016722005cca4aadb4feb3c
-workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+workflow-type: ht
+source-wordcount: '350'
+ht-degree: 100%
 
 ---
 
@@ -31,7 +31,7 @@ Adobe Campaign offre ai titolari del trattamento tre metodi per eseguire le rich
 >
 > **MODIFICHE INTRODOTTE IN ACS 19.4:**
 > 
-> Il [Integrazione Privacy Service](https://developer.adobe.com/apis/experienceplatform/gdpr.html) è il metodo da utilizzare per tutte le richieste di accesso ed eliminazione. A partire dalla versione 19.4, l’utilizzo dell’API e dell’interfaccia di Campaign per le richieste di accesso ed eliminazione diventa obsoleto. Per ulteriori informazioni sulle funzioni obsolete e rimosse da Campaign Standard, consulta [questa pagina](https://experienceleague.adobe.com/docs/campaign-standard/using/release-notes/deprecated-features.html?lang=it).
+> L’[integrazione di Privacy Service](https://developer.adobe.com/apis/experienceplatform/gdpr.html) è il metodo da utilizzare per tutte le richieste di accesso ed eliminazione. A partire dalla versione 19.4, l’utilizzo dell’API e dell’interfaccia di Campaign per le richieste di accesso ed eliminazione diventa obsoleto. Per ulteriori informazioni sulle funzioni obsolete e rimosse da Campaign Standard, consulta [questa pagina](https://experienceleague.adobe.com/docs/campaign-standard/using/release-notes/deprecated-features.html?lang=it).
 >
 >**Rinuncia alla vendita di informazioni personali (CCPA)**
 >
