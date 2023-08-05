@@ -1,5 +1,5 @@
 ---
-title: Monitorare il successo delle consegne Campaign Standard in Adobe Analytics
+title: Monitorare l’esito delle consegne Campaign Standard in Adobe Analytics
 description: Scopri come configurare l’integrazione di Campaign Standard e Analytics. Scopri come creare un rapporto in Analytics utilizzando i dati ricevuti da Campaign Standard e quali KPI sono disponibili.
 feature: Application Settings
 topic: Integrations
@@ -12,13 +12,13 @@ team: TM
 exl-id: babe7b9f-c198-4358-ba3a-91fabf584f9b
 badgeIntegration: label="Integrazione" type="positive"
 source-git-commit: 019060e150a00b2d615b0ad694c664475b00c302
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '108'
-ht-degree: 79%
+ht-degree: 100%
 
 ---
 
-# Monitorare il successo delle consegne Campaign Standard in Adobe Analytics
+# Monitorare l’esito delle consegne Campaign Standard in Adobe Analytics
 
 Scopri come configurare l’integrazione di Campaign Standard e Analytics. Scopri come creare un rapporto in Analytics utilizzando i dati ricevuti da Campaign Standard e quali KPI sono disponibili.
 
