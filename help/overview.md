@@ -24,15 +24,15 @@ Adobe Campaign fornisce una piattaforma per la progettazione di customer experie
 
 * **[Pianificare i messaggi](/help/communication-channels/email/schedule-messages.md)**
 
-   *Scopri come pianificare una consegna e-mail.*
+  *Scopri come pianificare una consegna e-mail.*
 
 * **[Inviare una bozza](/help/communication-channels/email/send-a-proof.md)**
 
-   *Scopri come testare un messaggio e-mail prima di inviarlo ai destinatari finali.*
+  *Scopri come testare un messaggio e-mail prima di inviarlo ai destinatari finali.*
 
 * **[Dieci best practice per il successo di Adobe Campaign per marketer](/help/strategy/10-best-practices-for-marketers.md)**
 
-   *Scopri le dieci best practice per aiutare chi utilizza Adobe Campaign a consentire e accelerare la trasformazione digitale lato consumatore e offrire un’esperienza migliore a ogni cliente.*
+  *Scopri le dieci best practice per aiutare chi utilizza Adobe Campaign a consentire e accelerare la trasformazione digitale lato consumatore e offrire un’esperienza migliore a ogni cliente.*
 
 </div>
 

@@ -19,7 +19,7 @@ ht-degree: 0%
 
 # Creare un’e-mail o un SMS multilingue
 
-Adobe Campaign ti consente di semplificare le complessità operative dell’invio di campagne multilingue. Sia le consegne di e-mail che gli SMS possono essere impostati come multilingue, il che consente di inviare l’e-mail o l’SMS in base alla lingua preferita del profilo.
+Adobe Campaign ti consente di semplificare le complessità operative dell’invio di campagne multilingue. Sia le consegne di e-mail che gli SMS possono essere impostati come multilingue, consentendo di inviare e-mail o SMS in base alla lingua preferita di un profilo.
 
 Questo video spiega come creare una consegna multilingue basata su un modello basato sull’esempio di una newsletter e-mail. L’approccio mostrato nei video si applica sia alle consegne e-mail che agli SMS.
 
