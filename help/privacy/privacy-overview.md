@@ -10,9 +10,9 @@ level: Experienced
 team: TM
 recommendations: noDisplay
 exl-id: fb766403-694c-4a7b-b3d1-4a418df85891
-source-git-commit: d46e4c84a7d162085016722005cca4aadb4feb3c
+source-git-commit: 9e584a8b5674c200632e92652c9bcc03b1ff2088
 workflow-type: tm+mt
-source-wordcount: '350'
+source-wordcount: '226'
 ht-degree: 100%
 
 ---
@@ -21,23 +21,11 @@ ht-degree: 100%
 
 Adobe Campaign offre ai titolari del trattamento tre metodi per eseguire le richieste di accesso e cancellazione di dati personali sensibili in conformità con atti sulla privacy come il GDPR (General Data Protection Regulation, Regolamento generale sulla protezione dei dati) e il CCPA (California Consumer Privacy Act, legge sulla privacy dei consumatori della California):
 
-* **Tramite l’integrazione del servizio core Privacy:** le richieste di accesso ai dati personali inviate da [!UICONTROL Privacy Service] a tutte le soluzioni Experience Cloud vengono gestite automaticamente da Campaign tramite un flusso di lavoro dedicato. Per informazioni su come creare richieste di privacy dal servizio core Privacy, fai riferimento a [Adobe Experience Platform Privacy Service](https://developer.adobe.com/apis/experienceplatform/gdpr.html)
+* **Tramite l’integrazione del servizio core Privacy:** le richieste di accesso ai dati personali inviate da [!UICONTROL Privacy Service] a tutte le soluzioni Experience Cloud vengono gestite automaticamente da Campaign tramite un flusso di lavoro dedicato.
 
 * **Tramite API:** Adobe Campaign fornisce un’API per abilitare il processo automatico per le richieste relative alla privacy utilizzando REST
 
 * **Tramite l’interfaccia di Adobe Campaign:** per ogni richiesta relativa alla privacy, il titolare del trattamento crea una nuova richiesta in Adobe Campaign.
-
->[!NOTE]
->
-> **MODIFICHE INTRODOTTE IN ACS 19.4:**
-> 
-> L’[integrazione di Privacy Service](https://developer.adobe.com/apis/experienceplatform/gdpr.html) è il metodo da utilizzare per tutte le richieste di accesso ed eliminazione. A partire dalla versione 19.4, l’utilizzo dell’API e dell’interfaccia di Campaign per le richieste di accesso ed eliminazione diventa obsoleto. Per ulteriori informazioni sulle funzioni obsolete e rimosse da Campaign Standard, consulta [questa pagina](https://experienceleague.adobe.com/docs/campaign-standard/using/release-notes/deprecated-features.html?lang=it).
->
->**Rinuncia alla vendita di informazioni personali (CCPA)**
->
-> Nell’interfaccia e nell’API di Campaign compare un campo di rinuncia CCPA pronto all’uso.
->
-> Puoi controllare la tua versione, fai clic su **?** in alto a destra nell’interfaccia e seleziona Informazioni.
 
 ## Tutorial video
 
@@ -55,5 +43,5 @@ Adobe Campaign offre ai titolari del trattamento tre metodi per eseguire le rich
 
 * [Linee guida generali sulla privacy per Campaign](https://experienceleague.adobe.com/docs/campaign-classic/using/getting-started/privacy/privacy-management.html?lang=it#getting-started)
 * [CCPA per ACS](https://experienceleague.adobe.com/docs/campaign-standard/using/getting-started/privacy/privacy-requests.html?lang=it#privacy-requests)
-* [Adobe Experience Platform Privacy Service](https://developer.adobe.com/apis/experienceplatform/gdpr.html)
+* [Adobe Experience Platform Privacy Service](https://experienceleague.adobe.com/docs/experience-platform/privacy/home.html?lang=it)
 * [Documentazione API REST di Adobe Campaign Standard](https://final-docs.campaign.adobe.com/doc/standard/en/api/ACS_API.html#privacy-management)
