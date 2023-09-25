@@ -10,9 +10,9 @@ team: PM
 exl-id: ce52a988-5072-401b-9a8b-112e42504022
 role: User, Developer
 level: Beginner, Intermediate, Experienced
-source-git-commit: c84867ef59a10448a377a959d0b67ae71343a4aa
+source-git-commit: 943599bd7ce139ef846f093ebda9084a91550aca
 workflow-type: tm+mt
-source-wordcount: '167'
+source-wordcount: '169'
 ht-degree: 9%
 
 ---
@@ -31,6 +31,6 @@ Adobe Campaign Standard consente di creare tipi di pubblico utilizzando i dati p
 
 Il video seguente spiega come viene creato un nuovo pubblico utilizzando [!UICONTROL Unified Segment Builder] in Adobe Campaign Standard.
 
->[!VIDEO](https://video.tv.adobe.com/v/27638?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/27638?learn=on){transcript=true}
 
 *Come creare un pubblico in Adobe Campaign Standard utilizzando Unified Segment Builder (minimo 02:47)*

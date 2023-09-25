@@ -9,10 +9,10 @@ activity: use
 team: TM
 recommendations: noDisplay
 exl-id: 93af995f-6eca-4427-86f2-a8f63ae6b9c4
-source-git-commit: c84867ef59a10448a377a959d0b67ae71343a4aa
+source-git-commit: 943599bd7ce139ef846f093ebda9084a91550aca
 workflow-type: tm+mt
-source-wordcount: '187'
-ht-degree: 100%
+source-wordcount: '189'
+ht-degree: 98%
 
 ---
 
@@ -36,7 +36,7 @@ Per poter creare delle risorse personalizzate, è necessario disporre dei diritt
 
 Per utilizzare informazioni aggiuntive sugli ordini di un cliente, affinché siano disponibili a scopo di marketing e remarketing, il modello dati [!DNL Campaign] deve essere esteso aggiungendo tabelle personalizzate. Per questo caso d’uso, è necessario creare un cliente e una tabella di ordini.
 
->[!VIDEO](https://video.tv.adobe.com/v/27715?quality=9)
+>[!VIDEO](https://video.tv.adobe.com/v/27715?learn=on){transcript=true}
 
 Questo tutorial spiega come:
 

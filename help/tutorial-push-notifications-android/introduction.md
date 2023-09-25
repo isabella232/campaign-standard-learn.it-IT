@@ -8,10 +8,10 @@ activity: use
 team: TM
 recommendations: noDisplay
 exl-id: 8dd772b2-b082-4e1e-842d-c5d6bcec564c
-source-git-commit: c84867ef59a10448a377a959d0b67ae71343a4aa
+source-git-commit: 943599bd7ce139ef846f093ebda9084a91550aca
 workflow-type: tm+mt
-source-wordcount: '197'
-ht-degree: 100%
+source-wordcount: '199'
+ht-degree: 98%
 
 ---
 
@@ -24,7 +24,7 @@ Il presente tutorial illustra i passaggi necessari per l’invio di notifiche pu
 ## Prerequisiti
 
 * Devi configurare la proprietà di Platform Launch con Adobe Campaign Standard Extension. Segui la guida online elencata di seguito.
-   * [Tutorial video](https://video.tv.adobe.com/v/26224?quality=12&learn=on)
+   * [Tutorial video](https://video.tv.adobe.com/v/26224?learn=on){transcript=true}
    * [Documentazione](https://experienceleague.adobe.com/docs/campaign-standard-learn/tutorials/communication-channels/mobile/configure-mobile-apps-using-aep-sdk.html?lang=it)
 
 * Assicurati che lo stato della proprietà corrispondente in Adobe Campaign Standard sia impostato su configurato.

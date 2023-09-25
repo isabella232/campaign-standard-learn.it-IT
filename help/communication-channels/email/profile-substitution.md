@@ -10,10 +10,10 @@ team: TM
 exl-id: 7bee3ab5-0666-4ea5-a785-917f0b18ca12
 role: User
 level: Intermediate, Experienced
-source-git-commit: c84867ef59a10448a377a959d0b67ae71343a4aa
+source-git-commit: 943599bd7ce139ef846f093ebda9084a91550aca
 workflow-type: tm+mt
-source-wordcount: '167'
-ht-degree: 100%
+source-wordcount: '169'
+ht-degree: 98%
 
 ---
 
@@ -23,7 +23,7 @@ In questo video viene illustrato come verificare i messaggi e-mail mediante la [
 
 Supponiamo di voler inviare una newsletter via e-mail personalizzata. Prima di inviare la newsletter, tuttavia, un collega desidera esaminarla e ti ha pertanto chiesto la bozza. Puoi utilizzare le funzioni della [!UICONTROL Profile Substitution] per inviare una bozza, poiché ti consente di inviare una rappresentazione esatta del messaggio ricevuto dal profilo di destinazione.
 
->[!VIDEO](https://video.tv.adobe.com/v/32368?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/32368?learn=on){transcript=true}
 
 Per ulteriori informazioni, consulta la [documentazione dettagliata del prodotto](https://experienceleague.adobe.com/docs/campaign-standard/using/testing-and-sending/preparing-and-testing-messages/testing-messages-using-target.html?lang=it).
 
