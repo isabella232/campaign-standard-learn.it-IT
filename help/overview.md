@@ -5,14 +5,14 @@ products: SG_CAMPAIGN/STANDARD
 exl-id: b97710d1-3e93-41f6-a51e-9bf4c519fec3
 feature: Overview
 recommendations: noDisplay, noCatalog
-source-git-commit: ff7a80a06eb16a8b30202bec8fc82bf46b19e28a
-workflow-type: ht
+source-git-commit: de9f1bc51e95330b3c6a04426d11de2aea845697
+workflow-type: tm+mt
 source-wordcount: '199'
 ht-degree: 100%
 
 ---
 
-# Panoramica di Adobe Campaign Standard
+# Tutorial di Adobe Campaign Standard
 
 Adobe Campaign fornisce una piattaforma per la progettazione di customer experience cross-channel e fornisce un ambiente per l’orchestrazione visiva delle campagne, la gestione delle interazioni in tempo reale e l’esecuzione cross-channel. Questa guida utente contiene video e tutorial sulle numerose funzioni e caratteristiche di Adobe Campaign Standard.
 
